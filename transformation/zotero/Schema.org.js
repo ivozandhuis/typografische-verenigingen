@@ -12,7 +12,7 @@
 	},
 	"inRepository": true,
 	"translatorType": 2,
-	"lastUpdated": "2021-01-29 12:17:00"
+	"lastUpdated": "2021-01-29 16:37:00"
 }
 
 var item;
@@ -366,8 +366,6 @@ function generateItem(item, zoteroType, resource) {
 			} else {
 				Zotero.RDF.addStatement(resource, n.schema+"datePublished", value, true);
 			}
-		} else if (property == "accessDate") {		// accessDate
-			Zotero.RDF.addStatement(resource, n.dcterms+"dateSubmitted", value, true);
 		} else if (property == "issueDate") {		// issueDate
 			Zotero.RDF.addStatement(resource, n.dcterms+"issued", value, true);
 		} else if (property == "pages") {			// pages

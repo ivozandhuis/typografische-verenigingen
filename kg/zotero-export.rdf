@@ -1,10 +1,8 @@
 <rdf:RDF
  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
  xmlns:schema="https://schema.org/"
- xmlns:dcterms="http://purl.org/dc/terms/"
  xmlns:z="http://www.zotero.org/namespaces/export#"
- xmlns:link="http://purl.org/rss/1.0/modules/link/"
- xmlns:bib="http://purl.org/net/biblio#">
+ xmlns:dcterms="http://purl.org/dc/terms/">
     <schema:Book rdf:about="#item_2326">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -32,7 +30,7 @@
         <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/83772505"/>
         <schema:datePublished>1859</schema:datePublished>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestboekje voor de tweede jaarlijksche feestviering der typografische vereeniging &quot;De Nederlandsche drukpers&quot; gevestigd te Amsterdam op ... 9 Januari 1859 ...</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
@@ -164,9 +162,7 @@
         <schema:about>utrecht1851</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/975833272"/>
         <schema:datePublished>1897</schema:datePublished>
-        <schema:description>OCLC: 975833272</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen ter viering van het zes-en-veertigjarig bestaan der Typografische Vereeniging &quot;Nut en Genoegen&quot; te Utrecht, op maandag 11 januari 1897: beschermheer: de weledelachtbare heer B. Reiger, burgemeester der gemeente Utrecht.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
@@ -212,7 +208,7 @@
         <schema:url rdf:resource="http://www.worldcat.org/oclc/73131055"/>
         <schema:datePublished>1859-1866</schema:datePublished>
         <schema:description>Ook 1862: oude boekerij bibliotheek ZuidKennemerland</schema:description>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestboekje voor de ... jaarlijksche feestviering der Typographische Vereeniging De Nederlandsche Drukpers, gevestigd te Amsterdam.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Article>
@@ -241,9 +237,7 @@
         <schema:url rdf:resource="http://books.google.com/books?vid=KBNL:KBNLB030069978"/>
         <schema:datePublished>1854</schema:datePublished>
         <schema:description>OCLC: 1089764085</schema:description>
-        <dcterms:dateSubmitted>2020-12-14 14:55:09</dcterms:dateSubmitted>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen der Typographische Vereeniging Nut en Genoegen te Utrecht onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien burgemeester der stad.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
@@ -260,9 +254,7 @@
         <schema:url rdf:resource="http://books.google.com/books?vid=KBNL:KBNLB030069974"/>
         <schema:datePublished>1855</schema:datePublished>
         <schema:description>OCLC: 1089764091</schema:description>
-        <dcterms:dateSubmitted>2020-12-14 14:55:26</dcterms:dateSubmitted>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestbundel bij gelegenheid der vierde jaarlijksche feestviering van de Utrechtsche Typographische Vereeniging: Nut en Genoegen, onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien, Burgemeester der stad Utrecht.</schema:name>
         <schema:alternateName>Feestbundel bij gelegenheid der vierde jaarlijksche feestviering van de Utrechtsche Typographische Vereeniging</schema:alternateName>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
@@ -282,7 +274,7 @@
         <schema:url rdf:resource="http://books.google.com/books?vid=KBNL:UBA000145615"/>
         <schema:datePublished>1862</schema:datePublished>
         <schema:description>OCLC: 1005699669</schema:description>
-        <dcterms:dateSubmitted>2020-12-14 14:55:55</dcterms:dateSubmitted>
+        <z:accessDate>2020-12-14 14:55:55</z:accessDate>
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Feestbundel ter gelegenheid der voorstelling, gegeven door het Het Werkende gezelschap der Typographische Vereeniging De Nederlandsche Drukpers: op 18 Julij 1862 in het Locaal Vliedzorg.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
@@ -355,7 +347,7 @@
         <schema:about>amsterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/69396661"/>
         <schema:datePublished>1856</schema:datePublished>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestliederen bij gelegenheid der zestiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati : Koppermaandag, 9 januarij 1856</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
@@ -438,8 +430,7 @@
         </schema:publisher>
         <schema:about>rotterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/900968898"/>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen ter gelegenheid der jaarlijksche feestviering van de Typographische Vereeniging &quot;Door Koster's Fakker voorgelicht, is deze Vriendenkring gesticht&quot;</schema:name>
         <schema:holdingArchive>Erfgoedbibliotheek Hendrik Conscience</schema:holdingArchive>
     </schema:Book>
@@ -509,7 +500,7 @@
         </schema:publisher>
         <schema:about>haarlem1851</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/60585084"/>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestliederen, der Typographische Vereeniging, onder de zinspreuk: Tot nut en gezellig verkeer. Opgerigt te Haarlem, den 21. September 1851.</schema:name>
         <schema:holdingArchive>Newberry Library Chicago</schema:holdingArchive>
     </schema:Book>
@@ -564,11 +555,8 @@
         <schema:about>amsterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/66940292"/>
         <schema:datePublished>1851</schema:datePublished>
-        <schema:description>OCLC: 66940292</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feest-bundel: herinnering aan het plegtige feest waarop de leden van het hooggeacht bestuur der Typographische Vereeniging: Voorzorg en genoegen, met zilveren medailles zijn vereerd geworden</schema:name>
-        <schema:alternateName>Feest-bundel</schema:alternateName>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
     <schema:Book rdf:about="#item_2359">
@@ -619,7 +607,7 @@
         <schema:about>utrecht1851</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/975832867"/>
         <schema:datePublished>1901</schema:datePublished>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen ter viering van het 50-jarig bestaan op maandag 7 januari 1901, der Typ. Vereeniging &quot;Nut en Genoegen&quot; te Utrecht.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
@@ -695,7 +683,7 @@
         </schema:author>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/905427817"/>
         <schema:datePublished>1858</schema:datePublished>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Gedenkboek der Costers-feesten van 15, 16 en 17 Julij 1856</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Book>
@@ -852,10 +840,9 @@
                 <schema:givenName>Haarlem)</schema:givenName>
             </schema:Person>
         </schema:author>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/1129442174"/>
         <schema:datePublished>1856</schema:datePublished>
-        <schema:description>OCLC: 1129442174</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Costersfeest. Typographische tentoonstelling van wege de boekverkoopers vereeniging Lourens Jansz. Coster.</schema:name>
     </schema:Book>
     <schema:Book rdf:about="#item_2376">
@@ -882,10 +869,8 @@
         </schema:author>
         <schema:datePublished>1856</schema:datePublished>
         <schema:description>OCLC: 66110298</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Jansz. Koster: een blik op de uitvinding der boekdrukkunst en op Haarlem, bij de aanstaande feesten in Julij 1856</schema:name>
-        <schema:alternateName>Laurens Jansz. Koster</schema:alternateName>
     </schema:Book>
     <schema:Book rdf:about="#item_2377">
         <schema:additionalType>book</schema:additionalType>
@@ -894,22 +879,12 @@
                <schema:name>A.W. Sythoff</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2378"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=YTY5AAAAMAAJ"/>
         <schema:datePublished>1856</schema:datePublished>
-        <schema:description>Google-Books-ID: YTY5AAAAMAAJ</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Jaarboekje voor typographische vereenigingen. 1. jaargang, 1856</schema:name>
         <schema:numberOfPages>142</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2378">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=YTY5AAAAMAAJ"/>
-        <dcterms:dateSubmitted>2020-12-23 14:26:49</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2379">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -923,18 +898,15 @@
             </schema:Organization>
         </schema:publisher>
         <schema:author>
-           <schema:Person><schema:familyName>N</schema:familyName></schema:Person>
-        </schema:author>
-        <schema:author>
             <schema:Person>
-               <schema:familyName>H. v</schema:familyName>
+                <schema:familyName>N</schema:familyName>
+                <schema:givenName>H. v</schema:givenName>
             </schema:Person>
         </schema:author>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/928178252"/>
         <schema:datePublished>1858</schema:datePublished>
-        <schema:description>OCLC: 928178252</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Ontboezeming en groete aan de banier der Typografische Vereeniging &quot;De Nederlandsche Drukpers&quot; mei 1858.</schema:name>
     </schema:Book>
     <schema:Book rdf:about="#item_2380">
@@ -949,10 +921,9 @@
             </schema:Organization>
         </schema:publisher>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/66287960"/>
         <schema:datePublished>1858</schema:datePublished>
-        <schema:description>OCLC: 66287960</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Liederen ter gelegenheid der buitengewone algemeene vergadering tot daarstelling eener banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 21 maart 1858, in den tuin De Nederlanden.</schema:name>
     </schema:Book>
     <schema:Book rdf:about="#item_2381">
@@ -966,10 +937,9 @@
                 </schema:address>
             </schema:Organization>
         </schema:publisher>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/67135123"/>
         <schema:datePublished>1858</schema:datePublished>
-        <schema:description>OCLC: 67135123</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Liederen ter gelegenheid der der feestelijke onthulling van de banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 23 mei 1858, in den tuin De Nederlanden.</schema:name>
     </schema:Book>
     <schema:Book rdf:about="#item_2382">
@@ -1158,9 +1128,8 @@
             </schema:Person>
         </schema:author>
         <schema:about>rotterdam1849</schema:about>
-        <schema:description>OCLC: 970369762</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/970369762"/>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Jaarverslag</schema:name>
     </schema:Article>
     <schema:Book rdf:about="#item_2390">
@@ -1272,7 +1241,7 @@
         <schema:datePublished>1859</schema:datePublished>
         <schema:description>OCLC: 65840896</schema:description>
         <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Statuten voor de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam: opgerigt 23 februarij 1857.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
@@ -1576,7 +1545,7 @@
     <schema:Manuscript rdf:about="#item_2432">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:url rdf:resource="https://hdl.handle.net/10622/ARCH01707"/>
-        <schema:additionalType>archief</schema:additionalType>
+        <schema:additionalType>fonds</schema:additionalType>
         <schema:name>Archief Algemene Nederlandse Grafische Bond</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
@@ -1592,46 +1561,46 @@
         <schema:name>Meijer, W.J. : diploma als lid der typographische vereeniging De Nederlandsche Drukpers N.B. Tevens bewijs van lidmaatschap</schema:name>
         <schema:holdingArchive>NL-AsdSAA</schema:holdingArchive>
     </schema:Manuscript>
-    <bib:Letter rdf:about="#item_2434">
-        <schema:additionalType>letter</schema:additionalType>
+    <schema:Manuscript rdf:about="#item_2434">
+        <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
                 <schema:familyName>Meyer</schema:familyName>
                 <schema:givenName>J.E</schema:givenName>
             </schema:Person>
         </schema:author>
-        <z:recipient>
+        <schema:contributor>
             <schema:Person>
                <schema:familyName>Wertheim</schema:familyName>
             </schema:Person>
-        </z:recipient>
-        <schema:about>amsterdam1857-1</schema:about>
+        </schema:contributor>
         <schema:about>amsterdam1849</schema:about>
+        <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/846530711"/>
         <schema:datePublished>1865</schema:datePublished>
-        <schema:description>OCLC:</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:additionalType>item</schema:additionalType>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Brief van Typographische Vereeniging Voorzorg en Genoegen geschreven door J.E. Meyer aan Typographische Vereeniging De Nederlandsche Drukpers gericht aan Wertheim</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
-    </bib:Letter>
-    <bib:Letter rdf:about="#item_2435">
-        <schema:additionalType>letter</schema:additionalType>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="#item_2435">
+        <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
                 <schema:familyName>Kreyts</schema:familyName>
                 <schema:givenName>A.J</schema:givenName>
             </schema:Person>
         </schema:author>
-        <schema:about>amsterdam1857-1</schema:about>
         <schema:about>amsterdam1849</schema:about>
+        <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/846514289"/>
         <schema:datePublished>1861</schema:datePublished>
+        <schema:additionalType>file</schema:additionalType>
         <schema:name>Brieven van de Typographische Vereeniging Voorzorg en Genoegen geschreven door A.J. Kreyts aan de Typographische Vereeniging De Nederlandsche drukpers</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
-    </bib:Letter>
-    <bib:Letter rdf:about="#item_2436">
-        <schema:additionalType>letter</schema:additionalType>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="#item_2436">
+        <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
                 <schema:familyName>Grevenstuk</schema:familyName>
@@ -1639,14 +1608,15 @@
             </schema:Person>
         </schema:author>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/846506111"/>
         <schema:datePublished>1860</schema:datePublished>
-        <schema:description>OCLC: 846506111</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:additionalType>file</schema:additionalType>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Brieven van Antonie Grevenstuk aan de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam</schema:name>
-    </bib:Letter>
-    <bib:Letter rdf:about="#item_2437">
-        <schema:additionalType>letter</schema:additionalType>
+        <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="#item_2437">
+        <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
                 <schema:familyName>Beet</schema:familyName>
@@ -1654,14 +1624,14 @@
             </schema:Person>
         </schema:author>
         <schema:about>amsterdam1857-1</schema:about>
-        <schema:datePublished>1800</schema:datePublished>
-        <schema:description>OCLC: 846487509</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/846487509"/>
+        <schema:additionalType>item</schema:additionalType>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Brief van H.J. de Beet aan Bestuur der Typographische Vereeniging De Nederlandsche Drukpers Amsterdam</schema:name>
-    </bib:Letter>
-    <bib:Letter rdf:about="#item_2438">
-        <schema:additionalType>letter</schema:additionalType>
+        <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="#item_2438">
+        <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
                 <schema:familyName>Wildschut</schema:familyName>
@@ -1669,31 +1639,31 @@
             </schema:Person>
         </schema:author>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/846511461"/>
         <schema:datePublished>1862</schema:datePublished>
-        <schema:description>OCLC: 846511461</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:additionalType>item</schema:additionalType>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Brief van J.A. Wildschut aan de Bestuurderen der Typographische Vereeniging &quot;De Nederlandsche Drukpers&quot; te Amsterdam</schema:name>
-    </bib:Letter>
+        <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
+    </schema:Manuscript>
     <schema:Manuscript rdf:about="#item_2439">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/150245053"/>
         <schema:datePublished>1851</schema:datePublished>
-        <schema:description>OCLC: 150245053</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:additionalType>item</schema:additionalType>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Diploma voor ... der typographische vereeniging: De Nederlandsche Drukpers, opgerigt te Amsterdam, den 23 Februarij 1857</schema:name>
-        <schema:alternateName>Diploma voor ... der typographische vereeniging</schema:alternateName>
+        <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
     <schema:Manuscript rdf:about="#item_2440">
         <schema:additionalType>manuscript</schema:additionalType>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/1155090416"/>
         <schema:datePublished>1856</schema:datePublished>
-        <schema:description>OCLC: 1155090416</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:additionalType>file</schema:additionalType>
-        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Map met stukken betreffende de onthulling van het standbeeld van Laurens Janszoon Coster</schema:name>
+        <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Manuscript>
     <schema:Manuscript rdf:about="#item_2441">
         <schema:additionalType>manuscript</schema:additionalType>
@@ -1721,7 +1691,7 @@
     </schema:Manuscript>
     <schema:Manuscript rdf:about="#item_2443">
         <schema:additionalType>manuscript</schema:additionalType>
-        <schema:datePublished>1784 - 1990</schema:datePublished>
+        <schema:datePublished>1784-1990</schema:datePublished>
         <schema:about>
            <dcterms:LCC><rdf:value>1733</rdf:value></dcterms:LCC>
         </schema:about>
@@ -1888,7 +1858,7 @@
         </schema:author>
         <schema:url rdf:resource="https://studenttheses.universiteitleiden.nl/handle/1887/24910"/>
         <schema:datePublished>2014-01-31</schema:datePublished>
-        <dcterms:dateSubmitted>2020-12-16 16:56:21</dcterms:dateSubmitted>
+        <z:accessDate>2020-12-16 16:56:21</z:accessDate>
         <schema:inLanguage>dutch</schema:inLanguage>
         <schema:name>Haarlem zegeviert: de Costerfeesten van 1823 en 1856 in lokaal perspectief | Student Repository</schema:name>
     </schema:Thesis>
@@ -2041,7 +2011,7 @@
         <schema:pagination>886-914</schema:pagination>
         <schema:datePublished>1983</schema:datePublished>
         <schema:description>Publisher: University of Chicago Press</schema:description>
-        <dcterms:dateSubmitted>2020-12-27 14:14:51</dcterms:dateSubmitted>
+        <z:accessDate>2020-12-27 14:14:51</z:accessDate>
         <schema:includedInDataCatalog>JSTOR</schema:includedInDataCatalog>
         <schema:abstract>An equation has often been made, especially but not exclusively by Marxists,between radicalism and the rational understanding of objective interests. I argue that, on the contrary, commitments to traditional cultural values and immediate communal relations are crucial to many radical movements, (a)because these commitments provide populations with the extent of internal social organization necessary to concerted, radical collective action, and (b) because the largely defensive goals of these movements must be radically incompatible with the introduction of modern capitalist-dominated social formations. Reformism is the characteristic stance of the modern working class, for both social and cultural reasons.</schema:abstract>
         <schema:name>The Radicalism of Tradition: Community Strength or Venerable Disguise and Borrowed Language?</schema:name>
@@ -2074,7 +2044,7 @@
         <schema:identifier>ISBN 978-0-226-09084-9</schema:identifier>
         <schema:datePublished>2013</schema:datePublished>
         <schema:description>OCLC: 1120500800</schema:description>
-        <dcterms:dateSubmitted>2020-12-27 14:30:23</dcterms:dateSubmitted>
+        <z:accessDate>2020-12-27 14:30:23</z:accessDate>
         <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>The Roots of radicalism tradition, the public sphere, and early nineteenth-century social movements</schema:name>
@@ -2101,11 +2071,10 @@
     <rdf:Description rdf:about="#item_2466">
         <schema:additionalType>document</schema:additionalType>
         <schema:about>haarlem1851</schema:about>
+        <schema:url rdf:resource="http://www.worldcat.org/oclc/1155091540"/>
         <schema:datePublished>1851</schema:datePublished>
-        <schema:description>OCLC: 1155091540</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
-        <schema:inLanguage>Undetermined</schema:inLanguage>
         <schema:name>Draagteken van de Typographische Vereeniging ter Haarlem, bij de Feesten gedragen</schema:name>
+        <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </rdf:Description>
     <rdf:Description rdf:about="#item_2467">
         <schema:additionalType>document</schema:additionalType>
@@ -2161,7 +2130,7 @@
         <schema:about>
            <dcterms:LCC><rdf:value>7-8</rdf:value></dcterms:LCC>
         </schema:about>
-        <schema:additionalType>archiefdossiers</schema:additionalType>
+        <schema:additionalType>files</schema:additionalType>
         <schema:name>Typografische Vereeniging &quot;De Nederlandsche Drukpers&quot;</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
@@ -2237,7 +2206,7 @@
         <schema:url rdf:resource="https://doi.org/10.1515/9789048544486"/>
         <schema:identifier>ISBN 978-90-485-4448-6</schema:identifier>
         <schema:datePublished>2018</schema:datePublished>
-        <dcterms:dateSubmitted>2021-01-15 16:32:31</dcterms:dateSubmitted>
+        <z:accessDate>2021-01-15 16:32:31</z:accessDate>
         <schema:inLanguage>en</schema:inLanguage>
         <schema:name>Transformations of Trade Unionism: Comparative and Transnational Perspectives on Workers Organizing in Europe and the United States, Eighteenth to Twenty-First Centuries</schema:name>
         <schema:alternateName>Transformations of Trade Unionism</schema:alternateName>
@@ -2276,23 +2245,8 @@
         </schema:author>
         <schema:datePublished>1983</schema:datePublished>
         <schema:description>OCLC: 941273015</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>Invention of tradition</schema:name>
-    </schema:Book>
-    <schema:Book rdf:about="#item_2480">
-        <schema:additionalType>book</schema:additionalType>
-        <schema:author>
-            <schema:Person>
-                <schema:familyName>Gellner</schema:familyName>
-                <schema:givenName>Ernest</schema:givenName>
-            </schema:Person>
-        </schema:author>
-        <schema:identifier>ISBN 978-1-4051-3442-2</schema:identifier>
-        <schema:datePublished>1983</schema:datePublished>
-        <schema:description>OCLC: 876495293</schema:description>
-        <schema:inLanguage>English</schema:inLanguage>
-        <schema:name>Nations and nationalism</schema:name>
     </schema:Book>
     <schema:Book rdf:about="#item_2481">
         <schema:additionalType>book</schema:additionalType>
@@ -2313,12 +2267,12 @@
         <schema:identifier>ISBN 978-0-631-13088-8</schema:identifier>
         <schema:datePublished>1983</schema:datePublished>
         <schema:description>OCLC: 611103866</schema:description>
-        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>Nations and nationalism</schema:name>
     </schema:Book>
     <schema:Collection rdf:about="#collection_59">
         <schema:name>archief</schema:name>
+        <schema:hasPart rdf:resource="#collection_72"/>
         <schema:hasPart rdf:resource="#collection_60"/>
         <schema:hasPart rdf:resource="#collection_61"/>
         <schema:hasPart rdf:resource="#collection_62"/>
@@ -2329,6 +2283,13 @@
         <schema:hasPart rdf:resource="#collection_67"/>
         <schema:hasPart rdf:resource="#collection_68"/>
         <schema:hasPart rdf:resource="#collection_69"/>
+    </schema:Collection>
+    <schema:Collection rdf:about="#collection_72">
+        <schema:name>NL-0100030000</schema:name>
+        <schema:hasPart rdf:resource="#item_2440"/>
+        <rdf:type rdf:resource="https://schema.org/Collection"/>
+        <schema:name>NL-0100030000</schema:name>
+        <schema:hasPart rdf:resource="#item_2440"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_60">
         <schema:name>NL-AsdIISG_ARCH01707</schema:name>
@@ -2356,7 +2317,6 @@
         <schema:hasPart rdf:resource="#item_2437"/>
         <schema:hasPart rdf:resource="#item_2438"/>
         <schema:hasPart rdf:resource="#item_2439"/>
-        <schema:hasPart rdf:resource="#item_2440"/>
         <rdf:type rdf:resource="https://schema.org/Collection"/>
         <schema:name>NL-AsdUvA</schema:name>
         <schema:hasPart rdf:resource="#item_2434"/>
@@ -2365,7 +2325,6 @@
         <schema:hasPart rdf:resource="#item_2437"/>
         <schema:hasPart rdf:resource="#item_2438"/>
         <schema:hasPart rdf:resource="#item_2439"/>
-        <schema:hasPart rdf:resource="#item_2440"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_63">
         <schema:name>NL-BdSA_ARC0291</schema:name>
