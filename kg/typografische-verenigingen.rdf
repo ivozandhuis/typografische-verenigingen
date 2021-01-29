@@ -995,7 +995,7 @@
         <schema:description>OCLC: 66287651</schema:description>
         <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
         <schema:inLanguage>Dutch</schema:inLanguage>
-        <schema:name>Hulde aan den uitvinder der boekdrukkunst: théatrale feestviering : te geven bij gelegenheid der buitengewone algemeene vergadering [van de Typographische Vereeniging De Nederlandsche Drukpers], gehouden ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster, op 14 julij 1860</schema:name>
+        <schema:name>Hulde aan den uitvinder der boekdrukkunst: theatrale feestviering : te geven bij gelegenheid der buitengewone algemeene vergadering [van de Typographische Vereeniging De Nederlandsche Drukpers], gehouden ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster, op 14 julij 1860</schema:name>
         <schema:alternateName>Hulde aan den uitvinder der boekdrukkunst</schema:alternateName>
     </schema:Book>
     <schema:Book rdf:about="#item_2383">
@@ -1308,25 +1308,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2398"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=ootP9SPXYY0C"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>1</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
-        <schema:description>Google-Books-ID: ootP9SPXYY0C</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Lourens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>56</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2398">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=ootP9SPXYY0C"/>
-        <dcterms:dateSubmitted>2020-12-23 11:58:56</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2399">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1398,24 +1387,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2408"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=rx9Jd-2wtDUC"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>6</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2408">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=rx9Jd-2wtDUC"/>
-        <dcterms:dateSubmitted>2020-12-23 12:37:54</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2409">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1423,25 +1402,15 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2410"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=CoW7Ud5uM5MC"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>7</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
         <schema:description>Google-Books-ID: CoW7Ud5uM5MC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2410">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=CoW7Ud5uM5MC"/>
-        <dcterms:dateSubmitted>2020-12-23 12:38:58</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2411">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1449,25 +1418,15 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2412"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=CoW7Ud5uM5MC"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>5</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
         <schema:description>Google-Books-ID: CoW7Ud5uM5MC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2412">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=CoW7Ud5uM5MC"/>
-        <dcterms:dateSubmitted>2020-12-23 12:45:00</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2413">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1475,25 +1434,15 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2414"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=CLAASljn1j4C"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>10</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
         <schema:description>Google-Books-ID: CLAASljn1j4C</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2414">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=CLAASljn1j4C"/>
-        <dcterms:dateSubmitted>2020-12-23 12:45:43</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2415">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1501,25 +1450,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2416"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=IQGcg7dkTA4C"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>4</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
-        <schema:description>Google-Books-ID: IQGcg7dkTA4C</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2416">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=IQGcg7dkTA4C"/>
-        <dcterms:dateSubmitted>2020-12-23 12:46:09</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2417">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1527,25 +1465,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2418"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=DbqFkFmTb1IC"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>11</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
-        <schema:description>Google-Books-ID: DbqFkFmTb1IC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>82</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2418">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=DbqFkFmTb1IC"/>
-        <dcterms:dateSubmitted>2020-12-23 12:49:30</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2419">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1553,25 +1480,15 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2420"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=2c3FM_ZRvz0C"/>
         <schema:volumeNumber>3</schema:volumeNumber>
         <schema:bookEdition>2</schema:bookEdition>
         <schema:datePublished>1860</schema:datePublished>
         <schema:description>Google-Books-ID: 2c3FM_ZRvz0C</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>64</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2420">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=2c3FM_ZRvz0C"/>
-        <dcterms:dateSubmitted>2020-12-23 13:10:00</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2421">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1579,25 +1496,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2422"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=AJ1QLiWDPLYC"/>
         <schema:volumeNumber>7</schema:volumeNumber>
         <schema:bookEdition>11</schema:bookEdition>
         <schema:datePublished>1864</schema:datePublished>
-        <schema:description>Google-Books-ID: AJ1QLiWDPLYC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>28</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2422">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=AJ1QLiWDPLYC"/>
-        <dcterms:dateSubmitted>2020-12-23 13:10:47</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2423">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1605,25 +1511,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2424"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=MUTb3jp1Wb8C"/>
         <schema:volumeNumber>6</schema:volumeNumber>
         <schema:bookEdition>6</schema:bookEdition>
         <schema:datePublished>1863</schema:datePublished>
-        <schema:description>Google-Books-ID: MUTb3jp1Wb8C</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>40</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2424">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=MUTb3jp1Wb8C"/>
-        <dcterms:dateSubmitted>2020-12-23 13:11:34</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2425">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1631,25 +1526,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2426"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=efAvWQsPhJYC"/>
         <schema:volumeNumber>5</schema:volumeNumber>
         <schema:bookEdition>1-12</schema:bookEdition>
         <schema:datePublished>1862</schema:datePublished>
-        <schema:description>Google-Books-ID: efAvWQsPhJYC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>344</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2426">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=efAvWQsPhJYC"/>
-        <dcterms:dateSubmitted>2020-12-23 13:21:54</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2427">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
@@ -1657,25 +1541,14 @@
                 <schema:name>Algemeene Nederlandsche Typographische Hoofdvereeniging</schema:name>
             </schema:Organization>
         </schema:publisher>
-        <schema:url rdf:resource="#item_2428"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=2VTv1mvpgpIC"/>
         <schema:volumeNumber>8</schema:volumeNumber>
         <schema:bookEdition>1-12</schema:bookEdition>
         <schema:datePublished>1865</schema:datePublished>
-        <schema:description>Google-Books-ID: 2VTv1mvpgpIC</schema:description>
-        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
-        <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>296</schema:numberOfPages>
     </schema:Book>
-    <z:Attachment rdf:about="#item_2428">
-        <schema:additionalType>attachment</schema:additionalType>
-        <schema:url rdf:resource="https://books.google.nl/books?id=2VTv1mvpgpIC"/>
-        <dcterms:dateSubmitted>2020-12-23 13:23:29</dcterms:dateSubmitted>
-        <schema:name>Google Books Link</schema:name>
-        <z:linkMode>3</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <schema:Book rdf:about="#item_2429">
         <schema:additionalType>book</schema:additionalType>
         <schema:volumeNumber>4</schema:volumeNumber>
