@@ -23,12 +23,6 @@ var n = {
 	bib:"http://purl.org/net/biblio#",
 	dc:"http://purl.org/dc/elements/1.1/",
 	dcterms:"http://purl.org/dc/terms/",
-	prism:"http://prismstandard.org/namespaces/1.2/basic/",
-	foaf:"http://xmlns.com/foaf/0.1/",
-	vcard:"http://nwalsh.com/rdf/vCard#",
-	vcard2:"http://www.w3.org/2006/vcard/ns#",	// currently used only for NSF, but is probably
-												// very similar to the nwalsh vcard ontology in a
-												// different namespace
 	link:"http://purl.org/rss/1.0/modules/link/",
 	z:"http://www.zotero.org/namespaces/export#"
 };
@@ -282,7 +276,6 @@ function generateItem(item, zoteroType, resource) {
 	if (item.creators) {			// authors/editors/contributors
 		var creatorContainers = new Object();
 		
-		// not yet in biblio
 		var schemaCreatorTypes = ["author", "editor", "contributor"];
 		
 		for (var j in item.creators) {
@@ -366,7 +359,7 @@ function generateItem(item, zoteroType, resource) {
 			Zotero.RDF.addStatement(resource, n.dc+"rights", value, true);
 		} else if (property == "edition" ||			// edition
 		          property == "version") {			// version
-			Zotero.RDF.addStatement(resource, n.prism+"edition", value, true);
+			Zotero.RDF.addStatement(resource, n.schema+"bookEdition", value, true);
 		} else if (property == "date") {				// date
 			if (item.dateSent) {
 				Zotero.RDF.addStatement(resource, n.dcterms+"dateSubmitted", value, true);
@@ -378,8 +371,7 @@ function generateItem(item, zoteroType, resource) {
 		} else if (property == "issueDate") {		// issueDate
 			Zotero.RDF.addStatement(resource, n.dcterms+"issued", value, true);
 		} else if (property == "pages") {			// pages
-			// not yet part of biblio, but should be soon
-			Zotero.RDF.addStatement(resource, n.bib+"pages", value, true);
+			Zotero.RDF.addStatement(resource, n.schema+"pagination", value, true);
 		} else if (property == "extra") {			// extra
 			Zotero.RDF.addStatement(resource, n.schema+"description", value, true);
 		} else if (property == "mimeType") {			// mimeType
@@ -395,15 +387,15 @@ function generateItem(item, zoteroType, resource) {
 			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"identifier", "DOI "+value, true);
 		} else if (property == "publicationTitle" ||	// publicationTitle
 		          property == "reporter") {			// reporter
-			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"title", value, true);
+			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"name", value, true);
 		} else if (property == "journalAbbreviation") {	// journalAbbreviation
-			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.dcterms+"alternative", value, true);
+			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"alternateName", value, true);
 		} else if (property == "volume") {			// volume
-			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.prism+"volume", value, true);
+			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"volumeNumber", value, true);
 		} else if (property == "issue" ||			// issue
 				  property == "number" ||			// number
 				  property == "patentNumber") {		// patentNumber
-			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.prism+"number", value, true);
+			Zotero.RDF.addStatement((containerElement ? containerElement : resource), n.schema+"issueNumber", value, true);
 		} else if (property == "callNumber") {
 			var term = Zotero.RDF.newResource();
 			// set term type
@@ -418,7 +410,7 @@ function generateItem(item, zoteroType, resource) {
 		} else if (property == "series") {			// series
 			Zotero.RDF.addStatement(series, n.schema+"name", value, true);
 		} else if (property == "seriesTitle") {		// seriesTitle
-			Zotero.RDF.addStatement(series, n.dcterms+"alternative", value, true);
+			Zotero.RDF.addStatement(series, n.schema+"alternateName", value, true);
 		} else if (property == "seriesText") {		// seriesText
 			Zotero.RDF.addStatement(series, n.schema+"description", value, true);
 		} else if (property == "seriesNumber") {		// seriesNumber
@@ -485,6 +477,14 @@ function generateItem(item, zoteroType, resource) {
 			Zotero.RDF.addStatement(resource, n.schema+"inLanguage", value, true);
 		} else if (property == "archive") {
 			Zotero.RDF.addStatement(resource, n.schema+"holdingArchive", value, true);
+		} else if (property == "shortTitle") {
+			Zotero.RDF.addStatement(resource, n.schema+"alternateName", value, true);
+		} else if (property == "libraryCatalog") {
+			Zotero.RDF.addStatement(resource, n.schema+"includedInDataCatalog", value, true);
+		} else if (property == "type") {
+			Zotero.RDF.addStatement(resource, n.schema+"additionalType", value, true);
+		} else if (property == "numPages") {
+			Zotero.RDF.addStatement(resource, n.schema+"numberOfPages", value, true);
 		// THIS CATCHES ALL REMAINING PROPERTIES
 		} else if (ignoreProperties.indexOf(property) == -1) {
 			Zotero.debug("Zotero RDF: using Zotero namespace for property "+property);
@@ -516,17 +516,7 @@ function doExport() {
 		items.push(item);
 		Zotero.debug(item);
 		
-		var testISBN = "urn:isbn:"+encodeURI(item.ISBN);
-		if (item.ISBN && !usedResources[testISBN]) {
-			itemResources[item.itemID] = itemResources[item.uri] = testISBN;
-			usedResources[itemResources[item.itemID]] = true;
-		} else if (item.itemType != "attachment" && item.url && !usedResources[item.url]) {
-			itemResources[item.itemID] = itemResources[item.uri] = item.url;
-			usedResources[itemResources[item.itemID]] = true;
-		} else {
-			// just specify a node ID
-			itemResources[item.itemID] = itemResources[item.uri] = "#item_" + item.itemID;
-		}
+		itemResources[item.itemID] = itemResources[item.uri] = "#item_" + item.itemID;
 		
 		if (item.notes) {
 			for (var j in item.notes) {
