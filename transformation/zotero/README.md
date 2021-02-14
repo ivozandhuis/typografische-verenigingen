@@ -2,9 +2,9 @@
 
 I collect sources and literature on typographical associations in the open source Reference Managementsystem [Zotero](https://zotero.org/). The collected references are available [here](https://www.zotero.org/groups/2707622/typografische-verenigingen/library).
 
-This JavaScript file transforms this data into RDF/XML. It is an adoption of the already available 'Zotero RDF' script created by Simon Kornblith. I used the [schema.org](https://schema.org/) concepts and properties as much as possible to model the data. For archival sources I had to use a workaround as described bellow.
+This JavaScript file transforms this data into RDF/XML. It is an adoption of the already available 'Zotero RDF' script created by Simon Kornblith. I used the [schema.org](https://schema.org/) concepts and properties as much as possible to model the data. For archival sources I had to use a workaround as described below.
 
-NB: this is my first attempt doing this, so it is work-in-progress (but what's not ...) I intend to use more appropriate ontologies ([RiC-O](https://www.ica.org/en/records-in-contexts-ontology), [bibframe](https://www.loc.gov/bibframe/), [RDAElements](https://www.rdaregistry.info/Elements/)) in the future.
+NB: this is my first attempt doing this, so it is work-in-progress (but what's not ...)
 
 NB2: maybe in the future exporting Zotero in CSV and transforming that into RDF with CoW turns out the be more efficient ...
 
