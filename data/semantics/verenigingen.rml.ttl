@@ -1,0 +1,42 @@
+@prefix rml: <http://semweb.mmlab.be/ns/rml#>.
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix csvw: <http://www.w3.org/ns/csvw#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix : <http://example.org/rules/>.
+@prefix schema: <http://schema.org/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+
+:TriplesMap rdf:type rr:TriplesMap;
+    rml:logicalSource [
+  rml:source [
+  rdf:type csvw:Table;
+  csvw:url "../verenigingen.csv";
+  csvw:dialect [
+  rdf:type csvw:Dialect;
+  csvw:delimiter ",";
+  csvw:encoding "UTF-8"
+]
+];
+  rml:referenceFormulation ql:CSV
+];
+    rr:subjectMap [ rr:template "https://costerskinderen.nl/verenigingen/id/{code}" ];
+    rr:predicateObjectMap [
+  rr:predicate rdf:type;
+  rr:objectMap [ rr:constant <https://schema.org/Organization> ]
+], [
+  rr:predicate <https://schema.org/name>;
+  rr:objectMap [ rml:reference "naam" ]
+], [
+  rr:predicate <https://schema.org/location>;
+  rr:objectMap [ rml:reference "plaats" ]
+], [
+  rr:predicate <https://schema.org/birthDate>;
+  rr:objectMap [ rml:reference "oprichting" ]
+], [
+  rr:predicate <https://costerskinderen.nl/verenigingen/def/KB-datum>;
+  rr:objectMap [ rml:reference "KB-datum" ]
+], [
+  rr:predicate <https://costerskinderen.nl/verenigingen/def/KB-nr>;
+  rr:objectMap [ rml:reference "KB-nr" ]
+].
