@@ -12,7 +12,7 @@
 	},
 	"inRepository": true,
 	"translatorType": 2,
-	"lastUpdated": "2021-01-29 16:37:00"
+	"lastUpdated": "2021-03-12 9:00:00"
 }
 
 var item;
@@ -514,8 +514,9 @@ function doExport() {
 		items.push(item);
 		Zotero.debug(item);
 		
-		itemResources[item.itemID] = itemResources[item.uri] = "#item_" + item.itemID;
-		
+//		itemResources[item.itemID] = itemResources[item.uri] = "#item_" + item.itemID;
+		itemResources[item.itemID] = (item.uri ? item.uri : "#item_"+item.itemID);	
+
 		if (item.notes) {
 			for (var j in item.notes) {
 				itemResources[item.notes[j].itemID] = itemResources[item.notes[j].uri] = "#item_" + item.notes[j].itemID;
