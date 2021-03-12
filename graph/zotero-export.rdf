@@ -2,8 +2,9 @@
  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
  xmlns:schema="https://schema.org/"
  xmlns:z="http://www.zotero.org/namespaces/export#"
- xmlns:dcterms="http://purl.org/dc/terms/">
-    <schema:Book rdf:about="#item_2326">
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/Y5GFR4A8">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -20,7 +21,7 @@
         <schema:name>Feestboekje ter herdenking van het 37 1/2-jarig bestaan der typografische tooneelvereeniging &quot;Coster&quot;, op ... 9 September 1894 ...</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2327">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/V2AVIYS7">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -34,7 +35,7 @@
         <schema:name>Feestboekje voor de tweede jaarlijksche feestviering der typografische vereeniging &quot;De Nederlandsche drukpers&quot; gevestigd te Amsterdam op ... 9 Januari 1859 ...</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2328">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/VFALSG32">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -53,7 +54,7 @@
         <schema:name>Feestboekje ter gelegenheid van het een-en-veertig-jarig bestaan der typografische vereeniging &quot;De Nederlandsche drukpers&quot; te Amsterdam op ... 8 Januari 1898 ...</schema:name>
         <schema:holdingArchive>!!kwijt!!</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2329">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/7TTZHF5F">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -67,7 +68,7 @@
         <schema:name>Feestliederen bij gelegenheid der zevende jaarlijksche feestviering van de Amsterdamsche Typografische Vereeniging: Voorzorg en Genoegen ... Door eenige leden der vereeniging vervaardigd.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2330">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/U94YR8CM">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -84,7 +85,7 @@
         <schema:name>Zangstukjes, bij de viering van het tiende kopperfeest der Typografische Vereeniging: Boekdrukkunst, de Grondzuil der Verlichting te Arnhem, 10 Januarij 1859.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2331">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/3D6VXAL2">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -98,7 +99,7 @@
         <schema:name>Feestboekje voor de zesde jaarlijksche feestviering der typographische vereeniging &quot;De Nederlandsche drukpers&quot;, gevestigd te Amsterdam op ... 10 Januarij 1863.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2332">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/KS7UARPA">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -112,7 +113,7 @@
         <schema:name>Feestliederen bij gelegenheid der buitengewone algemeene vergadering der typographische vereeniging &quot; De Nederlandsche drukpers&quot;, ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster, op 16 Julij 1856 te Haarlem. Op 13 Julij 1861, in den grand salon ...</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2333">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/I6U5UC49">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -131,7 +132,7 @@
         <schema:name>Zangcoupletten voor de plegtige feestviering der onthulling van het standbeeld van Lourens Janszoon Koster, te Haarlem, den 16den Julij 1856.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2334">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/F6DWAKEH">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -150,7 +151,7 @@
         <schema:name>Feestzang-bundel: meerendeels vervaardigd door de leden der typografische vereeniging &quot;Harmonie en vriendschap&quot; te Middelburg, uitgegeven ten voordeele van hun ziekenfonds.</schema:name>
         <schema:holdingArchive>NL-0873450000</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2335">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/PGMKQE2F">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -166,7 +167,7 @@
         <schema:name>Feestzangen ter viering van het zes-en-veertigjarig bestaan der Typografische Vereeniging &quot;Nut en Genoegen&quot; te Utrecht, op maandag 11 januari 1897: beschermheer: de weledelachtbare heer B. Reiger, burgemeester der gemeente Utrecht.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2336">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/Y9336EPH">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -182,7 +183,7 @@
         <schema:name>Feestboekje voor de tweede jaarlijksche feestviering der typografische vereeniging De Nederlandsche Drukpers gevestigd te Amsterdam: op zondag 9 januarij 1859 in den Tuin der Nederlanden.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2337">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/HSYRUEYR">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -199,7 +200,7 @@
         <schema:name>Zangbundel voor de 51ste jaarvergadering, op ... 8 September 1900 ...</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Article rdf:about="#item_2338">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/Z33PRYZU">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
            <schema:Periodical></schema:Periodical>
@@ -212,19 +213,19 @@
         <schema:name>Feestboekje voor de ... jaarlijksche feestviering der Typographische Vereeniging De Nederlandsche Drukpers, gevestigd te Amsterdam.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Article>
-    <schema:Article rdf:about="#item_2339">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/2TZI3YAE">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
            <schema:Periodical></schema:Periodical>
         </schema:isPartOf>
         <schema:about>amsterdam1857-1</schema:about>
-        <schema:url rdf:resource="https://books.google.nl/books?vid=KBNL:UBA000163747"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=uLZpAAAAcAAJ"/>
         <schema:datePublished>1861</schema:datePublished>
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Feestliederen bij gelegenheid der buitengewone algemeene vergadering der typographische vereeniging De Nederlandsche drukpers, ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster op 16 Julij 1856 te Haarlem.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Article>
-    <schema:Book rdf:about="#item_2340">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/SGA2CMRR">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -234,14 +235,14 @@
             </schema:Organization>
         </schema:publisher>
         <schema:about>utrecht1851</schema:about>
-        <schema:url rdf:resource="http://books.google.com/books?vid=KBNL:KBNLB030069978"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=nzbtu-J4ir0C"/>
         <schema:datePublished>1854</schema:datePublished>
         <schema:description>OCLC: 1089764085</schema:description>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen der Typographische Vereeniging Nut en Genoegen te Utrecht onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien burgemeester der stad.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2341">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/QFIJ2CB7">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -256,10 +257,9 @@
         <schema:description>OCLC: 1089764091</schema:description>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestbundel bij gelegenheid der vierde jaarlijksche feestviering van de Utrechtsche Typographische Vereeniging: Nut en Genoegen, onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien, Burgemeester der stad Utrecht.</schema:name>
-        <schema:alternateName>Feestbundel bij gelegenheid der vierde jaarlijksche feestviering van de Utrechtsche Typographische Vereeniging</schema:alternateName>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2342">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/TY6NLEVL">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -271,7 +271,7 @@
             </schema:Organization>
         </schema:publisher>
         <schema:about>amsterdam1857-1</schema:about>
-        <schema:url rdf:resource="http://books.google.com/books?vid=KBNL:UBA000145615"/>
+        <schema:url rdf:resource="https://books.google.nl/books?id=2ShnAAAAcAAJ"/>
         <schema:datePublished>1862</schema:datePublished>
         <schema:description>OCLC: 1005699669</schema:description>
         <z:accessDate>2020-12-14 14:55:55</z:accessDate>
@@ -279,7 +279,7 @@
         <schema:name>Feestbundel ter gelegenheid der voorstelling, gegeven door het Het Werkende gezelschap der Typographische Vereeniging De Nederlandsche Drukpers: op 18 Julij 1862 in het Locaal Vliedzorg.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2343">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/W2R997LC">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -297,7 +297,7 @@
         <schema:name>Feestliederen, bij de twaalfde jaarlijksche feestviering van de Amsterdamsche typographische vereeniging: Voorzorg en Genoegen, in de zaal Frascati: Koppermaandag, 7 januarij  1861.</schema:name>
         <schema:holdingArchive>NL-AsdRM</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2344">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/DYYME5XX">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -315,7 +315,7 @@
         <schema:name>Feestliederen bij gelegenheid der vijftiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2345">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/JHXGXUYV">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -333,7 +333,7 @@
         <schema:name>Feestzang der Typographische Vereeniging 'Door Eendracht t' zaam Verbonden', te 's-Hertogenbosch</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2346">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/TGDTMTV2">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -346,12 +346,12 @@
         </schema:publisher>
         <schema:about>amsterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/69396661"/>
-        <schema:datePublished>1856</schema:datePublished>
+        <schema:datePublished>1865</schema:datePublished>
         <schema:inLanguage>nl</schema:inLanguage>
-        <schema:name>Feestliederen bij gelegenheid der zestiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati : Koppermaandag, 9 januarij 1856</schema:name>
+        <schema:name>Feestliederen bij gelegenheid der zestiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati : Koppermaandag, 9 januarij 1865</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2347">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/GSJHETUP">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -369,7 +369,7 @@
         <schema:name>Feestliederen bij gelegenheid der negende jaarlijksche feestviering, van de typographische vereeniging Voorzorg en Genoegen, in de zaal Apollo, aan de Hoogesluis, te Amsterdam</schema:name>
         <schema:holdingArchive>NL-AsdRM</schema:holdingArchive>
     </schema:Book>
-    <schema:Article rdf:about="#item_2348">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/US6ZMVZG">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
            <schema:Periodical></schema:Periodical>
@@ -380,7 +380,7 @@
         <schema:name>Feestliederen bij gelegenheid der .. jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen ...</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Article>
-    <schema:Book rdf:about="#item_2349">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/XRJVN2IU">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -398,7 +398,7 @@
         <schema:name>Feestliederen bij gelegenheid der twaalfde jaarlijksche feestviering van de Amsterdamsche Typographische Vereeniging: Voorzorg en genoegen in de zaal Frascati</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2350">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/ZRRPY8S5">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -421,7 +421,7 @@
         <schema:name>Coupletten, gezongen op het negentiende Kopperfeest van de Typographische Vereeniging: &quot;Boekdrukkunst, de grondzuil der Verlichting&quot; te Arnhem: Koppermaandag, 13 januarij 1868.</schema:name>
         <schema:holdingArchive>Bibliotheek Rozet Arnhem</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2351">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/7S97LLDW">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -434,7 +434,7 @@
         <schema:name>Feestzangen ter gelegenheid der jaarlijksche feestviering van de Typographische Vereeniging &quot;Door Koster's Fakker voorgelicht, is deze Vriendenkring gesticht&quot;</schema:name>
         <schema:holdingArchive>Erfgoedbibliotheek Hendrik Conscience</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2352">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/U45LQDZH">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -451,7 +451,7 @@
         <schema:name>Programma en feestzangen bij gelegenheid van het vijftiende Kopperfeest van de Typographische Vereeniging, onder de zinspreuk: Boekdrukkunst, de grondzuil der Verlichting te Arnhem: Koppermaandag, 11 januarij 1864.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2353">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/HGMVQWBW">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -469,7 +469,7 @@
         <schema:name>Feestliederen voor de 27e jaarlijksche feestviering der typographische vereeniging: &quot;Door eendracht t'zaam verbonden&quot;</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2354">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/SRWWLEFN">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -489,7 +489,7 @@
         <schema:alternateName>Feestzangen bij de viering van het twintigste jaarfeest der Typographische Vereeniging Broederhulp te Nijmegen</schema:alternateName>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2355">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/9XFUT42Y">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -504,7 +504,7 @@
         <schema:name>Feestliederen, der Typographische Vereeniging, onder de zinspreuk: Tot nut en gezellig verkeer. Opgerigt te Haarlem, den 21. September 1851.</schema:name>
         <schema:holdingArchive>Newberry Library Chicago</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2356">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/HHZREWXJ">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -518,7 +518,7 @@
         <schema:name>Feestliederen der typographische vereeniging onder de zinspreuk tot nut en gezellig verkeer. ; opgerigt te Haarlem, den 21 september 1851.</schema:name>
         <schema:holdingArchive>Bibliotheek Zuidkennemerland</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2357">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/TQ8LE67N">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -535,7 +535,7 @@
         <schema:name>Feestzangen bij gelegenheid der elfde jaarlijksche feestviering van de typographische vereeniging: &quot;Laurens Jansz. Coster&quot;. ..., 9 Januarij 1865.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2358">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/63GHLHTB">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -559,7 +559,7 @@
         <schema:name>Feest-bundel: herinnering aan het plegtige feest waarop de leden van het hooggeacht bestuur der Typographische Vereeniging: Voorzorg en genoegen, met zilveren medailles zijn vereerd geworden</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2359">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/RDUQANYF">
         <schema:additionalType>book</schema:additionalType>
         <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/1046082354"/>
@@ -568,7 +568,7 @@
         <schema:name>Feestbundel ter gelegenheid der voorstelling, gegeven door het werkende gezelschap der typographische vereeniging de Nederlandsche drukpers op 13 julij 1862 in het locaal Vliedzorg.</schema:name>
         <schema:holdingArchive>Meertens Instituut</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2360">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/Y3ENGVDL">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -595,7 +595,7 @@
         <schema:name>Coupletten, gezongen op het negentiende kopperfeest van de typographische vereeniging: &quot;Boekdrukkunst&quot;, de grondzuil der verlichting, te Arnhem, 13 Januari 1868. Later met aanteekeningen verm. door J. Th. Scheepers.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2361">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/NAJAF6XW">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -611,7 +611,7 @@
         <schema:name>Feestzangen ter viering van het 50-jarig bestaan op maandag 7 januari 1901, der Typ. Vereeniging &quot;Nut en Genoegen&quot; te Utrecht.</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2362">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/EQRG6Y55">
         <schema:additionalType>book</schema:additionalType>
         <schema:about>amsterdam1857-2</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/68775299"/>
@@ -621,7 +621,7 @@
         <schema:alternateName>Feestliederen ter gelegenheid van het 39-jarig bestaan der typographische tooneel-vereeniging &quot;Coster&quot;, 1857-1896</schema:alternateName>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2363">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/UXR8HWSE">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -639,7 +639,7 @@
         <schema:name>Feestbundel voor de vijftigste jaarlijksche feestviering ... 11 Januari 1904.</schema:name>
         <schema:holdingArchive>Harvard</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2364">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/QFC7TIMP">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -657,7 +657,7 @@
         <schema:name>Feest-album der typographische vereeniging[en]: aangeboden aan J.F. Hoffman, burgemeester van Rotterdam, bij den 50 jarigen gedenkdag van den veldslag bij Waterloo.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Manuscript rdf:about="#item_2365">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/VBBG28L7">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>nijmegen1862</schema:about>
         <schema:url rdf:resource="https://hdl.handle.net/21.12122/2127158978"/>
@@ -665,7 +665,7 @@
         <schema:name>Programma's uit de periode 1869 - 1912 met onder andere feestzangen bij gelegenheid van de jaarfeesten van typografische vereniging &quot;Broederhulp&quot; te Nijmegen</schema:name>
         <schema:holdingArchive>NL-NmRAN</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Book rdf:about="#item_2367">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/VUCVKILB">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -687,7 +687,7 @@
         <schema:name>Gedenkboek der Costers-feesten van 15, 16 en 17 Julij 1856</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2369">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/8ZF42LLE">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -709,7 +709,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Gedenkboek uitgegeven ter gelegenheid van het honderdjarig bestaan, Typ. Vereniging &quot;Door eendracht t'zaam verbonden&quot;, Afd. Breda van de Ned. Graf. Bond: 1837-1937</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2370">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/UXZKXIWX">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -733,7 +733,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Gedenkboek uitgegeven ter gelegenheid van het vijftigjarig bestaan der typografische vereeniging onder de zinspreuk: &quot;Door Coster's fakkel voorgelicht, is deze vriendenkring gesticht&quot;: 2 Sept. 1849-2 Sept. 1899</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2371">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/WS2Q7G4Q">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -751,7 +751,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Verslag der feestviering bij gelegenheid van het gouden jubilé der typografische vereeniging. &quot;Door Eendragt t' Zaam Verbonden&quot;, op ... 7, 8, 9 Januari 1899 ... te 's-Gravenhage.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2372">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/5PN39AG3">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -782,7 +782,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Gedenkboekje van het vijftigjarig bestaan der typographische vereeniging &quot;Harmonie en vriendschap'' te Middelburg</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2373">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/XU3J6YFL">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -799,7 +799,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Ter gedachtenis aan het zilveren feest der Typographische Vereeniging &quot;Lourens Jansz. Coster&quot; te Leiden.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2374">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/G9QLKZTK">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -822,7 +822,7 @@
         <schema:name>De oudste vakbond van ons land, 1866-1916: ontstaan en vijftigjarige werkzaamheid van den Algemeenen Nederl. Typografenbond</schema:name>
         <schema:alternateName>De oudste vakbond van ons land</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2375">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/P8I6Q5BF">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -845,7 +845,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Costersfeest. Typographische tentoonstelling van wege de boekverkoopers vereeniging Lourens Jansz. Coster.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2376">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/JIV9GUU2">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -872,7 +872,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Laurens Jansz. Koster: een blik op de uitvinding der boekdrukkunst en op Haarlem, bij de aanstaande feesten in Julij 1856</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2377">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/P5HRJ669">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -885,7 +885,7 @@
         <schema:name>Jaarboekje voor typographische vereenigingen. 1. jaargang, 1856</schema:name>
         <schema:numberOfPages>142</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2379">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/94Y7SNKV">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -909,7 +909,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Ontboezeming en groete aan de banier der Typografische Vereeniging &quot;De Nederlandsche Drukpers&quot; mei 1858.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2380">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/GYDV7WNN">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -926,7 +926,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Liederen ter gelegenheid der buitengewone algemeene vergadering tot daarstelling eener banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 21 maart 1858, in den tuin De Nederlanden.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2381">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/IW2IVI9P">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -942,7 +942,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Liederen ter gelegenheid der der feestelijke onthulling van de banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 23 mei 1858, in den tuin De Nederlanden.</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2382">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/YWSJMJNN">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -968,7 +968,7 @@
         <schema:name>Hulde aan den uitvinder der boekdrukkunst: theatrale feestviering : te geven bij gelegenheid der buitengewone algemeene vergadering [van de Typographische Vereeniging De Nederlandsche Drukpers], gehouden ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster, op 14 julij 1860</schema:name>
         <schema:alternateName>Hulde aan den uitvinder der boekdrukkunst</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2383">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/XI34G7TT">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -986,7 +986,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Liederen, verspreid bij den triomftocht, op ... 16 November 1863, ter gelegenheid der viering van het vijftigste jaar van Neêrlands onafhankelijkheid, door de beide typographische vereenigingen &quot;De Nederlandsche drukpers&quot; en &quot;Voorzorg en genoegen.&quot;</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2384">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/IC5D47SL">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1008,7 +1008,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Triomftogt gehouden binnen Amsterdam op 19 Junij 1865 ter Gelegenheid der viering van den vijftigsten Gedenkdag der overwinning bij Waterloo. Ont-worpen en georganiseerd na bekomen magtiging van het Edel Achtbaar Bestuur der Stad Amsterdam door Bestuurderen der Typographische vereeniging De Nederlandsche Drukpers. Vervaardigd naar de officieele opgaven bijeenverzameld en onder toezigt bewerkt van den Secretaris der Hoofdcommissie M. Smidt</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2385">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/A7WCISRS">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1032,7 +1032,7 @@
         <schema:name>De Nederlandsche boekdrukkunst, vergeleken bij die van het buitenland: met het oog op de min geldelijke verdiensten van den Nederlandschen typograaf, benevens het middel om zijn maatschappelijken toestand te verbeteren</schema:name>
         <schema:alternateName>De Nederlandsche boekdrukkunst, vergeleken bij die van het buitenland</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2386">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/R5VDXHXS">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1056,7 +1056,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Fragment uit de Chronijck van Hollandt</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2387">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/3C3NMZ8H">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1085,7 +1085,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>De onderdaenen hielden den thienden penningh voor een onverdragelycken last ...</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2388">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/A3XUSPAH">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1114,7 +1114,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Verslag der afgevaardigden naar de Amsterdamsche tentoonstelling, van en aan de Typografische vereeniging &quot;Het Noorden&quot;, 1883</schema:name>
     </schema:Book>
-    <schema:Article rdf:about="#item_2389">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/L5ZJMBED">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
@@ -1132,7 +1132,7 @@
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Jaarverslag</schema:name>
     </schema:Article>
-    <schema:Book rdf:about="#item_2390">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/ZKI9FVA5">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1150,7 +1150,7 @@
         <schema:alternateName>Ter herinnering aan de viering van het vijf en twintigste kopperfeest der typographische vereeniging</schema:alternateName>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2391">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/BVZWEGAX">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1175,7 +1175,7 @@
         <schema:name>Redevoering, uitgesproken in de vergadering van de afdeeling zang der werkende leden van de typographische vereeniging De Nederlandsche Drukpers, den 23 maart 1860.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2392">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/4GS857SX">
         <schema:additionalType>book</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1192,7 +1192,7 @@
         <schema:name>Reglement der Typographische Vereeniging De Eendracht te Arnhem: opgericht 13 januari 1869.</schema:name>
         <schema:holdingArchive>Bibliotheek Rozet Arnhem</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2393">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/IZ5ZN66Q">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1218,7 +1218,7 @@
         <schema:name>Wet der Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam: opgerigt 23 februarij 1857.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2394">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/KYIX3D24">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1245,7 +1245,7 @@
         <schema:name>Statuten voor de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam: opgerigt 23 februarij 1857.</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2395">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/HWEX47T6">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1270,7 +1270,7 @@
         <schema:name>Statuten der Algemeene Nederlandsche Typographische Hoofd-Vereeniging: [vastgesteld 18 november 1860</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2397">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/BSZXZTN4">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1285,7 +1285,7 @@
         <schema:name>Lourens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>56</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2399">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/24XK3PSB">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1303,7 +1303,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>392</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2401">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/ISC9UYNV">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1319,7 +1319,7 @@
         <schema:alternateName>Laurens Coster</schema:alternateName>
         <schema:numberOfPages>392</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2403">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/KCUBK535">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1334,7 +1334,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>28</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2405">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/EV5PFUFU">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1349,7 +1349,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2407">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/8897PZMZ">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1364,7 +1364,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2409">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/J5C92YM3">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1380,7 +1380,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2411">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/3WAKYQXR">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1396,7 +1396,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2413">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/XILDBCTU">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1412,7 +1412,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2415">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/36DG7VBQ">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1427,7 +1427,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>36</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2417">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/WQDWWJGB">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1442,7 +1442,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>82</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2419">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/3VC69NBE">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1458,7 +1458,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>64</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2421">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/6QMPFRJ8">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1473,7 +1473,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>28</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2423">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/94BHTAWR">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1488,7 +1488,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>40</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2425">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/TN6AGLV2">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1503,7 +1503,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>344</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2427">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/RGRKP8MR">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1518,7 +1518,7 @@
         <schema:name>Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:numberOfPages>296</schema:numberOfPages>
     </schema:Book>
-    <schema:Book rdf:about="#item_2429">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/NBD498TF">
         <schema:additionalType>book</schema:additionalType>
         <schema:volumeNumber>4</schema:volumeNumber>
         <schema:bookEdition>1-12?</schema:bookEdition>
@@ -1526,7 +1526,7 @@
         <schema:name>Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2430">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/K2CUT46J">
         <schema:additionalType>book</schema:additionalType>
         <schema:volumeNumber>9</schema:volumeNumber>
         <schema:bookEdition>1-12?</schema:bookEdition>
@@ -1534,7 +1534,7 @@
         <schema:name>Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:holdingArchive>UB Utrecht</schema:holdingArchive>
     </schema:Book>
-    <schema:Book rdf:about="#item_2431">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/MTQ9HT7Q">
         <schema:additionalType>book</schema:additionalType>
         <schema:volumeNumber>10</schema:volumeNumber>
         <schema:bookEdition>1-12</schema:bookEdition>
@@ -1542,14 +1542,14 @@
         <schema:name>Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst</schema:name>
         <schema:holdingArchive>UB Utrecht</schema:holdingArchive>
     </schema:Book>
-    <schema:Manuscript rdf:about="#item_2432">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/5XMKIGTA">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:url rdf:resource="https://hdl.handle.net/10622/ARCH01707"/>
         <schema:additionalType>fonds</schema:additionalType>
         <schema:name>Archief Algemene Nederlandse Grafische Bond</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2433">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/3MJDD85M">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="https://archief.amsterdam/inventarissen/file/37d20b50bc9f3c5df22a79856f809c4c"/>
@@ -1561,7 +1561,7 @@
         <schema:name>Meijer, W.J. : diploma als lid der typographische vereeniging De Nederlandsche Drukpers N.B. Tevens bewijs van lidmaatschap</schema:name>
         <schema:holdingArchive>NL-AsdSAA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2434">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/QPQZLFSJ">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1574,8 +1574,8 @@
                <schema:familyName>Wertheim</schema:familyName>
             </schema:Person>
         </schema:contributor>
-        <schema:about>amsterdam1849</schema:about>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:about>amsterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/846530711"/>
         <schema:datePublished>1865</schema:datePublished>
         <schema:additionalType>item</schema:additionalType>
@@ -1583,7 +1583,7 @@
         <schema:name>Brief van Typographische Vereeniging Voorzorg en Genoegen geschreven door J.E. Meyer aan Typographische Vereeniging De Nederlandsche Drukpers gericht aan Wertheim</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2435">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/6KE2U6GM">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1591,15 +1591,15 @@
                 <schema:givenName>A.J</schema:givenName>
             </schema:Person>
         </schema:author>
-        <schema:about>amsterdam1849</schema:about>
         <schema:about>amsterdam1857-1</schema:about>
+        <schema:about>amsterdam1849</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/846514289"/>
         <schema:datePublished>1861</schema:datePublished>
         <schema:additionalType>file</schema:additionalType>
         <schema:name>Brieven van de Typographische Vereeniging Voorzorg en Genoegen geschreven door A.J. Kreyts aan de Typographische Vereeniging De Nederlandsche drukpers</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2436">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/XVP8G4AM">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1615,7 +1615,7 @@
         <schema:name>Brieven van Antonie Grevenstuk aan de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2437">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/8B5UQJCK">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1630,7 +1630,7 @@
         <schema:name>Brief van H.J. de Beet aan Bestuur der Typographische Vereeniging De Nederlandsche Drukpers Amsterdam</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2438">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/42VMDF3T">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -1646,7 +1646,7 @@
         <schema:name>Brief van J.A. Wildschut aan de Bestuurderen der Typographische Vereeniging &quot;De Nederlandsche Drukpers&quot; te Amsterdam</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2439">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/G6AVUSS8">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>amsterdam1857-1</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/150245053"/>
@@ -1656,7 +1656,7 @@
         <schema:name>Diploma voor ... der typographische vereeniging: De Nederlandsche Drukpers, opgerigt te Amsterdam, den 23 Februarij 1857</schema:name>
         <schema:holdingArchive>NL-AsdUvA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2440">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/VG3F5TBP">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/1155090416"/>
         <schema:datePublished>1856</schema:datePublished>
@@ -1665,7 +1665,7 @@
         <schema:name>Map met stukken betreffende de onthulling van het standbeeld van Laurens Janszoon Coster</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2441">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/RJTTPCLV">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>breda1837</schema:about>
         <schema:about>notulen</schema:about>
@@ -1679,17 +1679,17 @@
         <schema:name>Archief van Typografische Vereniging 'Door Eendracht T'zaam Verbonden' Breda</schema:name>
         <schema:holdingArchive>NL-BdSA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2442">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/2TVRY4ZX">
         <schema:additionalType>manuscript</schema:additionalType>
+        <schema:about>ledenlijst</schema:about>
         <schema:about>groningen1826</schema:about>
         <schema:about>groningen1888</schema:about>
-        <schema:about>ledenlijst</schema:about>
         <schema:url rdf:resource="https://proxy.archieven.nl/0/A09A25319C314B7EA810D61324442325"/>
         <schema:additionalType>series</schema:additionalType>
         <schema:name>2.2.7. Fondsvorming voor werknemerssteun en sociale verzekering alsmede voor een te bouwen gasthuis</schema:name>
         <schema:holdingArchive>NL-GnGRA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2443">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/4NBNFUYA">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:datePublished>1784-1990</schema:datePublished>
         <schema:about>
@@ -1699,7 +1699,7 @@
         <schema:name>[Archief van het] Boekverkoperscollege</schema:name>
         <schema:holdingArchive>NL-GnGRA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2444">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/HL5TZBKP">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>
            <dcterms:LCC><rdf:value>2484</rdf:value></dcterms:LCC>
@@ -1709,10 +1709,10 @@
         <schema:name>HBA [Het Bedrijfs Archief?] Enschede</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2445">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/KQLIQT34">
         <schema:additionalType>manuscript</schema:additionalType>
-        <schema:about>haarlem1851</schema:about>
         <schema:about>ledenlijst</schema:about>
+        <schema:about>haarlem1851</schema:about>
         <schema:datePublished>1851-1930</schema:datePublished>
         <schema:about>
            <dcterms:LCC><rdf:value>3883</rdf:value></dcterms:LCC>
@@ -1721,10 +1721,10 @@
         <schema:name>[ledenlijsten van Tot Nut en Gezellig Verkeer]</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2446">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/KGKZKMDS">
         <schema:additionalType>manuscript</schema:additionalType>
-        <schema:about>haarlem1851</schema:about>
         <schema:about>notulen</schema:about>
+        <schema:about>haarlem1851</schema:about>
         <schema:datePublished>1851-1930</schema:datePublished>
         <schema:about>
            <dcterms:LCC><rdf:value>3807-3811</rdf:value></dcterms:LCC>
@@ -1733,7 +1733,7 @@
         <schema:name>[notulenboeken van Tot Nut en Gezellig Verkeer]</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2447">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/7C6LIVIZ">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:url rdf:resource="https://hdl.handle.net/21.12102/54C2E0BEC3624E5E956FFA514A95C3F6"/>
         <schema:datePublished>1847-1859</schema:datePublished>
@@ -1744,7 +1744,7 @@
         <schema:name>[Archief van de] Commissie tot oprichting van een standbeeld voor Lourens Janszoon Coster te Haarlem</schema:name>
         <schema:holdingArchive>NL-HlmNHA</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2448">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/K8FLCFIU">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:url rdf:resource="https://hdl.handle.net/21.12122/2126492715"/>
         <schema:about>
@@ -1754,7 +1754,7 @@
         <schema:name>Collectie losse aanwinsten 1500 - heden</schema:name>
         <schema:holdingArchive>NL-NmRAN</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2449">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/S27V9UH2">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>notulen</schema:about>
         <schema:about>tiel1852</schema:about>
@@ -1768,7 +1768,7 @@
         <schema:name>Archief van de Typografische Vereniging Onderling Hulpbetoon te Tiel</schema:name>
         <schema:holdingArchive>NL-TlRAR</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2450">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/PLHRJR7U">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:datePublished>1859-1871</schema:datePublished>
         <schema:about>
@@ -1778,10 +1778,10 @@
         <schema:name>[Archief van de] Typographische vereeniging &quot;Nut en Voorzorg&quot; [te Gorinchem]</schema:name>
         <schema:holdingArchive>Regionaal Archief Gorinchem</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2451">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/5Z4IMDFN">
         <schema:additionalType>manuscript</schema:additionalType>
-        <schema:about>gorinchem1856</schema:about>
         <schema:about>notulen</schema:about>
+        <schema:about>gorinchem1856</schema:about>
         <schema:datePublished>1859-1871</schema:datePublished>
         <schema:about>
            <dcterms:LCC><rdf:value>1</rdf:value></dcterms:LCC>
@@ -1791,7 +1791,7 @@
         <schema:name>Register houdende notulen van vergaderingen, kopieën van inge­komen en uitgaande brieven en enige verslagen van gebeurtenissen met betrekking tot de typografische vereniging &quot;Nut en Voorzorg&quot;, alsmede het door Horneer gedrukte ‘Feestzangen bij gelegenheid van het zevende Kopperfeest 1863’</schema:name>
         <schema:holdingArchive>Regionaal Archief Gorinchem</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Book rdf:about="#item_2452">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/G7XFN76N">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1816,7 +1816,7 @@
         <schema:name>Waarachtige volksvrienden: de vroege socialistische beweging in Amsterdam, 1848-1894</schema:name>
         <schema:alternateName>Waarachtige volksvrienden</schema:alternateName>
     </schema:Book>
-    <schema:Article rdf:about="#item_2454">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/8H2UKA2T">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
@@ -1843,7 +1843,7 @@
         <schema:datePublished>2020-06-01</schema:datePublished>
         <schema:name>Waarom Nederland in 1848 geen revolutie kende</schema:name>
     </schema:Article>
-    <schema:Thesis rdf:about="#item_2455">
+    <schema:Thesis rdf:about="http://zotero.org/groups/2707622/items/FC2LUHTQ">
         <schema:additionalType>thesis</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1862,7 +1862,7 @@
         <schema:inLanguage>dutch</schema:inLanguage>
         <schema:name>Haarlem zegeviert: de Costerfeesten van 1823 en 1856 in lokaal perspectief | Student Repository</schema:name>
     </schema:Thesis>
-    <schema:Book rdf:about="#item_2458">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/PHHXIA2G">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1902,7 +1902,7 @@
         <schema:name>Haarlemse kringen: vijftien verkenningen naar het literair-culturele leven in een negentiende-eeuwse stad</schema:name>
         <schema:alternateName>Haarlemse kringen</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2459">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/CCINRYB8">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1929,7 +1929,7 @@
         <schema:name>Wars van clubgeest en partijzucht: liberalen, natie en verzuiling, Tiel en Winschoten 1859-1920</schema:name>
         <schema:alternateName>Wars van clubgeest en partijzucht</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2460">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/WX2PYDB5">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1951,7 +1951,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>Radicalen in Nederland (1840-1851)</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2461">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/7H2SNFBU">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1974,7 +1974,7 @@
         <schema:name>De metamorfose van Nederland: van oude orde naar moderniteit, 1750-1900</schema:name>
         <schema:alternateName>De metamorfose van Nederland</schema:alternateName>
     </schema:Book>
-    <schema:Thesis rdf:about="#item_2462">
+    <schema:Thesis rdf:about="http://zotero.org/groups/2707622/items/7E5FVS9G">
         <schema:additionalType>thesis</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -1998,7 +1998,7 @@
         <schema:inLanguage>Dutch</schema:inLanguage>
         <schema:name>De vakbeweging in Nederland, 1866-1878.</schema:name>
     </schema:Thesis>
-    <schema:Article rdf:about="#item_2463">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/X36YDLAJ">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf rdf:resource="urn:issn:0002-9602"/>
         <schema:author>
@@ -2023,7 +2023,7 @@
         <schema:name>American Journal of Sociology</schema:name>
         <schema:identifier>ISSN 0002-9602</schema:identifier>
     </schema:Periodical>
-    <schema:Book rdf:about="#item_2464">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/XMHDF3XV">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -2049,7 +2049,7 @@
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>The Roots of radicalism tradition, the public sphere, and early nineteenth-century social movements</schema:name>
     </schema:Book>
-    <schema:Article rdf:about="#item_2465">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/65SAVNTM">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
@@ -2068,7 +2068,7 @@
         <schema:datePublished>1988</schema:datePublished>
         <schema:name>De typographische vereeniging &quot;Nut en Voorzorg&quot;</schema:name>
     </schema:Article>
-    <rdf:Description rdf:about="#item_2466">
+    <rdf:Description rdf:about="http://zotero.org/groups/2707622/items/V2KMAMBL">
         <schema:additionalType>document</schema:additionalType>
         <schema:about>haarlem1851</schema:about>
         <schema:url rdf:resource="http://www.worldcat.org/oclc/1155091540"/>
@@ -2076,19 +2076,19 @@
         <schema:name>Draagteken van de Typographische Vereeniging ter Haarlem, bij de Feesten gedragen</schema:name>
         <schema:holdingArchive>NL-0100030000</schema:holdingArchive>
     </rdf:Description>
-    <rdf:Description rdf:about="#item_2467">
+    <rdf:Description rdf:about="http://zotero.org/groups/2707622/items/PL5RHBZV">
         <schema:additionalType>document</schema:additionalType>
         <schema:about>breda1837</schema:about>
         <schema:url rdf:resource="https://www.brabantserfgoed.nl/collectie/object/stedelijk-museum-breda/61004af23b006e9f979851c50ece1807237a6692"/>
         <schema:name>Draaginsigne Typografische Verenging Breda ‘Door Eendracht Tzaam verbonden’</schema:name>
     </rdf:Description>
-    <rdf:Description rdf:about="#item_2468">
+    <rdf:Description rdf:about="http://zotero.org/groups/2707622/items/IKMA989L">
         <schema:additionalType>document</schema:additionalType>
         <schema:about>breda1837</schema:about>
         <schema:url rdf:resource="https://www.brabantserfgoed.nl/collectie/object/stedelijk-museum-breda/24956d93177c42fe755748e731206b61491ee036"/>
         <schema:name>Draagpenning 25-jarig lidmaatschap Typografische Vereniging ‘Door Eendracht tzaam verbonden’</schema:name>
     </rdf:Description>
-    <schema:Article rdf:about="#item_2469">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/UTJPBK93">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
@@ -2107,7 +2107,7 @@
         <schema:datePublished>1970</schema:datePublished>
         <schema:name>De Bredase Typografenvereniging 'Door Eendracht 'tZaam Verbonden'</schema:name>
     </schema:Article>
-    <schema:Manuscript rdf:about="#item_2471">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/PMDKSF3S">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>amsterdam1849</schema:about>
         <schema:about>ledenlijst</schema:about>
@@ -2121,7 +2121,7 @@
         <schema:name>Typografische Vereeniging &quot;Voorzorg en Genoegen&quot;</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2472">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/TX4EZ9CG">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>amsterdam1857-1</schema:about>
         <schema:about>notulen</schema:about>
@@ -2134,7 +2134,7 @@
         <schema:name>Typografische Vereeniging &quot;De Nederlandsche Drukpers&quot;</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2473">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/C9K3M348">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>leiden1854</schema:about>
         <schema:about>rotterdam1849</schema:about>
@@ -2154,7 +2154,7 @@
         <schema:name>Collectie Statuten en reglementen</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Manuscript rdf:about="#item_2474">
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/FV6HJXDM">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about>middelburg1847</schema:about>
         <schema:about>amsterdam1857-1</schema:about>
@@ -2164,14 +2164,14 @@
         <schema:name>Collectie Koppermaandagliedjes e.a. typografische festiviteiten</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Manuscript>
-    <schema:Book rdf:about="#item_2475">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/VZTI7MT9">
         <schema:additionalType>book</schema:additionalType>
         <schema:url rdf:resource="https://hdl.handle.net/10622/B81D36A7-8A67-47D4-9691-3094C596DA7F"/>
         <schema:datePublished>1868</schema:datePublished>
         <schema:name>Levensgeschiedenis van de piependeraphische vereeniging onder den naam van &quot;Door eendragt t'zaam verbonden&quot;, geboren te 's-Gravenhage in Januarija van het jaar 1843. [...]. Uitgeschreeuwd ter eere van het 25 jarig jubillium, op Koppertjes-dronke-drukkers Maandag, 13 Januarij 1868.</schema:name>
         <schema:holdingArchive>NL-AsdIISG</schema:holdingArchive>
     </schema:Book>
-    <schema:Article rdf:about="#item_2476">
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/SG8YIU6L">
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
@@ -2190,7 +2190,7 @@
         <schema:datePublished>1972</schema:datePublished>
         <schema:name>Het ontstaan van de typografen-vakorganisatie in Nederland (1837-1869)</schema:name>
     </schema:Article>
-    <schema:Book rdf:about="#item_2477">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/HR9YPL92">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -2211,7 +2211,7 @@
         <schema:name>Transformations of Trade Unionism: Comparative and Transnational Perspectives on Workers Organizing in Europe and the United States, Eighteenth to Twenty-First Centuries</schema:name>
         <schema:alternateName>Transformations of Trade Unionism</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2478">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/FZ5DQ7H9">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -2235,7 +2235,7 @@
         <schema:name>Imagined communities: reflections on the origin and spread of nationalism</schema:name>
         <schema:alternateName>Imagined communities</schema:alternateName>
     </schema:Book>
-    <schema:Book rdf:about="#item_2479">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/7LYLRZTJ">
         <schema:additionalType>book</schema:additionalType>
         <schema:author>
             <schema:Person>
@@ -2248,7 +2248,7 @@
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>Invention of tradition</schema:name>
     </schema:Book>
-    <schema:Book rdf:about="#item_2481">
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/DE7S8AAM">
         <schema:additionalType>book</schema:additionalType>
         <schema:publisher>
             <schema:Organization>
@@ -2270,8 +2270,294 @@
         <schema:inLanguage>English</schema:inLanguage>
         <schema:name>Nations and nationalism</schema:name>
     </schema:Book>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/NWWMZDJL">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+                <schema:address>
+                    <schema:Place>
+                       <schema:name>Amsterdam</schema:name>
+                    </schema:Place>
+                </schema:address>
+                <schema:name>IISG</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Bos</schema:familyName>
+                <schema:givenName>Sandra B</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:identifier>ISBN 978-90-6861-158-8</schema:identifier>
+        <schema:datePublished>1998</schema:datePublished>
+        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:name>&quot;Uyt liefde tot malcander&quot;: onderlinge hulpverlening binnen de Noord-Nederlandse gilden in internationaal perspectief (1570-1820)</schema:name>
+    </schema:Book>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/UJE5VQ3Q">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf rdf:resource="urn:issn:1469-512X,%200020-8590"/>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Lucassen</schema:familyName>
+                <schema:givenName>Jan</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Moor</schema:familyName>
+                <schema:givenName>Tine De</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Zanden</schema:familyName>
+                <schema:givenName>Jan Luiten van</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:url rdf:resource="https://www.cambridge.org/core/journals/international-review-of-social-history/article/return-of-the-guilds-towards-a-global-history-of-the-guilds-in-preindustrial-times/59C25DE6DF72C4CEC5F44D10E83FFFDF"/>
+        <schema:pagination>5-18</schema:pagination>
+        <schema:datePublished>2008/12</schema:datePublished>
+        <schema:description>Publisher: Cambridge University Press</schema:description>
+        <z:accessDate>2021-02-05 08:12:43</z:accessDate>
+        <schema:includedInDataCatalog>Cambridge University Press</schema:includedInDataCatalog>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:name>The Return of the Guilds: Towards a Global History of the Guilds in Pre-industrial Times*</schema:name>
+        <schema:alternateName>The Return of the Guilds</schema:alternateName>
+    </schema:Article>
+    <schema:Periodical rdf:about="urn:issn:1469-512X,%200020-8590">
+        <schema:volumeNumber>53</schema:volumeNumber>
+        <schema:issueNumber>S16</schema:issueNumber>
+        <schema:name>International Review of Social History</schema:name>
+        <schema:identifier>ISSN 1469-512X, 0020-8590</schema:identifier>
+        <schema:identifier>DOI 10.1017/S0020859008003581</schema:identifier>
+    </schema:Periodical>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/2DFMFM3U">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+               <schema:name>De Gruyter Oldenbourg</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:editor>
+            <schema:Person>
+                <schema:familyName>Linden, van der</schema:familyName>
+                <schema:givenName>Marcel</schema:givenName>
+            </schema:Person>
+        </schema:editor>
+        <schema:editor>
+            <schema:Person>
+                <schema:familyName>Hofmeester</schema:familyName>
+                <schema:givenName>Karin</schema:givenName>
+            </schema:Person>
+        </schema:editor>
+        <schema:url rdf:resource="https://www.degruyter.com/document/doi/10.1515/9783110424584/html"/>
+        <schema:identifier>ISBN 978-3-11-042458-4</schema:identifier>
+        <schema:datePublished>2017/11/20</schema:datePublished>
+        <schema:description>Publication Title: Handbook Global History of Work</schema:description>
+        <z:accessDate>2021-02-05 08:22:17</z:accessDate>
+        <schema:includedInDataCatalog>www.degruyter.com</schema:includedInDataCatalog>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:abstract>Coffee from East Africa, wine from California, chocolate from the Ivory Coast - all those every day products are based on labour, often produced under appalling conditions, but always involving the combination of various work processes we are often not aware of. What is the day-to-day reality for workers in various parts of the world, and how was it in the past? How do they work today, and how did they work in the past? These and many other questions comprise the field of the global history of work &amp;#8211; a young discipline that is introduced with this handbook. In 8 thematic chapters, this book discusses these aspects of work in a global and long term perspective, paying attention to several kinds of work. Convict labour, slave and wage labour, labour migration, and workers of the textile industry, but also workers' organisation, strikes, and motivations for work are part of this first handbook of global labour history, written by the most renowned scholars of the profession.</schema:abstract>
+        <schema:name>Handbook Global History of Work</schema:name>
+    </schema:Book>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/L2Q5FUJ4">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Bos</schema:familyName>
+                <schema:givenName>Sandra B</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:url rdf:resource="https://doi.org/10.34894/JJMSPX"/>
+        <schema:datePublished>2010</schema:datePublished>
+        <schema:additionalType>dataset</schema:additionalType>
+        <schema:name>Journeymen's Boxes [Gildebussen]</schema:name>
+        <schema:holdingArchive>dataverse.nl</schema:holdingArchive>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/KEUREBC7">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:url rdf:resource="https://zoeken.liberas.eu/detail.php?id=1253538"/>
+        <schema:datePublished>1820-1940</schema:datePublished>
+        <schema:additionalType>archief</schema:additionalType>
+        <schema:name>Archief Société Typographique de Secours Mutuels de Bruxelles</schema:name>
+    </schema:Manuscript>
+    <bib:BookSection rdf:about="http://zotero.org/groups/2707622/items/9KVDM2QZ">
+        <schema:additionalType>bookSection</schema:additionalType>
+        <schema:isPartOf>
+            <bib:Book>
+                <schema:name>De Kracht der Zwakken: Studies over arbeid en arbeidersbeweging in het verleden</schema:name>
+            </bib:Book>
+        </schema:isPartOf>
+        <schema:publisher>
+            <schema:Organization>
+                <schema:address>
+                    <schema:Place>
+                       <schema:name>Amsterdam</schema:name>
+                    </schema:Place>
+                </schema:address>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Devreese</schema:familyName>
+                <schema:givenName>Daisy Eveline</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:pagination>109-138</schema:pagination>
+        <schema:datePublished>1992</schema:datePublished>
+        <schema:name>Ambachten, arbeidsmarkt en arbeidersbeweging: Vorming van de moderne arbeidersbeweging te Brussel, 1842-1867</schema:name>
+    </bib:BookSection>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/IJJUZWVB">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:isPartOf>
+            <bib:Series>
+                <schema:name>Palgrave Studies in the History of Finance</schema:name>
+            </bib:Series>
+        </schema:isPartOf>
+        <schema:publisher>
+            <schema:Organization>
+               <schema:name>Palgrave Macmillan UK</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Leeuwen</schema:familyName>
+                <schema:givenName>Marco H. D. Van</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:url rdf:resource="https://www.palgrave.com/gp/book/9781137531094"/>
+        <schema:identifier>ISBN 978-1-137-53109-4</schema:identifier>
+        <schema:datePublished>2016</schema:datePublished>
+        <schema:description>DOI: 10.1057/978-1-137-53110-0</schema:description>
+        <z:accessDate>2021-03-01 07:53:10</z:accessDate>
+        <schema:includedInDataCatalog>www.palgrave.com</schema:includedInDataCatalog>
+        <schema:inLanguage>en</schema:inLanguage>
+        <schema:abstract>In the modern Western world, we tend to be insured by the state or for-profit insurers. We have privileged this system over mutual or micro-insurance, whose long and rich history we tend to forget. Yet, mutual and micro-insurance is becoming increasingly important, both in the Western and in the non-Western world and bears re-examination. This book traces the track record of mutual insurance from 1550 to the present, examining provisions for burial, sickness, unemployment, old age, and widowhood. The author seeks to address such topics as the type of risks micro-insurance covered between 1550 and 2015; how it was organized throughout its history; who provided the coverage; and how contributions, benefit levels, and conditions have changed. Importantly, the author explores why this system has worked through, and endured, the test of time. Mutual insurance can, for instance, overcome classic insurance problems such as adverse selection and moral hazards. The author demonstrates that the study of the position micro-insurance historically assumed in mixed economies of welfare presents interesting lessons for today’s insurance market, as well as for today’s mutualism.</schema:abstract>
+        <schema:name>Mutual Insurance 1550-2015: From Guild Welfare and Friendly Societies to Contemporary Micro-Insurers</schema:name>
+        <schema:alternateName>Mutual Insurance 1550-2015</schema:alternateName>
+    </schema:Book>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/VKDJW35J">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Genabeek</schema:familyName>
+                <schema:givenName>Joost Antonius Gerardus Maria van</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:identifier>ISBN 978-90-6861-172-4</schema:identifier>
+        <schema:datePublished>1999</schema:datePublished>
+        <schema:description>OCLC: 742376724</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:name>Met vereende kracht risico's verzacht: de plaats van onderlinge hulp binnen de negentiende-eeuwse particuliere regelingen van sociale zekerheid</schema:name>
+        <schema:alternateName>Met vereende kracht risico's verzacht</schema:alternateName>
+    </schema:Book>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/ZI48CT6R">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+                <schema:address>
+                    <schema:Place>
+                       <schema:name>Bruxelles</schema:name>
+                    </schema:Place>
+                </schema:address>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Detilleux</schema:familyName>
+                <schema:givenName>Léon</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Van den Bosch</schema:familyName>
+                <schema:givenName>Louis</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>1912</schema:datePublished>
+        <schema:description>OCLC: 66262164</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>French</schema:inLanguage>
+        <schema:name>Historique de la Société typographique de secours mutuels de Bruxelles, 1820-1910</schema:name>
+    </schema:Book>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/62LNN6AI">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf>
+            <schema:Periodical>
+               <schema:name>Augsburger Buchdruck und Verlagswesen</schema:name>
+            </schema:Periodical>
+        </schema:isPartOf>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Kucera</schema:familyName>
+                <schema:givenName>Wolfgang</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>1997</schema:datePublished>
+        <schema:description>OCLC: 758418456</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>Undetermined</schema:inLanguage>
+        <schema:name>Die Druckergewerkschaften im 19. und 20. Jahrhundert</schema:name>
+    </schema:Article>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/H6CAEHI9">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf>
+            <schema:Periodical>
+                <schema:volumeNumber>1</schema:volumeNumber>
+                <schema:name>Geschichte des ersten fachlichen Wirtschaftsverbandes in Deutschland / Jürgen Steim</schema:name>
+            </schema:Periodical>
+        </schema:isPartOf>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Steim</schema:familyName>
+                <schema:givenName>Jürgen</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>1969</schema:datePublished>
+        <schema:description>OCLC: 758609497</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>German</schema:inLanguage>
+        <schema:name>Die gewerkschaftliche Organisation im Druckgewerbe von 1848 bis 1866</schema:name>
+    </schema:Article>
+    <schema:Thesis rdf:about="http://zotero.org/groups/2707622/items/2V5QRQVJ">
+        <schema:additionalType>thesis</schema:additionalType>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Scheriau</schema:familyName>
+                <schema:givenName>Karl Michael</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>2000</schema:datePublished>
+        <schema:description>ISBN: 9783937650036 9783831102112
+OCLC: 237386055</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>German</schema:inLanguage>
+        <schema:name>Kunstgenossen und Kollegen Entstehung, Aufbau, Wirkungsweise und Zielsetzung der Gewerkschaftsorganisation der deutschen Buchdrucker von 1848 bis 1933</schema:name>
+    </schema:Thesis>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/GRAK8AEV">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf>
+           <schema:Periodical></schema:Periodical>
+        </schema:isPartOf>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Gonon</schema:familyName>
+                <schema:givenName>Laurent</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>2011</schema:datePublished>
+        <schema:description>Place: S.l.
+Publisher: s.n.
+OCLC: 822866481</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>French</schema:inLanguage>
+        <schema:name>150 ans du Syndicat du livre: un dépôt d'archives qui facilitera le travail des chercheurs sur l'histoire du mouvement ouvrier lyonnais et singulièrement des imprimeurs.</schema:name>
+        <schema:alternateName>150 ans du Syndicat du livre</schema:alternateName>
+    </schema:Article>
     <schema:Collection rdf:about="#collection_59">
         <schema:name>archief</schema:name>
+        <schema:hasPart rdf:resource="#collection_74"/>
         <schema:hasPart rdf:resource="#collection_72"/>
         <schema:hasPart rdf:resource="#collection_60"/>
         <schema:hasPart rdf:resource="#collection_61"/>
@@ -2284,106 +2570,70 @@
         <schema:hasPart rdf:resource="#collection_68"/>
         <schema:hasPart rdf:resource="#collection_69"/>
     </schema:Collection>
+    <schema:Collection rdf:about="#collection_74">
+        <schema:name>B-IZ-GentLA</schema:name>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KEUREBC7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/ZI48CT6R"/>
+    </schema:Collection>
     <schema:Collection rdf:about="#collection_72">
         <schema:name>NL-0100030000</schema:name>
-        <schema:hasPart rdf:resource="#item_2440"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-0100030000</schema:name>
-        <schema:hasPart rdf:resource="#item_2440"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VG3F5TBP"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_60">
         <schema:name>NL-AsdIISG_ARCH01707</schema:name>
-        <schema:hasPart rdf:resource="#item_2432"/>
-        <schema:hasPart rdf:resource="#item_2471"/>
-        <schema:hasPart rdf:resource="#item_2472"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-AsdIISG_ARCH01707</schema:name>
-        <schema:hasPart rdf:resource="#item_2432"/>
-        <schema:hasPart rdf:resource="#item_2471"/>
-        <schema:hasPart rdf:resource="#item_2472"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/5XMKIGTA"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PMDKSF3S"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TX4EZ9CG"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_61">
         <schema:name>NL-AsdSAA_30579</schema:name>
-        <schema:hasPart rdf:resource="#item_2433"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-AsdSAA_30579</schema:name>
-        <schema:hasPart rdf:resource="#item_2433"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3MJDD85M"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_62">
         <schema:name>NL-AsdUvA</schema:name>
-        <schema:hasPart rdf:resource="#item_2434"/>
-        <schema:hasPart rdf:resource="#item_2435"/>
-        <schema:hasPart rdf:resource="#item_2436"/>
-        <schema:hasPart rdf:resource="#item_2437"/>
-        <schema:hasPart rdf:resource="#item_2438"/>
-        <schema:hasPart rdf:resource="#item_2439"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-AsdUvA</schema:name>
-        <schema:hasPart rdf:resource="#item_2434"/>
-        <schema:hasPart rdf:resource="#item_2435"/>
-        <schema:hasPart rdf:resource="#item_2436"/>
-        <schema:hasPart rdf:resource="#item_2437"/>
-        <schema:hasPart rdf:resource="#item_2438"/>
-        <schema:hasPart rdf:resource="#item_2439"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/QPQZLFSJ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/6KE2U6GM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XVP8G4AM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/8B5UQJCK"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/42VMDF3T"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/G6AVUSS8"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_63">
         <schema:name>NL-BdSA_ARC0291</schema:name>
-        <schema:hasPart rdf:resource="#item_2441"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-BdSA_ARC0291</schema:name>
-        <schema:hasPart rdf:resource="#item_2441"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/RJTTPCLV"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_64">
         <schema:name>NL-GnGRA_1733</schema:name>
-        <schema:hasPart rdf:resource="#item_2442"/>
-        <schema:hasPart rdf:resource="#item_2443"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-GnGRA_1733</schema:name>
-        <schema:hasPart rdf:resource="#item_2442"/>
-        <schema:hasPart rdf:resource="#item_2443"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/2TVRY4ZX"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/4NBNFUYA"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_65">
         <schema:name>NL-HlmNHA_2484</schema:name>
-        <schema:hasPart rdf:resource="#item_2444"/>
-        <schema:hasPart rdf:resource="#item_2445"/>
-        <schema:hasPart rdf:resource="#item_2446"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-HlmNHA_2484</schema:name>
-        <schema:hasPart rdf:resource="#item_2444"/>
-        <schema:hasPart rdf:resource="#item_2445"/>
-        <schema:hasPart rdf:resource="#item_2446"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HL5TZBKP"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KQLIQT34"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KGKZKMDS"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_66">
         <schema:name>NL-HlmNHA_3128</schema:name>
-        <schema:hasPart rdf:resource="#item_2447"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-HlmNHA_3128</schema:name>
-        <schema:hasPart rdf:resource="#item_2447"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7C6LIVIZ"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_67">
         <schema:name>NL-NmRAN_610</schema:name>
-        <schema:hasPart rdf:resource="#item_2365"/>
-        <schema:hasPart rdf:resource="#item_2448"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-NmRAN_610</schema:name>
-        <schema:hasPart rdf:resource="#item_2365"/>
-        <schema:hasPart rdf:resource="#item_2448"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VBBG28L7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/K8FLCFIU"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_68">
         <schema:name>NL-TlRAR_0059</schema:name>
-        <schema:hasPart rdf:resource="#item_2449"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>NL-TlRAR_0059</schema:name>
-        <schema:hasPart rdf:resource="#item_2449"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/S27V9UH2"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_69">
         <schema:name>RAG_128</schema:name>
-        <schema:hasPart rdf:resource="#item_2450"/>
-        <schema:hasPart rdf:resource="#item_2451"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>RAG_128</schema:name>
-        <schema:hasPart rdf:resource="#item_2450"/>
-        <schema:hasPart rdf:resource="#item_2451"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PLHRJR7U"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/5Z4IMDFN"/>
+    </schema:Collection>
+    <schema:Collection rdf:about="#collection_73">
+        <schema:name>datasets</schema:name>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/L2Q5FUJ4"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_53">
         <schema:name>gedrukte-bronnen</schema:name>
@@ -2392,257 +2642,149 @@
         <schema:hasPart rdf:resource="#collection_55"/>
         <schema:hasPart rdf:resource="#collection_56"/>
         <schema:hasPart rdf:resource="#collection_58"/>
-        <schema:hasPart rdf:resource="#item_2375"/>
-        <schema:hasPart rdf:resource="#item_2376"/>
-        <schema:hasPart rdf:resource="#item_2377"/>
-        <schema:hasPart rdf:resource="#item_2379"/>
-        <schema:hasPart rdf:resource="#item_2382"/>
-        <schema:hasPart rdf:resource="#item_2384"/>
-        <schema:hasPart rdf:resource="#item_2385"/>
-        <schema:hasPart rdf:resource="#item_2386"/>
-        <schema:hasPart rdf:resource="#item_2387"/>
-        <schema:hasPart rdf:resource="#item_2388"/>
-        <schema:hasPart rdf:resource="#item_2389"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/P8I6Q5BF"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/JIV9GUU2"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/P5HRJ669"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/94Y7SNKV"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/YWSJMJNN"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/IC5D47SL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/A7WCISRS"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/R5VDXHXS"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3C3NMZ8H"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/A3XUSPAH"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/L5ZJMBED"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_51">
         <schema:name>feestbundels</schema:name>
         <schema:hasPart rdf:resource="#collection_52"/>
-        <schema:hasPart rdf:resource="#item_2326"/>
-        <schema:hasPart rdf:resource="#item_2328"/>
-        <schema:hasPart rdf:resource="#item_2332"/>
-        <schema:hasPart rdf:resource="#item_2333"/>
-        <schema:hasPart rdf:resource="#item_2334"/>
-        <schema:hasPart rdf:resource="#item_2335"/>
-        <schema:hasPart rdf:resource="#item_2337"/>
-        <schema:hasPart rdf:resource="#item_2339"/>
-        <schema:hasPart rdf:resource="#item_2342"/>
-        <schema:hasPart rdf:resource="#item_2345"/>
-        <schema:hasPart rdf:resource="#item_2355"/>
-        <schema:hasPart rdf:resource="#item_2356"/>
-        <schema:hasPart rdf:resource="#item_2358"/>
-        <schema:hasPart rdf:resource="#item_2359"/>
-        <schema:hasPart rdf:resource="#item_2362"/>
-        <schema:hasPart rdf:resource="#item_2364"/>
-        <schema:hasPart rdf:resource="#item_2380"/>
-        <schema:hasPart rdf:resource="#item_2381"/>
-        <schema:hasPart rdf:resource="#item_2383"/>
-        <schema:hasPart rdf:resource="#item_2474"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>feestbundels</schema:name>
-        <schema:hasPart rdf:resource="#collection_52"/>
-        <schema:hasPart rdf:resource="#item_2326"/>
-        <schema:hasPart rdf:resource="#item_2328"/>
-        <schema:hasPart rdf:resource="#item_2332"/>
-        <schema:hasPart rdf:resource="#item_2333"/>
-        <schema:hasPart rdf:resource="#item_2334"/>
-        <schema:hasPart rdf:resource="#item_2335"/>
-        <schema:hasPart rdf:resource="#item_2337"/>
-        <schema:hasPart rdf:resource="#item_2339"/>
-        <schema:hasPart rdf:resource="#item_2342"/>
-        <schema:hasPart rdf:resource="#item_2345"/>
-        <schema:hasPart rdf:resource="#item_2355"/>
-        <schema:hasPart rdf:resource="#item_2356"/>
-        <schema:hasPart rdf:resource="#item_2358"/>
-        <schema:hasPart rdf:resource="#item_2359"/>
-        <schema:hasPart rdf:resource="#item_2362"/>
-        <schema:hasPart rdf:resource="#item_2364"/>
-        <schema:hasPart rdf:resource="#item_2380"/>
-        <schema:hasPart rdf:resource="#item_2381"/>
-        <schema:hasPart rdf:resource="#item_2383"/>
-        <schema:hasPart rdf:resource="#item_2474"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/Y5GFR4A8"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VFALSG32"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KS7UARPA"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/I6U5UC49"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/F6DWAKEH"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PGMKQE2F"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HSYRUEYR"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/2TZI3YAE"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TY6NLEVL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/JHXGXUYV"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/9XFUT42Y"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HHZREWXJ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/63GHLHTB"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/RDUQANYF"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/EQRG6Y55"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/QFC7TIMP"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/GYDV7WNN"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/IW2IVI9P"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XI34G7TT"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/FV6HJXDM"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_52">
         <schema:name>kopperfeesten</schema:name>
-        <schema:hasPart rdf:resource="#item_2327"/>
-        <schema:hasPart rdf:resource="#item_2329"/>
-        <schema:hasPart rdf:resource="#item_2330"/>
-        <schema:hasPart rdf:resource="#item_2331"/>
-        <schema:hasPart rdf:resource="#item_2336"/>
-        <schema:hasPart rdf:resource="#item_2338"/>
-        <schema:hasPart rdf:resource="#item_2340"/>
-        <schema:hasPart rdf:resource="#item_2341"/>
-        <schema:hasPart rdf:resource="#item_2343"/>
-        <schema:hasPart rdf:resource="#item_2344"/>
-        <schema:hasPart rdf:resource="#item_2346"/>
-        <schema:hasPart rdf:resource="#item_2347"/>
-        <schema:hasPart rdf:resource="#item_2348"/>
-        <schema:hasPart rdf:resource="#item_2349"/>
-        <schema:hasPart rdf:resource="#item_2350"/>
-        <schema:hasPart rdf:resource="#item_2351"/>
-        <schema:hasPart rdf:resource="#item_2352"/>
-        <schema:hasPart rdf:resource="#item_2353"/>
-        <schema:hasPart rdf:resource="#item_2354"/>
-        <schema:hasPart rdf:resource="#item_2357"/>
-        <schema:hasPart rdf:resource="#item_2360"/>
-        <schema:hasPart rdf:resource="#item_2361"/>
-        <schema:hasPart rdf:resource="#item_2363"/>
-        <schema:hasPart rdf:resource="#item_2365"/>
-        <schema:hasPart rdf:resource="#item_2390"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>kopperfeesten</schema:name>
-        <schema:hasPart rdf:resource="#item_2327"/>
-        <schema:hasPart rdf:resource="#item_2329"/>
-        <schema:hasPart rdf:resource="#item_2330"/>
-        <schema:hasPart rdf:resource="#item_2331"/>
-        <schema:hasPart rdf:resource="#item_2336"/>
-        <schema:hasPart rdf:resource="#item_2338"/>
-        <schema:hasPart rdf:resource="#item_2340"/>
-        <schema:hasPart rdf:resource="#item_2341"/>
-        <schema:hasPart rdf:resource="#item_2343"/>
-        <schema:hasPart rdf:resource="#item_2344"/>
-        <schema:hasPart rdf:resource="#item_2346"/>
-        <schema:hasPart rdf:resource="#item_2347"/>
-        <schema:hasPart rdf:resource="#item_2348"/>
-        <schema:hasPart rdf:resource="#item_2349"/>
-        <schema:hasPart rdf:resource="#item_2350"/>
-        <schema:hasPart rdf:resource="#item_2351"/>
-        <schema:hasPart rdf:resource="#item_2352"/>
-        <schema:hasPart rdf:resource="#item_2353"/>
-        <schema:hasPart rdf:resource="#item_2354"/>
-        <schema:hasPart rdf:resource="#item_2357"/>
-        <schema:hasPart rdf:resource="#item_2360"/>
-        <schema:hasPart rdf:resource="#item_2361"/>
-        <schema:hasPart rdf:resource="#item_2363"/>
-        <schema:hasPart rdf:resource="#item_2365"/>
-        <schema:hasPart rdf:resource="#item_2390"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>kopperfeesten</schema:name>
-        <schema:hasPart rdf:resource="#item_2327"/>
-        <schema:hasPart rdf:resource="#item_2329"/>
-        <schema:hasPart rdf:resource="#item_2330"/>
-        <schema:hasPart rdf:resource="#item_2331"/>
-        <schema:hasPart rdf:resource="#item_2336"/>
-        <schema:hasPart rdf:resource="#item_2338"/>
-        <schema:hasPart rdf:resource="#item_2340"/>
-        <schema:hasPart rdf:resource="#item_2341"/>
-        <schema:hasPart rdf:resource="#item_2343"/>
-        <schema:hasPart rdf:resource="#item_2344"/>
-        <schema:hasPart rdf:resource="#item_2346"/>
-        <schema:hasPart rdf:resource="#item_2347"/>
-        <schema:hasPart rdf:resource="#item_2348"/>
-        <schema:hasPart rdf:resource="#item_2349"/>
-        <schema:hasPart rdf:resource="#item_2350"/>
-        <schema:hasPart rdf:resource="#item_2351"/>
-        <schema:hasPart rdf:resource="#item_2352"/>
-        <schema:hasPart rdf:resource="#item_2353"/>
-        <schema:hasPart rdf:resource="#item_2354"/>
-        <schema:hasPart rdf:resource="#item_2357"/>
-        <schema:hasPart rdf:resource="#item_2360"/>
-        <schema:hasPart rdf:resource="#item_2361"/>
-        <schema:hasPart rdf:resource="#item_2363"/>
-        <schema:hasPart rdf:resource="#item_2365"/>
-        <schema:hasPart rdf:resource="#item_2390"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/V2AVIYS7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7TTZHF5F"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/U94YR8CM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3D6VXAL2"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/Y9336EPH"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/Z33PRYZU"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/SGA2CMRR"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/QFIJ2CB7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/W2R997LC"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/DYYME5XX"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TGDTMTV2"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/GSJHETUP"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/US6ZMVZG"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XRJVN2IU"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/ZRRPY8S5"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7S97LLDW"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/U45LQDZH"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HGMVQWBW"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/SRWWLEFN"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TQ8LE67N"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/Y3ENGVDL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/NAJAF6XW"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/UXR8HWSE"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VBBG28L7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/ZKI9FVA5"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_54">
         <schema:name>gedenkboeken</schema:name>
-        <schema:hasPart rdf:resource="#item_2367"/>
-        <schema:hasPart rdf:resource="#item_2369"/>
-        <schema:hasPart rdf:resource="#item_2370"/>
-        <schema:hasPart rdf:resource="#item_2371"/>
-        <schema:hasPart rdf:resource="#item_2372"/>
-        <schema:hasPart rdf:resource="#item_2373"/>
-        <schema:hasPart rdf:resource="#item_2374"/>
-        <schema:hasPart rdf:resource="#item_2475"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>gedenkboeken</schema:name>
-        <schema:hasPart rdf:resource="#item_2367"/>
-        <schema:hasPart rdf:resource="#item_2369"/>
-        <schema:hasPart rdf:resource="#item_2370"/>
-        <schema:hasPart rdf:resource="#item_2371"/>
-        <schema:hasPart rdf:resource="#item_2372"/>
-        <schema:hasPart rdf:resource="#item_2373"/>
-        <schema:hasPart rdf:resource="#item_2374"/>
-        <schema:hasPart rdf:resource="#item_2475"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VUCVKILB"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/8ZF42LLE"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/UXZKXIWX"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/WS2Q7G4Q"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/5PN39AG3"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XU3J6YFL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/G9QLKZTK"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VZTI7MT9"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_55">
         <schema:name>redevoeringen</schema:name>
-        <schema:hasPart rdf:resource="#item_2391"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>redevoeringen</schema:name>
-        <schema:hasPart rdf:resource="#item_2391"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/BVZWEGAX"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_56">
         <schema:name>reglementen</schema:name>
-        <schema:hasPart rdf:resource="#item_2392"/>
-        <schema:hasPart rdf:resource="#item_2393"/>
-        <schema:hasPart rdf:resource="#item_2394"/>
-        <schema:hasPart rdf:resource="#item_2395"/>
-        <schema:hasPart rdf:resource="#item_2473"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>reglementen</schema:name>
-        <schema:hasPart rdf:resource="#item_2392"/>
-        <schema:hasPart rdf:resource="#item_2393"/>
-        <schema:hasPart rdf:resource="#item_2394"/>
-        <schema:hasPart rdf:resource="#item_2395"/>
-        <schema:hasPart rdf:resource="#item_2473"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/4GS857SX"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/IZ5ZN66Q"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KYIX3D24"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HWEX47T6"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/C9K3M348"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_58">
         <schema:name>tijdschriften</schema:name>
-        <schema:hasPart rdf:resource="#item_2397"/>
-        <schema:hasPart rdf:resource="#item_2399"/>
-        <schema:hasPart rdf:resource="#item_2401"/>
-        <schema:hasPart rdf:resource="#item_2403"/>
-        <schema:hasPart rdf:resource="#item_2405"/>
-        <schema:hasPart rdf:resource="#item_2407"/>
-        <schema:hasPart rdf:resource="#item_2409"/>
-        <schema:hasPart rdf:resource="#item_2411"/>
-        <schema:hasPart rdf:resource="#item_2413"/>
-        <schema:hasPart rdf:resource="#item_2415"/>
-        <schema:hasPart rdf:resource="#item_2417"/>
-        <schema:hasPart rdf:resource="#item_2419"/>
-        <schema:hasPart rdf:resource="#item_2421"/>
-        <schema:hasPart rdf:resource="#item_2423"/>
-        <schema:hasPart rdf:resource="#item_2425"/>
-        <schema:hasPart rdf:resource="#item_2427"/>
-        <schema:hasPart rdf:resource="#item_2429"/>
-        <schema:hasPart rdf:resource="#item_2430"/>
-        <schema:hasPart rdf:resource="#item_2431"/>
-        <rdf:type rdf:resource="https://schema.org/Collection"/>
-        <schema:name>tijdschriften</schema:name>
-        <schema:hasPart rdf:resource="#item_2397"/>
-        <schema:hasPart rdf:resource="#item_2399"/>
-        <schema:hasPart rdf:resource="#item_2401"/>
-        <schema:hasPart rdf:resource="#item_2403"/>
-        <schema:hasPart rdf:resource="#item_2405"/>
-        <schema:hasPart rdf:resource="#item_2407"/>
-        <schema:hasPart rdf:resource="#item_2409"/>
-        <schema:hasPart rdf:resource="#item_2411"/>
-        <schema:hasPart rdf:resource="#item_2413"/>
-        <schema:hasPart rdf:resource="#item_2415"/>
-        <schema:hasPart rdf:resource="#item_2417"/>
-        <schema:hasPart rdf:resource="#item_2419"/>
-        <schema:hasPart rdf:resource="#item_2421"/>
-        <schema:hasPart rdf:resource="#item_2423"/>
-        <schema:hasPart rdf:resource="#item_2425"/>
-        <schema:hasPart rdf:resource="#item_2427"/>
-        <schema:hasPart rdf:resource="#item_2429"/>
-        <schema:hasPart rdf:resource="#item_2430"/>
-        <schema:hasPart rdf:resource="#item_2431"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/BSZXZTN4"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/24XK3PSB"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/ISC9UYNV"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/KCUBK535"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/EV5PFUFU"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/8897PZMZ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/J5C92YM3"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3WAKYQXR"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XILDBCTU"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/36DG7VBQ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/WQDWWJGB"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3VC69NBE"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/6QMPFRJ8"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/94BHTAWR"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TN6AGLV2"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/RGRKP8MR"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/NBD498TF"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/K2CUT46J"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/MTQ9HT7Q"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_70">
         <schema:name>literatuur</schema:name>
-        <schema:hasPart rdf:resource="#item_2452"/>
-        <schema:hasPart rdf:resource="#item_2454"/>
-        <schema:hasPart rdf:resource="#item_2455"/>
-        <schema:hasPart rdf:resource="#item_2458"/>
-        <schema:hasPart rdf:resource="#item_2459"/>
-        <schema:hasPart rdf:resource="#item_2460"/>
-        <schema:hasPart rdf:resource="#item_2461"/>
-        <schema:hasPart rdf:resource="#item_2462"/>
-        <schema:hasPart rdf:resource="#item_2463"/>
-        <schema:hasPart rdf:resource="#item_2464"/>
-        <schema:hasPart rdf:resource="#item_2465"/>
-        <schema:hasPart rdf:resource="#item_2469"/>
-        <schema:hasPart rdf:resource="#item_2476"/>
-        <schema:hasPart rdf:resource="#item_2477"/>
-        <schema:hasPart rdf:resource="#item_2478"/>
-        <schema:hasPart rdf:resource="#item_2479"/>
-        <schema:hasPart rdf:resource="#item_2481"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/G7XFN76N"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/8H2UKA2T"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/FC2LUHTQ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PHHXIA2G"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/CCINRYB8"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/WX2PYDB5"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7H2SNFBU"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7E5FVS9G"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/X36YDLAJ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/XMHDF3XV"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/65SAVNTM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/UTJPBK93"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/SG8YIU6L"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/HR9YPL92"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/FZ5DQ7H9"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/7LYLRZTJ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/DE7S8AAM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/NWWMZDJL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/UJE5VQ3Q"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/2DFMFM3U"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/9KVDM2QZ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/IJJUZWVB"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/VKDJW35J"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/62LNN6AI"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/H6CAEHI9"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/2V5QRQVJ"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/GRAK8AEV"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_71">
         <schema:name>objecten</schema:name>
-        <schema:hasPart rdf:resource="#item_2466"/>
-        <schema:hasPart rdf:resource="#item_2467"/>
-        <schema:hasPart rdf:resource="#item_2468"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/V2KMAMBL"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PL5RHBZV"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/IKMA989L"/>
     </schema:Collection>
 </rdf:RDF>

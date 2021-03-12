@@ -15,7 +15,7 @@ NB2: maybe in the future exporting Zotero in CSV and transforming that into RDF 
 
 ## Archival sources
 (not yet implemented in the script, so maybe the workaround changes if this turns out to be too complex to implement in the script)
-Unfortunately Zotero does not support efficient and unambiguous ways of storing data on original archival sources. This means I had to design a workaround for storing data on archival material and incorporate this design in my translator. If you want to reuse this script you either must adopt my workaround or create your own workaround and adjust the script accordingly.
+Unfortunately Zotero does not support ([yet?](https://forums.zotero.org/discussion/comment/374107)) efficient and unambiguous ways of storing data on original archival sources. This means I had to design a workaround for storing data on archival material and incorporate this design in my translator. If you want to reuse this script you either must adopt my workaround or create your own workaround and adjust the script accordingly.
 
 ### My workaround for storing archival sources
 * I create a collection for every (archival) fonds.
