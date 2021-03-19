@@ -1,0 +1,1088 @@
+<http://costerskinderen.nl/isil/id/NL-AmrRAA> <https://schema.org/location> "Alkmaar" .
+<http://costerskinderen.nl/isil/id/NL-AmrRAA> <https://schema.org/name> "Regionaal Archief Alkmaar" .
+<http://costerskinderen.nl/isil/id/NL-AmrRAA> <http://costerskinderen.nl/isil/def/Toegekend> "18-8-2009" .
+<http://costerskinderen.nl/isil/id/NL-AmrRAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AmlHA> <https://schema.org/location> "Almelo" .
+<http://costerskinderen.nl/isil/id/NL-AmlHA> <https://schema.org/name> "Gemeente Almelo" .
+<http://costerskinderen.nl/isil/id/NL-AmlHA> <http://costerskinderen.nl/isil/def/Toegekend> "28-8-2015" .
+<http://costerskinderen.nl/isil/id/NL-AmlHA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AlSARM> <https://schema.org/location> "Alphen aan den Rijn" .
+<http://costerskinderen.nl/isil/id/NL-AlSARM> <https://schema.org/name> "Streekarchief Rijnlands Midden" .
+<http://costerskinderen.nl/isil/id/NL-AlSARM> <http://costerskinderen.nl/isil/def/Toegekend> "2-3-2009" .
+<http://costerskinderen.nl/isil/id/NL-AlSARM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AmfAE> <https://schema.org/location> "Amersfoort" .
+<http://costerskinderen.nl/isil/id/NL-AmfAE> <https://schema.org/name> "Archief Eemland" .
+<http://costerskinderen.nl/isil/id/NL-AmfAE> <http://costerskinderen.nl/isil/def/Toegekend> "8-6-2009" .
+<http://costerskinderen.nl/isil/id/NL-AmfAE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdAFS> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdAFS> <https://schema.org/name> "Anne Frank Stichting" .
+<http://costerskinderen.nl/isil/id/NL-AsdAFS> <http://costerskinderen.nl/isil/def/Toegekend> "30-8-2012" .
+<http://costerskinderen.nl/isil/id/NL-AsdAFS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdNIOD> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdNIOD> <https://schema.org/name> "NIOD" .
+<http://costerskinderen.nl/isil/id/NL-AsdNIOD> <http://costerskinderen.nl/isil/def/Toegekend> "20-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-AsdNIOD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdRM> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdRM> <https://schema.org/name> "Rijksmuseum" .
+<http://costerskinderen.nl/isil/id/NL-AsdRM> <http://costerskinderen.nl/isil/def/Toegekend> "7-3-2013" .
+<http://costerskinderen.nl/isil/id/NL-AsdRM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdSAA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdSAA> <https://schema.org/name> "Stadsarchief Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdSAA> <http://costerskinderen.nl/isil/def/Toegekend> "21-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-AsdSAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdUvA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdUvA> <https://schema.org/name> "Universiteitsbibliotheek van Amsterdam " .
+<http://costerskinderen.nl/isil/id/NL-AsdUvA> <http://costerskinderen.nl/isil/def/Toegekend> "15-10-2012" .
+<http://costerskinderen.nl/isil/id/NL-AsdUvA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdATRIA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdATRIA> <https://schema.org/name> "ATRIA" .
+<http://costerskinderen.nl/isil/id/NL-AsdATRIA> <http://costerskinderen.nl/isil/def/Toegekend> "31-3-2014" .
+<http://costerskinderen.nl/isil/id/NL-AsdATRIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdJHM> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdJHM> <https://schema.org/name> "Joods Historisch Museum" .
+<http://costerskinderen.nl/isil/id/NL-AsdJHM> <http://costerskinderen.nl/isil/def/Toegekend> "19-2-2015" .
+<http://costerskinderen.nl/isil/id/NL-AsdJHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdSA218> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdSA218> <https://schema.org/name> "Stichting Amstel 218" .
+<http://costerskinderen.nl/isil/id/NL-AsdSA218> <http://costerskinderen.nl/isil/def/Toegekend> "24-2-2015" .
+<http://costerskinderen.nl/isil/id/NL-AsdSA218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdWAGV> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdWAGV> <https://schema.org/name> "Waterschap Amstel, Gooi en Vecht " .
+<http://costerskinderen.nl/isil/id/NL-AsdWAGV> <http://costerskinderen.nl/isil/def/Toegekend> "21-5-2015" .
+<http://costerskinderen.nl/isil/id/NL-AsdWAGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdIISG> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdIISG> <https://schema.org/name> "Internationaal Instituut voor Sociale Geschiedenis" .
+<http://costerskinderen.nl/isil/id/NL-AsdIISG> <http://costerskinderen.nl/isil/def/Toegekend> "1-5-2016" .
+<http://costerskinderen.nl/isil/id/NL-AsdIISG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ApgGA> <https://schema.org/location> "Appingedam" .
+<http://costerskinderen.nl/isil/id/NL-ApgGA> <https://schema.org/name> "Gemeente Appingedam" .
+<http://costerskinderen.nl/isil/id/NL-ApgGA> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-ApgGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AhGldA> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/isil/id/NL-AhGldA> <https://schema.org/name> "Gelders Archief" .
+<http://costerskinderen.nl/isil/id/NL-AhGldA> <http://costerskinderen.nl/isil/def/Toegekend> "2-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-AhGldA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AhSOGK> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/isil/id/NL-AhSOGK> <https://schema.org/name> "Stichting Oude Gelderse Kerken " .
+<http://costerskinderen.nl/isil/id/NL-AhSOGK> <http://costerskinderen.nl/isil/def/Toegekend> "12-1-2015" .
+<http://costerskinderen.nl/isil/id/NL-AhSOGK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsnDA_> <https://schema.org/location> "Assen" .
+<http://costerskinderen.nl/isil/id/NL-AsnDA_> <https://schema.org/name> "Drents Archief" .
+<http://costerskinderen.nl/isil/id/NL-AsnDA_> <http://costerskinderen.nl/isil/def/Toegekend> "24-8-2009" .
+<http://costerskinderen.nl/isil/id/NL-AsnDA_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsnPD> <https://schema.org/location> "Assen" .
+<http://costerskinderen.nl/isil/id/NL-AsnPD> <https://schema.org/name> "Provincie Drenthe" .
+<http://costerskinderen.nl/isil/id/NL-AsnPD> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-AsnPD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DdvHVA> <https://schema.org/location> "Avereest " .
+<http://costerskinderen.nl/isil/id/NL-DdvHVA> <https://schema.org/name> "Historische Vereniging Averees" .
+<http://costerskinderen.nl/isil/id/NL-DdvHVA> <http://costerskinderen.nl/isil/def/Toegekend> "8-12-2014" .
+<http://costerskinderen.nl/isil/id/NL-DdvHVA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BdmGB> <https://schema.org/location> "Bedum" .
+<http://costerskinderen.nl/isil/id/NL-BdmGB> <https://schema.org/name> "Gemeente Bedum" .
+<http://costerskinderen.nl/isil/id/NL-BdmGB> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-BdmGB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BlGMD> <https://schema.org/location> "Beilen" .
+<http://costerskinderen.nl/isil/id/NL-BlGMD> <https://schema.org/name> "Gemeente Midden-Drenthe" .
+<http://costerskinderen.nl/isil/id/NL-BlGMD> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-BlGMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BtloVHAD> <https://schema.org/location> "Bentelo" .
+<http://costerskinderen.nl/isil/id/NL-BtloVHAD> <https://schema.org/name> "Vereniging Heemkunde Ambt Delden " .
+<http://costerskinderen.nl/isil/id/NL-BtloVHAD> <http://costerskinderen.nl/isil/def/Toegekend> "27-3-2014" .
+<http://costerskinderen.nl/isil/id/NL-BtloVHAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BozWBA> <https://schema.org/location> "Bergen op Zoom" .
+<http://costerskinderen.nl/isil/id/NL-BozWBA> <https://schema.org/name> "West Brabants Archief " .
+<http://costerskinderen.nl/isil/id/NL-BozWBA> <http://costerskinderen.nl/isil/def/Toegekend> "16-8-2016" .
+<http://costerskinderen.nl/isil/id/NL-BozWBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BwdADRKF> <https://schema.org/location> "Bolsward" .
+<http://costerskinderen.nl/isil/id/NL-BwdADRKF> <https://schema.org/name> "Archief- en Documentatiecentrum voor R.K. Friesland" .
+<http://costerskinderen.nl/isil/id/NL-BwdADRKF> <http://costerskinderen.nl/isil/def/Toegekend> "12-10-2015" .
+<http://costerskinderen.nl/isil/id/NL-BwdADRKF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BnHVB> <https://schema.org/location> "Borne" .
+<http://costerskinderen.nl/isil/id/NL-BnHVB> <https://schema.org/name> "Heemkunde Vereniging Borne " .
+<http://costerskinderen.nl/isil/id/NL-BnHVB> <http://costerskinderen.nl/isil/def/Toegekend> "24-12-2013" .
+<http://costerskinderen.nl/isil/id/NL-BnHVB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BnGB> <https://schema.org/location> "Borne" .
+<http://costerskinderen.nl/isil/id/NL-BnGB> <https://schema.org/name> "Gemeente Borne" .
+<http://costerskinderen.nl/isil/id/NL-BnGB> <http://costerskinderen.nl/isil/def/Toegekend> "13-10-2016" .
+<http://costerskinderen.nl/isil/id/NL-BnGB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BdSA_> <https://schema.org/location> "Breda" .
+<http://costerskinderen.nl/isil/id/NL-BdSA_> <https://schema.org/name> "Stadsarchief Breda" .
+<http://costerskinderen.nl/isil/id/NL-BdSA_> <http://costerskinderen.nl/isil/def/Toegekend> "13-1-2009" .
+<http://costerskinderen.nl/isil/id/NL-BdSA_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BklVV> <https://schema.org/location> "Breukelen" .
+<http://costerskinderen.nl/isil/id/NL-BklVV> <https://schema.org/name> "RHC Vecht en Venen" .
+<http://costerskinderen.nl/isil/id/NL-BklVV> <http://costerskinderen.nl/isil/def/Toegekend> "4-11-2013" .
+<http://costerskinderen.nl/isil/id/NL-BklVV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BleSAVPR> <https://schema.org/location> "Brielle" .
+<http://costerskinderen.nl/isil/id/NL-BleSAVPR> <https://schema.org/name> "Streekarchief Voorne-Putten en Rozenburg " .
+<http://costerskinderen.nl/isil/id/NL-BleSAVPR> <http://costerskinderen.nl/isil/def/Toegekend> "8-6-2009" .
+<http://costerskinderen.nl/isil/id/NL-BleSAVPR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BkldSHB> <https://schema.org/location> "Broekland" .
+<http://costerskinderen.nl/isil/id/NL-BkldSHB> <https://schema.org/name> "Stichting Historie Broekland " .
+<http://costerskinderen.nl/isil/id/NL-BkldSHB> <http://costerskinderen.nl/isil/def/Toegekend> "17-7-2012" .
+<http://costerskinderen.nl/isil/id/NL-BkldSHB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BtpGA> <https://schema.org/location> "Buitenpost" .
+<http://costerskinderen.nl/isil/id/NL-BtpGA> <https://schema.org/name> "Gemeente Achtkarspelen" .
+<http://costerskinderen.nl/isil/id/NL-BtpGA> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-BtpGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BgmGT> <https://schema.org/location> "Burgum" .
+<http://costerskinderen.nl/isil/id/NL-BgmGT> <https://schema.org/name> "Gemeente Tytsjerksteradiel" .
+<http://costerskinderen.nl/isil/id/NL-BgmGT> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-BgmGT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-CoGC> <https://schema.org/location> "Coevorden" .
+<http://costerskinderen.nl/isil/id/NL-CoGC> <https://schema.org/name> "Gemeente Coevorden" .
+<http://costerskinderen.nl/isil/id/NL-CoGC> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-CoGC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DsHKD> <https://schema.org/location> "Dalfsen" .
+<http://costerskinderen.nl/isil/id/NL-DsHKD> <https://schema.org/name> "Historische Kring Dalfsen " .
+<http://costerskinderen.nl/isil/id/NL-DsHKD> <http://costerskinderen.nl/isil/def/Toegekend> "16-9-2014" .
+<http://costerskinderen.nl/isil/id/NL-DsHKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DdnTSA> <https://schema.org/location> "Delden" .
+<http://costerskinderen.nl/isil/id/NL-DdnTSA> <https://schema.org/name> "St. Historisch Centrum Hof van Twente Twentsstreekarchief " .
+<http://costerskinderen.nl/isil/id/NL-DdnTSA> <http://costerskinderen.nl/isil/def/Toegekend> "22-6-2014" .
+<http://costerskinderen.nl/isil/id/NL-DdnTSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DtAD> <https://schema.org/location> "Delft" .
+<http://costerskinderen.nl/isil/id/NL-DtAD> <https://schema.org/name> "Archief Delft" .
+<http://costerskinderen.nl/isil/id/NL-DtAD> <http://costerskinderen.nl/isil/def/Toegekend> "20-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-DtAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DtHHD> <https://schema.org/location> "Delft" .
+<http://costerskinderen.nl/isil/id/NL-DtHHD> <https://schema.org/name> "Archiefdienst Hoogheemraadschap Delfland " .
+<http://costerskinderen.nl/isil/id/NL-DtHHD> <http://costerskinderen.nl/isil/def/Toegekend> "1-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-DtHHD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DzGD> <https://schema.org/location> "Delfzijl" .
+<http://costerskinderen.nl/isil/id/NL-DzGD> <https://schema.org/name> "Gemeente Delfzijl" .
+<http://costerskinderen.nl/isil/id/NL-DzGD> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-DzGD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HtBHIC> <https://schema.org/location> "Den Bosch" .
+<http://costerskinderen.nl/isil/id/NL-HtBHIC> <https://schema.org/name> "BHIC" .
+<http://costerskinderen.nl/isil/id/NL-HtBHIC> <http://costerskinderen.nl/isil/def/Toegekend> "28-3-2012" .
+<http://costerskinderen.nl/isil/id/NL-HtBHIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HtSA> <https://schema.org/location> "Den Bosch" .
+<http://costerskinderen.nl/isil/id/NL-HtSA> <https://schema.org/name> "Stadsarchief �s-Hertogenbosch " .
+<http://costerskinderen.nl/isil/id/NL-HtSA> <http://costerskinderen.nl/isil/def/Toegekend> "20-3-2014" .
+<http://costerskinderen.nl/isil/id/NL-HtSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DdrHVDD> <https://schema.org/location> "Den Dolder" .
+<http://costerskinderen.nl/isil/id/NL-DdrHVDD> <https://schema.org/name> "Historische Vereniging Den Dolder" .
+<http://costerskinderen.nl/isil/id/NL-DdrHVDD> <http://costerskinderen.nl/isil/def/Toegekend> "9-1-2012" .
+<http://costerskinderen.nl/isil/id/NL-DdrHVDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaCBG> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaCBG> <https://schema.org/name> "Centraal Bureau voor Genealogie" .
+<http://costerskinderen.nl/isil/id/NL-HaCBG> <http://costerskinderen.nl/isil/def/Toegekend> "1-4-2010" .
+<http://costerskinderen.nl/isil/id/NL-HaCBG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaDANS> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaDANS> <https://schema.org/name> "Data Archiving & Networked Services" .
+<http://costerskinderen.nl/isil/id/NL-HaDANS> <http://costerskinderen.nl/isil/def/Toegekend> "4-11-2013" .
+<http://costerskinderen.nl/isil/id/NL-HaDANS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaHGA._> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaHGA._> <https://schema.org/name> "Haags Gemeentearchief" .
+<http://costerskinderen.nl/isil/id/NL-HaHGA._> <http://costerskinderen.nl/isil/def/Toegekend> "19-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-HaHGA._> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaNA> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaNA> <https://schema.org/name> "Nationaal Archief" .
+<http://costerskinderen.nl/isil/id/NL-HaNA> <http://costerskinderen.nl/isil/def/Toegekend> "10-10-2008" .
+<http://costerskinderen.nl/isil/id/NL-HaNA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaNRK> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaNRK> <https://schema.org/name> "Nederlandse Rode Kruis " .
+<http://costerskinderen.nl/isil/id/NL-HaNRK> <http://costerskinderen.nl/isil/def/Toegekend> "5-7-2012" .
+<http://costerskinderen.nl/isil/id/NL-HaNRK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaRKD> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaRKD> <https://schema.org/name> "Rijksbureau voor Kunsthistorische Documentatie " .
+<http://costerskinderen.nl/isil/id/NL-HaRKD> <http://costerskinderen.nl/isil/def/Toegekend> "20-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-HaRKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaCMC> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaCMC> <https://schema.org/name> "Cultureel Ma�onniek Centrum 'Prins Frederik'" .
+<http://costerskinderen.nl/isil/id/NL-HaCMC> <http://costerskinderen.nl/isil/def/Toegekend> "4-3-2014" .
+<http://costerskinderen.nl/isil/id/NL-HaCMC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaAZ> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaAZ> <https://schema.org/name> "Ministerie van Algemene Zaken" .
+<http://costerskinderen.nl/isil/id/NL-HaAZ> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaAZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaBZK> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaBZK> <https://schema.org/name> "Ministerie van Binnenlandse Zaken en Koninkrijksrelaties" .
+<http://costerskinderen.nl/isil/id/NL-HaBZK> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaBZK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaBZ> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaBZ> <https://schema.org/name> "Ministerie van Buitenlandse Zaken" .
+<http://costerskinderen.nl/isil/id/NL-HaBZ> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaBZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaDEF> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaDEF> <https://schema.org/name> "Ministerie van Defensie" .
+<http://costerskinderen.nl/isil/id/NL-HaDEF> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaDEF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaEZ> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaEZ> <https://schema.org/name> "Ministerie van Economische Zaken" .
+<http://costerskinderen.nl/isil/id/NL-HaEZ> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaEZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaFIN> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaFIN> <https://schema.org/name> "Ministerie van Financi�n" .
+<http://costerskinderen.nl/isil/id/NL-HaFIN> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaFIN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaIM> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaIM> <https://schema.org/name> "Ministerie van Infrastructuur en Milieu" .
+<http://costerskinderen.nl/isil/id/NL-HaIM> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaIM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaOCW> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaOCW> <https://schema.org/name> "Ministerie van Onderwijs, Cultuur en Wetenschap" .
+<http://costerskinderen.nl/isil/id/NL-HaOCW> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaOCW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaSZW> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaSZW> <https://schema.org/name> "Ministerie van Sociale Zaken en Werkgelegenheid" .
+<http://costerskinderen.nl/isil/id/NL-HaSZW> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaSZW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaVJ> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaVJ> <https://schema.org/name> "Ministerie van Veiligheid en Justitie" .
+<http://costerskinderen.nl/isil/id/NL-HaVJ> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaVJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaVWS> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaVWS> <https://schema.org/name> "Ministerie van Volksgezondheid, Welzijn en Sport" .
+<http://costerskinderen.nl/isil/id/NL-HaVWS> <http://costerskinderen.nl/isil/def/Toegekend> "26-3-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaVWS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaKV> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaKV> <https://schema.org/name> "Koninklijke Verzamelingen" .
+<http://costerskinderen.nl/isil/id/NL-HaKV> <http://costerskinderen.nl/isil/def/Toegekend> "4-6-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaKV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HAMuscom> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HAMuscom> <https://schema.org/name> "Museum voor Communucatie" .
+<http://costerskinderen.nl/isil/id/NL-HAMuscom> <http://costerskinderen.nl/isil/def/Toegekend> "2-7-2015" .
+<http://costerskinderen.nl/isil/id/NL-HAMuscom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaMM> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaMM> <https://schema.org/name> "Museum Meermanno " .
+<http://costerskinderen.nl/isil/id/NL-HaMM> <http://costerskinderen.nl/isil/def/Toegekend> "5-10-2015" .
+<http://costerskinderen.nl/isil/id/NL-HaMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaDD> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaDD> <https://schema.org/name> "Doc-Direkt" .
+<http://costerskinderen.nl/isil/id/NL-HaDD> <http://costerskinderen.nl/isil/def/Toegekend> "21-3-2016" .
+<http://costerskinderen.nl/isil/id/NL-HaDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaNIMH> <https://schema.org/location> "Den Haag " .
+<http://costerskinderen.nl/isil/id/NL-HaNIMH> <https://schema.org/name> "Nederlands Instutuut voor Militaire Historie" .
+<http://costerskinderen.nl/isil/id/NL-HaNIMH> <http://costerskinderen.nl/isil/def/Toegekend> "1-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-HaNIMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HamOVDHV> <https://schema.org/location> "Den Ham" .
+<http://costerskinderen.nl/isil/id/NL-HamOVDHV> <https://schema.org/name> "Oudheidkundige Vereniging Den Ham-Vroomshoop " .
+<http://costerskinderen.nl/isil/id/NL-HamOVDHV> <http://costerskinderen.nl/isil/def/Toegekend> "21-8-2014" .
+<http://costerskinderen.nl/isil/id/NL-HamOVDHV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DvSA�_> <https://schema.org/location> "Deventer" .
+<http://costerskinderen.nl/isil/id/NL-DvSA�_> <https://schema.org/name> "Stadsarchief en Athenaeumbibliotheek " .
+<http://costerskinderen.nl/isil/id/NL-DvSA�_> <http://costerskinderen.nl/isil/def/Toegekend> "12-2-2009" .
+<http://costerskinderen.nl/isil/id/NL-DvSA�_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DvHCO> <https://schema.org/location> "Deventer" .
+<http://costerskinderen.nl/isil/id/NL-DvHCO> <https://schema.org/name> "Historisch Centrum Overijssel � Vestiging Deventer " .
+<http://costerskinderen.nl/isil/id/NL-DvHCO> <http://costerskinderen.nl/isil/def/Toegekend> "13-10-2016" .
+<http://costerskinderen.nl/isil/id/NL-DvHCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DphOD> <https://schema.org/location> "Diepenheim" .
+<http://costerskinderen.nl/isil/id/NL-DphOD> <https://schema.org/name> "Historische Vereniging Old Deep�n " .
+<http://costerskinderen.nl/isil/id/NL-DphOD> <http://costerskinderen.nl/isil/def/Toegekend> "24-12-2013" .
+<http://costerskinderen.nl/isil/id/NL-DphOD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DpvHVDD> <https://schema.org/location> "Diepenveen" .
+<http://costerskinderen.nl/isil/id/NL-DpvHVDD> <https://schema.org/name> "Historische Vereniging Dorp Diepenveen en omgeving" .
+<http://costerskinderen.nl/isil/id/NL-DpvHVDD> <http://costerskinderen.nl/isil/def/Toegekend> "18-1-2013" .
+<http://costerskinderen.nl/isil/id/NL-DpvHVDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DiGW> <https://schema.org/location> "Diever" .
+<http://costerskinderen.nl/isil/id/NL-DiGW> <https://schema.org/name> "Gemeente Westerveld" .
+<http://costerskinderen.nl/isil/id/NL-DiGW> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-DiGW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DtcSARA> <https://schema.org/location> "Doetinchem" .
+<http://costerskinderen.nl/isil/id/NL-DtcSARA> <https://schema.org/name> "Erfgoedcentrum Achterhoek en Liemers " .
+<http://costerskinderen.nl/isil/id/NL-DtcSARA> <http://costerskinderen.nl/isil/def/Toegekend> "8-2-2013" .
+<http://costerskinderen.nl/isil/id/NL-DtcSARA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DdtRAD_> <https://schema.org/location> "Dordrecht" .
+<http://costerskinderen.nl/isil/id/NL-DdtRAD_> <https://schema.org/name> "Regionaal Archief Dordrecht" .
+<http://costerskinderen.nl/isil/id/NL-DdtRAD_> <http://costerskinderen.nl/isil/def/Toegekend> "2-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-DdtRAD_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DtnGS> <https://schema.org/location> "Drachten" .
+<http://costerskinderen.nl/isil/id/NL-DtnGS> <https://schema.org/name> "Gemeente Smallingerland" .
+<http://costerskinderen.nl/isil/id/NL-DtnGS> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-DtnGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EdGA._> <https://schema.org/location> "Ede" .
+<http://costerskinderen.nl/isil/id/NL-EdGA._> <https://schema.org/name> "Gemeentearchief Ede" .
+<http://costerskinderen.nl/isil/id/NL-EdGA._> <http://costerskinderen.nl/isil/def/Toegekend> "28-1-2009" .
+<http://costerskinderen.nl/isil/id/NL-EdGA._> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EhvRHCE_> <https://schema.org/location> "Eindhoven" .
+<http://costerskinderen.nl/isil/id/NL-EhvRHCE_> <https://schema.org/name> "Regionaal Historisch Centrum Eindhoven" .
+<http://costerskinderen.nl/isil/id/NL-EhvRHCE_> <http://costerskinderen.nl/isil/def/Toegekend> "25-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-EhvRHCE_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EmnGE> <https://schema.org/location> "Emmen" .
+<http://costerskinderen.nl/isil/id/NL-EmnGE> <https://schema.org/name> "Gemeente Emmen" .
+<http://costerskinderen.nl/isil/id/NL-EmnGE> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-EmnGE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsSA> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsSA> <https://schema.org/name> "Stadsarchief Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsSA> <http://costerskinderen.nl/isil/def/Toegekend> "25-10-2011" .
+<http://costerskinderen.nl/isil/id/NL-EsSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsUAT> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsUAT> <https://schema.org/name> "Universitair archief Twente" .
+<http://costerskinderen.nl/isil/id/NL-EsUAT> <http://costerskinderen.nl/isil/def/Toegekend> "6-3-2014" .
+<http://costerskinderen.nl/isil/id/NL-EsUAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsOKT> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsOKT> <https://schema.org/name> "Vereniging Oudheidkamer Twente" .
+<http://costerskinderen.nl/isil/id/NL-EsOKT> <http://costerskinderen.nl/isil/def/Toegekend> "27-8-2015" .
+<http://costerskinderen.nl/isil/id/NL-EsOKT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsMTW> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsMTW> <https://schema.org/name> "Museum TwentseWelle " .
+<http://costerskinderen.nl/isil/id/NL-EsMTW> <http://costerskinderen.nl/isil/def/Toegekend> "11-7-2016" .
+<http://costerskinderen.nl/isil/id/NL-EsMTW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ExGBO> <https://schema.org/location> "Exloo" .
+<http://costerskinderen.nl/isil/id/NL-ExGBO> <https://schema.org/name> "Gemeente Borger-Odoorn" .
+<http://costerskinderen.nl/isil/id/NL-ExGBO> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-ExGBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-FwGF> <https://schema.org/location> "Ferwert" .
+<http://costerskinderen.nl/isil/id/NL-FwGF> <https://schema.org/name> "Gemeente Ferwerderadiel" .
+<http://costerskinderen.nl/isil/id/NL-FwGF> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-FwGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-FnGF> <https://schema.org/location> "Franeker" .
+<http://costerskinderen.nl/isil/id/NL-FnGF> <https://schema.org/name> "Gemeente Franekeradeel" .
+<http://costerskinderen.nl/isil/id/NL-FnGF> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-FnGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GmtGAGB> <https://schema.org/location> "Gemert" .
+<http://costerskinderen.nl/isil/id/NL-GmtGAGB> <https://schema.org/name> "Gemeentearchief Gemert-Bakel " .
+<http://costerskinderen.nl/isil/id/NL-GmtGAGB> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-GmtGAGB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GtnGAH> <https://schema.org/location> "Gieten" .
+<http://costerskinderen.nl/isil/id/NL-GtnGAH> <https://schema.org/name> "Gemeente Aa en Hunze" .
+<http://costerskinderen.nl/isil/id/NL-GtnGAH> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-GtnGAH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GoSHG> <https://schema.org/location> "Goor" .
+<http://costerskinderen.nl/isil/id/NL-GoSHG> <https://schema.org/name> "Stichting Historisch Goor" .
+<http://costerskinderen.nl/isil/id/NL-GoSHG> <http://costerskinderen.nl/isil/def/Toegekend> "24-2-2014" .
+<http://costerskinderen.nl/isil/id/NL-GoSHG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/Nl-GdSAMH> <https://schema.org/location> "Gouda" .
+<http://costerskinderen.nl/isil/id/Nl-GdSAMH> <https://schema.org/name> "Streekarchief Midden Holland" .
+<http://costerskinderen.nl/isil/id/Nl-GdSAMH> <http://costerskinderen.nl/isil/def/Toegekend> "27-4-2009" .
+<http://costerskinderen.nl/isil/id/Nl-GdSAMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnADNG> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnADNG> <https://schema.org/name> "Archief en Documentatiecentrum Nederlandse Gedragswetenschappen " .
+<http://costerskinderen.nl/isil/id/NL-GnADNG> <http://costerskinderen.nl/isil/def/Toegekend> "21-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-GnADNG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnGRA> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnGRA> <https://schema.org/name> "Groninger Archieven" .
+<http://costerskinderen.nl/isil/id/NL-GnGRA> <http://costerskinderen.nl/isil/def/Toegekend> "24-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-GnGRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnNRCE__> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnNRCE__> <https://schema.org/name> "Nederland Rusland Centrum" .
+<http://costerskinderen.nl/isil/id/NL-GnNRCE__> <http://costerskinderen.nl/isil/def/Toegekend> "1-7-2013" .
+<http://costerskinderen.nl/isil/id/NL-GnNRCE__> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnUMG> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnUMG> <https://schema.org/name> "Universiteitsmuseum Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnUMG> <http://costerskinderen.nl/isil/def/Toegekend> "8-7-2011" .
+<http://costerskinderen.nl/isil/id/NL-GnUMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnPG> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnPG> <https://schema.org/name> "Provincie Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnPG> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-GnPG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnWN> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/isil/id/NL-GnWN> <https://schema.org/name> "Waterschap Noorderzijlvest" .
+<http://costerskinderen.nl/isil/id/NL-GnWN> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-GnWN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GnDNPP> <https://schema.org/location> "Groningen " .
+<http://costerskinderen.nl/isil/id/NL-GnDNPP> <https://schema.org/name> "Documentatiecentrum Nederlandse Politieke Partijen " .
+<http://costerskinderen.nl/isil/id/NL-GnDNPP> <http://costerskinderen.nl/isil/def/Toegekend> "25-8-2014" .
+<http://costerskinderen.nl/isil/id/NL-GnDNPP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-GtgGG> <https://schema.org/location> "Grootegast" .
+<http://costerskinderen.nl/isil/id/NL-GtgGG> <https://schema.org/name> "Gemeente Grootegast" .
+<http://costerskinderen.nl/isil/id/NL-GtgGG> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-GtgGG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HkbHKH> <https://schema.org/location> "Haaksbergen" .
+<http://costerskinderen.nl/isil/id/NL-HkbHKH> <https://schema.org/name> "Historische Kring Haaksbergen " .
+<http://costerskinderen.nl/isil/id/NL-HkbHKH> <http://costerskinderen.nl/isil/def/Toegekend> "4-6-2015" .
+<http://costerskinderen.nl/isil/id/NL-HkbHKH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HleSMH> <https://schema.org/location> "Haarle" .
+<http://costerskinderen.nl/isil/id/NL-HleSMH> <https://schema.org/name> "Stichting Marke Haarle " .
+<http://costerskinderen.nl/isil/id/NL-HleSMH> <http://costerskinderen.nl/isil/def/Toegekend> "15-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HleSMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HlmNHA> <https://schema.org/location> "Haarlem" .
+<http://costerskinderen.nl/isil/id/NL-HlmNHA> <https://schema.org/name> "Noord-Hollands Archief" .
+<http://costerskinderen.nl/isil/id/NL-HlmNHA> <http://costerskinderen.nl/isil/def/Toegekend> "25-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-HlmNHA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HdbGA> <https://schema.org/location> "Hardenberg" .
+<http://costerskinderen.nl/isil/id/NL-HdbGA> <https://schema.org/name> "Gemeentearchief Hardenberg" .
+<http://costerskinderen.nl/isil/id/NL-HdbGA> <http://costerskinderen.nl/isil/def/Toegekend> "1-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-HdbGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HdbHVH> <https://schema.org/location> "Hardenberg" .
+<http://costerskinderen.nl/isil/id/NL-HdbHVH> <https://schema.org/name> "Historische Vereniging Hardenberg e.o." .
+<http://costerskinderen.nl/isil/id/NL-HdbHVH> <http://costerskinderen.nl/isil/def/Toegekend> "5-8-2013" .
+<http://costerskinderen.nl/isil/id/NL-HdbHVH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HrnGH> <https://schema.org/location> "Haren (Groningen)" .
+<http://costerskinderen.nl/isil/id/NL-HrnGH> <https://schema.org/name> "Gemeente Haren" .
+<http://costerskinderen.nl/isil/id/NL-HrnGH> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HrnGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HlGH> <https://schema.org/location> "Harlingen" .
+<http://costerskinderen.nl/isil/id/NL-HlGH> <https://schema.org/name> "Gemeente Harlingen" .
+<http://costerskinderen.nl/isil/id/NL-HlGH> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HlGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HrvGH> <https://schema.org/location> "Heerenveen" .
+<http://costerskinderen.nl/isil/id/NL-HrvGH> <https://schema.org/name> "Gemeente Heerenveen" .
+<http://costerskinderen.nl/isil/id/NL-HrvGH> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HrvGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HrvLJGF> <https://schema.org/location> "Heerenveen" .
+<http://costerskinderen.nl/isil/id/NL-HrvLJGF> <https://schema.org/name> "Liberaal Joodse Gemeente Friesland (LJG Friesland)" .
+<http://costerskinderen.nl/isil/id/NL-HrvLJGF> <http://costerskinderen.nl/isil/def/Toegekend> "12-10-2015" .
+<http://costerskinderen.nl/isil/id/NL-HrvLJGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HrlRi_> <https://schema.org/location> "Heerlen" .
+<http://costerskinderen.nl/isil/id/NL-HrlRi_> <https://schema.org/name> "Centrum voor Regionale Geschiedenis Rijckheyt " .
+<http://costerskinderen.nl/isil/id/NL-HrlRi_> <http://costerskinderen.nl/isil/def/Toegekend> "5-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-HrlRi_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HdnSALHA> <https://schema.org/location> "Heusden" .
+<http://costerskinderen.nl/isil/id/NL-HdnSALHA> <https://schema.org/name> "Streekarchief Land van Heusden en Altena" .
+<http://costerskinderen.nl/isil/id/NL-HdnSALHA> <http://costerskinderen.nl/isil/def/Toegekend> "30-6-2011" .
+<http://costerskinderen.nl/isil/id/NL-HdnSALHA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HvsSAGV> <https://schema.org/location> "Hilversum" .
+<http://costerskinderen.nl/isil/id/NL-HvsSAGV> <https://schema.org/name> "Streekarchief Gooi en Vechtstreek " .
+<http://costerskinderen.nl/isil/id/NL-HvsSAGV> <http://costerskinderen.nl/isil/def/Toegekend> "20-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-HvsSAGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HgvGH> <https://schema.org/location> "Hoogeveen" .
+<http://costerskinderen.nl/isil/id/NL-HgvGH> <https://schema.org/name> "Gemeente Hoogeveen" .
+<http://costerskinderen.nl/isil/id/NL-HgvGH> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HgvGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HgzGHS> <https://schema.org/location> "Hoogezand" .
+<http://costerskinderen.nl/isil/id/NL-HgzGHS> <https://schema.org/name> "Gemeente Hoogezand-Sappemeer" .
+<http://costerskinderen.nl/isil/id/NL-HgzGHS> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-HgzGHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HhlHCKW> <https://schema.org/location> "Hooghalen" .
+<http://costerskinderen.nl/isil/id/NL-HhlHCKW> <https://schema.org/name> "Herinneringscentrum Kamp Westerbork " .
+<http://costerskinderen.nl/isil/id/NL-HhlHCKW> <http://costerskinderen.nl/isil/def/Toegekend> "2-12-2016" .
+<http://costerskinderen.nl/isil/id/NL-HhlHCKW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HnWFA> <https://schema.org/location> "Hoorn" .
+<http://costerskinderen.nl/isil/id/NL-HnWFA> <https://schema.org/name> "Westfries Archief " .
+<http://costerskinderen.nl/isil/id/NL-HnWFA> <http://costerskinderen.nl/isil/def/Toegekend> "10-7-2012" .
+<http://costerskinderen.nl/isil/id/NL-HnWFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HltGA> <https://schema.org/location> "Hulst" .
+<http://costerskinderen.nl/isil/id/NL-HltGA> <https://schema.org/name> "Gemeentearchief Hulst" .
+<http://costerskinderen.nl/isil/id/NL-HltGA> <http://costerskinderen.nl/isil/def/Toegekend> "3-8-2015" .
+<http://costerskinderen.nl/isil/id/NL-HltGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-IJssHKIJ> <https://schema.org/location> "IJsselsein" .
+<http://costerskinderen.nl/isil/id/NL-IJssHKIJ> <https://schema.org/name> "Historische Kring IJsselstein " .
+<http://costerskinderen.nl/isil/id/NL-IJssHKIJ> <http://costerskinderen.nl/isil/def/Toegekend> "13-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-IJssHKIJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-IJssSDN> <https://schema.org/location> "IJsselstein " .
+<http://costerskinderen.nl/isil/id/NL-IJssSDN> <https://schema.org/name> "Stichting Dodenakkers " .
+<http://costerskinderen.nl/isil/id/NL-IJssSDN> <http://costerskinderen.nl/isil/def/Toegekend> "18-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-IJssSDN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-JrGFM> <https://schema.org/location> "Joure" .
+<http://costerskinderen.nl/isil/id/NL-JrGFM> <https://schema.org/name> "Gemeente De Fryske Marren" .
+<http://costerskinderen.nl/isil/id/NL-JrGFM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-JrGFM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-KpGA> <https://schema.org/location> "Kampen" .
+<http://costerskinderen.nl/isil/id/NL-KpGA> <https://schema.org/name> "Gemeentearchief Kampen" .
+<http://costerskinderen.nl/isil/id/NL-KpGA> <http://costerskinderen.nl/isil/def/Toegekend> "25-4-2014" .
+<http://costerskinderen.nl/isil/id/NL-KpGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-KrdGA.> <https://schema.org/location> "Kerkrade" .
+<http://costerskinderen.nl/isil/id/NL-KrdGA.> <https://schema.org/name> "Gemeentearchief Kerkrade" .
+<http://costerskinderen.nl/isil/id/NL-KrdGA.> <http://costerskinderen.nl/isil/def/Toegekend> "29-4-2013" .
+<http://costerskinderen.nl/isil/id/NL-KrdGA.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-KlmGK> <https://schema.org/location> "Kollum" .
+<http://costerskinderen.nl/isil/id/NL-KlmGK> <https://schema.org/name> "Gemeente Kollumerland ca." .
+<http://costerskinderen.nl/isil/id/NL-KlmGK> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-KlmGK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-KhfHK> <https://schema.org/location> "Kortenhoef" .
+<http://costerskinderen.nl/isil/id/NL-KhfHK> <https://schema.org/name> "Historische Kring Ankeveen �s-Graveland en Kortenhoef." .
+<http://costerskinderen.nl/isil/id/NL-KhfHK> <http://costerskinderen.nl/isil/def/Toegekend> "3-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-KhfHK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LekGL> <https://schema.org/location> "Leek" .
+<http://costerskinderen.nl/isil/id/NL-LekGL> <https://schema.org/name> "Gemeente Leek" .
+<http://costerskinderen.nl/isil/id/NL-LekGL> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-LekGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LnsGDM> <https://schema.org/location> "Leens" .
+<http://costerskinderen.nl/isil/id/NL-LnsGDM> <https://schema.org/name> "Gemeente De Marne" .
+<http://costerskinderen.nl/isil/id/NL-LnsGDM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-LnsGDM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdmHVL> <https://schema.org/location> "Leerdam" .
+<http://costerskinderen.nl/isil/id/NL-LdmHVL> <https://schema.org/name> "Historische Vereniging Leerdam" .
+<http://costerskinderen.nl/isil/id/NL-LdmHVL> <http://costerskinderen.nl/isil/def/Toegekend> "9-1-2014" .
+<http://costerskinderen.nl/isil/id/NL-LdmHVL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-04-0041-000> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/isil/id/NL-04-0041-000> <https://schema.org/name> "Tresoar" .
+<http://costerskinderen.nl/isil/id/NL-04-0041-000> <http://costerskinderen.nl/isil/def/Toegekend> "11-11-2013" .
+<http://costerskinderen.nl/isil/id/NL-04-0041-000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LwWA_> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/isil/id/NL-LwWA_> <https://schema.org/name> "Wetterskip Frysl�n " .
+<http://costerskinderen.nl/isil/id/NL-LwWA_> <http://costerskinderen.nl/isil/def/Toegekend> "8-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-LwWA_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LwHCL_> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/isil/id/NL-LwHCL_> <https://schema.org/name> "Gemeentearchief Leeuwarden" .
+<http://costerskinderen.nl/isil/id/NL-LwHCL_> <http://costerskinderen.nl/isil/def/Toegekend> "24-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-LwHCL_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LwPF> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/isil/id/NL-LwPF> <https://schema.org/name> "Provincie Fryslan" .
+<http://costerskinderen.nl/isil/id/NL-LwPF> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-LwPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnHHR> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnHHR> <https://schema.org/name> "Hoogheemraadschap van Rijnland " .
+<http://costerskinderen.nl/isil/id/NL-LdnHHR> <http://costerskinderen.nl/isil/def/Toegekend> "13-9-2011" .
+<http://costerskinderen.nl/isil/id/NL-LdnHHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnKITLV> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnKITLV> <https://schema.org/name> "KITLV" .
+<http://costerskinderen.nl/isil/id/NL-LdnKITLV> <http://costerskinderen.nl/isil/def/Toegekend> "29-3-2012" .
+<http://costerskinderen.nl/isil/id/NL-LdnKITLV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnRAL�> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnRAL�> <https://schema.org/name> "Erfgoed Leiden en Omstreken" .
+<http://costerskinderen.nl/isil/id/NL-LdnRAL�> <http://costerskinderen.nl/isil/def/Toegekend> "27-8-2009" .
+<http://costerskinderen.nl/isil/id/NL-LdnRAL�> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnRMO> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMO> <https://schema.org/name> "Rijksmuseum van Oudheden" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMO> <http://costerskinderen.nl/isil/def/Toegekend> "30-8-2012" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnRMV> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMV> <https://schema.org/name> "Rijksmuseum voor Volkenkunde" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMV> <http://costerskinderen.nl/isil/def/Toegekend> "12-5-2011" .
+<http://costerskinderen.nl/isil/id/NL-LdnRMV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnMB> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnMB> <https://schema.org/name> "Museum Boerhave" .
+<http://costerskinderen.nl/isil/id/NL-LdnMB> <http://costerskinderen.nl/isil/def/Toegekend> "30-9-2014" .
+<http://costerskinderen.nl/isil/id/NL-LdnMB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LlsNLE> <https://schema.org/location> "Lelystad" .
+<http://costerskinderen.nl/isil/id/NL-LlsNLE> <https://schema.org/name> "Nieuw Land Erfgoedcentrum " .
+<http://costerskinderen.nl/isil/id/NL-LlsNLE> <http://costerskinderen.nl/isil/def/Toegekend> "27-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-LlsNLE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LpGL> <https://schema.org/location> "Loppersum" .
+<http://costerskinderen.nl/isil/id/NL-LpGL> <https://schema.org/name> "Gemeente Loppersum" .
+<http://costerskinderen.nl/isil/id/NL-LpGL> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-LpGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LsHKL> <https://schema.org/location> "Losser" .
+<http://costerskinderen.nl/isil/id/NL-LsHKL> <https://schema.org/name> "de Historische Kring Losser " .
+<http://costerskinderen.nl/isil/id/NL-LsHKL> <http://costerskinderen.nl/isil/def/Toegekend> "3-12-2015" .
+<http://costerskinderen.nl/isil/id/NL-LsHKL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MssHVM> <https://schema.org/location> "Maassluis" .
+<http://costerskinderen.nl/isil/id/NL-MssHVM> <https://schema.org/name> "Historische Vereniging Maassluis en omgeving " .
+<http://costerskinderen.nl/isil/id/NL-MssHVM> <http://costerskinderen.nl/isil/def/Toegekend> "22-2-2013" .
+<http://costerskinderen.nl/isil/id/NL-MssHVM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MtRHCL> <https://schema.org/location> "Maastricht" .
+<http://costerskinderen.nl/isil/id/NL-MtRHCL> <https://schema.org/name> "Regionaal Historisch Centrum Limburg" .
+<http://costerskinderen.nl/isil/id/NL-MtRHCL> <http://costerskinderen.nl/isil/def/Toegekend> "13-9-2012" .
+<http://costerskinderen.nl/isil/id/NL-MtRHCL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MtSHCL> <https://schema.org/location> "Maastricht" .
+<http://costerskinderen.nl/isil/id/NL-MtSHCL> <https://schema.org/name> "Sociaal Historisch Centrum voor Limburg " .
+<http://costerskinderen.nl/isil/id/NL-MtSHCL> <http://costerskinderen.nl/isil/def/Toegekend> "10-3-2016" .
+<http://costerskinderen.nl/isil/id/NL-MtSHCL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MkSHM> <https://schema.org/location> "Markelo" .
+<http://costerskinderen.nl/isil/id/NL-MkSHM> <https://schema.org/name> "Stichting Heemkunde Markelo " .
+<http://costerskinderen.nl/isil/id/NL-MkSHM> <http://costerskinderen.nl/isil/def/Toegekend> "4-11-2013" .
+<http://costerskinderen.nl/isil/id/NL-MkSHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MamGM> <https://schema.org/location> "Marum" .
+<http://costerskinderen.nl/isil/id/NL-MamGM> <https://schema.org/name> "Gemeente Marum" .
+<http://costerskinderen.nl/isil/id/NL-MamGM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-MamGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MenGM> <https://schema.org/location> "Menaam" .
+<http://costerskinderen.nl/isil/id/NL-MenGM> <https://schema.org/name> "Gemeente Menameradiel" .
+<http://costerskinderen.nl/isil/id/NL-MenGM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-MenGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MpGM> <https://schema.org/location> "Meppel" .
+<http://costerskinderen.nl/isil/id/NL-MpGM> <https://schema.org/name> "Gemeente Meppel" .
+<http://costerskinderen.nl/isil/id/NL-MpGM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-MpGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MdbZA> <https://schema.org/location> "Middelburg" .
+<http://costerskinderen.nl/isil/id/NL-MdbZA> <https://schema.org/name> "Zeeuws Archief" .
+<http://costerskinderen.nl/isil/id/NL-MdbZA> <http://costerskinderen.nl/isil/def/Toegekend> "25-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-MdbZA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MdbZB> <https://schema.org/location> "Middelburg" .
+<http://costerskinderen.nl/isil/id/NL-MdbZB> <https://schema.org/name> "Zeeuwse Bibliotheek in Middelburg " .
+<http://costerskinderen.nl/isil/id/NL-MdbZB> <http://costerskinderen.nl/isil/def/Toegekend> "5-2-2013" .
+<http://costerskinderen.nl/isil/id/NL-MdbZB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MlgGA> <https://schema.org/location> "Millingen aan de Rijn" .
+<http://costerskinderen.nl/isil/id/NL-MlgGA> <https://schema.org/name> "Gemeentearchief Millingen aan de Rijn" .
+<http://costerskinderen.nl/isil/id/NL-MlgGA> <http://costerskinderen.nl/isil/def/Toegekend> "20-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-MlgGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MtmGM> <https://schema.org/location> "Muntendam" .
+<http://costerskinderen.nl/isil/id/NL-MtmGM> <https://schema.org/name> "Gemeente Menterwolde" .
+<http://costerskinderen.nl/isil/id/NL-MtmGM> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-MtmGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NkGA> <https://schema.org/location> "Nijkerk" .
+<http://costerskinderen.nl/isil/id/NL-NkGA> <https://schema.org/name> "Gemeentearchief Nijkerk" .
+<http://costerskinderen.nl/isil/id/NL-NkGA> <http://costerskinderen.nl/isil/def/Toegekend> "26-4-2013" .
+<http://costerskinderen.nl/isil/id/NL-NkGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NmRAN> <https://schema.org/location> "Nijmegen" .
+<http://costerskinderen.nl/isil/id/NL-NmRAN> <https://schema.org/name> "Regionaal Archief Nijmegen" .
+<http://costerskinderen.nl/isil/id/NL-NmRAN> <http://costerskinderen.nl/isil/def/Toegekend> "12-5-2011" .
+<http://costerskinderen.nl/isil/id/NL-NmRAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NmKDC> <https://schema.org/location> "Nijmegen" .
+<http://costerskinderen.nl/isil/id/NL-NmKDC> <https://schema.org/name> "Katholiek Documentatiecentrum in Nijmegen " .
+<http://costerskinderen.nl/isil/id/NL-NmKDC> <http://costerskinderen.nl/isil/def/Toegekend> "26-5-2011" .
+<http://costerskinderen.nl/isil/id/NL-NmKDC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NvHKHN> <https://schema.org/location> "Nijverdal" .
+<http://costerskinderen.nl/isil/id/NL-NvHKHN> <https://schema.org/name> "Historische Kring Hellendoorn-Nijverdal " .
+<http://costerskinderen.nl/isil/id/NL-NvHKHN> <http://costerskinderen.nl/isil/def/Toegekend> "12-1-2015" .
+<http://costerskinderen.nl/isil/id/NL-NvHKHN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NvGH> <https://schema.org/location> "Nijverdal" .
+<http://costerskinderen.nl/isil/id/NL-NvGH> <https://schema.org/name> "Gemeente Hellendoorn" .
+<http://costerskinderen.nl/isil/id/NL-NvGH> <http://costerskinderen.nl/isil/def/Toegekend> "19-2-2015" .
+<http://costerskinderen.nl/isil/id/NL-NvGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OdzTFA> <https://schema.org/location> "Oldenzaal" .
+<http://costerskinderen.nl/isil/id/NL-OdzTFA> <https://schema.org/name> "Twents Fotoarchief in Oldenzaal " .
+<http://costerskinderen.nl/isil/id/NL-OdzTFA> <http://costerskinderen.nl/isil/def/Toegekend> "17-11-2016" .
+<http://costerskinderen.nl/isil/id/NL-OdzTFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OstHVOE> <https://schema.org/location> "Olst" .
+<http://costerskinderen.nl/isil/id/NL-OstHVOE> <https://schema.org/name> "Historische Vereniging �t Olster Erfgoed" .
+<http://costerskinderen.nl/isil/id/NL-OstHVOE> <http://costerskinderen.nl/isil/def/Toegekend> "6-5-2016" .
+<http://costerskinderen.nl/isil/id/NL-OstHVOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WeGOW> <https://schema.org/location> "Olst" .
+<http://costerskinderen.nl/isil/id/NL-WeGOW> <https://schema.org/name> "Gemeente Olst-Wijhe" .
+<http://costerskinderen.nl/isil/id/NL-WeGOW> <http://costerskinderen.nl/isil/def/Toegekend> "24-4-2019" .
+<http://costerskinderen.nl/isil/id/NL-WeGOW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OmnOO> <https://schema.org/location> "Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnOO> <https://schema.org/name> "Stichting Oud Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnOO> <http://costerskinderen.nl/isil/def/Toegekend> "31-10-2014" .
+<http://costerskinderen.nl/isil/id/NL-OmnOO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OmnGA> <https://schema.org/location> "Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnGA> <https://schema.org/name> "Gemeentearchief Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnGA> <http://costerskinderen.nl/isil/def/Toegekend> "13-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-OmnGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OmnHKO> <https://schema.org/location> "Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnHKO> <https://schema.org/name> "Historische Kring Ommen" .
+<http://costerskinderen.nl/isil/id/NL-OmnHKO> <http://costerskinderen.nl/isil/def/Toegekend> "9-2-2015" .
+<http://costerskinderen.nl/isil/id/NL-OmnHKO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ObgGASL> <https://schema.org/location> "Oostburg" .
+<http://costerskinderen.nl/isil/id/NL-ObgGASL> <https://schema.org/name> "Gemeentearchief Sluis" .
+<http://costerskinderen.nl/isil/id/NL-ObgGASL> <http://costerskinderen.nl/isil/def/Toegekend> "1-12-2015" .
+<http://costerskinderen.nl/isil/id/NL-ObgGASL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OmsVHO> <https://schema.org/location> "Ootmarsum" .
+<http://costerskinderen.nl/isil/id/NL-OmsVHO> <https://schema.org/name> "Vereniging Heemkunde Ootmarsum en Omstreken " .
+<http://costerskinderen.nl/isil/id/NL-OmsVHO> <http://costerskinderen.nl/isil/def/Toegekend> "9-8-2013" .
+<http://costerskinderen.nl/isil/id/NL-OmsVHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-OdpGP> <https://schema.org/location> "Oude Pekela" .
+<http://costerskinderen.nl/isil/id/NL-OdpGP> <https://schema.org/name> "Gemeente Pekela" .
+<http://costerskinderen.nl/isil/id/NL-OdpGP> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-OdpGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-PngGPM> <https://schema.org/location> "Panningen" .
+<http://costerskinderen.nl/isil/id/NL-PngGPM> <https://schema.org/name> "Gemeentearchief Peel en Maas" .
+<http://costerskinderen.nl/isil/id/NL-PngGPM> <http://costerskinderen.nl/isil/def/Toegekend> "3-8-2015" .
+<http://costerskinderen.nl/isil/id/NL-PngGPM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-PmWA_> <https://schema.org/location> "Purmerend" .
+<http://costerskinderen.nl/isil/id/NL-PmWA_> <https://schema.org/name> "Waterlands Archief" .
+<http://costerskinderen.nl/isil/id/NL-PmWA_> <http://costerskinderen.nl/isil/def/Toegekend> "24-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-PmWA_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-PtnGA> <https://schema.org/location> "Putten" .
+<http://costerskinderen.nl/isil/id/NL-PtnGA> <https://schema.org/name> "gemeentearchief Putten " .
+<http://costerskinderen.nl/isil/id/NL-PtnGA> <http://costerskinderen.nl/isil/def/Toegekend> "4-9-2014" .
+<http://costerskinderen.nl/isil/id/NL-PtnGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RatGR> <https://schema.org/location> "Raalte" .
+<http://costerskinderen.nl/isil/id/NL-RatGR> <https://schema.org/name> "Gemeente Raalte" .
+<http://costerskinderen.nl/isil/id/NL-RatGR> <http://costerskinderen.nl/isil/def/Toegekend> "24-4-2019" .
+<http://costerskinderen.nl/isil/id/NL-RatGR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RodGN> <https://schema.org/location> "Roden" .
+<http://costerskinderen.nl/isil/id/NL-RodGN> <https://schema.org/name> "Gemeente Noordenveld" .
+<http://costerskinderen.nl/isil/id/NL-RodGN> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-RodGN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RmGA> <https://schema.org/location> "Roermond" .
+<http://costerskinderen.nl/isil/id/NL-RmGA> <https://schema.org/name> "Gemeentearchief Roermond" .
+<http://costerskinderen.nl/isil/id/NL-RmGA> <http://costerskinderen.nl/isil/def/Toegekend> "7-7-2009" .
+<http://costerskinderen.nl/isil/id/NL-RmGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RmLdl> <https://schema.org/location> "Roermond" .
+<http://costerskinderen.nl/isil/id/NL-RmLdl> <https://schema.org/name> "Gemeentearchief Roermond, archieven gemeente Leudal" .
+<http://costerskinderen.nl/isil/id/NL-RmLdl> <http://costerskinderen.nl/isil/def/Toegekend> "17-4-2014" .
+<http://costerskinderen.nl/isil/id/NL-RmLdl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RsdGARO> <https://schema.org/location> "Roosendaal " .
+<http://costerskinderen.nl/isil/id/NL-RsdGARO> <https://schema.org/name> "Gemeentearchief Roosendaal" .
+<http://costerskinderen.nl/isil/id/NL-RsdGARO> <http://costerskinderen.nl/isil/def/Toegekend> "14-4-2011" .
+<http://costerskinderen.nl/isil/id/NL-RsdGARO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtEUR> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtEUR> <https://schema.org/name> "Universiteitsbibliotheek van de Erasmus Universiteit Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtEUR> <http://costerskinderen.nl/isil/def/Toegekend> "1-10-2013" .
+<http://costerskinderen.nl/isil/id/NL-RtEUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtHHSK> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtHHSK> <https://schema.org/name> "Hoogheemraadschap van Schieland en de Krimpenerwaard" .
+<http://costerskinderen.nl/isil/id/NL-RtHHSK> <http://costerskinderen.nl/isil/def/Toegekend> "9-1-2012" .
+<http://costerskinderen.nl/isil/id/NL-RtHHSK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtHNI> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtHNI> <https://schema.org/name> "Het Nieuwe Instituut" .
+<http://costerskinderen.nl/isil/id/NL-RtHNI> <http://costerskinderen.nl/isil/def/Toegekend> "24-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-RtHNI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtMBVB> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtMBVB> <https://schema.org/name> "Museum Boijmans Van Beuningen" .
+<http://costerskinderen.nl/isil/id/NL-RtMBVB> <http://costerskinderen.nl/isil/def/Toegekend> "7-5-2013" .
+<http://costerskinderen.nl/isil/id/NL-RtMBVB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtNAI_> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtNAI_> <https://schema.org/name> "Nederlands Architectuurinstituut" .
+<http://costerskinderen.nl/isil/id/NL-RtNAI_> <http://costerskinderen.nl/isil/def/Toegekend> "21-11-2009" .
+<http://costerskinderen.nl/isil/id/NL-RtNAI_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RtSA> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtSA> <https://schema.org/name> "Stadsarchief Rotterdam" .
+<http://costerskinderen.nl/isil/id/NL-RtSA> <http://costerskinderen.nl/isil/def/Toegekend> "21-8-2014" .
+<http://costerskinderen.nl/isil/id/NL-RtSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SdmGA> <https://schema.org/location> "Schiedam" .
+<http://costerskinderen.nl/isil/id/NL-SdmGA> <https://schema.org/name> "Gemeentearchief Schiedam" .
+<http://costerskinderen.nl/isil/id/NL-SdmGA> <http://costerskinderen.nl/isil/def/Toegekend> "3-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-SdmGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SelGV> <https://schema.org/location> "Sellingen" .
+<http://costerskinderen.nl/isil/id/NL-SelGV> <https://schema.org/name> "Gemeente Vlagtwedde" .
+<http://costerskinderen.nl/isil/id/NL-SelGV> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-SelGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AgaENK> <https://schema.org/location> "Sint Agatha" .
+<http://costerskinderen.nl/isil/id/NL-AgaENK> <https://schema.org/name> "Erfgoedcentrum Nederlands Kloosterleven" .
+<http://costerskinderen.nl/isil/id/NL-AgaENK> <http://costerskinderen.nl/isil/def/Toegekend> "29-4-2013" .
+<http://costerskinderen.nl/isil/id/NL-AgaENK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-StdEHC__> <https://schema.org/location> "Sittard" .
+<http://costerskinderen.nl/isil/id/NL-StdEHC__> <https://schema.org/name> "Euregionaal Historisch Centrum " .
+<http://costerskinderen.nl/isil/id/NL-StdEHC__> <http://costerskinderen.nl/isil/def/Toegekend> "2-7-2013" .
+<http://costerskinderen.nl/isil/id/NL-StdEHC__> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SloGS> <https://schema.org/location> "Slochteren" .
+<http://costerskinderen.nl/isil/id/NL-SloGS> <https://schema.org/name> "Gemeente Slochteren" .
+<http://costerskinderen.nl/isil/id/NL-SloGS> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-SloGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SkGSF> <https://schema.org/location> "Sneek" .
+<http://costerskinderen.nl/isil/id/NL-SkGSF> <https://schema.org/name> "Gemeente Sudwest-Fryslan" .
+<http://costerskinderen.nl/isil/id/NL-SkGSF> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-SkGSF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SosNMM> <https://schema.org/location> "Soest" .
+<http://costerskinderen.nl/isil/id/NL-SosNMM> <https://schema.org/name> "Nationaal Militair Museum " .
+<http://costerskinderen.nl/isil/id/NL-SosNMM> <http://costerskinderen.nl/isil/def/Toegekend> "15-5-2014" .
+<http://costerskinderen.nl/isil/id/NL-SosNMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AnpGHB> <https://schema.org/location> "St. Annaparochie" .
+<http://costerskinderen.nl/isil/id/NL-AnpGHB> <https://schema.org/name> "Gemeente Het Bildt" .
+<http://costerskinderen.nl/isil/id/NL-AnpGHB> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-AnpGHB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SknGS> <https://schema.org/location> "Stadskanaal" .
+<http://costerskinderen.nl/isil/id/NL-SknGS> <https://schema.org/name> "Gemeente Stadskanaal" .
+<http://costerskinderen.nl/isil/id/NL-SknGS> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-SknGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SthGE> <https://schema.org/location> "Staphorst" .
+<http://costerskinderen.nl/isil/id/NL-SthGE> <https://schema.org/name> "Gemeente Staphorst" .
+<http://costerskinderen.nl/isil/id/NL-SthGE> <http://costerskinderen.nl/isil/def/Toegekend> "28-4-2017" .
+<http://costerskinderen.nl/isil/id/NL-SthGE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-StwGA> <https://schema.org/location> "Steenwijk" .
+<http://costerskinderen.nl/isil/id/NL-StwGA> <https://schema.org/name> "Gemeentearchief Steenwijkerland " .
+<http://costerskinderen.nl/isil/id/NL-StwGA> <http://costerskinderen.nl/isil/def/Toegekend> "26-4-2013" .
+<http://costerskinderen.nl/isil/id/NL-StwGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-StsGL> <https://schema.org/location> "Stiens" .
+<http://costerskinderen.nl/isil/id/NL-StsGL> <https://schema.org/name> "Gemeente Leeuwarderadeel" .
+<http://costerskinderen.nl/isil/id/NL-StsGL> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-StsGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-TenGTB> <https://schema.org/location> "Ten Boer" .
+<http://costerskinderen.nl/isil/id/NL-TenGTB> <https://schema.org/name> "Gemeente Ten Boer" .
+<http://costerskinderen.nl/isil/id/NL-TenGTB> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-TenGTB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-TlRAR> <https://schema.org/location> "Tiel" .
+<http://costerskinderen.nl/isil/id/NL-TlRAR> <https://schema.org/name> "Regionaal Archief Rivierenland" .
+<http://costerskinderen.nl/isil/id/NL-TlRAR> <http://costerskinderen.nl/isil/def/Toegekend> "25-5-2012" .
+<http://costerskinderen.nl/isil/id/NL-TlRAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-TbRAT�_> <https://schema.org/location> "Tilburg" .
+<http://costerskinderen.nl/isil/id/NL-TbRAT�_> <https://schema.org/name> "Regionaal Archief Tilburg" .
+<http://costerskinderen.nl/isil/id/NL-TbRAT�_> <http://costerskinderen.nl/isil/def/Toegekend> "19-2-2009" .
+<http://costerskinderen.nl/isil/id/NL-TbRAT�_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VrsGAT__> <https://schema.org/location> "Tynaarlo" .
+<http://costerskinderen.nl/isil/id/NL-VrsGAT__> <https://schema.org/name> "gemeentearcchief van Tynaarlo" .
+<http://costerskinderen.nl/isil/id/NL-VrsGAT__> <http://costerskinderen.nl/isil/def/Toegekend> "2-7-2013" .
+<http://costerskinderen.nl/isil/id/NL-VrsGAT__> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-UhzGE> <https://schema.org/location> "Uithuizen" .
+<http://costerskinderen.nl/isil/id/NL-UhzGE> <https://schema.org/name> "Gemeente Eemsmond" .
+<http://costerskinderen.nl/isil/id/NL-UhzGE> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-UhzGE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-UtHUA> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-UtHUA> <https://schema.org/name> "Het Utrechts Archief" .
+<http://costerskinderen.nl/isil/id/NL-UtHUA> <http://costerskinderen.nl/isil/def/Toegekend> "26-6-2009" .
+<http://costerskinderen.nl/isil/id/NL-UtHUA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-UtMB> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-UtMB> <https://schema.org/name> "Museum Bleulandinum" .
+<http://costerskinderen.nl/isil/id/NL-UtMB> <http://costerskinderen.nl/isil/def/Toegekend> "9-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-UtMB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-UtUMU> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-UtUMU> <https://schema.org/name> "Universiteitsmuseum Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-UtUMU> <http://costerskinderen.nl/isil/def/Toegekend> "9-2-2012" .
+<http://costerskinderen.nl/isil/id/NL-UtUMU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VdmGV> <https://schema.org/location> "Veendam" .
+<http://costerskinderen.nl/isil/id/NL-VdmGV> <https://schema.org/name> "Gemeente Veendam" .
+<http://costerskinderen.nl/isil/id/NL-VdmGV> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-VdmGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VdmWHA> <https://schema.org/location> "Veendam" .
+<http://costerskinderen.nl/isil/id/NL-VdmWHA> <https://schema.org/name> "Waterschap Hunze en Aa's" .
+<http://costerskinderen.nl/isil/id/NL-VdmWHA> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-VdmWHA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VndGA> <https://schema.org/location> "Veenendaal" .
+<http://costerskinderen.nl/isil/id/NL-VndGA> <https://schema.org/name> "Gemeentearchief Veenendaal" .
+<http://costerskinderen.nl/isil/id/NL-VndGA> <http://costerskinderen.nl/isil/def/Toegekend> "12-1-2012" .
+<http://costerskinderen.nl/isil/id/NL-VndGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VlGA> <https://schema.org/location> "Venlo" .
+<http://costerskinderen.nl/isil/id/NL-VlGA> <https://schema.org/name> "Gemeentearchief Venlo" .
+<http://costerskinderen.nl/isil/id/NL-VlGA> <http://costerskinderen.nl/isil/def/Toegekend> "24-12-2013" .
+<http://costerskinderen.nl/isil/id/NL-VlGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VaGA> <https://schema.org/location> "Vianen" .
+<http://costerskinderen.nl/isil/id/NL-VaGA> <https://schema.org/name> "Gemeentearchief Vianen" .
+<http://costerskinderen.nl/isil/id/NL-VaGA> <http://costerskinderen.nl/isil/def/Toegekend> "20-9-2011" .
+<http://costerskinderen.nl/isil/id/NL-VaGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VdgSA> <https://schema.org/location> "Vlaardingen" .
+<http://costerskinderen.nl/isil/id/NL-VdgSA> <https://schema.org/name> "Stadsarchief Vlaardingen" .
+<http://costerskinderen.nl/isil/id/NL-VdgSA> <http://costerskinderen.nl/isil/def/Toegekend> "25-6-2009" .
+<http://costerskinderen.nl/isil/id/NL-VdgSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VldGV> <https://schema.org/location> "Vlieland" .
+<http://costerskinderen.nl/isil/id/NL-VldGV> <https://schema.org/name> "Gemeente Vlieland" .
+<http://costerskinderen.nl/isil/id/NL-VldGV> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-VldGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VsGA_> <https://schema.org/location> "Vlissingen" .
+<http://costerskinderen.nl/isil/id/NL-VsGA_> <https://schema.org/name> "Gemeentearchief Vlissingen" .
+<http://costerskinderen.nl/isil/id/NL-VsGA_> <http://costerskinderen.nl/isil/def/Toegekend> "25-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-VsGA_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VlhCHC> <https://schema.org/location> "Vollenhove " .
+<http://costerskinderen.nl/isil/id/NL-VlhCHC> <https://schema.org/name> "Cultuur Historisch Centrum Land van Vollenhove" .
+<http://costerskinderen.nl/isil/id/NL-VlhCHC> <http://costerskinderen.nl/isil/def/Toegekend> "19-5-2014" .
+<http://costerskinderen.nl/isil/id/NL-VlhCHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VbGALV> <https://schema.org/location> "Voorburg" .
+<http://costerskinderen.nl/isil/id/NL-VbGALV> <https://schema.org/name> "Gemeentearchief Leidschendam-Voorburg" .
+<http://costerskinderen.nl/isil/id/NL-VbGALV> <http://costerskinderen.nl/isil/def/Toegekend> "24-12-2013" .
+<http://costerskinderen.nl/isil/id/NL-VbGALV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WgGA> <https://schema.org/location> "Wageningen" .
+<http://costerskinderen.nl/isil/id/NL-WgGA> <https://schema.org/name> "Gemeentearchief Wageningen" .
+<http://costerskinderen.nl/isil/id/NL-WgGA> <http://costerskinderen.nl/isil/def/Toegekend> "20-11-2008" .
+<http://costerskinderen.nl/isil/id/NL-WgGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WedeGB> <https://schema.org/location> "Wedde" .
+<http://costerskinderen.nl/isil/id/NL-WedeGB> <https://schema.org/name> "Gemeente Bellingwedde" .
+<http://costerskinderen.nl/isil/id/NL-WedeGB> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-WedeGB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WslVHW> <https://schema.org/location> "Weerselo" .
+<http://costerskinderen.nl/isil/id/NL-WslVHW> <https://schema.org/name> "Vereniging Heemkunde Weerselo " .
+<http://costerskinderen.nl/isil/id/NL-WslVHW> <http://costerskinderen.nl/isil/def/Toegekend> "7-2-2014" .
+<http://costerskinderen.nl/isil/id/NL-WslVHW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WtGAW> <https://schema.org/location> "Weert" .
+<http://costerskinderen.nl/isil/id/NL-WtGAW> <https://schema.org/name> "Gemeentearchief Weert" .
+<http://costerskinderen.nl/isil/id/NL-WtGAW> <http://costerskinderen.nl/isil/def/Toegekend> "16-5-2011" .
+<http://costerskinderen.nl/isil/id/NL-WtGAW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WpGAW_> <https://schema.org/location> "Weesp" .
+<http://costerskinderen.nl/isil/id/NL-WpGAW_> <https://schema.org/name> "Gemeentearchief Weesp" .
+<http://costerskinderen.nl/isil/id/NL-WpGAW_> <http://costerskinderen.nl/isil/def/Toegekend> "8-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-WpGAW_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WpDStvA> <https://schema.org/location> "Weesp" .
+<http://costerskinderen.nl/isil/id/NL-WpDStvA> <https://schema.org/name> "Documentatiecentrum Stelling van Amsterdam " .
+<http://costerskinderen.nl/isil/id/NL-WpDStvA> <http://costerskinderen.nl/isil/def/Toegekend> "31-5-2016" .
+<http://costerskinderen.nl/isil/id/NL-WpDStvA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WtslGT> <https://schema.org/location> "West-Terschelling" .
+<http://costerskinderen.nl/isil/id/NL-WtslGT> <https://schema.org/name> "Gemeente Terschelling" .
+<http://costerskinderen.nl/isil/id/NL-WtslGT> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-WtslGT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WdnHKW> <https://schema.org/location> "Wierden" .
+<http://costerskinderen.nl/isil/id/NL-WdnHKW> <https://schema.org/name> "Historische Kring Wederen " .
+<http://costerskinderen.nl/isil/id/NL-WdnHKW> <http://costerskinderen.nl/isil/def/Toegekend> "27-2-2015" .
+<http://costerskinderen.nl/isil/id/NL-WdnHKW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WeHVW> <https://schema.org/location> "Wijhe" .
+<http://costerskinderen.nl/isil/id/NL-WeHVW> <https://schema.org/name> "Historische Vereniging Wijhe " .
+<http://costerskinderen.nl/isil/id/NL-WeHVW> <http://costerskinderen.nl/isil/def/Toegekend> "8-5-201" .
+<http://costerskinderen.nl/isil/id/NL-WeHVW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WbdRHCZOU> <https://schema.org/location> "Wijk bij Duurstede" .
+<http://costerskinderen.nl/isil/id/NL-WbdRHCZOU> <https://schema.org/name> "Regionaal Historisch Centrum Zuidoost Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-WbdRHCZOU> <http://costerskinderen.nl/isil/def/Toegekend> "10-12-2013" .
+<http://costerskinderen.nl/isil/id/NL-WbdRHCZOU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WsGO> <https://schema.org/location> "Winschoten" .
+<http://costerskinderen.nl/isil/id/NL-WsGO> <https://schema.org/name> "Gemeente Oldambt" .
+<http://costerskinderen.nl/isil/id/NL-WsGO> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-WsGO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WsmGW> <https://schema.org/location> "Winsum" .
+<http://costerskinderen.nl/isil/id/NL-WsmGW> <https://schema.org/name> "Gemeente Winsum" .
+<http://costerskinderen.nl/isil/id/NL-WsmGW> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-WsmGW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WdRHCRL> <https://schema.org/location> "Woerden" .
+<http://costerskinderen.nl/isil/id/NL-WdRHCRL> <https://schema.org/name> "Regionaal Historisch Centrum Rijnstreek en Lopikerwaard" .
+<http://costerskinderen.nl/isil/id/NL-WdRHCRL> <http://costerskinderen.nl/isil/def/Toegekend> "7-10-2013" .
+<http://costerskinderen.nl/isil/id/NL-WdRHCRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WmsGL> <https://schema.org/location> "Wommels" .
+<http://costerskinderen.nl/isil/id/NL-WmsGL> <https://schema.org/name> "Gemeente Littenseradiel" .
+<http://costerskinderen.nl/isil/id/NL-WmsGL> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-WmsGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZdGAZ> <https://schema.org/location> "Zaandam" .
+<http://costerskinderen.nl/isil/id/NL-ZdGAZ> <https://schema.org/name> "Gemeentearchief Zaanstad" .
+<http://costerskinderen.nl/isil/id/NL-ZdGAZ> <http://costerskinderen.nl/isil/def/Toegekend> "24-6-2013" .
+<http://costerskinderen.nl/isil/id/NL-ZdGAZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZbmSAB_> <https://schema.org/location> "Zaltbommel" .
+<http://costerskinderen.nl/isil/id/NL-ZbmSAB_> <https://schema.org/name> "Streekarchief Bommelwaard " .
+<http://costerskinderen.nl/isil/id/NL-ZbmSAB_> <http://costerskinderen.nl/isil/def/Toegekend> "5-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-ZbmSAB_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZtGAZ> <https://schema.org/location> "Zeist" .
+<http://costerskinderen.nl/isil/id/NL-ZtGAZ> <https://schema.org/name> "Gemeentearchief Zeist" .
+<http://costerskinderen.nl/isil/id/NL-ZtGAZ> <http://costerskinderen.nl/isil/def/Toegekend> "17-3-2009" .
+<http://costerskinderen.nl/isil/id/NL-ZtGAZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZrGSD_> <https://schema.org/location> "Zierikzee" .
+<http://costerskinderen.nl/isil/id/NL-ZrGSD_> <https://schema.org/name> "Gemeentearchief Schouwen Duiveland" .
+<http://costerskinderen.nl/isil/id/NL-ZrGSD_> <http://costerskinderen.nl/isil/def/Toegekend> "3-12-2008" .
+<http://costerskinderen.nl/isil/id/NL-ZrGSD_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZhGZ> <https://schema.org/location> "Zuidhorn" .
+<http://costerskinderen.nl/isil/id/NL-ZhGZ> <https://schema.org/name> "Gemeente Zuidhorn" .
+<http://costerskinderen.nl/isil/id/NL-ZhGZ> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-ZhGZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZwdGDW> <https://schema.org/location> "Zuidwolde" .
+<http://costerskinderen.nl/isil/id/NL-ZwdGDW> <https://schema.org/name> "Gemeente De Wolden" .
+<http://costerskinderen.nl/isil/id/NL-ZwdGDW> <http://costerskinderen.nl/isil/def/Toegekend> "14-11-2014" .
+<http://costerskinderen.nl/isil/id/NL-ZwdGDW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZlHCO> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlHCO> <https://schema.org/name> "Historisch Centrum Overijssel � Vestiging Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlHCO> <http://costerskinderen.nl/isil/def/Toegekend> "12-5-2010" .
+<http://costerskinderen.nl/isil/id/NL-ZlHCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZlDk> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlDk> <https://schema.org/name> "Dominicanenklooster " .
+<http://costerskinderen.nl/isil/id/NL-ZlDk> <http://costerskinderen.nl/isil/def/Toegekend> "30-5-2016" .
+<http://costerskinderen.nl/isil/id/NL-ZlDk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZlIJA> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlIJA> <https://schema.org/name> "Stichting IJsselacademie " .
+<http://costerskinderen.nl/isil/id/NL-ZlIJA> <http://costerskinderen.nl/isil/def/Toegekend> "29-7-2016" .
+<http://costerskinderen.nl/isil/id/NL-ZlIJA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZlPO> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlPO> <https://schema.org/name> "Provincie Overijssel" .
+<http://costerskinderen.nl/isil/id/NL-ZlPO> <http://costerskinderen.nl/isil/def/Toegekend> "17-11-2016" .
+<http://costerskinderen.nl/isil/id/NL-ZlPO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZlGZ> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlGZ> <https://schema.org/name> "Gemeente Zwolle" .
+<http://costerskinderen.nl/isil/id/NL-ZlGZ> <http://costerskinderen.nl/isil/def/Toegekend> "29-11-2016" .
+<http://costerskinderen.nl/isil/id/NL-ZlGZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaMH> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaMH> <https://schema.org/name> "Koninklijk Kabinet van Schilderijen Mauritshuis " .
+<http://costerskinderen.nl/isil/id/NL-HaMH> <http://costerskinderen.nl/isil/def/Toegekend> "30-12-2016" .
+<http://costerskinderen.nl/isil/id/NL-HaMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DvSIED> <https://schema.org/location> "Deventer" .
+<http://costerskinderen.nl/isil/id/NL-DvSIED> <https://schema.org/name> "Stichting Industrieel Erfgoed Deventer " .
+<http://costerskinderen.nl/isil/id/NL-DvSIED> <http://costerskinderen.nl/isil/def/Toegekend> "14-3-2017" .
+<http://costerskinderen.nl/isil/id/NL-DvSIED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdVGM> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdVGM> <https://schema.org/name> "Van Gogh Museum " .
+<http://costerskinderen.nl/isil/id/NL-AsdVGM> <http://costerskinderen.nl/isil/def/Toegekend> "14-3-2017" .
+<http://costerskinderen.nl/isil/id/NL-AsdVGM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HgzGAMG> <https://schema.org/location> "Hoogezand" .
+<http://costerskinderen.nl/isil/id/NL-HgzGAMG> <https://schema.org/name> "gemeentearchief Midden-Groningen " .
+<http://costerskinderen.nl/isil/id/NL-HgzGAMG> <http://costerskinderen.nl/isil/def/Toegekend> "15-5-2017" .
+<http://costerskinderen.nl/isil/id/NL-HgzGAMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HlmPNH> <https://schema.org/location> "Haarlem" .
+<http://costerskinderen.nl/isil/id/NL-HlmPNH> <https://schema.org/name> "Provincie Noord-Holland " .
+<http://costerskinderen.nl/isil/id/NL-HlmPNH> <http://costerskinderen.nl/isil/def/Toegekend> "2-6-2017" .
+<http://costerskinderen.nl/isil/id/NL-HlmPNH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LlsHFA> <https://schema.org/location> "Lelystad" .
+<http://costerskinderen.nl/isil/id/NL-LlsHFA> <https://schema.org/name> "het Regionaal Historisch Centrum Het Flevolands Archief" .
+<http://costerskinderen.nl/isil/id/NL-LlsHFA> <http://costerskinderen.nl/isil/def/Toegekend> "19-7-2017" .
+<http://costerskinderen.nl/isil/id/NL-LlsHFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-BunNGV> <https://schema.org/location> "Bunnik" .
+<http://costerskinderen.nl/isil/id/NL-BunNGV> <https://schema.org/name> "Nederlandse Genealogische vereniging " .
+<http://costerskinderen.nl/isil/id/NL-BunNGV> <http://costerskinderen.nl/isil/def/Toegekend> "19-7-2017" .
+<http://costerskinderen.nl/isil/id/NL-BunNGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HgzHAMG> <https://schema.org/location> "Hoogezand" .
+<http://costerskinderen.nl/isil/id/NL-HgzHAMG> <https://schema.org/name> "het Historisch Archief Midden-Groningen " .
+<http://costerskinderen.nl/isil/id/NL-HgzHAMG> <http://costerskinderen.nl/isil/def/Toegekend> "19-7-2017" .
+<http://costerskinderen.nl/isil/id/NL-HgzHAMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdDHM> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdDHM> <https://schema.org/name> "De Hollandsche Molen " .
+<http://costerskinderen.nl/isil/id/NL-AsdDHM> <http://costerskinderen.nl/isil/def/Toegekend> "4-8-2017" .
+<http://costerskinderen.nl/isil/id/NL-AsdDHM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-IJmGV> <https://schema.org/location> "Ijmuiden" .
+<http://costerskinderen.nl/isil/id/NL-IJmGV> <https://schema.org/name> "Gemeente Velzen" .
+<http://costerskinderen.nl/isil/id/NL-IJmGV> <http://costerskinderen.nl/isil/def/Toegekend> "8-8-2017" .
+<http://costerskinderen.nl/isil/id/NL-IJmGV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-KpHVJvA> <https://schema.org/location> "Kampen" .
+<http://costerskinderen.nl/isil/id/NL-KpHVJvA> <https://schema.org/name> "Historische Vereniging voor de IJsseldelta 'Jan van Arkel' " .
+<http://costerskinderen.nl/isil/id/NL-KpHVJvA> <http://costerskinderen.nl/isil/def/Toegekend> "18-9-2017" .
+<http://costerskinderen.nl/isil/id/NL-KpHVJvA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdZAH> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdZAH> <https://schema.org/name> "Stichting Zuid-Afrikahuis " .
+<http://costerskinderen.nl/isil/id/NL-AsdZAH> <http://costerskinderen.nl/isil/def/Toegekend> "21-9-2017" .
+<http://costerskinderen.nl/isil/id/NL-AsdZAH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdDNB_> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdDNB_> <https://schema.org/name> "De Nederlandsche Bank (DNB) " .
+<http://costerskinderen.nl/isil/id/NL-AsdDNB_> <http://costerskinderen.nl/isil/def/Toegekend> "10-10-2017" .
+<http://costerskinderen.nl/isil/id/NL-AsdDNB_> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HtGH> <https://schema.org/location> "Den Bosch" .
+<http://costerskinderen.nl/isil/id/NL-HtGH> <https://schema.org/name> "Gemeente 's-Hertogenbosch " .
+<http://costerskinderen.nl/isil/id/NL-HtGH> <http://costerskinderen.nl/isil/def/Toegekend> "3-11-2017" .
+<http://costerskinderen.nl/isil/id/NL-HtGH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-VzHMV> <https://schema.org/location> "Vriezenveen" .
+<http://costerskinderen.nl/isil/id/NL-VzHMV> <https://schema.org/name> "het Historisch Museum Vriezenveen" .
+<http://costerskinderen.nl/isil/id/NL-VzHMV> <http://costerskinderen.nl/isil/def/Toegekend> "4-12-2017" .
+<http://costerskinderen.nl/isil/id/NL-VzHMV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SbculoSKS> <https://schema.org/location> "Sibculo" .
+<http://costerskinderen.nl/isil/id/NL-SbculoSKS> <https://schema.org/name> "Stichting Klooster Sibculo" .
+<http://costerskinderen.nl/isil/id/NL-SbculoSKS> <http://costerskinderen.nl/isil/def/Toegekend> "15-1-2018" .
+<http://costerskinderen.nl/isil/id/NL-SbculoSKS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HvsSOM> <https://schema.org/location> "Hilversum" .
+<http://costerskinderen.nl/isil/id/NL-HvsSOM> <https://schema.org/name> "Stichting Omroepmuziek (SOM)  " .
+<http://costerskinderen.nl/isil/id/NL-HvsSOM> <http://costerskinderen.nl/isil/def/Toegekend> "15-1-2018" .
+<http://costerskinderen.nl/isil/id/NL-HvsSOM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ShnSHC> <https://schema.org/location> "Slagharen" .
+<http://costerskinderen.nl/isil/id/NL-ShnSHC> <https://schema.org/name> "Streekhistorisch Centrum Slagharen" .
+<http://costerskinderen.nl/isil/id/NL-ShnSHC> <http://costerskinderen.nl/isil/def/Toegekend> "2-2-2018" .
+<http://costerskinderen.nl/isil/id/NL-ShnSHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-TlnGAT> <https://schema.org/location> "Tholen" .
+<http://costerskinderen.nl/isil/id/NL-TlnGAT> <https://schema.org/name> "Gemeentearchief Tholen " .
+<http://costerskinderen.nl/isil/id/NL-TlnGAT> <http://costerskinderen.nl/isil/def/Toegekend> "8-2-2018" .
+<http://costerskinderen.nl/isil/id/NL-TlnGAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LdnNAT> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/isil/id/NL-LdnNAT> <https://schema.org/name> "Naturalis" .
+<http://costerskinderen.nl/isil/id/NL-LdnNAT> <http://costerskinderen.nl/isil/def/Toegekend> "8-2-2018" .
+<http://costerskinderen.nl/isil/id/NL-LdnNAT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdVMA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdVMA> <https://schema.org/name> "Verzetsmuseum Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdVMA> <http://costerskinderen.nl/isil/def/Toegekend> "5-3-2018" .
+<http://costerskinderen.nl/isil/id/NL-AsdVMA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NdpBMZ> <https://schema.org/location> "Nieuwdorp" .
+<http://costerskinderen.nl/isil/id/NL-NdpBMZ> <https://schema.org/name> "Bevrijdingsmuseum Zeeland" .
+<http://costerskinderen.nl/isil/id/NL-NdpBMZ> <http://costerskinderen.nl/isil/def/Toegekend> "5-3-2018" .
+<http://costerskinderen.nl/isil/id/NL-NdpBMZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-SelWed> <https://schema.org/location> "Selingen" .
+<http://costerskinderen.nl/isil/id/NL-SelWed> <https://schema.org/name> "Gemeente Westerwolde " .
+<http://costerskinderen.nl/isil/id/NL-SelWed> <http://costerskinderen.nl/isil/def/Toegekend> "14-4-2018" .
+<http://costerskinderen.nl/isil/id/NL-SelWed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HhwHHNK> <https://schema.org/location> "Heerhugowaard" .
+<http://costerskinderen.nl/isil/id/NL-HhwHHNK> <https://schema.org/name> "Hoogheemraadschap Hollands Noorderkwartier" .
+<http://costerskinderen.nl/isil/id/NL-HhwHHNK> <http://costerskinderen.nl/isil/def/Toegekend> "25-5-2018" .
+<http://costerskinderen.nl/isil/id/NL-HhwHHNK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdIHLIA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdIHLIA> <https://schema.org/name> "IHLIA LGBT Heritage" .
+<http://costerskinderen.nl/isil/id/NL-AsdIHLIA> <http://costerskinderen.nl/isil/def/Toegekend> "13-7-2018" .
+<http://costerskinderen.nl/isil/id/NL-AsdIHLIA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-UtAA> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/isil/id/NL-UtAA> <https://schema.org/name> "Alchemy Archive" .
+<http://costerskinderen.nl/isil/id/NL-UtAA> <http://costerskinderen.nl/isil/def/Toegekend> "13-7-2018" .
+<http://costerskinderen.nl/isil/id/NL-UtAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsMBE> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsMBE> <https://schema.org/name> "Muziekbank Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsMBE> <http://costerskinderen.nl/isil/def/Toegekend> "5-2-2019" .
+<http://costerskinderen.nl/isil/id/NL-EsMBE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-DvGD> <https://schema.org/location> "Deventer" .
+<http://costerskinderen.nl/isil/id/NL-DvGD> <https://schema.org/name> "Gemeente Deventer" .
+<http://costerskinderen.nl/isil/id/NL-DvGD> <http://costerskinderen.nl/isil/def/Toegekend> "26-2-2019" .
+<http://costerskinderen.nl/isil/id/NL-DvGD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-LnHKL> <https://schema.org/location> "Loenen aan de Vecht" .
+<http://costerskinderen.nl/isil/id/NL-LnHKL> <https://schema.org/name> "Historische Kring Loenen " .
+<http://costerskinderen.nl/isil/id/NL-LnHKL> <http://costerskinderen.nl/isil/def/Toegekend> "21-3-2019" .
+<http://costerskinderen.nl/isil/id/NL-LnHKL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HelWHH> <https://schema.org/location> "Hellendoorn" .
+<http://costerskinderen.nl/isil/id/NL-HelWHH> <https://schema.org/name> "Werkgroep Historisch Hellendoon" .
+<http://costerskinderen.nl/isil/id/NL-HelWHH> <http://costerskinderen.nl/isil/def/Toegekend> "21-3-2019" .
+<http://costerskinderen.nl/isil/id/NL-HelWHH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-NvMVM> <https://schema.org/location> "Nijverdal " .
+<http://costerskinderen.nl/isil/id/NL-NvMVM> <https://schema.org/name> "Memory Vrijheids Museum " .
+<http://costerskinderen.nl/isil/id/NL-NvMVM> <http://costerskinderen.nl/isil/def/Toegekend> "14-5-2019" .
+<http://costerskinderen.nl/isil/id/NL-NvMVM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HglMERN> <https://schema.org/location> "Hengelo" .
+<http://costerskinderen.nl/isil/id/NL-HglMERN> <https://schema.org/name> "Museum Electro-Radio-Nostalgie (MERN)" .
+<http://costerskinderen.nl/isil/id/NL-HglMERN> <http://costerskinderen.nl/isil/def/Toegekend> "22-5-2019" .
+<http://costerskinderen.nl/isil/id/NL-HglMERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdRSO> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdRSO> <https://schema.org/name> "Stichting Genealogie en geschiedenis geslacht Van Riemsdijk te Overijssel" .
+<http://costerskinderen.nl/isil/id/NL-AsdRSO> <http://costerskinderen.nl/isil/def/Toegekend> "12-6-2019" .
+<http://costerskinderen.nl/isil/id/NL-AsdRSO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MdtHVP> <https://schema.org/location> "Mijdrecht" .
+<http://costerskinderen.nl/isil/id/NL-MdtHVP> <https://schema.org/name> "Historische Vereniging De Proosdijlanden" .
+<http://costerskinderen.nl/isil/id/NL-MdtHVP> <http://costerskinderen.nl/isil/def/Toegekend> "12-6-2019" .
+<http://costerskinderen.nl/isil/id/NL-MdtHVP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HaLMKM> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/isil/id/NL-HaLMKM> <https://schema.org/name> "Stichting Literatuurarchief en Literatuurmuseum" .
+<http://costerskinderen.nl/isil/id/NL-HaLMKM> <http://costerskinderen.nl/isil/def/Toegekend> "13-11-2018" .
+<http://costerskinderen.nl/isil/id/NL-HaLMKM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-HnoVHO> <https://schema.org/location> "Heino" .
+<http://costerskinderen.nl/isil/id/NL-HnoVHO> <https://schema.org/name> "Vereniging voor Heemkunde �Omheining� (VHO) " .
+<http://costerskinderen.nl/isil/id/NL-HnoVHO> <http://costerskinderen.nl/isil/def/Toegekend> "20-9-2019" .
+<http://costerskinderen.nl/isil/id/NL-HnoVHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-AsdTBA> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/isil/id/NL-AsdTBA> <https://schema.org/name> "The Black Archives (TBA)" .
+<http://costerskinderen.nl/isil/id/NL-AsdTBA> <http://costerskinderen.nl/isil/def/Toegekend> "31-10-2019" .
+<http://costerskinderen.nl/isil/id/NL-AsdTBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-RhnSTILP> <https://schema.org/location> "Rhenen" .
+<http://costerskinderen.nl/isil/id/NL-RhnSTILP> <https://schema.org/name> "Stichting Instandhouding Landgoed Prattenburg (STILP) " .
+<http://costerskinderen.nl/isil/id/NL-RhnSTILP> <http://costerskinderen.nl/isil/def/Toegekend> "23-1-2020" .
+<http://costerskinderen.nl/isil/id/NL-RhnSTILP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-EsSHSEL> <https://schema.org/location> "Enschede" .
+<http://costerskinderen.nl/isil/id/NL-EsSHSEL> <https://schema.org/name> "Stichting Historische Soci�teit Enschede-Lonneker (SHSEL) " .
+<http://costerskinderen.nl/isil/id/NL-EsSHSEL> <http://costerskinderen.nl/isil/def/Toegekend> "24-1-2020" .
+<http://costerskinderen.nl/isil/id/NL-EsSHSEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-MtJvEA> <https://schema.org/location> "Maastricht" .
+<http://costerskinderen.nl/isil/id/NL-MtJvEA> <https://schema.org/name> "Jan van Eijck Academie" .
+<http://costerskinderen.nl/isil/id/NL-MtJvEA> <http://costerskinderen.nl/isil/def/Toegekend> "30-1-2020" .
+<http://costerskinderen.nl/isil/id/NL-MtJvEA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-ZtZHG> <https://schema.org/location> "Zeist" .
+<http://costerskinderen.nl/isil/id/NL-ZtZHG> <https://schema.org/name> "Zeister Historisch Genootschap [ZHG] " .
+<http://costerskinderen.nl/isil/id/NL-ZtZHG> <http://costerskinderen.nl/isil/def/Toegekend> "13-2-2020" .
+<http://costerskinderen.nl/isil/id/NL-ZtZHG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/isil/id/NL-WbdRAZU> <https://schema.org/location> "Wijk bij Duurstede" .
+<http://costerskinderen.nl/isil/id/NL-WbdRAZU> <https://schema.org/name> "Regionaal Archief Zuid Utrecht  " .
+<http://costerskinderen.nl/isil/id/NL-WbdRAZU> <http://costerskinderen.nl/isil/def/Toegekend> "11-3-2020" .
+<http://costerskinderen.nl/isil/id/NL-WbdRAZU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .

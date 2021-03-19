@@ -1,0 +1,45 @@
+{
+  "@id": "http://costerskinderen.nl/isil/",
+  "@context": [
+    "https://raw.githubusercontent.com/CLARIAH/COW/master/csvw.json",
+    {
+      "@base": "http://costerskinderen.nl/isil/"
+    }
+  ],
+  "url": "",
+  "dialect": {
+    "delimiter": ",",
+    "encoding": "UTF-8",
+    "quoteChar": "\""
+  },
+  "tableSchema": {
+    "aboutUrl": "http://costerskinderen.nl/isil/id/{ISIL-code}",
+    "primaryKey": "Resource",
+    "columns": [
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "aboutUrl": "http://costerskinderen.nl/isil/id/{ISIL-code}",
+        "valueUrl": "https://schema.org/Organization"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/isil/column/Plaats",
+        "name": "Plaats",
+        "propertyUrl": "https://schema.org/location"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/isil/column/Instelling",
+        "name": "Instelling",
+        "propertyUrl": "https://schema.org/name"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/isil/column/Toegekend",
+        "name": "Toegekend",
+        "propertyUrl": "http://costerskinderen.nl/isil/def/Toegekend"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#",
+  "@context": [
+    "https://raw.githubusercontent.com/CLARIAH/COW/master/csvw.json",
+    {
+      "@base": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#"
+    }
+  ],
+  "url": "",
+  "dialect": {
+    "delimiter": ",",
+    "encoding": "UTF-8",
+    "quoteChar": "\""
+  },
+  "tableSchema": {
+    "aboutUrl": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv/id#{volgnr}",
+    "primaryKey": "Resource",
+    "columns": [
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "aboutUrl": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv/id#{volgnr}",
+        "valueUrl": "https://w3id.org/pnv#PersonName"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/volgnr",
+        "name": "volgnr",
+        "propertyUrl": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv/def#volgnr"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/pagina",
+        "name": "pagina",
+        "propertyUrl": "https://schema.org/pagination"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/tv",
+        "name": "tv",
+        "propertyUrl": "https://schema.org/memberOf",
+        "valueUrl": "http://costerskinderen.nl/vereniging/{tv}"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/voorletters",
+        "name": "voorletters",
+        "propertyUrl": "https://w3id.org/pnv#firstName"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/tussenvoegsel",
+        "name": "tussenvoegsel",
+        "propertyUrl": "https://w3id.org/pnv#surnamePrefix"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/naam",
+        "name": "naam",
+        "propertyUrl": "https://w3id.org/pnv#givenNameSuffix"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/achtervoegsel",
+        "name": "achtervoegsel",
+        "propertyUrl": "https://w3id.org/pnv#disambiguatingDescription"
+      },
+      {
+        "datatype": "string",
+        "@id": "https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv#column/functie",
+        "name": "functie",
+        "propertyUrl": "https://schema.org/title"
+      }
+    ]
+  }
+}

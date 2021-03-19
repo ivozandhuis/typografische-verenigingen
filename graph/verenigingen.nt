@@ -1,164 +1,164 @@
-<https://costerskinderen.nl/verenigingen/id/groningen1826> <https://schema.org/name> "Gruno" .
-<https://costerskinderen.nl/verenigingen/id/groningen1826> <https://schema.org/location> "Groningen" .
-<https://costerskinderen.nl/verenigingen/id/groningen1826> <https://schema.org/birthDate> "1826" .
-<https://costerskinderen.nl/verenigingen/id/groningen1826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/breda1837> <https://schema.org/name> "Door Eendracht T'zaam Verbonden" .
-<https://costerskinderen.nl/verenigingen/id/breda1837> <https://schema.org/location> "Breda" .
-<https://costerskinderen.nl/verenigingen/id/breda1837> <https://schema.org/birthDate> "1837" .
-<https://costerskinderen.nl/verenigingen/id/breda1837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/denhaag1843> <https://schema.org/name> "Door Eendracht t' Zaam Verbonden" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1843> <https://schema.org/location> "Den Haag" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1843> <https://schema.org/birthDate> "1843" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/middelburg1847> <https://schema.org/name> "Harmonie en Vriendschap" .
-<https://costerskinderen.nl/verenigingen/id/middelburg1847> <https://schema.org/location> "Middelburg" .
-<https://costerskinderen.nl/verenigingen/id/middelburg1847> <https://schema.org/birthDate> "1847" .
-<https://costerskinderen.nl/verenigingen/id/middelburg1847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/denhaag1848> <https://schema.org/name> "Nut en Genoegen" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1848> <https://schema.org/location> "Den Haag" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1848> <https://schema.org/birthDate> "1848" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1849> <https://schema.org/name> "Voorzorg en Genoegen" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1849> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1849> <https://schema.org/birthDate> "1849" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/arnhem1849> <https://schema.org/name> "Boekdrukkunst, de Grondzuil der Verlichting" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1849> <https://schema.org/location> "Arnhem" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1849> <https://schema.org/birthDate> "1849" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/denbosch1849> <https://schema.org/name> "Door Eendracht t' Zaam Verbonden" .
-<https://costerskinderen.nl/verenigingen/id/denbosch1849> <https://schema.org/location> "Den Bosch" .
-<https://costerskinderen.nl/verenigingen/id/denbosch1849> <https://schema.org/birthDate> "1849" .
-<https://costerskinderen.nl/verenigingen/id/denbosch1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1849> <https://schema.org/name> "Door Koster's Fakkel voorgelicht, is deze vriendenkring gesticht" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1849> <https://schema.org/location> "Rotterdam" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1849> <https://schema.org/birthDate> "1849" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/haarlem1851> <https://schema.org/name> "Tot Nut en Gezellig Verkeer" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1851> <https://schema.org/location> "Haarlem" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1851> <https://schema.org/birthDate> "1851" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <https://schema.org/name> "Nut en Genoegen" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <https://schema.org/location> "Utrecht" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <https://schema.org/birthDate> "1851" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1901-06-03" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <https://costerskinderen.nl/verenigingen/def/KB-nr> "64" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <https://schema.org/name> "Onderling Hulpbetoon" .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <https://schema.org/location> "Tiel" .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <https://schema.org/birthDate> "1852" .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1879-03-06" .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <https://costerskinderen.nl/verenigingen/def/KB-nr> "25" .
-<https://costerskinderen.nl/verenigingen/id/tiel1852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/arnhem1853> <https://schema.org/name> "De Eendracht" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1853> <https://schema.org/location> "Arnhem" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1853> <https://schema.org/birthDate> "1853" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/goes1854> <https://schema.org/name> "Lourens Jansz. Coster" .
-<https://costerskinderen.nl/verenigingen/id/goes1854> <https://schema.org/location> "Goes" .
-<https://costerskinderen.nl/verenigingen/id/goes1854> <https://schema.org/birthDate> "1854" .
-<https://costerskinderen.nl/verenigingen/id/goes1854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/leiden1854> <https://schema.org/name> "Lourens Jansz. Coster" .
-<https://costerskinderen.nl/verenigingen/id/leiden1854> <https://schema.org/location> "Leiden" .
-<https://costerskinderen.nl/verenigingen/id/leiden1854> <https://schema.org/birthDate> "1854" .
-<https://costerskinderen.nl/verenigingen/id/leiden1854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/gorinchem1856> <https://schema.org/name> "Nut en voorzorg" .
-<https://costerskinderen.nl/verenigingen/id/gorinchem1856> <https://schema.org/location> "Gorinchem" .
-<https://costerskinderen.nl/verenigingen/id/gorinchem1856> <https://schema.org/birthDate> "1856" .
-<https://costerskinderen.nl/verenigingen/id/gorinchem1856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <https://schema.org/name> "de Nederlandsche drukpers, " .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <https://schema.org/birthDate> "1857" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1889-04-10" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <https://costerskinderen.nl/verenigingen/def/KB-nr> "17" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <https://schema.org/name> "toneelvereeniging Coster" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <https://schema.org/birthDate> "1857" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1902-05-31" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <https://costerskinderen.nl/verenigingen/def/KB-nr> "42" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1857-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1857> <https://schema.org/name> "Hoe schoon is het broeders vereenigd te zien" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1857> <https://schema.org/location> "Rotterdam" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1857> <https://schema.org/birthDate> "1857" .
-<https://costerskinderen.nl/verenigingen/id/rotterdam1857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1859> <https://schema.org/name> "Vriendentrouw" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1859> <https://schema.org/location> "Leeuwarden" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1859> <https://schema.org/birthDate> "1859" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/sneek1860> <https://schema.org/name> "Lourens Coster" .
-<https://costerskinderen.nl/verenigingen/id/sneek1860> <https://schema.org/location> "Sneek" .
-<https://costerskinderen.nl/verenigingen/id/sneek1860> <https://schema.org/birthDate> "1860" .
-<https://costerskinderen.nl/verenigingen/id/sneek1860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/utrecht1860> <https://schema.org/name> "ANTHV" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1860> <https://schema.org/location> "Utrecht" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1860> <https://schema.org/birthDate> "1860" .
-<https://costerskinderen.nl/verenigingen/id/utrecht1860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <https://schema.org/name> "Broederhulp" .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <https://schema.org/location> "Nijmegen" .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <https://schema.org/birthDate> "1862" .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1888-08-05" .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <https://costerskinderen.nl/verenigingen/def/KB-nr> "41" .
-<https://costerskinderen.nl/verenigingen/id/nijmegen1862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/arnhem1869> <https://schema.org/name> "De Eendracht" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1869> <https://schema.org/location> "Arnhem" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1869> <https://schema.org/birthDate> "1869" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <https://schema.org/name> "\"Prudentia et Caritate\" (Uit eigen voorzorg en liefde tot elkander)" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <https://schema.org/location> "Den Haag" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <https://schema.org/birthDate> "1869" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1891-01-07" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <https://costerskinderen.nl/verenigingen/def/KB-nr> "4" .
-<https://costerskinderen.nl/verenigingen/id/denhaag1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/haarlem1869> <https://schema.org/name> "de Phenix" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1869> <https://schema.org/location> "Haarlem" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1869> <https://schema.org/birthDate> "1869" .
-<https://costerskinderen.nl/verenigingen/id/haarlem1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1877> <https://schema.org/name> "Nut en Genoegen" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1877> <https://schema.org/location> "Leeuwarden" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1877> <https://schema.org/birthDate> "1877" .
-<https://costerskinderen.nl/verenigingen/id/leeuwarden1877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <https://schema.org/name> "Tot bevordering van de belangen der Boekdrukkunst" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <https://schema.org/birthDate> "1879" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1879-11-12" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <https://costerskinderen.nl/verenigingen/def/KB-nr> "47" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <https://schema.org/name> "Door samenwerking een" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <https://schema.org/location> "Arnhem" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <https://schema.org/birthDate> "1891" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1896-07-06" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <https://costerskinderen.nl/verenigingen/def/KB-nr> "34" .
-<https://costerskinderen.nl/verenigingen/id/arnhem1891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <https://schema.org/name> "Draagt elkanders lasten" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <https://schema.org/birthDate> "1894" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1900-01-30" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <https://costerskinderen.nl/verenigingen/def/KB-nr> "33" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <https://schema.org/name> "Laurens Janszoon Coster" .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <https://schema.org/location> "Assen" .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <https://schema.org/birthDate> "1900" .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <https://costerskinderen.nl/verenigingen/def/KB-datum> "1903-12-08" .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <https://costerskinderen.nl/verenigingen/def/KB-nr> "50" .
-<https://costerskinderen.nl/verenigingen/id/assen1900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/zwolle1858> <https://schema.org/name> "Nut door verbroedering" .
-<https://costerskinderen.nl/verenigingen/id/zwolle1858> <https://schema.org/location> "Zwolle" .
-<https://costerskinderen.nl/verenigingen/id/zwolle1858> <https://schema.org/birthDate> "<1858" .
-<https://costerskinderen.nl/verenigingen/id/zwolle1858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/groningen1861> <https://schema.org/name> "Lourens Jansz Coster" .
-<https://costerskinderen.nl/verenigingen/id/groningen1861> <https://schema.org/location> "Groningen" .
-<https://costerskinderen.nl/verenigingen/id/groningen1861> <https://schema.org/birthDate> "<1861" .
-<https://costerskinderen.nl/verenigingen/id/groningen1861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/groningen1888> <https://schema.org/name> "Het Noorden" .
-<https://costerskinderen.nl/verenigingen/id/groningen1888> <https://schema.org/location> "Groningen" .
-<https://costerskinderen.nl/verenigingen/id/groningen1888> <https://schema.org/birthDate> "<1888" .
-<https://costerskinderen.nl/verenigingen/id/groningen1888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1895> <https://schema.org/name> "Voorwaarts" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1895> <https://schema.org/location> "Amsterdam" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1895> <https://schema.org/birthDate> "<1895" .
-<https://costerskinderen.nl/verenigingen/id/amsterdam1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
-<https://costerskinderen.nl/verenigingen/id/deventer1892> <https://schema.org/name> "Laurens Coster" .
-<https://costerskinderen.nl/verenigingen/id/deventer1892> <https://schema.org/location> "Deventer" .
-<https://costerskinderen.nl/verenigingen/id/deventer1892> <https://schema.org/birthDate> "<1892" .
-<https://costerskinderen.nl/verenigingen/id/deventer1892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/groningen1826> <https://schema.org/name> "Gruno" .
+<http://costerskinderen.nl/vereniging/id/groningen1826> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/vereniging/id/groningen1826> <https://schema.org/birthDate> "1826" .
+<http://costerskinderen.nl/vereniging/id/groningen1826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/breda1837> <https://schema.org/name> "Door Eendracht T'zaam Verbonden" .
+<http://costerskinderen.nl/vereniging/id/breda1837> <https://schema.org/location> "Breda" .
+<http://costerskinderen.nl/vereniging/id/breda1837> <https://schema.org/birthDate> "1837" .
+<http://costerskinderen.nl/vereniging/id/breda1837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/denhaag1843> <https://schema.org/name> "Door Eendracht t' Zaam Verbonden" .
+<http://costerskinderen.nl/vereniging/id/denhaag1843> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/vereniging/id/denhaag1843> <https://schema.org/birthDate> "1843" .
+<http://costerskinderen.nl/vereniging/id/denhaag1843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/middelburg1847> <https://schema.org/name> "Harmonie en Vriendschap" .
+<http://costerskinderen.nl/vereniging/id/middelburg1847> <https://schema.org/location> "Middelburg" .
+<http://costerskinderen.nl/vereniging/id/middelburg1847> <https://schema.org/birthDate> "1847" .
+<http://costerskinderen.nl/vereniging/id/middelburg1847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/denhaag1848> <https://schema.org/name> "Nut en Genoegen" .
+<http://costerskinderen.nl/vereniging/id/denhaag1848> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/vereniging/id/denhaag1848> <https://schema.org/birthDate> "1848" .
+<http://costerskinderen.nl/vereniging/id/denhaag1848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1849> <https://schema.org/name> "Voorzorg en Genoegen" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1849> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1849> <https://schema.org/birthDate> "1849" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/arnhem1849> <https://schema.org/name> "Boekdrukkunst, de Grondzuil der Verlichting" .
+<http://costerskinderen.nl/vereniging/id/arnhem1849> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/vereniging/id/arnhem1849> <https://schema.org/birthDate> "1849" .
+<http://costerskinderen.nl/vereniging/id/arnhem1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/denbosch1849> <https://schema.org/name> "Door Eendracht t' Zaam Verbonden" .
+<http://costerskinderen.nl/vereniging/id/denbosch1849> <https://schema.org/location> "Den Bosch" .
+<http://costerskinderen.nl/vereniging/id/denbosch1849> <https://schema.org/birthDate> "1849" .
+<http://costerskinderen.nl/vereniging/id/denbosch1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/rotterdam1849> <https://schema.org/name> "Door Koster's Fakkel voorgelicht, is deze vriendenkring gesticht" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1849> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1849> <https://schema.org/birthDate> "1849" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/haarlem1851> <https://schema.org/name> "Tot Nut en Gezellig Verkeer" .
+<http://costerskinderen.nl/vereniging/id/haarlem1851> <https://schema.org/location> "Haarlem" .
+<http://costerskinderen.nl/vereniging/id/haarlem1851> <https://schema.org/birthDate> "1851" .
+<http://costerskinderen.nl/vereniging/id/haarlem1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <https://schema.org/name> "Nut en Genoegen" .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <https://schema.org/birthDate> "1851" .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <http://costerskinderen.nl/vereniging/def/KB-datum> "1901-06-03" .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <http://costerskinderen.nl/vereniging/def/KB-nr> "64" .
+<http://costerskinderen.nl/vereniging/id/utrecht1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <https://schema.org/name> "Onderling Hulpbetoon" .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <https://schema.org/location> "Tiel" .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <https://schema.org/birthDate> "1852" .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <http://costerskinderen.nl/vereniging/def/KB-datum> "1879-03-06" .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <http://costerskinderen.nl/vereniging/def/KB-nr> "25" .
+<http://costerskinderen.nl/vereniging/id/tiel1852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/arnhem1853> <https://schema.org/name> "De Eendracht" .
+<http://costerskinderen.nl/vereniging/id/arnhem1853> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/vereniging/id/arnhem1853> <https://schema.org/birthDate> "1853" .
+<http://costerskinderen.nl/vereniging/id/arnhem1853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/goes1854> <https://schema.org/name> "Lourens Jansz. Coster" .
+<http://costerskinderen.nl/vereniging/id/goes1854> <https://schema.org/location> "Goes" .
+<http://costerskinderen.nl/vereniging/id/goes1854> <https://schema.org/birthDate> "1854" .
+<http://costerskinderen.nl/vereniging/id/goes1854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/leiden1854> <https://schema.org/name> "Lourens Jansz. Coster" .
+<http://costerskinderen.nl/vereniging/id/leiden1854> <https://schema.org/location> "Leiden" .
+<http://costerskinderen.nl/vereniging/id/leiden1854> <https://schema.org/birthDate> "1854" .
+<http://costerskinderen.nl/vereniging/id/leiden1854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/gorinchem1856> <https://schema.org/name> "Nut en voorzorg" .
+<http://costerskinderen.nl/vereniging/id/gorinchem1856> <https://schema.org/location> "Gorinchem" .
+<http://costerskinderen.nl/vereniging/id/gorinchem1856> <https://schema.org/birthDate> "1856" .
+<http://costerskinderen.nl/vereniging/id/gorinchem1856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <https://schema.org/name> "de Nederlandsche drukpers, " .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <https://schema.org/birthDate> "1857" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <http://costerskinderen.nl/vereniging/def/KB-datum> "1889-04-10" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <http://costerskinderen.nl/vereniging/def/KB-nr> "17" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <https://schema.org/name> "toneelvereeniging Coster" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <https://schema.org/birthDate> "1857" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <http://costerskinderen.nl/vereniging/def/KB-datum> "1902-05-31" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <http://costerskinderen.nl/vereniging/def/KB-nr> "42" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1857-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/rotterdam1857> <https://schema.org/name> "Hoe schoon is het broeders vereenigd te zien" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1857> <https://schema.org/location> "Rotterdam" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1857> <https://schema.org/birthDate> "1857" .
+<http://costerskinderen.nl/vereniging/id/rotterdam1857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1859> <https://schema.org/name> "Vriendentrouw" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1859> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1859> <https://schema.org/birthDate> "1859" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/sneek1860> <https://schema.org/name> "Lourens Coster" .
+<http://costerskinderen.nl/vereniging/id/sneek1860> <https://schema.org/location> "Sneek" .
+<http://costerskinderen.nl/vereniging/id/sneek1860> <https://schema.org/birthDate> "1860" .
+<http://costerskinderen.nl/vereniging/id/sneek1860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/utrecht1860> <https://schema.org/name> "ANTHV" .
+<http://costerskinderen.nl/vereniging/id/utrecht1860> <https://schema.org/location> "Utrecht" .
+<http://costerskinderen.nl/vereniging/id/utrecht1860> <https://schema.org/birthDate> "1860" .
+<http://costerskinderen.nl/vereniging/id/utrecht1860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <https://schema.org/name> "Broederhulp" .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <https://schema.org/location> "Nijmegen" .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <https://schema.org/birthDate> "1862" .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <http://costerskinderen.nl/vereniging/def/KB-datum> "1888-08-05" .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <http://costerskinderen.nl/vereniging/def/KB-nr> "41" .
+<http://costerskinderen.nl/vereniging/id/nijmegen1862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/arnhem1869> <https://schema.org/name> "De Eendracht" .
+<http://costerskinderen.nl/vereniging/id/arnhem1869> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/vereniging/id/arnhem1869> <https://schema.org/birthDate> "1869" .
+<http://costerskinderen.nl/vereniging/id/arnhem1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <https://schema.org/name> "\"Prudentia et Caritate\" (Uit eigen voorzorg en liefde tot elkander)" .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <https://schema.org/location> "Den Haag" .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <https://schema.org/birthDate> "1869" .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <http://costerskinderen.nl/vereniging/def/KB-datum> "1891-01-07" .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <http://costerskinderen.nl/vereniging/def/KB-nr> "4" .
+<http://costerskinderen.nl/vereniging/id/denhaag1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/haarlem1869> <https://schema.org/name> "de Phenix" .
+<http://costerskinderen.nl/vereniging/id/haarlem1869> <https://schema.org/location> "Haarlem" .
+<http://costerskinderen.nl/vereniging/id/haarlem1869> <https://schema.org/birthDate> "1869" .
+<http://costerskinderen.nl/vereniging/id/haarlem1869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1877> <https://schema.org/name> "Nut en Genoegen" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1877> <https://schema.org/location> "Leeuwarden" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1877> <https://schema.org/birthDate> "1877" .
+<http://costerskinderen.nl/vereniging/id/leeuwarden1877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <https://schema.org/name> "Tot bevordering van de belangen der Boekdrukkunst" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <https://schema.org/birthDate> "1879" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <http://costerskinderen.nl/vereniging/def/KB-datum> "1879-11-12" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <http://costerskinderen.nl/vereniging/def/KB-nr> "47" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <https://schema.org/name> "Door samenwerking een" .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <https://schema.org/location> "Arnhem" .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <https://schema.org/birthDate> "1891" .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <http://costerskinderen.nl/vereniging/def/KB-datum> "1896-07-06" .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <http://costerskinderen.nl/vereniging/def/KB-nr> "34" .
+<http://costerskinderen.nl/vereniging/id/arnhem1891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <https://schema.org/name> "Draagt elkanders lasten" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <https://schema.org/birthDate> "1894" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <http://costerskinderen.nl/vereniging/def/KB-datum> "1900-01-30" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <http://costerskinderen.nl/vereniging/def/KB-nr> "33" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/assen1900> <https://schema.org/name> "Laurens Janszoon Coster" .
+<http://costerskinderen.nl/vereniging/id/assen1900> <https://schema.org/location> "Assen" .
+<http://costerskinderen.nl/vereniging/id/assen1900> <https://schema.org/birthDate> "1900" .
+<http://costerskinderen.nl/vereniging/id/assen1900> <http://costerskinderen.nl/vereniging/def/KB-datum> "1903-12-08" .
+<http://costerskinderen.nl/vereniging/id/assen1900> <http://costerskinderen.nl/vereniging/def/KB-nr> "50" .
+<http://costerskinderen.nl/vereniging/id/assen1900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/zwolle1858> <https://schema.org/name> "Nut door verbroedering" .
+<http://costerskinderen.nl/vereniging/id/zwolle1858> <https://schema.org/location> "Zwolle" .
+<http://costerskinderen.nl/vereniging/id/zwolle1858> <https://schema.org/birthDate> "<1858" .
+<http://costerskinderen.nl/vereniging/id/zwolle1858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/groningen1861> <https://schema.org/name> "Lourens Jansz Coster" .
+<http://costerskinderen.nl/vereniging/id/groningen1861> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/vereniging/id/groningen1861> <https://schema.org/birthDate> "<1861" .
+<http://costerskinderen.nl/vereniging/id/groningen1861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/groningen1888> <https://schema.org/name> "Het Noorden" .
+<http://costerskinderen.nl/vereniging/id/groningen1888> <https://schema.org/location> "Groningen" .
+<http://costerskinderen.nl/vereniging/id/groningen1888> <https://schema.org/birthDate> "<1888" .
+<http://costerskinderen.nl/vereniging/id/groningen1888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/amsterdam1895> <https://schema.org/name> "Voorwaarts" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1895> <https://schema.org/location> "Amsterdam" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1895> <https://schema.org/birthDate> "<1895" .
+<http://costerskinderen.nl/vereniging/id/amsterdam1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .
+<http://costerskinderen.nl/vereniging/id/deventer1892> <https://schema.org/name> "Laurens Coster" .
+<http://costerskinderen.nl/vereniging/id/deventer1892> <https://schema.org/location> "Deventer" .
+<http://costerskinderen.nl/vereniging/id/deventer1892> <https://schema.org/birthDate> "<1892" .
+<http://costerskinderen.nl/vereniging/id/deventer1892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Organization> .

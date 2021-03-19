@@ -1,0 +1,63 @@
+{
+  "@id": "http://costerskinderen.nl/vereniging/",
+  "@context": [
+    "https://raw.githubusercontent.com/CLARIAH/COW/master/csvw.json",
+    {
+      "@base": "http://costerskinderen.nl/vereniging/"
+    }
+  ],
+  "url": "",
+  "dialect": {
+    "delimiter": ",",
+    "encoding": "UTF-8",
+    "quoteChar": "\""
+  },
+  "tableSchema": {
+    "aboutUrl": "http://costerskinderen.nl/vereniging/id/{code}",
+    "primaryKey": "Resource",
+    "columns": [
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "aboutUrl": "http://costerskinderen.nl/vereniging/id/{code}",
+        "valueUrl": "https://schema.org/Organization"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/code",
+        "name": "code",
+        "propertyUrl": "http://costerskinderen.nl/vereniging/def/code"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/naam",
+        "name": "naam",
+        "propertyUrl": "https://schema.org/name"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/plaats",
+        "name": "plaats",
+        "propertyUrl": "https://schema.org/location"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/oprichting",
+        "name": "oprichting",
+        "propertyUrl": "https://schema.org/birthDate"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/KB-datum",
+        "name": "KB-datum",
+        "propertyUrl": "http://costerskinderen.nl/vereniging/def/KB-datum"
+      },
+      {
+        "datatype": "string",
+        "@id": "http://costerskinderen.nl/vereniging/column/KB-nr",
+        "name": "KB-nr",
+        "propertyUrl": "http://costerskinderen.nl/vereniging/def/KB-nr"
+      }
+    ]
+  }
+}

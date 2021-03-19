@@ -12,7 +12,7 @@
 	},
 	"inRepository": true,
 	"translatorType": 2,
-	"lastUpdated": "2021-03-12 9:00:00"
+	"lastUpdated": "2021-03-19 9:00:00"
 }
 
 var item;
@@ -43,15 +43,23 @@ function generateTags(resource, tags) {
 	Zotero.debug("processing tags");
 	for (var i=0; i<tags.length; i++) {
 		var tag = tags[i];
+		var tagValue = tag.tag;
 		if (tag.type == 1) {
 			var tagResource = Zotero.RDF.newResource();
 			// set tag type and value
 			Zotero.RDF.addStatement(tagResource, rdf+"type", n.z+"AutomaticTag", false);
-			Zotero.RDF.addStatement(tagResource, rdf+"value", tag.tag, true);
+			Zotero.RDF.addStatement(tagResource, rdf+"value", tagValue, true);
 			// add relationship to resource
 			Zotero.RDF.addStatement(resource, n.schema+"about", tagResource, false);
 		} else {
-			Zotero.RDF.addStatement(resource, n.schema+"about", tag.tag, true);
+			if (tagValue.startsWith("typo:")) {
+ 				var tagValue = tagValue.replace("typo:", "http://costerskinderen.nl/vereniging/");
+				Zotero.RDF.addStatement(resource, n.schema+"about", tagValue, false);
+				}
+			else {
+				Zotero.RDF.addStatement(resource, n.schema+"about", tagValue, true);
+			}
+
 		}
 	}
 }
@@ -270,7 +278,7 @@ function generateItem(item, zoteroType, resource) {
 							"audioRecordingType", "presentationType", "postType",
 							"audioFileType"];
 	var ignoreProperties = ["itemID", "itemType", "firstCreator", "dateAdded",
-							"dateModified", "section", "sourceItemID"];
+							"dateModified", "section", "sourceItemID", "accessDate"];
 	
 	// creators
 	if (item.creators) {			// authors/editors/contributors
@@ -316,12 +324,15 @@ function generateItem(item, zoteroType, resource) {
 	}
 	
 	// child attachments
+	// ONLY URI's, ie. linkMode == 3
 	if (item.attachments) {
 		for (var i=0; i<item.attachments.length; i++) {
 			var attachment = item.attachments[i];
-			var attachmentResource = itemResources[attachment.itemID];
-			Zotero.RDF.addStatement(resource, n.schema+"url", attachmentResource, false);
-			generateItem(attachment, "attachment", attachmentResource);
+			if (attachment.linkMode == '3') {
+				var attachmentResource = attachment.url;
+				Zotero.RDF.addStatement(resource, n.schema+"sameAs", attachmentResource, false);
+//				generateItem(attachment, "attachment", attachmentResource);
+			}
 		}
 	}
 	
@@ -340,7 +351,13 @@ function generateItem(item, zoteroType, resource) {
 	for (var property in item.uniqueFields) {
 		var value = item[property];
 		if (!value) continue;
-		
+
+		// transform value if it is a link
+		if (value.startsWith("isil:")) {
+			var value = value.replace("isil:", "http://costerskinderen.nl/isil/");		
+			}
+
+		// decide the property
 		if (property == "title") {					// title
 			// BEGIN NSF
 			if (zoteroType == "nsfReviewer") {
@@ -352,7 +369,7 @@ function generateItem(item, zoteroType, resource) {
 		} else if (property == "source") {			// authors/editors/contributors
 			Zotero.RDF.addStatement(resource, n.dc+"source", value, true);
 		} else if (property == "url") {				// url
-			Zotero.RDF.addStatement(resource, n.schema+"url", value, false);
+			Zotero.RDF.addStatement(resource, n.schema+"sameAs", value, false);
 		} else if (property == "accessionNumber") {	// accessionNumber as generic ID
 			Zotero.RDF.addStatement(resource, n.schema+"identifier", value, true);
 		} else if (property == "rights") {			// rights
@@ -474,7 +491,8 @@ function generateItem(item, zoteroType, resource) {
 		} else if (property == "language") {
 			Zotero.RDF.addStatement(resource, n.schema+"inLanguage", value, true);
 		} else if (property == "archive") {
-			Zotero.RDF.addStatement(resource, n.schema+"holdingArchive", value, true);
+//			Zotero.RDF.addStatement(resource, n.schema+"holdingArchive", value, true);
+			Zotero.RDF.addStatement(resource, n.schema+"holdingArchive", value, false);
 		} else if (property == "shortTitle") {
 			Zotero.RDF.addStatement(resource, n.schema+"alternateName", value, true);
 		} else if (property == "libraryCatalog") {
