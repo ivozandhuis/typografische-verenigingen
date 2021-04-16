@@ -15,12 +15,13 @@ Make HDT:
 java -jar burgerLinker.jar --function ConvertToHDT --inputData aktesdata.ttl --outputDir .
 ```
 
+Get stats and check whether the data is parsed correctly:
 ```
 java -jar burgerLinker.jar --function ShowDatasetStats --inputData aktesdata.hdt
 ```
 
+Create links (This last step does not seem to work (yet).)
 ```
 java -jar burgerLinker.jar --function Within_B_M --inputData aktesdata.hdt --outputDir . --format CSV --maxLev 3 --fixedLev
 ```
 
-This last step does not seem to work (yet).
