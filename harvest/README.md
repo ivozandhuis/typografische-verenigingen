@@ -25,3 +25,6 @@ Create links (This last step does not seem to work (yet).)
 java -jar burgerLinker.jar --function Within_B_M --inputData aktesdata.hdt --outputDir . --format CSV --maxLev 3 --fixedLev
 ```
 
+```
+java -jar burgerLinker.jar --function closure --inputData aktesdata.hdt --outputDir .
+```

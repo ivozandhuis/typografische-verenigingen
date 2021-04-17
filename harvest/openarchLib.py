@@ -177,13 +177,13 @@ def createGraph(jsonResult, url):
     eventIRI = rdflib.URIRef(url + "#" + gebeurtenis)
 
     if (gebeurtenis == "Geboorte"):
-        typeIRI = rdflib.URIRef("http://purl.org/vocab/bio/0.1/Birth")
+        typeIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/Birth")
     elif (gebeurtenis == "Overlijden"):
-        typeIRI = rdflib.URIRef("http://purl.org/vocab/bio/0.1/Death")
+        typeIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/Death")
     elif (gebeurtenis == "Huwelijk"):
-        typeIRI = rdflib.URIRef("http://purl.org/vocab/bio/0.1/Marriage")
+        typeIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/Marriage")
     else:
-        typeIRI = rdflib.URIRef("http://schema.org/Event")
+        typeIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/Event")
     g.add((eventIRI,rdf.type,typeIRI))
 
     # plaats

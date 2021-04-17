@@ -7,7 +7,7 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Huwelijk> a bio:Marriage ;
+<https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Huwelijk> a civ:Marriage ;
     civ:bride <https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Person:fb79612d-e987-ce08-c88a-32246967595e> ;
     civ:eventDate "1854-05-08"^^xsd:date ;
     civ:eventLocation "Breda" ;
@@ -17,12 +17,20 @@
     civ:motherBride <https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Person:3e3b0c46-3039-7b13-5300-491fc0bb6540> ;
     civ:motherGroom <https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Person:81420772-0fbc-2696-8d9d-3baf258fc948> .
 
-<https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Geboorte> a bio:Birth ;
+<https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Geboorte> a civ:Birth ;
     civ:eventDate "1827-04-13"^^xsd:date ;
     civ:eventLocation "Hoeven" ;
     civ:father <https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Person:557b5ee0-f8de-11df-a690-cd95c1e286e2> ;
     civ:mother <https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Person:557b9392-f8de-11df-a690-cd95c1e286e2> ;
     civ:newborn <https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Person:557b2ba0-f8de-11df-a690-cd95c1e286e2> .
+
+<https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Overlijden> a civ:Death ;
+    civ:deceased <https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511150> ;
+    civ:eventDate "1880-02-28"^^xsd:date ;
+    civ:eventLocation "Goes" ;
+    civ:father <https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511148> ;
+    civ:mother <https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511151> ;
+    civ:partner <https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511149> .
 
 <https://www.openarch.nl/brd:290ad17f-d2aa-0a0b-1417-799cd4717252#Person:3e3b0c46-3039-7b13-5300-491fc0bb6540> a schema:Person ;
     civ:personID "Person:3e3b0c46-3039-7b13-5300-491fc0bb6540" ;
@@ -72,6 +80,29 @@
 
 <https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Person:557b9392-f8de-11df-a690-cd95c1e286e2> a schema:Person ;
     civ:personID "Person:557b9392-f8de-11df-a690-cd95c1e286e2" ;
+    sdo:familyName "Kerstens" ;
+    sdo:givenName "Cornelia" .
+
+<https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511148> a schema:Person ;
+    civ:personID "Person344511148" ;
+    civ:prefixFamilyName "van" ;
+    sdo:familyName "Aken" ;
+    sdo:givenName "Adriaan" .
+
+<https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511149> a schema:Person ;
+    civ:personID "Person344511149" ;
+    civ:prefixFamilyName "van der" ;
+    sdo:familyName "Jagt" ;
+    sdo:givenName "Adriana" .
+
+<https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511150> a schema:Person ;
+    civ:personID "Person344511150" ;
+    civ:prefixFamilyName "van" ;
+    sdo:familyName "Aken" ;
+    sdo:givenName "Willem" .
+
+<https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511151> a schema:Person ;
+    civ:personID "Person344511151" ;
     sdo:familyName "Kerstens" ;
     sdo:givenName "Cornelia" .
 
