@@ -8,6 +8,8 @@ Python 3 script harvestOpenarch.py harvests data from the [Open Archives API](ht
 ./harvestOpenarch.py
 ```
 
+NB: not all data contains gender-information. The burgerLinker does not work without it.
+
 Put the burgerLinker.jar in this directory.
 
 Make HDT: 
@@ -20,7 +22,7 @@ Get stats and check whether the data is parsed correctly:
 java -jar burgerLinker.jar --function ShowDatasetStats --inputData aktesdata.hdt
 ```
 
-Create links (This last step does not seem to work (yet).)
+Create links:
 ```
 java -jar burgerLinker.jar --function Within_B_M --inputData aktesdata.hdt --outputDir . --format CSV --maxLev 3 --fixedLev
 ```

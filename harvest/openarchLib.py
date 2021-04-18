@@ -149,20 +149,16 @@ def createDict(jsonResult):
     return row
 
 #####
-# creates RDF complying to the schema-definition in CLARIAH
+# creates RDF complying to the schema-definition of CLARIAH/burgerLinker
 def createGraph(jsonResult, url):
 
     rdf     = rdflib.Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
     civ     = rdflib.Namespace("https://iisg.amsterdam/id/civ/")
     schema  = rdflib.Namespace("http://schema.org/")
-    sdo     = rdflib.Namespace("https://schema.org/")
-    bio     = rdflib.Namespace("http://purl.org/vocab/bio/0.1/")
 
     g = rdflib.Graph()
     g.namespace_manager.bind('civ', civ, override=False)
     g.namespace_manager.bind('schema', schema, override=False)
-    g.namespace_manager.bind('sdo', sdo, override=False)
-    g.namespace_manager.bind('bio', bio, override=False)
 
     akteIRI = rdflib.URIRef(url)
 
@@ -192,6 +188,9 @@ def createGraph(jsonResult, url):
     plaats         = a2aPlace.get('a2a_Place', "")
 
     g.add((eventIRI,civ.eventLocation,rdflib.Literal(plaats)))
+
+    registrationID = url.replace("https://www.openarch.nl/","")
+    g.add((eventIRI,civ.registrationID,rdflib.Literal(registrationID.replace(":","_"))))
     
     # datum
     a2aEventDate = a2aEvent.get('a2a_EventDate', {})
@@ -226,11 +225,11 @@ def createGraph(jsonResult, url):
         personIRI = rdflib.URIRef(url + "#" + personPid)
         typeIRI = rdflib.URIRef("http://schema.org/Person")
         g.add((personIRI,rdf.type,typeIRI))
-        g.add((personIRI,civ.personID,rdflib.Literal(personPid)))
+        g.add((personIRI,civ.personID,rdflib.Literal(personPid.replace(":","_"))))
 
         a2aPersonNameFirstName = a2aPersonName.get('a2a_PersonNameFirstName', {})
         givenName =  a2aPersonNameFirstName.get('a2a_PersonNameFirstName', "")
-        g.add((personIRI,sdo.givenName,rdflib.Literal(givenName)))
+        g.add((personIRI,schema.givenName,rdflib.Literal(givenName)))
 
         a2aPersonNamePrefixLastName = a2aPersonName.get('a2a_PersonNamePrefixLastName', {})
         infix =  a2aPersonNamePrefixLastName.get('a2a_PersonNamePrefixLastName', "")
@@ -239,37 +238,61 @@ def createGraph(jsonResult, url):
 
         a2aPersonNameLastName = a2aPersonName.get('a2a_PersonNameLastName', {})
         lastName =  a2aPersonNameLastName.get('a2a_PersonNameLastName', "")
-        g.add((personIRI, sdo.familyName,rdflib.Literal(lastName)))
+        g.add((personIRI, schema.familyName,rdflib.Literal(lastName)))
 
         # relating Event to Person with role-properties
         rol = roles[personPid]
 
         if (rol == "Moeder"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/mother")
+            genderDerived = "f"
         elif (rol == "Vader"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/father")
+            genderDerived = "m"
         elif (rol == "Kind"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/newborn")
+            genderDerived = "?"
         elif (rol == "Partner"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/partner")
+            genderDerived = "?"
         elif (rol == "Overledene"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/deceased")
+            genderDerived = "?"
         elif (rol == "Bruid"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/bride")
+            genderDerived = "f"
         elif (rol == "Bruidegom"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/groom")
+            genderDerived = "m"
         elif (rol == "Vader_van_de_bruid"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/fatherBride")
+            genderDerived = "m"
         elif (rol == "Moeder_van_de_bruid"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/motherBride")
+            genderDerived = "f"
         elif (rol == "Vader_van_de_bruidegom"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/fatherGroom")
+            genderDerived = "m"
         elif (rol == "Moeder_van_de_bruidegom"):
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/motherGroom")
+            genderDerived = "f"
         else:
             roleIRI = rdflib.URIRef("https://iisg.amsterdam/id/civ/participant")
+            genderDerived = "?"
 
         g.add((eventIRI,roleIRI,personIRI))
 
+        # gender
+        a2aGender = p.get('a2a_Gender', {})
+        genderFromData = a2aGender.get('a2a_Gender', {})
+
+        if (genderFromData == "Man"):
+            gender = "m"
+        elif (genderFromData == "Vrouw"):
+            gender = "f"
+        else:
+            gender = genderDerived
+
+        g.add((personIRI, schema.gender,rdflib.Literal(gender)))
 
     return g
