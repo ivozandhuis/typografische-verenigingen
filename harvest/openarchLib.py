@@ -293,6 +293,13 @@ def createGraph(jsonResult, url):
         else:
             gender = genderDerived
 
-        g.add((personIRI, schema.gender,rdflib.Literal(gender)))
+        if (gender != '?'):
+            g.add((personIRI, schema.gender,rdflib.Literal(gender)))
+
+        # occupation
+        a2aGender = p.get('a2a_Profession', {})
+        occupation = a2aGender.get('a2a_Profession', {})
+        if (len(occupation) > 0):
+            g.add((personIRI, schema.hasOccupation,rdflib.Literal(occupation)))
 
     return g

@@ -75,7 +75,6 @@
 
 <https://www.openarch.nl/wba:abf44138-f8d9-11df-a690-cd95c1e286e2#Person:557b2ba0-f8de-11df-a690-cd95c1e286e2> a schema:Person ;
     schema:familyName "Aken" ;
-    schema:gender "m" ;
     schema:givenName "Willem" ;
     civ:personID "Person_557b2ba0-f8de-11df-a690-cd95c1e286e2" ;
     civ:prefixFamilyName "van" .
@@ -102,8 +101,8 @@
 
 <https://www.openarch.nl/zar:F8EBD5FA-8078-4D7A-953A-7A555E1CA291#Person344511149> a schema:Person ;
     schema:familyName "Jagt" ;
-    schema:gender "f" ;
     schema:givenName "Adriana" ;
+    schema:hasOccupation "Zonder" ;
     civ:personID "Person344511149" ;
     civ:prefixFamilyName "van der" .
 
@@ -111,6 +110,7 @@
     schema:familyName "Aken" ;
     schema:gender "m" ;
     schema:givenName "Willem" ;
+    schema:hasOccupation "Boekbinder" ;
     civ:personID "Person344511150" ;
     civ:prefixFamilyName "van" .
 
