@@ -1,0 +1,50 @@
+# https://costerskinderen.nl/example-graph
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix schema: <https://schema.org/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+
+<https://zotero.org/groups/2707622/items/P5HRJ669>
+    a schema:Book ;
+    rdfs:label "Jaarboekje voor typographische vereenigingen" ;
+    schema:sameAs <https://books.google.nl/books?id=YTY5AAAAMAAJ> ;
+    schema:sameAs <https://pid.uba.uva.nl/ark:/88238/b1990003572120205131> ;
+    schema:sameAs <https://recogito.pelagios.org/document/caizoqfhkxtigf> ;
+    schema:about <https://costerskinderen.nl/vereniging/id/denhaag1843> .
+
+<https://books.google.nl/books?id=YTY5AAAAMAAJ> 
+    a schema:Book ;
+    rdfs:label "Jaarboekje Google Books" .
+
+<https://pid.uba.uva.nl/ark:/88238/b1990003572120205131> 
+    a schema:Book ;
+    rdfs:label "Jaarboekje UvA" .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf>
+    a schema:Book ;
+    rdfs:label "Jaarboekje Recogito" .
+
+<https://costerskinderen.nl/vereniging/id/denhaag1843> 
+    a schema:Organization ;
+    rdfs:label "Door Eendracht t' Zaam Verbonden" ;
+    schema:location "Den Haag" .
+
+<https://costerskinderen.nl/persoon/id/123456> 
+    a schema:Person ;
+    rdfs:label "Jan Hendrik Regenboog" ;
+    schema:memberOf <https://costerskinderen.nl/vereniging/id/denhaag1843> ;
+    schema:sibling <https://costerskinderen.nl/persoon/id/654321> .
+
+<https://costerskinderen.nl/persoon/id/654321> 
+    a schema:Person ;
+    rdfs:label "Christiaan Regenboog" ;
+    schema:sibling <https://costerskinderen.nl/persoon/id/123456> .
+
+<https://recogito.pelagios.org/annotation/51e9cac0-a07a-472d-9e9b-eef16f95995f>
+    a oa:Annotation ;
+    rdfs:label "J.H. Regenboog" ;
+    schema:sameAs <https://costerskinderen.nl/persoon/id/123456> ;
+    oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
