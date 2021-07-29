@@ -483,7 +483,8 @@
             </schema:Organization>
         </schema:publisher>
         <schema:about rdf:resource="http://costerskinderen.nl/vereniging/rotterdam1849"/>
-        <schema:sameAs rdf:resource="http://www.worldcat.org/oclc/900968898"/>
+        <schema:sameAs rdf:resource="https://anet.be/record/opacehc/c:lvd:14226873/N"/>
+        <schema:datePublished>1867-1868</schema:datePublished>
         <schema:inLanguage>nl</schema:inLanguage>
         <schema:name>Feestzangen ter gelegenheid der jaarlijksche feestviering van de Typographische Vereeniging &quot;Door Koster's Fakker voorgelicht, is deze Vriendenkring gesticht&quot;</schema:name>
         <schema:holdingArchive rdf:resource="Erfgoedbibliotheek Hendrik Conscience"/>
@@ -980,6 +981,7 @@
         <schema:sameAs rdf:resource="https://books.google.nl/books?id=YTY5AAAAMAAJ"/>
         <schema:sameAs rdf:resource="https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv"/>
         <schema:sameAs rdf:resource="https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA21149681060002711"/>
+        <schema:about>dhbenelux2021</schema:about>
         <schema:sameAs rdf:resource="https://pid.uba.uva.nl/ark:/88238/b1990003572120205131"/>
         <schema:datePublished>1856</schema:datePublished>
         <schema:about>
@@ -1675,6 +1677,9 @@
     </schema:Book>
     <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/5XMKIGTA">
         <schema:additionalType>manuscript</schema:additionalType>
+        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/rotterdam1849"/>
+        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/tiel1852"/>
+        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/utrecht1851"/>
         <schema:sameAs rdf:resource="https://hdl.handle.net/10622/ARCH01707"/>
         <schema:additionalType>fonds</schema:additionalType>
         <schema:name>Archief Algemene Nederlandse Grafische Bond</schema:name>
@@ -2274,7 +2279,7 @@
         <schema:additionalType>journalArticle</schema:additionalType>
         <schema:isPartOf>
             <schema:Periodical>
-                <schema:issueNumber>23</schema:issueNumber>
+                <schema:volumeNumber>23</schema:volumeNumber>
                 <schema:name>Jaarboek De Oranjeboom</schema:name>
             </schema:Periodical>
         </schema:isPartOf>
@@ -2345,7 +2350,6 @@
     </schema:Manuscript>
     <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/FV6HJXDM">
         <schema:additionalType>manuscript</schema:additionalType>
-        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/amsterdam1857-1"/>
         <schema:about rdf:resource="http://costerskinderen.nl/vereniging/haarlem1851"/>
         <schema:about rdf:resource="http://costerskinderen.nl/vereniging/middelburg1847"/>
         <schema:sameAs rdf:resource="https://hdl.handle.net/10622/ARCH04240"/>
@@ -2391,6 +2395,7 @@
                 <schema:givenName>Jacques</schema:givenName>
             </schema:Person>
         </schema:author>
+        <schema:about>dhbenelux2021</schema:about>
         <schema:sameAs rdf:resource="https://hdl.handle.net/10622/FEC3F7D7-F7CB-4DC8-9C80-D8AFA0B7B9DF"/>
         <schema:pagination>2-55</schema:pagination>
         <schema:datePublished>1972</schema:datePublished>
@@ -2580,7 +2585,7 @@
     <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/KEUREBC7">
         <schema:additionalType>manuscript</schema:additionalType>
         <schema:about rdf:resource="http://costerskinderen.nl/vereniging/brussel1820"/>
-        <schema:sameAs rdf:resource="https://zoeken.liberas.eu/detail.php?id=1253538"/>
+        <schema:sameAs rdf:resource="https://hdl.handle.net/21.12117/1253538"/>
         <schema:datePublished>1820-1940</schema:datePublished>
         <schema:about>
            <dcterms:LCC><rdf:value>410</rdf:value></dcterms:LCC>
@@ -3652,7 +3657,7 @@ Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukke
                <rdf:value>toegang 00343, invnr. 320</rdf:value>
             </dcterms:LCC>
         </schema:about>
-        <schema:name>Statuten en Huishoudelijk Reglement Typografiche Vereeniging Lourens Jansz. Coster, Leiden.</schema:name>
+        <schema:name>Statuten en Huishoudelijk Reglement Typografische Vereeniging Lourens Jansz. Coster, Leiden.</schema:name>
         <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-AsdIISG"/>
     </schema:Book>
     <schema:Book rdf:about="http://zotero.org/groups/2707622/items/LWM9A3PA">
@@ -4000,12 +4005,208 @@ Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukke
         <schema:numberOfPages>1</schema:numberOfPages>
         <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-HlmNHA"/>
     </schema:Book>
+    <schema:Thesis rdf:about="http://zotero.org/groups/2707622/items/D39BUIT7">
+        <schema:additionalType>thesis</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+                <schema:address>
+                    <schema:Place>
+                       <schema:name>Amsterdam</schema:name>
+                    </schema:Place>
+                </schema:address>
+                <schema:name>Wereldbibliotheek</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Janse</schema:familyName>
+                <schema:givenName>Maartje J</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:datePublished>2007</schema:datePublished>
+        <schema:description>ISBN: 9789028422186
+OCLC: 150417029</schema:description>
+        <schema:includedInDataCatalog>Open WorldCat</schema:includedInDataCatalog>
+        <schema:inLanguage>Dutch</schema:inLanguage>
+        <schema:name>De afschaffers: publieke opinie, organisatie en politiek in Nederland 1840-1880</schema:name>
+        <schema:alternateName>De afschaffers</schema:alternateName>
+    </schema:Thesis>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/D7CQJXNX">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Verhulst</schema:familyName>
+                <schema:givenName>J.J.H.</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:sameAs rdf:resource="https://proxy.archieven.nl/0/B03FC5947D07465598372778F5679A95"/>
+        <schema:datePublished>1856</schema:datePublished>
+        <schema:about>
+            <dcterms:LCC>
+               <rdf:value>Jansstraat Depot, 43-022886 G</rdf:value>
+            </dcterms:LCC>
+        </schema:about>
+        <schema:additionalType>music score</schema:additionalType>
+        <schema:name>Feestlied bij de onthulling van het Costers standbeeld</schema:name>
+        <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-HlmNHA"/>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/67CQH5MS">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/middelburg1847"/>
+        <schema:about>
+           <dcterms:LCC><rdf:value>ARCH04240 invnr 1</rdf:value></dcterms:LCC>
+        </schema:about>
+        <schema:additionalType>file</schema:additionalType>
+        <schema:name>Vereeniging van boekdrukkers- en boekbindersgezellen 'Vriendschap en Harmonie', Middelburg (1847-1910)</schema:name>
+        <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-AsdIISG"/>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/H6G8X83B">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:about rdf:resource="http://costerskinderen.nl/vereniging/haarlem1851"/>
+        <schema:about>
+           <dcterms:LCC><rdf:value>ARCH04240 invnr 2</rdf:value></dcterms:LCC>
+        </schema:about>
+        <schema:additionalType>file</schema:additionalType>
+        <schema:name>Typographische Vereeniging &quot;Tot Nut en gezellig Verkeer&quot;, Haarlem (1851-1903)</schema:name>
+        <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-AsdIISG"/>
+    </schema:Manuscript>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/QPJLB7SZ">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:about>
+           <dcterms:LCC><rdf:value>ARCH04240 invnr 3</rdf:value></dcterms:LCC>
+        </schema:about>
+        <schema:name>Feestelijkheden t.g.v. de onthulling van het standbeeld van Laurens Janszoon Koster te Haarlem op 15-17.07.1856.</schema:name>
+        <schema:holdingArchive rdf:resource="http://costerskinderen.nl/isil/NL-AsdIISG"/>
+    </schema:Manuscript>
+    <schema:SoftwareApplication rdf:about="http://zotero.org/groups/2707622/items/BXIE87RY">
+        <schema:additionalType>computerProgram</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+               <schema:name>Corporation for Digital Scholarship</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:bookEdition>5.0.96.2</schema:bookEdition>
+        <schema:sameAs rdf:resource="https://zotero.org"/>
+        <schema:datePublished>2021</schema:datePublished>
+        <schema:name>Zotero</schema:name>
+    </schema:SoftwareApplication>
+    <schema:SoftwareApplication rdf:about="http://zotero.org/groups/2707622/items/9HFQREGW">
+        <schema:additionalType>computerProgram</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+               <schema:name>Corporation for Digital Scholarship</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:bookEdition>1.9.0</schema:bookEdition>
+        <schema:sameAs rdf:resource="https://tropy.org"/>
+        <schema:datePublished>2021</schema:datePublished>
+        <schema:name>Tropy</schema:name>
+    </schema:SoftwareApplication>
+    <schema:SoftwareApplication rdf:about="http://zotero.org/groups/2707622/items/UB99RJWV">
+        <schema:additionalType>computerProgram</schema:additionalType>
+        <schema:sameAs rdf:resource="https://recogito.pelagios.org"/>
+        <schema:name>Recogito</schema:name>
+    </schema:SoftwareApplication>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/3Z4JLLNG">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf>
+            <schema:Periodical>
+                <schema:volumeNumber>50</schema:volumeNumber>
+                <schema:name>Jaarboek De Oranjeboom</schema:name>
+            </schema:Periodical>
+        </schema:isPartOf>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Laenen</schema:familyName>
+                <schema:givenName>Alex</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:pagination>140-173</schema:pagination>
+        <schema:datePublished>1997</schema:datePublished>
+        <schema:name>Johan Vissers de eerste werkman in de Bredase gemeenteraad 1901-1907</schema:name>
+    </schema:Article>
+    <schema:Manuscript rdf:about="http://zotero.org/groups/2707622/items/CAA3K4VF">
+        <schema:additionalType>manuscript</schema:additionalType>
+        <schema:datePublished>1849-1850</schema:datePublished>
+        <schema:about>
+            <dcterms:LCC>
+               <rdf:value>toegang 01707, invnr. 1</rdf:value>
+            </dcterms:LCC>
+        </schema:about>
+        <schema:additionalType>file</schema:additionalType>
+        <schema:name>Ledenlijsten Voorzorg en Genoegen</schema:name>
+    </schema:Manuscript>
+    <schema:Book rdf:about="http://zotero.org/groups/2707622/items/9LPTMXPK">
+        <schema:additionalType>book</schema:additionalType>
+        <schema:publisher>
+            <schema:Organization>
+               <schema:name>P. Weissenbruch</schema:name>
+            </schema:Organization>
+        </schema:publisher>
+        <schema:editor>
+            <schema:Person>
+                <schema:familyName>Hubert</schema:familyName>
+                <schema:givenName>E.</schema:givenName>
+            </schema:Person>
+        </schema:editor>
+        <schema:editor>
+            <schema:Person>
+                <schema:familyName>Charles</schema:familyName>
+                <schema:givenName>A.</schema:givenName>
+            </schema:Person>
+        </schema:editor>
+        <schema:sameAs rdf:resource="http://www.worldcat.org/oclc/44659652"/>
+        <schema:sameAs rdf:resource="http://www.worldcat.org/oclc/69150533"/>
+        <schema:sameAs rdf:resource="http://www.worldcat.org/oclc/943679942"/>
+        <schema:sameAs rdf:resource="https://hdl.handle.net/10622/A1A7D3ED-156B-4456-8BE1-DF9A2F61C062"/>
+        <schema:sameAs rdf:resource="https://books.google.nl/books?id=4nw7xwEACAAJ"/>
+        <schema:datePublished>1892</schema:datePublished>
+        <schema:description>Google-Books-ID: 4nw7xwEACAAJ</schema:description>
+        <schema:includedInDataCatalog>Google Books</schema:includedInDataCatalog>
+        <schema:inLanguage>fr</schema:inLanguage>
+        <schema:name>Historique de l'Association libre des compositeurs et imprimeurs typographes de Bruxelles (1842-1892)</schema:name>
+        <schema:numberOfPages>372</schema:numberOfPages>
+    </schema:Book>
+    <schema:Article rdf:about="http://zotero.org/groups/2707622/items/S3TDPXS8">
+        <schema:additionalType>journalArticle</schema:additionalType>
+        <schema:isPartOf rdf:resource="urn:issn:0048-8003"/>
+        <schema:author>
+            <schema:Person>
+                <schema:familyName>Jarrige</schema:familyName>
+                <schema:givenName>François</schema:givenName>
+            </schema:Person>
+        </schema:author>
+        <schema:sameAs rdf:resource="http://www.jstor.org/stable/20531464"/>
+        <schema:pagination>193-221</schema:pagination>
+        <schema:datePublished>2007</schema:datePublished>
+        <schema:description>Publisher: Societe d'Histoire Moderne et Contemporaine</schema:description>
+        <schema:includedInDataCatalog>JSTOR</schema:includedInDataCatalog>
+        <schema:abstract>Au XIXe siècle, &quot;l'ancien régime typographique&quot; laisse la place à l'ère des productions imprimées industrielles. Si l'impression se transforme rapidement dès la première moitié du XIXe siècle, le travail d'assemblage des caractères en plomb réalisé par le compositeur change peu avant l'introduction des linotypes au tournant du XXe siècle. Cette stabilité du système technique, généralement expliquée par l'imperfection des méthodes de composition mécanique, s'enracine en réalité dans la complexité des rapports sociaux et des enjeux culturels soulevés par les nouveaux procédés. En France en effet, comme en Angleterre, les premières machines à composer mises au point au cours des années 1840 sont précocement associées au travail des femmes. Les fabricants jouent de cette identification pour promouvoir des machines permettant d'utiliser une main-d'œuvre bon marché. De leur côté, les ouvriers du livre instrumentalisent la dimension sexuée des artefacts techniques pour préserver l'espace de travail. Ni transformation inexorable, ni impossibilité technique, le changement des méthodes de composition émerge finalement au terme d'un processus lent d'acclimatation et de négociation entre les différents acteurs du monde de l'imprimerie. /// In the nineteenth century, the &quot;printing Ancient Régime&quot; gave way to the era of industrial printed productions. While printing methods underwent a fast transformation during the early nineteenth century, the typesetter's task of assembling lead characters remained unchanged until the end of the century, to be modified only shortly before the advent of linotypes. This technical continuity is usually understood as the result of imperfect methods of mechanical composition, but the failure of the composing machine derived above all from a complex set of cultural and social issues which were raised by the advent of new processes. In France as in England in the 1840s, the first composing machines were originally associated with female work. This image was encouraged by manufacturers in order to promote machines as allowing the use of a cheap workforce. Meanwhile, book workers used the sexual representation of technical artefacts to preserve their work space. The change in composition methods was neither an inexorable transformation nor a mere technical development but the outcome of a slow process of adaptation and negotiation which involved the various actors of the printing trade.</schema:abstract>
+        <schema:name>Le mauvais genre de la machine. Les ouvriers du livre et la composition mécanique (France, Angleterre, 1840-1880)</schema:name>
+    </schema:Article>
+    <schema:Periodical rdf:about="urn:issn:0048-8003">
+        <schema:volumeNumber>54</schema:volumeNumber>
+        <schema:issueNumber>1</schema:issueNumber>
+        <schema:name>Revue d'histoire moderne et contemporaine (1954-)</schema:name>
+        <schema:identifier>ISSN 0048-8003</schema:identifier>
+    </schema:Periodical>
+    <schema:WebPage rdf:about="http://zotero.org/groups/2707622/items/JRNFDHQ5">
+        <schema:additionalType>webpage</schema:additionalType>
+        <schema:isPartOf>
+           <z:Website></z:Website>
+        </schema:isPartOf>
+        <schema:datePublished>1857.</schema:datePublished>
+        <schema:description>Context Object: ctx_ver=Z39.88-2004&amp;ctx_enc=info%3Aofi%2Fenc%3AUTF-8&amp;rfr_id=info%3Asid%2Fvufind.svn.sourceforge.net%3Agenerator&amp;rft.title=Association+libre+des+compositeurs-typographes+de+Bruxelles.+Fond%C3%A9e+en+janvier+1842.+Notice.+-+Statuts.&amp;rft.date=1857.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.creator=&amp;rft.format=Books+and+brochures&amp;rft.language=Undetermined</schema:description>
+        <schema:inLanguage>Undetermined</schema:inLanguage>
+        <schema:name>Association libre des compositeurs-typographes de Bruxelles. Fondée en janvier 1842. Notice. - Statuts.</schema:name>
+    </schema:WebPage>
     <schema:Collection rdf:about="#collection_59">
         <schema:name>archief</schema:name>
         <schema:hasPart rdf:resource="#collection_74"/>
         <schema:hasPart rdf:resource="#collection_69"/>
         <schema:hasPart rdf:resource="#collection_72"/>
         <schema:hasPart rdf:resource="#collection_60"/>
+        <schema:hasPart rdf:resource="#collection_75"/>
         <schema:hasPart rdf:resource="#collection_61"/>
         <schema:hasPart rdf:resource="#collection_62"/>
         <schema:hasPart rdf:resource="#collection_63"/>
@@ -4033,6 +4234,14 @@ Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukke
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/5XMKIGTA"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/PMDKSF3S"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/TX4EZ9CG"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/CAA3K4VF"/>
+    </schema:Collection>
+    <schema:Collection rdf:about="#collection_75">
+        <schema:name>NL-AsdIISG_ARCH04240</schema:name>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/FV6HJXDM"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/67CQH5MS"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/H6G8X83B"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/QPJLB7SZ"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_61">
         <schema:name>NL-AsdSAA_30579</schema:name>
@@ -4243,6 +4452,11 @@ Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukke
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/GV26L8CI"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/JM77FDRA"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/NLKIR36U"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/D39BUIT7"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/3Z4JLLNG"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/9LPTMXPK"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/S3TDPXS8"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/JRNFDHQ5"/>
     </schema:Collection>
     <schema:Collection rdf:about="#collection_71">
         <schema:name>objecten</schema:name>
@@ -4254,5 +4468,11 @@ Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukke
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/EBX97UV4"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/ITCMSJTB"/>
         <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/2BUJD53Z"/>
+    </schema:Collection>
+    <schema:Collection rdf:about="#collection_76">
+        <schema:name>software</schema:name>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/BXIE87RY"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/9HFQREGW"/>
+        <schema:hasPart rdf:resource="http://zotero.org/groups/2707622/items/UB99RJWV"/>
     </schema:Collection>
 </rdf:RDF>

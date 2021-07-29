@@ -1,0 +1,13 @@
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix pelagios: <http://pelagios.github.io/vocab/terms#> .
+
+<https://recogito.pelagios.org/document/lwzntoeasoeuoo>
+        a                    pelagios:AnnotatedThing ;
+        dcterms:creator      "J.K. de Regt en J. Breeman (red.)" ;
+        dcterms:date         "1856" ;
+        dcterms:description  "Album van feestliederen en gezangen, te zingen door de typographische vereenigingen, die deel zullen nemen aan de onthullingsfeesten op den 16den Julij 1856 te Haarlem" ;
+        dcterms:license      "CC0" ;
+        dcterms:source       "https://books.google.nl/books?id=SBxeAAAAcAAJ" ;
+        dcterms:title        "Album van feestliederen en gezangen" .

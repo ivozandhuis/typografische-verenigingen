@@ -1,0 +1,145 @@
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix pelagios: <http://pelagios.github.io/vocab/terms#> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#1f47331b-15e3-4cfe-bd33-0d0a1234ad61>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#5d23e265-3baf-457f-9c95-1fa5de0eaf69>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2747891> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#41de96fd-6ce6-4ced-b6af-c445e2793202>
+        a             oa:Annotation ;
+        oa:hasBody    [ a                oa:Tag ;
+                        dcterms:created  "2021-02-12T11:03:04+00:00" ;
+                        dcterms:creator  "ivozandhuis" ;
+                        cnt:chars        "willem2"
+                      ] ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#96686c68-79d8-4ae6-88a3-190f1b32bd65>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#a50a4f50-42ea-44e6-a0eb-4e51a70a486f>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#edfd0524-c4d5-47cb-92af-dc7bf33e5ba9>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#a938933c-2d34-44cf-b792-ca4086c7e0ec>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#ebc1f74a-3ec9-4ccc-a0e6-5ea2ddabddc6>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#51e9cac0-a07a-472d-9e9b-eef16f95995f>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#258b04e6-eb3f-4d97-b626-0899cc03201e>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#ee736f3e-728d-4ca2-b036-38478af5f19b>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#fcd87915-5446-4422-a168-652aedfc5bf3>
+        a             oa:Annotation ;
+        oa:hasBody    [ a                oa:Tag ;
+                        dcterms:created  "2021-02-12T13:33:00+00:00" ;
+                        dcterms:creator  "ivozandhuis" ;
+                        cnt:chars        "willem2"
+                      ] ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#cd426017-7dd4-4e5a-96b6-c54162130b44>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#df713a2a-fb70-44e7-8759-20382f0a3e90>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2747599> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#582b7058-35df-4c51-b8bb-1fca82065546>
+        a             oa:Annotation ;
+        oa:hasBody    [ a                oa:Tag ;
+                        dcterms:created  "2021-02-12T12:26:28+00:00" ;
+                        dcterms:creator  "ivozandhuis" ;
+                        cnt:chars        "denhaag1843"
+                      ] ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#4a7af5a4-f017-49d9-89ba-7f44b693e263>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#484fc8a3-4626-461a-a6a5-3513351ff17b>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#f46b8fcd-b095-4bef-993b-ee9ce3abc8e7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2747891> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#bec2f376-1602-4cd0-9177-d9923863cc1a>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#a3cb9c4b-9efc-4892-a979-166b0441727f>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#608bd5cf-7e81-408f-b939-d9277dd19dd7>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#38707fb1-43bf-45ea-8768-b231cbeeec21>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2747373> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf>
+        a                pelagios:AnnotatedThing ;
+        dcterms:date     "1856" ;
+        dcterms:license  "CC0" ;
+        dcterms:source   "https://books.google.nl/books?id=YTY5AAAAMAAJ" ;
+        dcterms:title    "Jaarboekje voor typographische vereenigingen" .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#bb506b92-8da8-4681-9644-a19eadebfeb9>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#463511b2-3135-4d5a-b6ab-79e3ac13bb27>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2747373> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#06f74729-0dab-499a-acd0-f6470df1523e>
+        a             oa:Annotation ;
+        oa:hasBody    [ a                oa:Tag ;
+                        dcterms:created  "2021-02-12T13:34:43+00:00" ;
+                        dcterms:creator  "ivozandhuis" ;
+                        cnt:chars        "see: Jeroen van Zanten, Koning Willem II 1792-1849, Amsterdam 2013, p. 538-540, Remieg Aerts, Thorbecke wil het, Amsterdam 2018, p. 356-357"
+                      ] ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#cb654cf7-767f-4a56-9346-0faeaa98883d>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
+
+<https://recogito.pelagios.org/document/caizoqfhkxtigf#0a1a1ea3-a4dc-4155-92cc-d3105861f8c3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2758401> ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .

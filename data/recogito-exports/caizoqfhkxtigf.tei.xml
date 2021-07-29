@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> Jaarboekje voor typographische vereenigingen</title>
+              <author>ivozandhuis</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2021-02-12</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/caizoqfhkxtigf"/>
+              <biblStruct>
+                <monogr>
+                  
+                  <title>Jaarboekje voor typographische vereenigingen</title>
+                  <imprint><date>1856</date></imprint>  
+                </monogr>
+              </biblStruct>
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              
+              
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="http://sws.geonames.org/2747373">
+              <placeName>The Hague</placeName>
+            </place><place xml:id="http://sws.geonames.org/2747891">
+              <placeName>Rotterdam</placeName>
+            </place><place xml:id="http://sws.geonames.org/2747599">
+              <placeName>Scheveningen</placeName>
+            </place><place xml:id="http://sws.geonames.org/2758401">
+              <placeName>Breda</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="willem2">
+              <catDesc>willem2</catDesc>
+            </category><category xml:id="denhaag1843">
+              <catDesc>denhaag1843</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p>GESCHIEDENIS.</p><p><persName xml:id="recogito-582b7058-35df-4c51-b8bb-1fca82065546" ana="#denhaag1843">De Typographische Vereeniging: Door eendragt ť zaam verbonden</persName>, werd te <placeName ref="http://sws.geonames.org/2747373" xml:id="recogito-463511b2-3135-4d5a-b6ab-79e3ac13bb27" cert="high">'s Gravenhage</placeName> gevestigd den <rs xml:id="recogito-a50a4f50-42ea-44e6-a0eb-4e51a70a486f" type="event">28 Januarij 1843</rs>: en opgerigt door de Heeren <persName xml:id="recogito-96686c68-79d8-4ae6-88a3-190f1b32bd65">J. GROOTENS</persName>, <persName xml:id="recogito-bb506b92-8da8-4681-9644-a19eadebfeb9">J. F. BADOUX</persName> en <persName xml:id="recogito-ebc1f74a-3ec9-4ccc-a0e6-5ea2ddabddc6">P. VOERMANS</persName>. Eerstgenoemde was reeds vroeger lid eener dergelijke vereeniging te <placeName ref="http://sws.geonames.org/2758401" xml:id="recogito-0a1a1ea3-a4dc-4155-92cc-d3105861f8c3" cert="high">Breda</placeName> , en waarschijnlijk doordrongen van de nuttige strekking eener dusdanige inrigting, gevoelde hij begeerte ook in onze Residentie-stad, de gelegenheid tot broederschap open te stellen; de tweede bekleedt tegenwoordig de betrekkingen van President en Penningmeester, terwijl, helaas, van laatstgemelde slechts de loffelijke nagedachtenis aan zijnen ijver voor de vereeniging overbleef, daar hij haar sedert den dood ontviel.</p><p>Door de bemoeijingen van bovenstaande oprigters, ontvingen de leden den <rs xml:id="recogito-edfd0524-c4d5-47cb-92af-dc7bf33e5ba9" type="event">28 Januarij 1843</rs> het reglement, hetwelk evenwel om verschillende redenen op den 2 Maart 1844, 20 Januarij 1849, 6 Julij 1851, 21 November 1852 en 6 Mei en 5 Augustus 1854 gewijzigd of herzien is geworden.</p><p>Bij dit reglement werd bepaald, dat men, om als lid der vereeniging te kunnen worden aangenomen, Letterzetters-, Boekdrukkers- of Bindersgezel, van een onbesproken gedrag en niet beneden de 17 jaren oud, behoorde te zijn en dat boven de 50 jaren geene trekkende leden worden aangenomen.</p><p>De wekelijksche contributiën worden besteed, tot onder-</p></div><div><p>steuning van zieken, en eindelijk, om naar gelang der in kas zijn de gelden, jaarlijks een feest te vieren.</p><p>Behalve de uitbetaling van ziekengelden werd in 1851 het besluit genomen, 1°. dat voortaan bij overlijden van leden der vereeniging, als laatste eerbewijs, zestien leden het lijk grafwaarts zouden vergezellen en aan de erven van den overledene eene toelage van f 25.– zal worden uitgekeerd.</p><p>2o. dat de Koppermaandag-feestviering zou worden opgeluisterd door het ten tooneele voeren van doelmatige stukken, tot welks uitvoering de vereeniging een ijverig personeel onder hare leden bezit en, door wiens zorgen de feest-avond meer zou opgeluisterd worden, dan tot dusverre het geval was geweest.</p><p>Op de feestviering van den 11 Januarij 1847 had de plegtige uitreiking plaats van vier zilveren medailles aan de leden van het Hoofdbestuur: <persName xml:id="recogito-4a7af5a4-f017-49d9-89ba-7f44b693e263">J. F. BADOUX</persName>, <persName xml:id="recogito-484fc8a3-4626-461a-a6a5-3513351ff17b">J. GROOTENS</persName>, <persName xml:id="recogito-1f47331b-15e3-4cfe-bd33-0d0a1234ad61">W. J. DE GRUYTER</persName> en <persName xml:id="recogito-a3cb9c4b-9efc-4892-a979-166b0441727f">P. VOERMANS</persName>, welke hun door de gezamenlijke leden werden vereerd.</p><p>Den 10 Julij daaraan volgende, zijnde de vermoedelijke dag van de uitvinding der Boekdrukkunst, werd door Heeren Patronen als een bewijs van hulde, eene fraaije, blaauw fluweelen, met goud geborduurde Banier der vereeniging ten geschenke aangeboden, prijkende met het borstbeeld van den grooten Koster. Zij mogt hierin niet alleen een bewijs zien van de belangstelling van de waardige meesters harer leden, maar het was hun tevens eene aansporing te meer er naar te streven, die goedkeuring en</p></div><div><p>hulde te verdienen, door eene naauwkeurige behartiging hunner pligten en al hunne krachten in het belang der goede zaak aan te wenden.</p><p>Den <rs xml:id="recogito-06f74729-0dab-499a-acd0-f6470df1523e" type="event">16 Maart 1848</rs><note target="recogito-06f74729-0dab-499a-acd0-f6470df1523e" resp="ivozandhuis">see: Jeroen van Zanten, Koning Willem II 1792-1849, Amsterdam 2013, p. 538-540, Remieg Aerts, Thorbecke wil het, Amsterdam 2018, p. 356-357</note> trad de vereeniging in feestgewaad en voorafgegaan door hare banier, in plegtstatigen optogt naar <persName xml:id="recogito-41de96fd-6ce6-4ced-b6af-c445e2793202" ana="#willem2">Z. M. Koning WILLEM II</persName>: om welke reden zich evenwel op den 18 daaraan volgende, 40 leden van de vereeniging afscheidden.</p><p>Ook tot de oprigting van een waardig monument voor den grooten LAURENS JANSZ. KOSTER droeg de vereeniging het hare bij, daar den 8 April 1848 aan de Commissie, met de oprigting er van belast, tot dat einde f 50.— werd ter band gesteld.</p><p>Den 14 Maart 1849 besloot men ten behoeve der weduwen en weezen van verongelukte <placeName ref="http://sws.geonames.org/2747599" xml:id="recogito-df713a2a-fb70-44e7-8759-20382f0a3e90" cert="high">Scheveningsche</placeName> visschers eene tooneelvoorstelling te geven, waarvan de niet onaanzienlijke opbrengst, na aftrek der onvermijdelijke onkosten, ten bedrage van f 200.47, aan eene daarvoor bestaande Commissie zijn overgemaakt.</p><p>Den 18 Junij van datzelfde jaar werd onze vereeniging door eene deputatie van de <placeName ref="http://sws.geonames.org/2747891" xml:id="recogito-5d23e265-3baf-457f-9c95-1fa5de0eaf69" cert="high">Rotterdam</placeName>sche vereeniging met een bezoek vereerd.</p><p>Bij de feestviering op den 13 Januarij 1851 had de plegtige uitreiking plaats eener zilveren medaille aan den 2en Secretaris <persName xml:id="recogito-51e9cac0-a07a-472d-9e9b-eef16f95995f">J. H. REGENBOOG</persName>, hem door de gezamenlijke leden vereerd, en ontving de vereeniging van den Heer <persName xml:id="recogito-bec2f376-1602-4cd0-9177-d9923863cc1a">C. H. SUSAN, cz.</persName> een gebronst standbeeld van LAURENS KOSTER ten geschenke.</p></div><div><p>Den 6 Julij 1851 werd er eene begrafenis-instelling voor de leden in het reglement opgenomen.</p><p>Den 31 Augustus 1851 ontving de vereeniging andermaal eene deputatie van hare zuster-inrigting te <placeName ref="http://sws.geonames.org/2747891" xml:id="recogito-f46b8fcd-b095-4bef-993b-ee9ce3abc8e7" cert="high">Rotterdam</placeName>, bij welke gelegenheid eene fraaije zilveren medaille aan de Banier werd gehecht.</p><p>Den 3 Julij 1853, bij gelegenheid dat aan de vijf oudste leden van het tooneelgezelschap, <persName xml:id="recogito-ee736f3e-728d-4ca2-b036-38478af5f19b">J. GROOTENS</persName>, <persName xml:id="recogito-608bd5cf-7e81-408f-b939-d9277dd19dd7">B. KUIT</persName>, <persName xml:id="recogito-258b04e6-eb3f-4d97-b626-0899cc03201e">F. L. BEHRE</persName>, <persName xml:id="recogito-a938933c-2d34-44cf-b792-ca4086c7e0ec">A. P. MIESTEL</persName> en <persName xml:id="recogito-cb654cf7-767f-4a56-9346-0faeaa98883d">J. H. REGENBOOG</persName> ieder eene zilveren medaille werd uitgereikt, door de gezamenlijke leden bekostigd, ontving de vereeniging eene Commissie uit Rotterdam, en werd bij die gelegenheid begiftigd met eenen fraaijen draagband voor de Banier.</p><p>Den 1 Februarij 1854 had er eene tooneelvoorstelling plaats ten voordeele van de algemeene armen te <placeName ref="http://sws.geonames.org/2747373" xml:id="recogito-38707fb1-43bf-45ea-8768-b231cbeeec21" cert="high">'s Gravenhage</placeName>, welke, na aftrek der hoogst noodige kosten, opbragt de somma van f 240.81.</p><p>Den 20 December 1854 ontving de vereeniging weder een geschenk van den Heer <persName xml:id="recogito-cd426017-7dd4-4e5a-96b6-c54162130b44">A. J. VAN TETROODE</persName>, bestaande in de levensgroote buste van wijlen <persName xml:id="recogito-fcd87915-5446-4422-a168-652aedfc5bf3" ana="#willem2">Z. M. Koning WilLEM II</persName>.</p><p>Den 18 April 1855 werd, ten behoeve van den algemeenen watersnood, welke een gedeelte van ons dierbaar Vaderland had getroffen, eene tooneelvoorstelling gegeven, waarvan het zuiver bedrag, zijnde f 194,27, aan den Heer Burgemeester dezer stad is ter hand gesteld,
+</p></div></body>
+        </text>
+      </TEI>

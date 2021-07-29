@@ -1,0 +1,43 @@
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix pelagios: <http://pelagios.github.io/vocab/terms#> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#6833410c-a1c3-4170-8ab5-840a9b373017>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#de8c12cb-d589-4e77-9bc9-4662a79e6b13>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#cd0517e1-d923-479f-a9f8-2f326727cde3>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#3543ff8b-3b6d-4f98-9798-9d878fb9550e>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp>
+        a                pelagios:AnnotatedThing ;
+        dcterms:creator  "M. Smidt" ;
+        dcterms:date     "1860" ;
+        dcterms:license  "OUT_OF_COPYRIGHT" ;
+        dcterms:title    "Redevoering, uitgesproken in de vergadering van de afdeeling zang der werkende leden van de typographische vereeniging De Nederlandsche Drukpers, den 23 maart 1860" .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#c3119d0f-5ffa-4e0f-a9df-dad19eebb96c>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#1d13e650-7896-4f18-a5ce-bda9109f4a88>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#1f07aa53-1487-4e4b-91b0-cb3d8491d651>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
+
+<https://recogito.pelagios.org/document/3dqaqmywcb6jgp#2ccf014e-72f9-414f-9620-ca2bb167fc57>
+        a             oa:Annotation ;
+        oa:hasTarget  <https://recogito.pelagios.org/document/3dqaqmywcb6jgp> .
