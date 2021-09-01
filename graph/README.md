@@ -1,0 +1,3 @@
+# Create graph
+
+In the data folder the all data is collected from the various tools. The data is in different data formats, varying from Comma Separated Values (CSV), eXtensible Markup Language (XML), or various RDF serializations. In the bash script all commands are combined to convert these various data formats into Ntriples. These files can be concatenated into one major graph. The bash file contains relevant commands to understand this process.
