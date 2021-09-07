@@ -1,0 +1,4060 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bib: <http://purl.org/net/biblio#> .
+@prefix z: <http://www.zotero.org/namespaces/export#> .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_51>
+    a schema:Collection ;
+    schema:hasPart <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_52>, <http://zotero.org/groups/2707622/items/2TZI3YAE>, <http://zotero.org/groups/2707622/items/63GHLHTB>, <http://zotero.org/groups/2707622/items/9XFUT42Y>, <http://zotero.org/groups/2707622/items/EQRG6Y55>, <http://zotero.org/groups/2707622/items/F6DWAKEH>, <http://zotero.org/groups/2707622/items/FV6HJXDM>, <http://zotero.org/groups/2707622/items/GYDV7WNN>, <http://zotero.org/groups/2707622/items/HHZREWXJ>, <http://zotero.org/groups/2707622/items/HSYRUEYR>, <http://zotero.org/groups/2707622/items/I6U5UC49>, <http://zotero.org/groups/2707622/items/JHXGXUYV>, <http://zotero.org/groups/2707622/items/PGMKQE2F>, <http://zotero.org/groups/2707622/items/QFC7TIMP>, <http://zotero.org/groups/2707622/items/TY6NLEVL>, <http://zotero.org/groups/2707622/items/VFALSG32>, <http://zotero.org/groups/2707622/items/XI34G7TT>, <http://zotero.org/groups/2707622/items/Y5GFR4A8> ;
+    schema:name "feestbundels" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_52>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/3D6VXAL2>, <http://zotero.org/groups/2707622/items/7S97LLDW>, <http://zotero.org/groups/2707622/items/7TTZHF5F>, <http://zotero.org/groups/2707622/items/DYYME5XX>, <http://zotero.org/groups/2707622/items/GSJHETUP>, <http://zotero.org/groups/2707622/items/HGMVQWBW>, <http://zotero.org/groups/2707622/items/NAJAF6XW>, <http://zotero.org/groups/2707622/items/SGA2CMRR>, <http://zotero.org/groups/2707622/items/SRWWLEFN>, <http://zotero.org/groups/2707622/items/TGDTMTV2>, <http://zotero.org/groups/2707622/items/TQ8LE67N>, <http://zotero.org/groups/2707622/items/U45LQDZH>, <http://zotero.org/groups/2707622/items/U94YR8CM>, <http://zotero.org/groups/2707622/items/US6ZMVZG>, <http://zotero.org/groups/2707622/items/UXR8HWSE>, <http://zotero.org/groups/2707622/items/V2AVIYS7>, <http://zotero.org/groups/2707622/items/VBBG28L7>, <http://zotero.org/groups/2707622/items/W2R997LC>, <http://zotero.org/groups/2707622/items/XRJVN2IU>, <http://zotero.org/groups/2707622/items/Y3ENGVDL>, <http://zotero.org/groups/2707622/items/Z33PRYZU>, <http://zotero.org/groups/2707622/items/ZKI9FVA5>, <http://zotero.org/groups/2707622/items/ZRRPY8S5> ;
+    schema:name "kopperfeesten" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_53>
+    a schema:Collection ;
+    schema:hasPart <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_51>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_54>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_55>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_56>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_58>, <http://zotero.org/groups/2707622/items/3C3NMZ8H>, <http://zotero.org/groups/2707622/items/94Y7SNKV>, <http://zotero.org/groups/2707622/items/A3XUSPAH>, <http://zotero.org/groups/2707622/items/A7WCISRS>, <http://zotero.org/groups/2707622/items/IC5D47SL>, <http://zotero.org/groups/2707622/items/JIV9GUU2>, <http://zotero.org/groups/2707622/items/L5ZJMBED>, <http://zotero.org/groups/2707622/items/P5HRJ669>, <http://zotero.org/groups/2707622/items/P8I6Q5BF>, <http://zotero.org/groups/2707622/items/R5VDXHXS>, <http://zotero.org/groups/2707622/items/VL4IRLV2>, <http://zotero.org/groups/2707622/items/YWSJMJNN> ;
+    schema:name "gedrukte-bronnen" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_54>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/5PN39AG3>, <http://zotero.org/groups/2707622/items/8ZF42LLE>, <http://zotero.org/groups/2707622/items/G9QLKZTK>, <http://zotero.org/groups/2707622/items/UXZKXIWX>, <http://zotero.org/groups/2707622/items/VUCVKILB>, <http://zotero.org/groups/2707622/items/VZTI7MT9>, <http://zotero.org/groups/2707622/items/WS2Q7G4Q>, <http://zotero.org/groups/2707622/items/XU3J6YFL>, <http://zotero.org/groups/2707622/items/ZI48CT6R> ;
+    schema:name "gedenkboeken" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_55>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/BVZWEGAX> ;
+    schema:name "redevoeringen" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_56>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/28IV3NNS>, <http://zotero.org/groups/2707622/items/3FDWDRT2>, <http://zotero.org/groups/2707622/items/44DPMCT7>, <http://zotero.org/groups/2707622/items/4GS857SX>, <http://zotero.org/groups/2707622/items/8R3RZZEA>, <http://zotero.org/groups/2707622/items/C9K3M348>, <http://zotero.org/groups/2707622/items/GE2HEM4S>, <http://zotero.org/groups/2707622/items/HB3GQ9N3>, <http://zotero.org/groups/2707622/items/HWEX47T6>, <http://zotero.org/groups/2707622/items/IZ5ZN66Q>, <http://zotero.org/groups/2707622/items/KIRHGR29>, <http://zotero.org/groups/2707622/items/KYIX3D24>, <http://zotero.org/groups/2707622/items/LWM9A3PA>, <http://zotero.org/groups/2707622/items/MAXJBV6J>, <http://zotero.org/groups/2707622/items/NDXAKZ5E>, <http://zotero.org/groups/2707622/items/S9WKT4GG>, <http://zotero.org/groups/2707622/items/TWCWAJTN>, <http://zotero.org/groups/2707622/items/Y3E43UBG>, <http://zotero.org/groups/2707622/items/YWUMJAT6>, <http://zotero.org/groups/2707622/items/YXP3TXV7> ;
+    schema:name "reglementen" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_58>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/24XK3PSB>, <http://zotero.org/groups/2707622/items/36DG7VBQ>, <http://zotero.org/groups/2707622/items/3VC69NBE>, <http://zotero.org/groups/2707622/items/3WAKYQXR>, <http://zotero.org/groups/2707622/items/6QMPFRJ8>, <http://zotero.org/groups/2707622/items/8897PZMZ>, <http://zotero.org/groups/2707622/items/94BHTAWR>, <http://zotero.org/groups/2707622/items/BSZXZTN4>, <http://zotero.org/groups/2707622/items/EV5PFUFU>, <http://zotero.org/groups/2707622/items/ISC9UYNV>, <http://zotero.org/groups/2707622/items/J5C92YM3>, <http://zotero.org/groups/2707622/items/K2CUT46J>, <http://zotero.org/groups/2707622/items/KCUBK535>, <http://zotero.org/groups/2707622/items/MTQ9HT7Q>, <http://zotero.org/groups/2707622/items/NBD498TF>, <http://zotero.org/groups/2707622/items/RGRKP8MR>, <http://zotero.org/groups/2707622/items/TN6AGLV2>, <http://zotero.org/groups/2707622/items/WQDWWJGB>, <http://zotero.org/groups/2707622/items/XILDBCTU> ;
+    schema:name "tijdschriften" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_59>
+    a schema:Collection ;
+    schema:hasPart <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_60>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_61>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_62>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_63>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_64>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_65>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_66>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_67>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_68>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_69>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_72>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_74>, <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_75> ;
+    schema:name "archief" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_60>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/5XMKIGTA>, <http://zotero.org/groups/2707622/items/CAA3K4VF>, <http://zotero.org/groups/2707622/items/PMDKSF3S>, <http://zotero.org/groups/2707622/items/TX4EZ9CG> ;
+    schema:name "NL-AsdIISG_ARCH01707" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_61>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/3MJDD85M> ;
+    schema:name "NL-AsdSAA_30579" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_62>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/42VMDF3T>, <http://zotero.org/groups/2707622/items/6KE2U6GM>, <http://zotero.org/groups/2707622/items/8B5UQJCK>, <http://zotero.org/groups/2707622/items/G6AVUSS8>, <http://zotero.org/groups/2707622/items/QPQZLFSJ>, <http://zotero.org/groups/2707622/items/XVP8G4AM> ;
+    schema:name "NL-AsdUvA" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_63>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/RJTTPCLV> ;
+    schema:name "NL-BdSA_ARC0291" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_64>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/2TVRY4ZX>, <http://zotero.org/groups/2707622/items/4NBNFUYA> ;
+    schema:name "NL-GnGRA_1733" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_65>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/HL5TZBKP>, <http://zotero.org/groups/2707622/items/KGKZKMDS>, <http://zotero.org/groups/2707622/items/KQLIQT34> ;
+    schema:name "NL-HlmNHA_2484" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_66>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/7C6LIVIZ> ;
+    schema:name "NL-HlmNHA_3128" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_67>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/K8FLCFIU>, <http://zotero.org/groups/2707622/items/VBBG28L7> ;
+    schema:name "NL-NmRAN_610" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_68>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/S27V9UH2> ;
+    schema:name "NL-TlRAR_0059" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_69>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/5Z4IMDFN>, <http://zotero.org/groups/2707622/items/PLHRJR7U> ;
+    schema:name "IZ-GrmRAG_128" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_70>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/2DFMFM3U>, <http://zotero.org/groups/2707622/items/2V5QRQVJ>, <http://zotero.org/groups/2707622/items/3Z4JLLNG>, <http://zotero.org/groups/2707622/items/62LNN6AI>, <http://zotero.org/groups/2707622/items/65SAVNTM>, <http://zotero.org/groups/2707622/items/7E5FVS9G>, <http://zotero.org/groups/2707622/items/7H2SNFBU>, <http://zotero.org/groups/2707622/items/7LYLRZTJ>, <http://zotero.org/groups/2707622/items/8H2UKA2T>, <http://zotero.org/groups/2707622/items/9KVDM2QZ>, <http://zotero.org/groups/2707622/items/9LPTMXPK>, <http://zotero.org/groups/2707622/items/CCINRYB8>, <http://zotero.org/groups/2707622/items/D39BUIT7>, <http://zotero.org/groups/2707622/items/DE7S8AAM>, <http://zotero.org/groups/2707622/items/DEZNBXKB>, <http://zotero.org/groups/2707622/items/FC2LUHTQ>, <http://zotero.org/groups/2707622/items/FZ5DQ7H9>, <http://zotero.org/groups/2707622/items/G7XFN76N>, <http://zotero.org/groups/2707622/items/GRAK8AEV>, <http://zotero.org/groups/2707622/items/GV26L8CI>, <http://zotero.org/groups/2707622/items/H6CAEHI9>, <http://zotero.org/groups/2707622/items/HR9YPL92>, <http://zotero.org/groups/2707622/items/IJJUZWVB>, <http://zotero.org/groups/2707622/items/JM77FDRA>, <http://zotero.org/groups/2707622/items/JRNFDHQ5>, <http://zotero.org/groups/2707622/items/NLKIR36U>, <http://zotero.org/groups/2707622/items/NWWMZDJL>, <http://zotero.org/groups/2707622/items/PHHXIA2G>, <http://zotero.org/groups/2707622/items/RCJXE7VH>, <http://zotero.org/groups/2707622/items/S3TDPXS8>, <http://zotero.org/groups/2707622/items/SG8YIU6L>, <http://zotero.org/groups/2707622/items/TR9YG9HF>, <http://zotero.org/groups/2707622/items/UJE5VQ3Q>, <http://zotero.org/groups/2707622/items/UTJPBK93>, <http://zotero.org/groups/2707622/items/VKDJW35J>, <http://zotero.org/groups/2707622/items/WX2PYDB5>, <http://zotero.org/groups/2707622/items/X36YDLAJ>, <http://zotero.org/groups/2707622/items/XMHDF3XV>, <http://zotero.org/groups/2707622/items/XXWYX27Z> ;
+    schema:name "literatuur" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_71>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/2BUJD53Z>, <http://zotero.org/groups/2707622/items/7KPZWEVT>, <http://zotero.org/groups/2707622/items/EBX97UV4>, <http://zotero.org/groups/2707622/items/IKMA989L>, <http://zotero.org/groups/2707622/items/ITCMSJTB>, <http://zotero.org/groups/2707622/items/PL5RHBZV>, <http://zotero.org/groups/2707622/items/V2KMAMBL>, <http://zotero.org/groups/2707622/items/WK63RPFK> ;
+    schema:name "objecten" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_72>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/VG3F5TBP> ;
+    schema:name "NL-0100030000" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_73>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/L2Q5FUJ4> ;
+    schema:name "datasets" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_74>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/KEUREBC7> ;
+    schema:name "IZ-GentLA_410" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_75>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/67CQH5MS>, <http://zotero.org/groups/2707622/items/FV6HJXDM>, <http://zotero.org/groups/2707622/items/H6G8X83B>, <http://zotero.org/groups/2707622/items/QPJLB7SZ> ;
+    schema:name "NL-AsdIISG_ARCH04240" .
+
+<file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/zotero-export.rdf.xml#collection_76>
+    a schema:Collection ;
+    schema:hasPart <http://zotero.org/groups/2707622/items/9HFQREGW>, <http://zotero.org/groups/2707622/items/BXIE87RY>, <http://zotero.org/groups/2707622/items/UB99RJWV> ;
+    schema:name "software" .
+
+<http://zotero.org/groups/2707622/items/24XK3PSB>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12" ;
+    schema:datePublished "1858-1859" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "392" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=JAXL6QxBLncC>, <https://hdl.handle.net/21.12102/E3A0AB9D91F74BBF9EF187677AC021CD> ;
+    schema:volumeNumber "1" .
+
+<http://zotero.org/groups/2707622/items/28IV3NNS>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "VV 18 (1860 001)"
+    ] ;
+    schema:abstract "Aldus herzien [...] 31 Julij 1860, ondertekend W. Vos (pres.), e.a. - (Muller: 6474)" ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Vos" ;
+        schema:givenName "W."
+    ] ;
+    schema:datePublished "1860" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "Reglement der Typographische Vereeniging Nut en Genoegen, te Utrecht; onder bescherming van den Edel Achtbaren Heer Mr. N.P.J. Kien, Burgemeester der stad Utrecht. Opgerigt den 1. Februarij 1851" ;
+    schema:numberOfPages "31" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Gieben & Dumont"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/609C5C9B9E834642E0534701000A17FD> .
+
+<http://zotero.org/groups/2707622/items/2BUJD53Z>
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "1506 Kaartenverzameling Gemeente Arnhem 7601"
+    ] ;
+    schema:additionalType "document" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Crisand Lith" ;
+        schema:givenName "E."
+    ] ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AhGldA> ;
+    schema:name "Naamlijst der Leden, op 7.01.1856 van de Typographische Vereeniging Boekdrukkunst, De grondzuil Der Verlichting, opgerigt te Arnhem, 16.09.1849" ;
+    schema:sameAs <https://permalink.geldersarchief.nl/D7C1FC76E19F4F02A1D4C581A98C3CA2> .
+
+<http://zotero.org/groups/2707622/items/2DFMFM3U>
+    a schema:Book ;
+    schema:abstract "Coffee from East Africa, wine from California, chocolate from the Ivory Coast - all those every day products are based on labour, often produced under appalling conditions, but always involving the combination of various work processes we are often not aware of. What is the day-to-day reality for workers in various parts of the world, and how was it in the past? How do they work today, and how did they work in the past? These and many other questions comprise the field of the global history of work &#8211; a young discipline that is introduced with this handbook. In 8 thematic chapters, this book discusses these aspects of work in a global and long term perspective, paying attention to several kinds of work. Convict labour, slave and wage labour, labour migration, and workers of the textile industry, but also workers' organisation, strikes, and motivations for work are part of this first handbook of global labour history, written by the most renowned scholars of the profession." ;
+    schema:additionalType "book" ;
+    schema:datePublished "2017/11/20" ;
+    schema:description "Publication Title: Handbook Global History of Work" ;
+    schema:editor [
+        a schema:Person ;
+        schema:familyName "Linden, van der" ;
+        schema:givenName "Marcel"
+    ], [
+        a schema:Person ;
+        schema:familyName "Hofmeester" ;
+        schema:givenName "Karin"
+    ] ;
+    schema:identifier "ISBN 978-3-11-042458-4" ;
+    schema:inLanguage "en" ;
+    schema:includedInDataCatalog "www.degruyter.com" ;
+    schema:name "Handbook Global History of Work" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "De Gruyter Oldenbourg"
+    ] ;
+    schema:sameAs <https://www.degruyter.com/document/doi/10.1515/9783110424584/html> .
+
+<http://zotero.org/groups/2707622/items/2TVRY4ZX>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/groningen1826>, <http://costerskinderen.nl/vereniging/groningen1888>, "ledenlijst" ;
+    schema:additionalType "manuscript", "series" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-GnGRA> ;
+    schema:name "2.2.7. Fondsvorming voor werknemerssteun en sociale verzekering alsmede voor een te bouwen gasthuis" ;
+    schema:sameAs <https://proxy.archieven.nl/0/A09A25319C314B7EA810D61324442325> .
+
+<http://zotero.org/groups/2707622/items/2TZI3YAE>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 26"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1861" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen bij gelegenheid der buitengewone algemeene vergadering der typographische vereeniging De Nederlandsche drukpers, ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster op 16 Julij 1856 te Haarlem." ;
+    schema:sameAs <http://www.worldcat.org/oclc/73232258>, <http://www.worldcat.org/oclc/82865696>, <https://books.google.nl/books?id=uLZpAAAAcAAJ>, <https://hdl.handle.net/10622/FBBBDC6D-5A8F-4C56-AFD9-6C752F4C728D>, <https://hdl.handle.net/21.12102/1F3600FB79BA4D9DBA7FF0DEC3897B6A>, <https://pid.uba.uva.nl/ark:/88238/b1990009630450205131> .
+
+<http://zotero.org/groups/2707622/items/2V5QRQVJ>
+    a schema:Thesis ;
+    schema:additionalType "thesis" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Scheriau" ;
+        schema:givenName "Karl Michael"
+    ] ;
+    schema:datePublished "2000" ;
+    schema:description """ISBN: 9783937650036 9783831102112
+OCLC: 237386055""" ;
+    schema:inLanguage "German" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Kunstgenossen und Kollegen Entstehung, Aufbau, Wirkungsweise und Zielsetzung der Gewerkschaftsorganisation der deutschen Buchdrucker von 1848 bis 1933" .
+
+<http://zotero.org/groups/2707622/items/36DG7VBQ>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "4" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=IQGcg7dkTA4C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/3C3NMZ8H>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Scriverius" ;
+        schema:givenName "Petrus"
+    ], [
+        a schema:Person ;
+        schema:familyName "Typografische Vereeniging \"De Drukpers"
+    ] ;
+    schema:datePublished "1872" ;
+    schema:description "OCLC: 928178268" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De onderdaenen hielden den thienden penningh voor een onverdragelycken last ..." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "gedrukt door de Typografische Vereeniging \"De Drukpers"
+    ] .
+
+<http://zotero.org/groups/2707622/items/3D6VXAL2>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1009/6"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1863" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestboekje voor de zesde jaarlijksche feestviering der typographische vereeniging \"De Nederlandsche drukpers\", gevestigd te Amsterdam op ... 10 Januarij 1863." ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Druk Bakels"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/82033636>, <https://hdl.handle.net/10622/FB565782-9884-4D39-92A5-6FFCFCE9187D> .
+
+<http://zotero.org/groups/2707622/items/3FDWDRT2>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "VV 18 (1853 001)"
+    ] ;
+    schema:abstract "Aldus herzien [...] 22 Maart 1853, ondertekend C. Mommaas (pres.), e.a. - Los bijgevoegd: Veranderingen in [...] van het Reglement (4 p.). - Doorschoten. - (Muller: 6474)" ;
+    schema:additionalType "book" ;
+    schema:datePublished "1853" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "Reglement der Typographische Vereeniging Nut en Genoegen, te Utrecht; onder bescherming van den Edel Achtbaren Heer Mr. N.P.J. Kien, Burgemeester der stad Utrecht. Opgerigt den 1. Februarij 1851" ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "Academie- en Gouvernements-Drukkerij"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/B7D6CA96A78654A5B3E42A47662E792B> .
+
+<http://zotero.org/groups/2707622/items/3MJDD85M>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "2266"
+    ] ;
+    schema:additionalType "item", "manuscript" ;
+    schema:datePublished "1866" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdSAA> ;
+    schema:name "Meijer, W.J. : diploma als lid der typographische vereeniging De Nederlandsche Drukpers N.B. Tevens bewijs van lidmaatschap" ;
+    schema:sameAs <https://archief.amsterdam/inventarissen/file/37d20b50bc9f3c5df22a79856f809c4c> .
+
+<http://zotero.org/groups/2707622/items/3MLW7V7A>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De laatste oude koppermaandag, of De driedubbele verrassing" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Venman" ;
+        schema:givenName "Jacob Hermanus Cornelis"
+    ] ;
+    schema:datePublished "1860" ;
+    schema:description "Google-Books-ID: FVJUAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "De laatste oude koppermaandag, of De driedubbele verrassing: blijspel met zang, in één bedrijf" ;
+    schema:numberOfPages "56" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "W.C.J. Bollaan"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=FVJUAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/3VC69NBE>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "2" ;
+    schema:datePublished "1860" ;
+    schema:description "Google-Books-ID: 2c3FM_ZRvz0C" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "64" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=2c3FM_ZRvz0C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/3WAKYQXR>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "5" ;
+    schema:datePublished "1860" ;
+    schema:description "Google-Books-ID: CoW7Ud5uM5MC" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=CoW7Ud5uM5MC> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/3Z4JLLNG>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Laenen" ;
+        schema:givenName "Alex"
+    ] ;
+    schema:datePublished "1997" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:name "Jaarboek De Oranjeboom" ;
+        schema:volumeNumber "50"
+    ] ;
+    schema:name "Johan Vissers de eerste werkman in de Bredase gemeenteraad 1901-1907" ;
+    schema:pagination "140-173" .
+
+<http://zotero.org/groups/2707622/items/42VMDF3T>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: hs. As 130"
+    ] ;
+    schema:additionalType "item", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Wildschut" ;
+        schema:givenName "J.A"
+    ] ;
+    schema:datePublished "1862" ;
+    schema:description "http://www.worldcat.org/oclc/846511461" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Brief van J.A. Wildschut aan de Bestuurderen der Typographische Vereeniging \"De Nederlandsche Drukpers\" te Amsterdam" ;
+    schema:sameAs <http://www.worldcat.org/oclc/846514289>, <https://pid.uba.uva.nl/ark:/88238/b1990029118480205131> .
+
+<http://zotero.org/groups/2707622/items/44DPMCT7>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/leiden1854>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 320"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1894" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Statuten en Huishoudelijk Reglement Typografische Vereeniging Lourens Jansz. Coster, Leiden." .
+
+<http://zotero.org/groups/2707622/items/4GS857SX>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1869>, "reglementen" ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Typographische Vereeniging De Eendracht (Arnhem)"
+    ] ;
+    schema:datePublished "1869" ;
+    schema:description "OCLC: 66764724" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Bibliotheek\u0020Rozet\u0020Arnhem> ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Reglement der Typographische Vereeniging De Eendracht te Arnhem: opgericht 13 januari 1869." ;
+    schema:sameAs <http://www.worldcat.org/oclc/66764724> .
+
+<http://zotero.org/groups/2707622/items/4NBNFUYA>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "1733"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1784-1990" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-GnGRA> ;
+    schema:name "[Archief van het] Boekverkoperscollege" .
+
+<http://zotero.org/groups/2707622/items/5DHMGURM>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 325"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1891" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Tot nut en gezellig verkeer\", Haarlem." .
+
+<http://zotero.org/groups/2707622/items/5PN39AG3>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/middelburg1847> ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Adriaansen" ;
+        schema:givenName "A.J"
+    ], [
+        a schema:Person ;
+        schema:familyName "Jansen" ;
+        schema:givenName "J.M"
+    ] ;
+    schema:datePublished "1898" ;
+    schema:description "OCLC: 521424173" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Gedenkboekje van het vijftigjarig bestaan der typographische vereeniging \"Harmonie en vriendschap'' te Middelburg" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Middelburg"
+        ] ;
+        schema:name "Kröber"
+    ] .
+
+<http://zotero.org/groups/2707622/items/5XMKIGTA>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849>, <http://costerskinderen.nl/vereniging/tiel1852>, <http://costerskinderen.nl/vereniging/utrecht1851> ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Archief Algemene Nederlandse Grafische Bond" ;
+    schema:sameAs <https://hdl.handle.net/10622/ARCH01707> .
+
+<http://zotero.org/groups/2707622/items/5Z4IMDFN>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/gorinchem1856>, "notulen", [
+        a dcterms:LCC ;
+        rdf:value "1"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:datePublished "1859-1871" ;
+    schema:description "1 deel" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/IZ-GrmRAG> ;
+    schema:name "Register houdende notulen van vergaderingen, kopieën van inge­komen en uitgaande brieven en enige verslagen van gebeurtenissen met betrekking tot de typografische vereniging \"Nut en Voorzorg\", alsmede het door Horneer gedrukte ‘Feestzangen bij gelegenheid van het zevende Kopperfeest 1863’" .
+
+<http://zotero.org/groups/2707622/items/62LNN6AI>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Kucera" ;
+        schema:givenName "Wolfgang"
+    ] ;
+    schema:datePublished "1997" ;
+    schema:description "OCLC: 758418456" ;
+    schema:inLanguage "Undetermined" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:name "Augsburger Buchdruck und Verlagswesen"
+    ] ;
+    schema:name "Die Druckergewerkschaften im 19. und 20. Jahrhundert" .
+
+<http://zotero.org/groups/2707622/items/63GHLHTB>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "UBM: KVB Br.VB 130:9"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Bartels" ;
+        schema:givenName "J.H.F."
+    ] ;
+    schema:datePublished "1851" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feest-bundel: herinnering aan het plegtige feest waarop de leden van het hooggeacht bestuur der Typographische Vereeniging: Voorzorg en genoegen, met zilveren medailles zijn vereerd geworden" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/66940292>, <https://pid.uba.uva.nl/ark:/88238/b1990016426400205131> .
+
+<http://zotero.org/groups/2707622/items/65SAVNTM>
+    a schema:Article ;
+    schema:about <http://costerskinderen.nl/vereniging/gorinchem1856> ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Dijk, van" ;
+        schema:givenName "R.F."
+    ] ;
+    schema:datePublished "1988" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:issueNumber "12" ;
+        schema:name "Oud-Gorcum Varia : Tijdschrift van de Historische Vereniging \"Oud-Gorcum\""
+    ] ;
+    schema:name "De typographische vereeniging \"Nut en Voorzorg\"" ;
+    schema:pagination "24-27" .
+
+<http://zotero.org/groups/2707622/items/67CQH5MS>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/middelburg1847>, [
+        a dcterms:LCC ;
+        rdf:value "ARCH04240 invnr 1"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Vereeniging van boekdrukkers- en boekbindersgezellen 'Vriendschap en Harmonie', Middelburg (1847-1910)" .
+
+<http://zotero.org/groups/2707622/items/6A5CY4A3>
+    a schema:Book ;
+    schema:about "costerfeesten1856" ;
+    schema:additionalType "book" ;
+    schema:datePublished "1856" ;
+    schema:description "Google-Books-ID: l5tPAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Herinnering aan het Costerfeest gehouden te Haarlem, op 15, 16 en 17 Julij, 1856" ;
+    schema:numberOfPages "26" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "P.D. van Es"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=l5tPAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/6KE2U6GM>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: hs. J 105:a-b"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Kreyts" ;
+        schema:givenName "A.J"
+    ] ;
+    schema:datePublished "1861" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:name "[Twee] brieven van de Typographische Vereeniging Voorzorg en Genoegen geschreven door A.J. Kreyts aan de Typographische Vereeniging De Nederlandsche drukpers" ;
+    schema:sameAs <https://pid.uba.uva.nl/ark:/88238/b1990029155820205131> .
+
+<http://zotero.org/groups/2707622/items/6QMPFRJ8>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "11" ;
+    schema:datePublished "1864" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "28" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=AJ1QLiWDPLYC> ;
+    schema:volumeNumber "7" .
+
+<http://zotero.org/groups/2707622/items/7AWQXQG9>
+    a schema:Article ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "LIV B 26"
+    ] ;
+    schema:additionalType "magazineArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Evers" ;
+        schema:givenName "G.A."
+    ] ;
+    schema:datePublished "1942" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:issueNumber "1-3" ;
+        schema:name "De Tampon : orgaan voor de leerlingen en oud-leerlingen der school voor de grafische vakken, Utrecht" ;
+        schema:volumeNumber "23"
+    ] ;
+    schema:name "\"Nut en genoegen\" te Utrecht" ;
+    schema:pagination "136-151" ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/FFB7EE1724CB56C8B80293A414EDF69D> .
+
+<http://zotero.org/groups/2707622/items/7C6LIVIZ>
+    a schema:Manuscript ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "3128"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1847-1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "[Archief van de] Commissie tot oprichting van een standbeeld voor Lourens Janszoon Coster te Haarlem" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/54C2E0BEC3624E5E956FFA514A95C3F6> .
+
+<http://zotero.org/groups/2707622/items/7E5FVS9G>
+    a schema:Thesis ;
+    schema:additionalType "thesis" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Hudig" ;
+        schema:givenName "D"
+    ] ;
+    schema:datePublished "1904" ;
+    schema:description "OCLC: 41198001" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De vakbeweging in Nederland, 1866-1878." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Scheltema en Holkema's Boekhandel"
+    ] .
+
+<http://zotero.org/groups/2707622/items/7H2SNFBU>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De metamorfose van Nederland" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Sas" ;
+        schema:givenName "N.C.F. van"
+    ] ;
+    schema:datePublished "2008" ;
+    schema:description "OCLC: 258977489" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De metamorfose van Nederland: van oude orde naar moderniteit, 1750-1900" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "DBNL"
+    ] .
+
+<http://zotero.org/groups/2707622/items/7KPZWEVT>
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:abstract "Rode strik met geperste eenzijdige metalen draagpenning waarop mannenkop met muts (Coster). Omschrift: TYPOGRAPH. VEREENIGING / HAARLEM / 1851 / TOT NUT EN GEZEL. VERKEER" ;
+    schema:additionalType "document" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Penning Typographische Vereeniging, Haarlem" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/0908E92C204247E2BE47254D3CDD71CA> .
+
+<http://zotero.org/groups/2707622/items/7LYLRZTJ>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Hobsbawm" ;
+        schema:givenName "E. J"
+    ] ;
+    schema:datePublished "1983" ;
+    schema:description "OCLC: 941273015" ;
+    schema:inLanguage "English" ;
+    schema:name "Invention of tradition" .
+
+<http://zotero.org/groups/2707622/items/7S97LLDW>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1867-1868" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Erfgoedbibliotheek\u0020Hendrik\u0020Conscience> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestzangen ter gelegenheid der jaarlijksche feestviering van de Typographische Vereeniging \"Door Koster's Fakker voorgelicht, is deze Vriendenkring gesticht\"" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Rotterdam"
+    ] ;
+    schema:sameAs <https://anet.be/record/opacehc/c:lvd:14226873/N> .
+
+<http://zotero.org/groups/2707622/items/7SB6LLER>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Evers" ;
+        schema:givenName "Gerrit Albert"
+    ] ;
+    schema:datePublished "1939" ;
+    schema:description "Google-Books-ID: 7L3izQEACAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "De Koppermaandag der typografen" ;
+    schema:numberOfPages "4" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "School voor de Grafische Vakken"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=7L3izQEACAAJ> .
+
+<http://zotero.org/groups/2707622/items/7TTZHF5F>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1013/2"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1857" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestliederen bij gelegenheid der zevende jaarlijksche feestviering van de Amsterdamsche Typografische Vereeniging: Voorzorg en Genoegen ... Door eenige leden der vereeniging vervaardigd." ;
+    schema:numberOfPages "20" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Portielje"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/82168400>, <https://hdl.handle.net/10622/21239F8F-423C-41F4-A95E-64F61A5FFF7E> .
+
+<http://zotero.org/groups/2707622/items/8897PZMZ>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "6" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=rx9Jd-2wtDUC> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/8B5UQJCK>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: hs. P 72"
+    ] ;
+    schema:additionalType "item", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Beet" ;
+        schema:givenName "H.J. de"
+    ] ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Brief van H.J. de Beet aan Bestuur der Typographische Vereeniging De Nederlandsche Drukpers Amsterdam" ;
+    schema:sameAs <http://www.worldcat.org/oclc/846487509>, <https://pid.uba.uva.nl/ark:/88238/b1990028980890205131> .
+
+<http://zotero.org/groups/2707622/items/8H2UKA2T>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Waling" ;
+        schema:givenName "Geerten"
+    ], [
+        a schema:Person ;
+        schema:familyName "Ottenheim" ;
+        schema:givenName "Niels"
+    ] ;
+    schema:datePublished "2020-06-01" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:alternateName "Tijdschrift voor geschiedenis" ;
+        schema:identifier "DOI 10.5117/TVGESCH2020.1.002.WALI" ;
+        schema:issueNumber "1" ;
+        schema:name "Tijdschrift voor geschiedenis" ;
+        schema:volumeNumber "133"
+    ] ;
+    schema:name "Waarom Nederland in 1848 geen revolutie kende" ;
+    schema:pagination "5-29" .
+
+<http://zotero.org/groups/2707622/items/8R3RZZEA>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/tiel1852>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 324"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1892" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Onderling Hulpbetoon\", Tiel." .
+
+<http://zotero.org/groups/2707622/items/8ZF42LLE>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/breda1837> ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Walter" ;
+        schema:givenName "Albert"
+    ] ;
+    schema:datePublished "1936" ;
+    schema:description "OCLC: 66108315" ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Gedenkboek uitgegeven ter gelegenheid van het honderdjarig bestaan, Typ. Vereniging \"Door eendracht t'zaam verbonden\", Afd. Breda van de Ned. Graf. Bond: 1837-1937" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Breda"
+        ] ;
+        schema:name "Typografische Vereniging \"Door eendracht t'zaam verbonden"
+    ] .
+
+<http://zotero.org/groups/2707622/items/93LEB9MP>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "112 A 16"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Smidt" ;
+        schema:givenName "M."
+    ] ;
+    schema:datePublished "1863" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Feestlied 1813-1863" ;
+    schema:numberOfPages "1" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/AC420C7A7FBC45EC832BC31D5067A20D> .
+
+<http://zotero.org/groups/2707622/items/94BHTAWR>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "6" ;
+    schema:datePublished "1863" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "40" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=MUTb3jp1Wb8C> ;
+    schema:volumeNumber "6" .
+
+<http://zotero.org/groups/2707622/items/94Y7SNKV>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1> ;
+    schema:abstract "Ondertekend: H.v.N., lid der Typ. Vereen. de Nederlandsche Drukpers" ;
+    schema:additionalType "book" ;
+    schema:datePublished "1858" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Ontboezeming en groete aan de banier der Typografische Vereeniging \"De Nederlandsche Drukpers\" mei 1858." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Typografische Vereeniging \"De Nederlandsche Drukpers\""
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/928178252>, <https://pid.uba.uva.nl/ark:/88238/b1990035631230205131> .
+
+<http://zotero.org/groups/2707622/items/9HFQREGW>
+    a schema:SoftwareApplication ;
+    schema:additionalType "computerProgram" ;
+    schema:bookEdition "1.9.0" ;
+    schema:datePublished "2021" ;
+    schema:name "Tropy" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Corporation for Digital Scholarship"
+    ] ;
+    schema:sameAs <https://tropy.org> .
+
+<http://zotero.org/groups/2707622/items/9KVDM2QZ>
+    a bib:BookSection ;
+    schema:additionalType "bookSection" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Devreese" ;
+        schema:givenName "Daisy Eveline"
+    ] ;
+    schema:datePublished "1992" ;
+    schema:isPartOf [
+        a bib:Book ;
+        schema:name "De Kracht der Zwakken: Studies over arbeid en arbeidersbeweging in het verleden"
+    ] ;
+    schema:name "Ambachten, arbeidsmarkt en arbeidersbeweging: Vorming van de moderne arbeidersbeweging te Brussel, 1842-1867" ;
+    schema:pagination "109-138" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] .
+
+<http://zotero.org/groups/2707622/items/9LPTMXPK>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:datePublished "1892" ;
+    schema:description "Google-Books-ID: 4nw7xwEACAAJ" ;
+    schema:editor [
+        a schema:Person ;
+        schema:familyName "Hubert" ;
+        schema:givenName "E."
+    ], [
+        a schema:Person ;
+        schema:familyName "Charles" ;
+        schema:givenName "A."
+    ] ;
+    schema:inLanguage "fr" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Historique de l'Association libre des compositeurs et imprimeurs typographes de Bruxelles (1842-1892)" ;
+    schema:numberOfPages "372" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "P. Weissenbruch"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/44659652>, <http://www.worldcat.org/oclc/69150533>, <http://www.worldcat.org/oclc/943679942>, <https://books.google.nl/books?id=4nw7xwEACAAJ>, <https://hdl.handle.net/10622/A1A7D3ED-156B-4456-8BE1-DF9A2F61C062> .
+
+<http://zotero.org/groups/2707622/items/9XFUT42Y>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:additionalType "book" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Newberry\u0020Library\u0020Chicago> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestliederen, der Typographische Vereeniging, onder de zinspreuk: Tot nut en gezellig verkeer. Opgerigt te Haarlem, den 21. September 1851." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Haarlem"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/60585084> .
+
+<http://zotero.org/groups/2707622/items/A3XUSPAH>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/groningen1888> ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Barkman" ;
+        schema:givenName "J"
+    ], [
+        a schema:Person ;
+        schema:familyName "Reiber" ;
+        schema:givenName "J.J"
+    ] ;
+    schema:datePublished "1883" ;
+    schema:description "OCLC: 64927663" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Verslag der afgevaardigden naar de Amsterdamsche tentoonstelling, van en aan de Typografische vereeniging \"Het Noorden\", 1883" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "S.l."
+        ] ;
+        schema:name "s.n."
+    ] .
+
+<http://zotero.org/groups/2707622/items/A7WCISRS>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De Nederlandsche boekdrukkunst, vergeleken bij die van het buitenland" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Lid der Typografische Vereeniging de Nederlandsche Drukpers"
+    ] ;
+    schema:datePublished "1870" ;
+    schema:description "OCLC: 66285750" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De Nederlandsche boekdrukkunst, vergeleken bij die van het buitenland: met het oog op de min geldelijke verdiensten van den Nederlandschen typograaf, benevens het middel om zijn maatschappelijken toestand te verbeteren" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "F.W. Vislaake"
+    ] .
+
+<http://zotero.org/groups/2707622/items/ARLDSLJ9>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:datePublished "1815" ;
+    schema:inLanguage "nl" ;
+    schema:name "Gezangen, bij gelegenheid der viering van flora- of koppermaandag, ter nagedachtenis van Laurens Koster Jz., eersten vinder der boekdrukkunst binnen Haarlem, door de beminnaars der drukkunst te 's Hertogenbosch, op den 9 van louwmaand 1815" ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "H. Palier en zoon"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=ywJbAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/BSZXZTN4>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Lourens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "56" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=ootP9SPXYY0C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/BVZWEGAX>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: Br. 2895-4"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Smidt" ;
+        schema:givenName "M."
+    ] ;
+    schema:datePublished "1860" ;
+    schema:description ";" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Redevoering, uitgesproken in de vergadering van de afdeeling zang der werkende leden van de typographische vereeniging De Nederlandsche Drukpers, den 23 maart 1860." ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65564080>, <https://books.google.nl/books?id=Fw5iAAAAcAAJ>, <https://pid.uba.uva.nl/ark:/88238/b1990035461550205131> .
+
+<http://zotero.org/groups/2707622/items/BXIE87RY>
+    a schema:SoftwareApplication ;
+    schema:additionalType "computerProgram" ;
+    schema:bookEdition "5.0.96.2" ;
+    schema:datePublished "2021" ;
+    schema:name "Zotero" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Corporation for Digital Scholarship"
+    ] ;
+    schema:sameAs <https://zotero.org> .
+
+<http://zotero.org/groups/2707622/items/C9K3M348>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, <http://costerskinderen.nl/vereniging/amsterdam1857-1>, <http://costerskinderen.nl/vereniging/breda1837>, <http://costerskinderen.nl/vereniging/deventer1892>, <http://costerskinderen.nl/vereniging/haarlem1851>, <http://costerskinderen.nl/vereniging/leiden1854>, <http://costerskinderen.nl/vereniging/rotterdam1849>, <http://costerskinderen.nl/vereniging/tiel1852>, <http://costerskinderen.nl/vereniging/utrecht1851>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnrs. 319-326, 328"
+    ] ;
+    schema:additionalType "collectie", "manuscript" ;
+    schema:datePublished "1875-1904" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Collectie Statuten en reglementen" ;
+    schema:sameAs <https://hdl.handle.net/10622/COLL00343> .
+
+<http://zotero.org/groups/2707622/items/CAA3K4VF>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "toegang 01707, invnr. 1"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:datePublished "1849-1850" ;
+    schema:name "Ledenlijsten Voorzorg en Genoegen" .
+
+<http://zotero.org/groups/2707622/items/CCINRYB8>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/tiel1852> ;
+    schema:additionalType "book" ;
+    schema:alternateName "Wars van clubgeest en partijzucht" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Miert" ;
+        schema:givenName "Jan van"
+    ] ;
+    schema:datePublished "1994" ;
+    schema:description "OCLC: 33479266" ;
+    schema:identifier "ISBN 978-90-5356-073-0" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Wars van clubgeest en partijzucht: liberalen, natie en verzuiling, Tiel en Winschoten 1859-1920" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Amsterdam University Press"
+    ] .
+
+<http://zotero.org/groups/2707622/items/CYLBZNZT>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "toegang 399, invnr 546"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1852" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdSAA> ;
+    schema:name "Wanhoopstoonen van het Oude Doolhof, toen het de treurmare vernam van in publieke veiling verkocht te worden" ;
+    schema:sameAs <https://archief.amsterdam/inventarissen/file/6fefe3e5a020380c2388cf6a81f3fae6> .
+
+<http://zotero.org/groups/2707622/items/D39BUIT7>
+    a schema:Thesis ;
+    schema:additionalType "thesis" ;
+    schema:alternateName "De afschaffers" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Janse" ;
+        schema:givenName "Maartje J"
+    ] ;
+    schema:datePublished "2007" ;
+    schema:description """ISBN: 9789028422186
+OCLC: 150417029""" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De afschaffers: publieke opinie, organisatie en politiek in Nederland 1840-1880" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Wereldbibliotheek"
+    ] .
+
+<http://zotero.org/groups/2707622/items/D7CQJXNX>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "Jansstraat Depot, 43-022886 G"
+    ] ;
+    schema:additionalType "manuscript", "music score" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Verhulst" ;
+        schema:givenName "J.J.H."
+    ] ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Feestlied bij de onthulling van het Costers standbeeld" ;
+    schema:sameAs <https://proxy.archieven.nl/0/B03FC5947D07465598372778F5679A95> .
+
+<http://zotero.org/groups/2707622/items/DE7S8AAM>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Gellner" ;
+        schema:givenName "Ernest"
+    ] ;
+    schema:datePublished "1983" ;
+    schema:description "OCLC: 611103866" ;
+    schema:identifier "ISBN 978-0-631-13088-8" ;
+    schema:inLanguage "English" ;
+    schema:name "Nations and nationalism" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Oxford"
+        ] ;
+        schema:name "Basil Blackwell"
+    ] .
+
+<http://zotero.org/groups/2707622/items/DEZNBXKB>
+    a bib:BookSection ;
+    schema:additionalType "bookSection" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Hoftijzer" ;
+        schema:givenName "Paul"
+    ] ;
+    schema:datePublished "2009" ;
+    schema:inLanguage "nl" ;
+    schema:isPartOf [
+        a bib:Book ;
+        schema:identifier "ISBN 978-90-73279-28-5" ;
+        schema:name "Eenentwintigste Jaarboek der sociale en economische geschiedenis van Leiden en omstreken"
+    ] ;
+    schema:name "Ons' meesters roem en voordeel : Arbeidsomstandigheden in het Leidse boekenbedrijf in de  vroegmoderne tijd" ;
+    schema:pagination "61-86" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "Dirk van Eck-Stichting"
+    ] .
+
+<http://zotero.org/groups/2707622/items/DS7KV29E>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 34"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1858" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Liederen ter gelegenheid der buitengewone algemeene vergadering tot daarstelling eener banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 21 maart 1858, in den tuin De Nederlanden." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/8E0E9696B79648AEA77AB6A6946EE06B> .
+
+<http://zotero.org/groups/2707622/items/DYYME5XX>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:892"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1864" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen bij gelegenheid der vijftiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati" ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65904509>, <https://pid.uba.uva.nl/ark:/88238/b1990006473250205131> .
+
+<http://zotero.org/groups/2707622/items/EBX97UV4>
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:abstract "Gevleugelde letter A aan draagoog (Het symbool van de Typographische Vereeniging Tot Nut en Gezellig Verkeer te Haarlem)" ;
+    schema:additionalType "document" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Penning Typographische Vereeniging, Haarlem" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/264805FA3C804472AB03B5211BBB6265> .
+
+<http://zotero.org/groups/2707622/items/ECB8K8DX>
+    a schema:Book ;
+    schema:additionalType "book" .
+
+<http://zotero.org/groups/2707622/items/ED54QV6E>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "112 A 30"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Kreyts" ;
+        schema:givenName "A.J"
+    ] ;
+    schema:datePublished "1863" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Hoezee : Feestlied ter gelegenheid van het 50jarig jubile van Neerlands herstel" ;
+    schema:numberOfPages "1" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/135406249B4046FEB43D43A6AC798349> .
+
+<http://zotero.org/groups/2707622/items/EQRG6Y55>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-2>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: Port. ton. 92-19"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1896" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen ter gelegenheid van het 39-jarig bestaan der typographische tooneel-vereeniging \"Coster\", 1857-1896: gezongen op de boottocht van Amsterdam naar Gouda, op 14 Juni 1896." ;
+    schema:sameAs <http://www.worldcat.org/oclc/68775299>, <https://pid.uba.uva.nl/ark:/88238/b1990011893970205131> .
+
+<http://zotero.org/groups/2707622/items/ETU5D86Y>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Doove Stoffel, of De wraak van eenen huisknecht" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1861" ;
+    schema:description "Google-Books-ID: 6wJiAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Doove Stoffel, of De wraak van eenen huisknecht: tooneelspel, in 2 bedrijven, met een voorspel, in 2 acten" ;
+    schema:numberOfPages "52" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Herman Koster"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=6wJiAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/EUQXF2XL>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De koppermaandag" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Venman" ;
+        schema:givenName "Jacob Hermanus Cornelis"
+    ] ;
+    schema:datePublished "1858" ;
+    schema:description "Google-Books-ID: tVFUAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "De koppermaandag: blijspel met zang, in één bedrijf, met een naspel" ;
+    schema:numberOfPages "40" ;
+    schema:sameAs <https://books.google.nl/books?id=tVFUAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/EV5PFUFU>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "9" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=wXaXLw1Fc-8C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/F26LUTCU>
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 36"
+    ] ;
+    schema:additionalType "document" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Smidt" ;
+        schema:givenName "M."
+    ], [
+        a schema:Person ;
+        schema:familyName "Färber" ;
+        schema:givenName "W."
+    ] ;
+    schema:datePublished "[ca. 1860]" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Klagt en bemoediging : wijze: Het Blaauwtje : [tekst:] Nu de drommel moge 't weten Waar of toch mijn weekloon blijft! ... Liederen van de Typographische Vereeniging De Nederlandsche Drukpers Bevat ook: Potpourie, door W. Färber In portefeuille" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/0E9B3F911EEF43FEA49303D4D1C7BBA9> .
+
+<http://zotero.org/groups/2707622/items/F5N6M7QF>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 23"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1861" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Buitengewone voorstelling, ten voordele der noodlijdenden door de overstroomingen, te geven door de werkende leden (afdeelingen uiterlijke welsprekendheiden zang) der Typographische vereeniging De Nederlandsche Drukpers, met medewerking der leden van Amstels Typografenkoor" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "[Amsterdam]"
+        ] ;
+        schema:name "P.D. van Es"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/33BD4E6B081A4A86AFE435059F34AB72> .
+
+<http://zotero.org/groups/2707622/items/F6DWAKEH>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/middelburg1847> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1864" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0873450000> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestzang-bundel: meerendeels vervaardigd door de leden der typografische vereeniging \"Harmonie en vriendschap\" te Middelburg, uitgegeven ten voordeele van hun ziekenfonds." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Middelburg"
+        ] ;
+        schema:name "Milborn"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/521422306> .
+
+<http://zotero.org/groups/2707622/items/FC2LUHTQ>
+    a schema:Thesis ;
+    schema:additionalType "thesis" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Boenders" ;
+        schema:givenName "Carolien"
+    ] ;
+    schema:datePublished "2014-01-31" ;
+    schema:inLanguage "dutch" ;
+    schema:name "Haarlem zegeviert: de Costerfeesten van 1823 en 1856 in lokaal perspectief | Student Repository" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Leiden University"
+    ] ;
+    schema:sameAs <https://studenttheses.universiteitleiden.nl/handle/1887/24910> .
+
+<http://zotero.org/groups/2707622/items/FS996MKI>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1857>, [
+        a dcterms:LCC ;
+        rdf:value "J 63"
+    ] ;
+    schema:abstract "Opgericht 1 jan. 1857. ; Verder niet aanwezig. ; Bevat ook: Gewone vergadering 28 juli 1889. ; AANWEZIG: 1882; 1889." ;
+    schema:additionalType "book" ;
+    schema:datePublished "1882" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-RtSA> ;
+    schema:name "25-Jarig Verslag der Typographische Vereeniging \"Hoe schoon is het broeders vereenigd te zien,\" te Rotterdam" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Van Meurs & Stufkens"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12133/E6689E59EB084A9386EC52B1D63EF244> .
+
+<http://zotero.org/groups/2707622/items/FV6HJXDM>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, <http://costerskinderen.nl/vereniging/middelburg1847>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 04240, invnrs 1-3"
+    ] ;
+    schema:additionalType "collectie", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Collectie Koppermaandagliedjes e.a. typografische festiviteiten" ;
+    schema:sameAs <https://hdl.handle.net/10622/ARCH04240> .
+
+<http://zotero.org/groups/2707622/items/FZ5DQ7H9>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Imagined communities" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Anderson" ;
+        schema:givenName "Benedict"
+    ] ;
+    schema:datePublished "1983" ;
+    schema:description "OCLC: 476354339" ;
+    schema:identifier "ISBN 978-0-86091-059-6 978-0-86091-759-5" ;
+    schema:inLanguage "English" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Imagined communities: reflections on the origin and spread of nationalism" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "London"
+        ] ;
+        schema:name "Verso"
+    ] .
+
+<http://zotero.org/groups/2707622/items/FZ9NP5EW>
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 29"
+    ] ;
+    schema:additionalType "document" ;
+    schema:datePublished "[ca. 1860]" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Herinnering en vooruitgang : wijze: Zoo als 't begint : [tekst:] Toen 'k nog zoo'n kleine jongen was, Hoorde ik van Koster's kunst ... Lied van de Typographische Vereeniging De Nederlandsche Drukpers" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/38467E0362234A1B8FFEDC7B5992894F> .
+
+<http://zotero.org/groups/2707622/items/G6AVUSS8>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: Pr. D 2252"
+    ] ;
+    schema:additionalType "item", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Diploma voor ... der typographische vereeniging: De Nederlandsche Drukpers, opgerigt te Amsterdam, den 23 Februarij 1857" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/150245053>, <https://pid.uba.uva.nl/ark:/88238/b1990017704550205131> .
+
+<http://zotero.org/groups/2707622/items/G7XFN76N>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Waarachtige volksvrienden" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Bos" ;
+        schema:givenName "Dennis"
+    ] ;
+    schema:datePublished "2001" ;
+    schema:identifier "ISBN 978-90-351-2315-1" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Waarachtige volksvrienden: de vroege socialistische beweging in Amsterdam, 1848-1894" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Bakker"
+    ] .
+
+<http://zotero.org/groups/2707622/items/G9QLKZTK>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De oudste vakbond van ons land" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Wal" ;
+        schema:givenName "F. van der"
+    ] ;
+    schema:datePublished "1916" ;
+    schema:description "OCLC: 1164066604" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "De oudste vakbond van ons land, 1866-1916: ontstaan en vijftigjarige werkzaamheid van den Algemeenen Nederl. Typografenbond" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "S.l."
+        ] ;
+        schema:name "s.n."
+    ] .
+
+<http://zotero.org/groups/2707622/items/GE2HEM4S>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 326"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1889" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Statuten en Huishoudelijk Reglement Typografische Vereeniging \"De Nederlandsche Drukpers\", Amsterdam." .
+
+<http://zotero.org/groups/2707622/items/GQ64ZMCT>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "De vrouw is de baas" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1859" ;
+    schema:description "Google-Books-ID: O0BTAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "De vrouw is de baas: blijspel, met zang, in twee bedrijven" ;
+    schema:numberOfPages "48" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Amsterdamsche Typographische Vereeniging Voorzorg en Genoegen"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=O0BTAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/GRAK8AEV>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:alternateName "150 ans du Syndicat du livre" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Gonon" ;
+        schema:givenName "Laurent"
+    ] ;
+    schema:datePublished "2011" ;
+    schema:description """Place: S.l.
+Publisher: s.n.
+OCLC: 822866481""" ;
+    schema:inLanguage "French" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:isPartOf [
+        a schema:Periodical
+    ] ;
+    schema:name "150 ans du Syndicat du livre: un dépôt d'archives qui facilitera le travail des chercheurs sur l'histoire du mouvement ouvrier lyonnais et singulièrement des imprimeurs." .
+
+<http://zotero.org/groups/2707622/items/GSJHETUP>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdRM> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen bij gelegenheid der negende jaarlijksche feestviering, van de typographische vereeniging Voorzorg en Genoegen, in de zaal Apollo, aan de Hoogesluis, te Amsterdam" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/799286385> .
+
+<http://zotero.org/groups/2707622/items/GV26L8CI>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Social security mutualism" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Linden" ;
+        schema:givenName "Marcel van der"
+    ] ;
+    schema:datePublished "1996" ;
+    schema:description "OCLC: 470201515" ;
+    schema:identifier "ISBN 978-3-906755-85-4" ;
+    schema:inLanguage "English" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Social security mutualism: the comparative history of mutual benefit societies" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Bern; New York"
+        ] ;
+        schema:name "Peter Lang"
+    ] .
+
+<http://zotero.org/groups/2707622/items/GYDV7WNN>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 35"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1858" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Liederen ter gelegenheid der buitengewone algemeene vergadering tot daarstelling eener banier, door de Typographische Vereeniging: De Nederlandsche Drukpers: op zondag 23 mei 1858, in den tuin De Nederlanden" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/66287960>, <http://www.worldcat.org/oclc/67135123>, <https://hdl.handle.net/21.12102/3F2C94AD78504D58B3D9DC4FCF3D3569> .
+
+<http://zotero.org/groups/2707622/items/H6CAEHI9>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Steim" ;
+        schema:givenName "Jürgen"
+    ] ;
+    schema:datePublished "1969" ;
+    schema:description "OCLC: 758609497" ;
+    schema:inLanguage "German" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:name "Geschichte des ersten fachlichen Wirtschaftsverbandes in Deutschland / Jürgen Steim" ;
+        schema:volumeNumber "1"
+    ] ;
+    schema:name "Die gewerkschaftliche Organisation im Druckgewerbe von 1848 bis 1866" .
+
+<http://zotero.org/groups/2707622/items/H6G8X83B>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, [
+        a dcterms:LCC ;
+        rdf:value "ARCH04240 invnr 2"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Typographische Vereeniging \"Tot Nut en gezellig Verkeer\", Haarlem (1851-1903)" .
+
+<http://zotero.org/groups/2707622/items/H6VGU9C2>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 15"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1865" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestboekje voor de achtste jaarlijksche feestviering der typografische vereeniging \"De Nederlandsche drukpers\" gevestigd te Amsterdam op ... 7 Januari 1865 ..." ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Drukkerij van Es"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/FDB73FCFD5644C638ECD42D8028449CF> .
+
+<http://zotero.org/groups/2707622/items/HB3GQ9N3>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 322"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1904" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Voorzorg en genoegen\", Amsterdam." .
+
+<http://zotero.org/groups/2707622/items/HGMVQWBW>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/denhaag1843>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:2026"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1870" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen voor de 27e jaarlijksche feestviering der typographische vereeniging: \"Door eendracht t'zaam verbonden\"" ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "'s-Gravenhage"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65836001>, <https://pid.uba.uva.nl/ark:/88238/b1990007219170205131> .
+
+<http://zotero.org/groups/2707622/items/HHZREWXJ>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:additionalType "book" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Bibliotheek\u0020Zuidkennemerland> ;
+    schema:name "Feestliederen der typographische vereeniging onder de zinspreuk tot nut en gezellig verkeer. ; opgerigt te Haarlem, den 21 september 1851." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Haarlem"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/1137589391> .
+
+<http://zotero.org/groups/2707622/items/HL5TZBKP>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, [
+        a dcterms:LCC ;
+        rdf:value "2484"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:description "inventaris niet online" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "HBA [Het Bedrijfs Archief?] Enschede" .
+
+<http://zotero.org/groups/2707622/items/HR9YPL92>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Transformations of Trade Unionism" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Knotter" ;
+        schema:givenName "Ad"
+    ] ;
+    schema:datePublished "2018" ;
+    schema:identifier "ISBN 978-90-485-4448-6" ;
+    schema:inLanguage "en" ;
+    schema:name "Transformations of Trade Unionism: Comparative and Transnational Perspectives on Workers Organizing in Europe and the United States, Eighteenth to Twenty-First Centuries" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Amsterdam University Press"
+    ] ;
+    schema:sameAs <https://doi.org/10.1515/9789048544486> .
+
+<http://zotero.org/groups/2707622/items/HSYRUEYR>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1168/180"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1900" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Zangbundel voor de 51ste jaarvergadering, op ... 8 September 1900 ..." ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Rotterdam?"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/122360917>, <https://hdl.handle.net/10622/333BA6EF-7F35-48AC-9BD0-8CF458AFB5FC> .
+
+<http://zotero.org/groups/2707622/items/HU2BNM3L>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "112 A 28"
+    ] ;
+    schema:additionalType "book" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Lauwerkrans opgedragen aan Dr. A. de Vries : door de Typographische Vereeniging in Nederland, als een blijk van erkentelijkheid voor de handhaving van Haarlems eer ten opzigte der boekdrukkunst" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/2F179AA542F04BBCB6BAA0934429C253> .
+
+<http://zotero.org/groups/2707622/items/HWEX47T6>
+    a schema:Book ;
+    schema:about "ANTHV", "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:1590"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Algemeene Nederlandsche Typographische Hoofd-Vereeniging"
+    ] ;
+    schema:datePublished "1860" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Statuten der Algemeene Nederlandsche Typographische Hoofd-Vereeniging [vastgesteld 18 november 1860]" ;
+    schema:numberOfPages "8" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofd-Vereeniging"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65839831>, <https://pid.uba.uva.nl/ark:/88238/b1990007235720205131> .
+
+<http://zotero.org/groups/2707622/items/I664294A>
+    a schema:Book ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "93 E 3"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "[1856]" ;
+    schema:description "tropy" ;
+    schema:editor [
+        a schema:Person ;
+        schema:familyName "Regt" ;
+        schema:givenName "J.K. de"
+    ], [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Album van feestliederen en gezangen, te zingen door de typographische vereenigingen, die deel zullen nemen aan de onthullingsfeesten op den 16den Julij 1856 te Haarlem" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Haarlem"
+        ] ;
+        schema:name "Brederode, Jacobus Johannes van Haarlem"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=SBxeAAAAcAAJ>, <https://hdl.handle.net/21.12102/5FB118A70935449D99D2EC40A029D267> .
+
+<http://zotero.org/groups/2707622/items/I6U5UC49>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Br.VB 35:18"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Zangcoupletten voor de plegtige feestviering der onthulling van het standbeeld van Lourens Janszoon Koster, te Haarlem, den 16den Julij 1856." ;
+    schema:numberOfPages "8" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Arnhem"
+        ] ;
+        schema:name "Typografische Vereeniging Grondzuil"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/66109931>, <https://pid.uba.uva.nl/ark:/88238/b1990007141580205131> .
+
+<http://zotero.org/groups/2707622/items/IC5D47SL>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Last" ;
+        schema:givenName "C.C.A"
+    ] ;
+    schema:datePublished "1865" ;
+    schema:description "OCLC: 150293983" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Triomftogt gehouden binnen Amsterdam op 19 Junij 1865 ter Gelegenheid der viering van den vijftigsten Gedenkdag der overwinning bij Waterloo. Ont-worpen en georganiseerd na bekomen magtiging van het Edel Achtbaar Bestuur der Stad Amsterdam door Bestuurderen der Typographische vereeniging De Nederlandsche Drukpers. Vervaardigd naar de officieele opgaven bijeenverzameld en onder toezigt bewerkt van den Secretaris der Hoofdcommissie M. Smidt" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Haarlem"
+        ] ;
+        schema:name "Steendr. v. Emrik & Binger. Uitgegeven voor gemeenschappelijke rekening door F.H. Brinkman te Amsterdam"
+    ] .
+
+<http://zotero.org/groups/2707622/items/IJJUZWVB>
+    a schema:Book ;
+    schema:abstract "In the modern Western world, we tend to be insured by the state or for-profit insurers. We have privileged this system over mutual or micro-insurance, whose long and rich history we tend to forget. Yet, mutual and micro-insurance is becoming increasingly important, both in the Western and in the non-Western world and bears re-examination. This book traces the track record of mutual insurance from 1550 to the present, examining provisions for burial, sickness, unemployment, old age, and widowhood. The author seeks to address such topics as the type of risks micro-insurance covered between 1550 and 2015; how it was organized throughout its history; who provided the coverage; and how contributions, benefit levels, and conditions have changed. Importantly, the author explores why this system has worked through, and endured, the test of time. Mutual insurance can, for instance, overcome classic insurance problems such as adverse selection and moral hazards. The author demonstrates that the study of the position micro-insurance historically assumed in mixed economies of welfare presents interesting lessons for today’s insurance market, as well as for today’s mutualism." ;
+    schema:additionalType "book" ;
+    schema:alternateName "Mutual Insurance 1550-2015" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Leeuwen" ;
+        schema:givenName "Marco H. D. Van"
+    ] ;
+    schema:datePublished "2016" ;
+    schema:description "DOI: 10.1057/978-1-137-53110-0" ;
+    schema:identifier "ISBN 978-1-137-53109-4" ;
+    schema:inLanguage "en" ;
+    schema:includedInDataCatalog "www.palgrave.com" ;
+    schema:isPartOf [
+        a bib:Series ;
+        schema:name "Palgrave Studies in the History of Finance"
+    ] ;
+    schema:name "Mutual Insurance 1550-2015: From Guild Welfare and Friendly Societies to Contemporary Micro-Insurers" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Palgrave Macmillan UK"
+    ] ;
+    schema:sameAs <https://www.palgrave.com/gp/book/9781137531094> .
+
+<http://zotero.org/groups/2707622/items/IKMA989L>
+    schema:about <http://costerskinderen.nl/vereniging/breda1837> ;
+    schema:additionalType "document" ;
+    schema:name "Draagpenning 25-jarig lidmaatschap Typografische Vereniging ‘Door Eendracht tzaam verbonden’" ;
+    schema:sameAs <https://www.brabantserfgoed.nl/collectie/object/stedelijk-museum-breda/24956d93177c42fe755748e731206b61491ee036> .
+
+<http://zotero.org/groups/2707622/items/ISC9UYNV>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12" ;
+    schema:datePublished "1859-1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "392" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=-VcC2yD0XhsC> ;
+    schema:volumeNumber "2" .
+
+<http://zotero.org/groups/2707622/items/ITCMSJTB>
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 2491, nr. 237"
+    ] ;
+    schema:abstract "Beeld voorzijde: Staande jonge vrouw met kader van Jugendstil-ornamenten. Gegraveerd: 1851-1901 ter herinn. aan het vijftigjarig jubilé van de Typographische Verg. Tot Nut en Gezellig Verkeer te Haarlem 21-9-1901. Beeld keerzijde: Krans van twee olijftakken. Daarbinnen gegraveerd: De Verg: aangeb: ter gelegenheid van zijn vijftigjarig Lidmaatschap 21-9-1901 M. UITENBOSCH" ;
+    schema:additionalType "document" ;
+    schema:datePublished "1901" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Penning Typographische Vereeniging, Haarlem" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/5F4B46114A9A48DE8CA06502E6F64882> .
+
+<http://zotero.org/groups/2707622/items/IZ5ZN66Q>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:252"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Typographische Vereeniging De Nederlandsche Drukpers (Amsterdam)"
+    ] ;
+    schema:datePublished "1875" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Wet der Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam: opgerigt 23 februarij 1857." ;
+    schema:numberOfPages "32" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "F.W. Vislaake"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/69129098>, <https://pid.uba.uva.nl/ark:/88238/b1990010018250205131> .
+
+<http://zotero.org/groups/2707622/items/J4PZQ9Q5>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "9024831"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1855" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestbundel bij gelegenheid der vierde jaarlijksche feestviering van de Utrechtsche Typographische Vereeniging: Nut en Genoegen, onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien, Burgemeester der stad Utrecht" ;
+    schema:numberOfPages "40" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "gedrukt bij Gieben & Dumont"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/1089764091>, <https://books.google.nl/books?id=J6P_mIO45RIC> .
+
+<http://zotero.org/groups/2707622/items/J5C92YM3>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "7" ;
+    schema:datePublished "1860" ;
+    schema:description "Google-Books-ID: CoW7Ud5uM5MC" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=CoW7Ud5uM5MC> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/JHXGXUYV>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/denbosch1849>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: PR. KOP P 49"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1854" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestzang der Typographische Vereeniging 'Door Eendracht t' zaam Verbonden', te 's-Hertogenbosch" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "'s-Hertogenbosch"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/150317330>, <https://pid.uba.uva.nl/ark:/88238/b1990018747800205131> .
+
+<http://zotero.org/groups/2707622/items/JIV9GUU2>
+    a schema:Book ;
+    schema:about "costerfeesten1856" ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Regt" ;
+        schema:givenName "J.K. de"
+    ], [
+        a schema:Person ;
+        schema:familyName "Somerwil" ;
+        schema:givenName "J. J. (Leiden)"
+    ] ;
+    schema:datePublished "1856" ;
+    schema:description "OCLC: 66110298" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Jansz. Koster: een blik op de uitvinding der boekdrukkunst en op Haarlem, bij de aanstaande feesten in Julij 1856" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leyden"
+        ] ;
+        schema:name "J.J. Somerwil"
+    ] .
+
+<http://zotero.org/groups/2707622/items/JM77FDRA>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Studies over zekerheidsarrangementen" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Gerwen" ;
+        schema:givenName "Jacques van"
+    ], [
+        a schema:Person ;
+        schema:familyName "Leeuwen" ;
+        schema:givenName "Marco H. D. van"
+    ] ;
+    schema:datePublished "1998" ;
+    schema:description "OCLC: 40502909" ;
+    schema:identifier "ISBN 978-90-5742-016-0" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Studies over zekerheidsarrangementen: risico's, risicobestrijding en verzekeringen in Nederland vanaf de middeleeuwen" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Nederlansch Economisch Historisch Archief"
+    ] .
+
+<http://zotero.org/groups/2707622/items/JRNFDHQ5>
+    a schema:WebPage ;
+    schema:additionalType "webpage" ;
+    schema:datePublished "1857." ;
+    schema:description "Context Object: ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fvufind.svn.sourceforge.net%3Agenerator&rft.title=Association+libre+des+compositeurs-typographes+de+Bruxelles.+Fond%C3%A9e+en+janvier+1842.+Notice.+-+Statuts.&rft.date=1857.&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rft.creator=&rft.format=Books+and+brochures&rft.language=Undetermined" ;
+    schema:inLanguage "Undetermined" ;
+    schema:isPartOf [
+        a z:Website
+    ] ;
+    schema:name "Association libre des compositeurs-typographes de Bruxelles. Fondée en janvier 1842. Notice. - Statuts." .
+
+<http://zotero.org/groups/2707622/items/K2CUT46J>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12?" ;
+    schema:datePublished "1866" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/UB\u0020Utrecht> ;
+    schema:name "Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:volumeNumber "9" .
+
+<http://zotero.org/groups/2707622/items/K8FLCFIU>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "610"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-NmRAN> ;
+    schema:name "Collectie losse aanwinsten 1500 - heden" ;
+    schema:sameAs <https://hdl.handle.net/21.12122/2126492715> .
+
+<http://zotero.org/groups/2707622/items/KCUBK535>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "3" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "28" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=vFKs_wTcdk8C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/KEUREBC7>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/brussel1820>, [
+        a dcterms:LCC ;
+        rdf:value "410"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1820-1940" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/IZ_GentLA> ;
+    schema:name "Archief Société Typographique de Secours Mutuels de Bruxelles" ;
+    schema:sameAs <https://hdl.handle.net/21.12117/1253538> .
+
+<http://zotero.org/groups/2707622/items/KGKZKMDS>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, "notulen", [
+        a dcterms:LCC ;
+        rdf:value "3807-3811"
+    ] ;
+    schema:additionalType "files", "manuscript" ;
+    schema:datePublished "1851-1930" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "[notulenboeken van Tot Nut en Gezellig Verkeer]" .
+
+<http://zotero.org/groups/2707622/items/KIRHGR29>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/deventer1892>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 323"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1892" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Laurens Koster\", Deventer." .
+
+<http://zotero.org/groups/2707622/items/KQLIQT34>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, "ledenlijst", [
+        a dcterms:LCC ;
+        rdf:value "3883"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:datePublished "1851-1930" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "[ledenlijsten van Tot Nut en Gezellig Verkeer]" .
+
+<http://zotero.org/groups/2707622/items/KW64TFR8>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Liefde zoekt list" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1857" ;
+    schema:description "Google-Books-ID: WgdiAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Liefde zoekt list: tooneelspel met zang, in één bedrijf" ;
+    schema:numberOfPages "36" ;
+    schema:sameAs <https://books.google.nl/books?id=WgdiAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/KYIX3D24>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:1922a"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Typographische Vereeniging De Nederlandsche Drukpers"
+    ] ;
+    schema:datePublished "1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Statuten voor de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam: opgerigt 23 februarij 1857." ;
+    schema:numberOfPages "32" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "P.D. van Es"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65840896>, <https://pid.uba.uva.nl/ark:/88238/b1990007240080205131> .
+
+<http://zotero.org/groups/2707622/items/L2Q5FUJ4>
+    a schema:Manuscript ;
+    schema:additionalType "dataset", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Bos" ;
+        schema:givenName "Sandra B"
+    ] ;
+    schema:datePublished "2010" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/dataverse.nl> ;
+    schema:name "Journeymen's Boxes [Gildebussen]" ;
+    schema:sameAs <https://doi.org/10.34894/JJMSPX> .
+
+<http://zotero.org/groups/2707622/items/L5ZJMBED>
+    a schema:Article ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849> ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Typografische Vereeniging \"Door Coster's Fakkel voorgelicht" ;
+        schema:givenName "is deze vriendenkring gesticht\""
+    ] ;
+    schema:inLanguage "nl" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:name "Jaarverslag"
+    ] ;
+    schema:name "Jaarverslag" ;
+    schema:sameAs <http://www.worldcat.org/oclc/970369762> .
+
+<http://zotero.org/groups/2707622/items/LWM9A3PA>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/breda1837>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 321"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1886" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Door Eendracht 't Zaam Verbonden\", Breda." .
+
+<http://zotero.org/groups/2707622/items/MAXJBV6J>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 328"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1891" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging onder de zinspreuk \"Door Koster's Fakkel voorgelicht, Is deze Vriendenkring gesticht\", Rotterdam." .
+
+<http://zotero.org/groups/2707622/items/MBUUC42U>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/nijmegen1862> ;
+    schema:additionalType "book" ;
+    schema:alternateName "Feestzangen bij de viering van het twee en twintigste jaarfeest der Typographische Vereeniging \"Broederhulp\" te Nijmegen" ;
+    schema:datePublished "1884" ;
+    schema:description "Google-Books-ID: 77lmAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Feestzangen bij de viering van het twee en twintigste jaarfeest der Typographische Vereeniging \"Broederhulp\" te Nijmegen: op Koppermaandag 9 januari 1884, in de Concertzaal der Societeit \"De Harmonie\"" ;
+    schema:numberOfPages "20" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "H.C.A. Thieme"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=77lmAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/MTQ9HT7Q>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12" ;
+    schema:datePublished "1867" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/UB\u0020Utrecht> ;
+    schema:name "Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:volumeNumber "10" .
+
+<http://zotero.org/groups/2707622/items/N3FF73FM>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "Pb 10957"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "[1879]" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-04-0041-000> ;
+    schema:name "Reglement voor de Typographische Vereeniging \"Nut en Genoegen\" te Leeuwarden, opgerigt 1 Mei 1877." ;
+    schema:sameAs <https://tresoar.on.worldcat.org/oclc/64958583> .
+
+<http://zotero.org/groups/2707622/items/NAJAF6XW>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "12031854"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1901" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestzangen ter viering van het 50-jarig bestaan op maandag 7 januari 1901, der Typ. Vereeniging \"Nut en Genoegen\" te Utrecht." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/975832867>, <https://kb.on.worldcat.org/oclc/975832867> .
+
+<http://zotero.org/groups/2707622/items/NBD498TF>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12?" ;
+    schema:datePublished "1861" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Laurens Coster : tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:volumeNumber "4" .
+
+<http://zotero.org/groups/2707622/items/NDXAKZ5E>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 319"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1887" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Statuten en Reglement Typografische Vereeniging \"Nut en Genoegen\", Utrecht." ;
+    schema:sameAs <https://hdl.handle.net/10622/COLL00343> .
+
+<http://zotero.org/groups/2707622/items/NLKIR36U>
+    a schema:Article ;
+    schema:about [
+        a z:AutomaticTag ;
+        rdf:value "Co-operative"
+    ], [
+        a z:AutomaticTag ;
+        rdf:value "Cooperative"
+    ], [
+        a z:AutomaticTag ;
+        rdf:value "Mutual insurance"
+    ], [
+        a z:AutomaticTag ;
+        rdf:value "Systematic literature review"
+    ] ;
+    schema:abstract "Customer-owned insurance companies (mutuals) are prominent actors in the insurance industry and have significantly increased in market share in the relatively recent past. However, the discussion related to mutuals lacks a systematic and multidisciplinary literature review providing a comprehensive overview of current scientific knowledge. The purpose for the paper is threefold. It categorises the existing research by year of publication, scientific journal, type of article, and type of insurance considered. Secondly, it identifies approaches and themes that capture the nature and content of the research on mutual insurance companies. Finally, it analyses how the literature has defined mutual insurance. In the process, the work critically evaluates the current status of the research on mutuals and sets out the implications for future research and work by practitioners." ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Talonen" ;
+        schema:givenName "Antti"
+    ] ;
+    schema:datePublished "December 1, 2016" ;
+    schema:inLanguage "en" ;
+    schema:includedInDataCatalog "ScienceDirect" ;
+    schema:isPartOf <urn:issn:2213-297X> ;
+    schema:name "Systematic literature review of research on mutual insurance companies" ;
+    schema:pagination "53-65" ;
+    schema:sameAs <https://www.sciencedirect.com/science/article/pii/S2213297X16300210> .
+
+<http://zotero.org/groups/2707622/items/NQBUWLBR>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1> ;
+    schema:additionalType "book" ;
+    schema:alternateName "Een koppermaandag in eene kleine stad van Nederland" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1850" ;
+    schema:inLanguage "nl" ;
+    schema:name "Een koppermaandag in eene kleine stad van Nederland: tooneelmatige voorstelling met zang" ;
+    schema:numberOfPages "44" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Dekker"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=fZ1lAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/NWWMZDJL>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Bos" ;
+        schema:givenName "Sandra B"
+    ] ;
+    schema:datePublished "1998" ;
+    schema:identifier "ISBN 978-90-6861-158-8" ;
+    schema:inLanguage "Dutch" ;
+    schema:name "\"Uyt liefde tot malcander\": onderlinge hulpverlening binnen de Noord-Nederlandse gilden in internationaal perspectief (1570-1820)" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "IISG"
+    ] .
+
+<http://zotero.org/groups/2707622/items/NZKPUJA3>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 25"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1861" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestboekje voor de vierde jaarlijksche feestviering der typografische vereeniging \"De Nederlandsche drukpers\" gevestigd te Amsterdam op ... 12 Januari 1861 ..." ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Drukkerij van Es"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/FDB73FCFD5644C638ECD42D8028449CF> .
+
+<http://zotero.org/groups/2707622/items/P5HRJ669>
+    a schema:Book ;
+    schema:about "dhbenelux2021", [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: XX 115"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Jaarboekje voor typographische vereenigingen" ;
+    schema:numberOfPages "142" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "A.W. Sythoff"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/73029551>, <https://books.google.nl/books?id=YTY5AAAAMAAJ>, <https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA21149681060002711>, <https://pid.uba.uva.nl/ark:/88238/b1990003572120205131>, <https://raw.githubusercontent.com/ivozandhuis/typografische-verenigingen/master/data/leden-jaarboekje1856.csv> .
+
+<http://zotero.org/groups/2707622/items/P8I6Q5BF>
+    a schema:Book ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "KW Bakh A 2 M [4]"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Loosjes (erven" ;
+        schema:givenName "Haarlem)"
+    ] ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Costersfeest. Typographische tentoonstelling van wege de boekverkoopers vereeniging Lourens Jansz. Coster." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Te Haarlem"
+        ] ;
+        schema:name "gedrukt bij de erven Loosjes"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/1129442174>, <https://kb.on.worldcat.org/oclc/1129442174> .
+
+<http://zotero.org/groups/2707622/items/PGMKQE2F>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "12031852"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1897" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestzangen ter viering van het zes-en-veertigjarig bestaan der Typografische Vereeniging \"Nut en Genoegen\" te Utrecht, op maandag 11 januari 1897: beschermheer: de weledelachtbare heer B. Reiger, burgemeester der gemeente Utrecht." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/975833272>, <https://kb.on.worldcat.org/oclc/975833272> .
+
+<http://zotero.org/groups/2707622/items/PHHXIA2G>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:abstract "Met reg. In de bijdragen worden verschillende facetten van de 19e eeuwse literaire bedrijvigheid belicht, zoals de rol van de uitgever, de betekenis van literaire instituties, de opiniërende functie van tijdschrift en krant en het gedrag van de lezers en luisteraars." ;
+    schema:additionalType "book" ;
+    schema:alternateName "Haarlemse kringen" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Berg" ;
+        schema:givenName "W. van den"
+    ], [
+        a schema:Person ;
+        schema:familyName "Eijssens" ;
+        schema:givenName "Henk"
+    ], [
+        a schema:Person ;
+        schema:familyName "Kalmthout" ;
+        schema:givenName "A.B.G.M. van"
+    ] ;
+    schema:datePublished "1993" ;
+    schema:description "OCLC: 898912240" ;
+    schema:identifier "ISBN 978-90-6550-375-6" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Haarlemse kringen: vijftien verkenningen naar het literair-culturele leven in een negentiende-eeuwse stad" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Hilversum"
+        ] ;
+        schema:name "Verloren"
+    ] .
+
+<http://zotero.org/groups/2707622/items/PL5RHBZV>
+    schema:about <http://costerskinderen.nl/vereniging/breda1837> ;
+    schema:additionalType "document" ;
+    schema:name "Draaginsigne Typografische Verenging Breda ‘Door Eendracht Tzaam verbonden’" ;
+    schema:sameAs <https://www.brabantserfgoed.nl/collectie/object/stedelijk-museum-breda/61004af23b006e9f979851c50ece1807237a6692> .
+
+<http://zotero.org/groups/2707622/items/PLHRJR7U>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "128"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1859-1871" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/IZ-GrmRAG> ;
+    schema:name "[Archief van de] Typographische vereeniging \"Nut en Voorzorg\" [te Gorinchem]" .
+
+<http://zotero.org/groups/2707622/items/PMDKSF3S>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, "ledenlijst", "notulen", "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "toegang 01707, invnrs. 1-6"
+    ] ;
+    schema:additionalType "files", "manuscript" ;
+    schema:datePublished "1849-1916" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Typografische Vereeniging \"Voorzorg en Genoegen\"" .
+
+<http://zotero.org/groups/2707622/items/PQ9QK7RK>
+    a schema:Book ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "197 N 126"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Mommaas" ;
+        schema:givenName "C."
+    ] ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:name "Het onthaal aan de typographische vereenigingen in Haarlem, op den 16 julij 1856 : verslag aan alle kunstbroeders in Nederland" ;
+    schema:sameAs <https://books.google.nl/books?id=e-1OAAAAcAAJ>, <https://kb.on.worldcat.org/oclc/825116810> .
+
+<http://zotero.org/groups/2707622/items/QFC7TIMP>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB 4128"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1865" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feest-album der typographische vereeniging[en]: aangeboden aan J.F. Hoffman, burgemeester van Rotterdam, bij den 50 jarigen gedenkdag van den veldslag bij Waterloo." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Rotterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65915983>, <https://pid.uba.uva.nl/ark:/88238/b1990007516420205131> .
+
+<http://zotero.org/groups/2707622/items/QHYCURTM>
+    a schema:WebPage ;
+    schema:additionalType "webpage" ;
+    schema:isPartOf [
+        a z:Website
+    ] ;
+    schema:name "Feestliederen bij gelegenheid der buitengewone algemeene vergadering der ... - Google Boeken" ;
+    schema:sameAs <https://books.google.nl/books?id=uLZpAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/QKLUPDYE>
+    a schema:Book ;
+    schema:about "costerfeesten1856" ;
+    schema:additionalType "book" ;
+    schema:datePublished "1856" ;
+    schema:description "Google-Books-ID: 2KLldNOLvHcC" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Souvenir en programma van het Costerfeest te Haarlem, gehouden op 15, 16 en 17 Julij 1856" ;
+    schema:numberOfPages "22" ;
+    schema:sameAs <https://books.google.nl/books?id=2KLldNOLvHcC> .
+
+<http://zotero.org/groups/2707622/items/QPJLB7SZ>
+    a schema:Manuscript ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "ARCH04240 invnr 3"
+    ] ;
+    schema:additionalType "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Feestelijkheden t.g.v. de onthulling van het standbeeld van Laurens Janszoon Koster te Haarlem op 15-17.07.1856." .
+
+<http://zotero.org/groups/2707622/items/QPQZLFSJ>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: hs. P 106"
+    ] ;
+    schema:additionalType "item", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Meyer" ;
+        schema:givenName "J.E"
+    ] ;
+    schema:contributor [
+        a schema:Person ;
+        schema:familyName "Wertheim"
+    ] ;
+    schema:datePublished "1865" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Brief van Typographische Vereeniging Voorzorg en Genoegen geschreven door J.E. Meyer aan Typographische Vereeniging De Nederlandsche Drukpers gericht aan Wertheim" ;
+    schema:sameAs <http://www.worldcat.org/oclc/846530711>, <https://pid.uba.uva.nl/ark:/88238/b1990029212690205131> .
+
+<http://zotero.org/groups/2707622/items/QTDF96V8>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 32"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestzangen bij gelegenheid der buitengewone algemeene vergadering der typographische vereeniging De Nederlandsche drukpers, ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster op 16 Julij 1856 te Haarlem." ;
+    schema:sameAs <https://hdl.handle.net/21.12102/1F3600FB79BA4D9DBA7FF0DEC3897B6A> .
+
+<http://zotero.org/groups/2707622/items/R5VDXHXS>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Scriverius" ;
+        schema:givenName "Petrus"
+    ] ;
+    schema:datePublished "1872" ;
+    schema:description "OCLC: 901165682" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Fragment uit de Chronijck van Hollandt" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Typografische Vereeniging De Drukpers"
+    ] .
+
+<http://zotero.org/groups/2707622/items/RCJXE7VH>
+    a schema:Thesis ;
+    schema:abstract "Why did people decide to found political parties? How did they convince others to become members of this new organizational model? In the second half of the nineteenth century, the first party organizations differed from previously existing mass political organizations, because they aimed for and had direct access to parliamentary representation. In contrast to previously existing parties that loosely organized the traditional political elite in parliament, the new mass parties were based on an extensive organizational body that included previously excluded social groups in politics. Combining political history with social science theory, this dissertation studies the ideas and practices of political activists who founded the first party organizations. The comparison of three case studies (the German Social Democratic Workers’ Party, the British National Liberal Federation and the Dutch Anti-Revolutionary Party) is based on primary sources including letters, diaries, autobiographies, minutes of meetings, brochures, newspapers and political programs in three different languages." ;
+    schema:additionalType "thesis" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Heyer" ;
+        schema:givenName "A."
+    ] ;
+    schema:datePublished "2019-01-09" ;
+    schema:inLanguage "en" ;
+    schema:includedInDataCatalog "scholarlypublications.universiteitleiden.nl" ;
+    schema:name "The Making of the Democratic Party. The Emergence of the Party Organizations of the German Social Democratic Workers' Party, the British National Liberal Federation and the Dutch Anti-Revolutionary Party, 1860s-1880s" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Leiden University"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/1887/67912> .
+
+<http://zotero.org/groups/2707622/items/RGRKP8MR>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12" ;
+    schema:datePublished "1865" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "296" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=2VTv1mvpgpIC> ;
+    schema:volumeNumber "8" .
+
+<http://zotero.org/groups/2707622/items/RJTTPCLV>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/breda1837>, "notulen", [
+        a dcterms:LCC ;
+        rdf:value "ARC0291"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1882-1933" ;
+    schema:description "plaatsingslijst" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-BdSA> ;
+    schema:name "Archief van Typografische Vereniging 'Door Eendracht T'zaam Verbonden' Breda" ;
+    schema:sameAs <https://archieven.stadsarchief.breda.nl/ARCHIEF/ARC0291> .
+
+<http://zotero.org/groups/2707622/items/S27V9UH2>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/tiel1852>, "notulen", [
+        a dcterms:LCC ;
+        rdf:value "0059"
+    ] ;
+    schema:additionalType "fonds", "manuscript" ;
+    schema:datePublished "1877-1939" ;
+    schema:description "plaatsingslijst" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-TlRAR> ;
+    schema:name "Archief van de Typografische Vereniging Onderling Hulpbetoon te Tiel" ;
+    schema:sameAs <https://hdl.handle.net/21.12108/746B487CA6DB45D48CAA9DAF87AA3BA0> .
+
+<http://zotero.org/groups/2707622/items/S3TDPXS8>
+    a schema:Article ;
+    schema:abstract "Au XIXe siècle, \"l'ancien régime typographique\" laisse la place à l'ère des productions imprimées industrielles. Si l'impression se transforme rapidement dès la première moitié du XIXe siècle, le travail d'assemblage des caractères en plomb réalisé par le compositeur change peu avant l'introduction des linotypes au tournant du XXe siècle. Cette stabilité du système technique, généralement expliquée par l'imperfection des méthodes de composition mécanique, s'enracine en réalité dans la complexité des rapports sociaux et des enjeux culturels soulevés par les nouveaux procédés. En France en effet, comme en Angleterre, les premières machines à composer mises au point au cours des années 1840 sont précocement associées au travail des femmes. Les fabricants jouent de cette identification pour promouvoir des machines permettant d'utiliser une main-d'œuvre bon marché. De leur côté, les ouvriers du livre instrumentalisent la dimension sexuée des artefacts techniques pour préserver l'espace de travail. Ni transformation inexorable, ni impossibilité technique, le changement des méthodes de composition émerge finalement au terme d'un processus lent d'acclimatation et de négociation entre les différents acteurs du monde de l'imprimerie. /// In the nineteenth century, the \"printing Ancient Régime\" gave way to the era of industrial printed productions. While printing methods underwent a fast transformation during the early nineteenth century, the typesetter's task of assembling lead characters remained unchanged until the end of the century, to be modified only shortly before the advent of linotypes. This technical continuity is usually understood as the result of imperfect methods of mechanical composition, but the failure of the composing machine derived above all from a complex set of cultural and social issues which were raised by the advent of new processes. In France as in England in the 1840s, the first composing machines were originally associated with female work. This image was encouraged by manufacturers in order to promote machines as allowing the use of a cheap workforce. Meanwhile, book workers used the sexual representation of technical artefacts to preserve their work space. The change in composition methods was neither an inexorable transformation nor a mere technical development but the outcome of a slow process of adaptation and negotiation which involved the various actors of the printing trade." ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Jarrige" ;
+        schema:givenName "François"
+    ] ;
+    schema:datePublished "2007" ;
+    schema:description "Publisher: Societe d'Histoire Moderne et Contemporaine" ;
+    schema:includedInDataCatalog "JSTOR" ;
+    schema:isPartOf <urn:issn:0048-8003> ;
+    schema:name "Le mauvais genre de la machine. Les ouvriers du livre et la composition mécanique (France, Angleterre, 1840-1880)" ;
+    schema:pagination "193-221" ;
+    schema:sameAs <http://www.jstor.org/stable/20531464> .
+
+<http://zotero.org/groups/2707622/items/S9WKT4GG>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "VV 18 (1880 006)"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Pijpers" ;
+        schema:givenName "J.J.H."
+    ] ;
+    schema:datePublished "1880" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "Reglement der Typographische Vereeniging \"Nut en Genoegen\", te Utrecht opgericht den 1 Februari 1851" ;
+    schema:numberOfPages "31" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "J. van Boekhoven"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/6268CFC109BB7D07E0534701000A1EE8> .
+
+<http://zotero.org/groups/2707622/items/SG8YIU6L>
+    a schema:Article ;
+    schema:about "dhbenelux2021" ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Giele" ;
+        schema:givenName "Jacques"
+    ] ;
+    schema:datePublished "1972" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:issueNumber "42" ;
+        schema:name "Mededelingenblad NVSG"
+    ] ;
+    schema:name "Het ontstaan van de typografen-vakorganisatie in Nederland (1837-1869)" ;
+    schema:pagination "2-55" ;
+    schema:sameAs <https://hdl.handle.net/10622/FEC3F7D7-F7CB-4DC8-9C80-D8AFA0B7B9DF> .
+
+<http://zotero.org/groups/2707622/items/SGA2CMRR>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "12031849"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1854" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestzangen der Typographische Vereeniging Nut en Genoegen te Utrecht onder bescherming van den edel-achtb. heer Mr. N.P.J. Kien burgemeester der stad." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/1089764085>, <https://books.google.nl/books?id=nzbtu-J4ir0C> .
+
+<http://zotero.org/groups/2707622/items/SRWWLEFN>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/nijmegen1862>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Br.VB 45:30"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1882" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestzangen bij de viering van het twintigste jaarfeest der Typographische Vereeniging Broederhulp te Nijmegen: op Koppermaandag 9 januari 1882, in de Concertzaal der Societeit De Harmonie" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Nijmegen"
+        ] ;
+        schema:name "P.A. Geurts"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/69396465>, <https://pid.uba.uva.nl/ark:/88238/b1990008604440205131> .
+
+<http://zotero.org/groups/2707622/items/T26WJ6EW>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Koppermaandag 1840, 1850 & 1858" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1858" ;
+    schema:description "Google-Books-ID: 8gJiAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Koppermaandag 1840, 1850 & 1858: tooneelmatige schets, in drie tijdvakken" ;
+    schema:numberOfPages "36" ;
+    schema:sameAs <https://books.google.nl/books?id=8gJiAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/T43GXT7R>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 20"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1862" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestbundel voor de vijfde jaarlijksche feestviering der typografische vereeniging \"De Nederlandsche drukpers\" gevestigd te Amsterdam op ... 11 Januari 1862 ..." ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Drukkerij van Es"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/FDB73FCFD5644C638ECD42D8028449CF> .
+
+<http://zotero.org/groups/2707622/items/T5453M2B>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1863" ;
+    schema:inLanguage "nl" ;
+    schema:name "Wegwijzer voor de serenades der Typographische Vereniging: \"Nut en Genoegen\": 2 December 1863" ;
+    schema:numberOfPages "2" ;
+    schema:sameAs <https://books.google.nl/books?id=9_AXzQEACAAJ> .
+
+<http://zotero.org/groups/2707622/items/TGDTMTV2>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Br.VB 45:31"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1865" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestliederen bij gelegenheid der zestiende jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen: in de zaal Frascati : Koppermaandag, 9 januarij 1865" ;
+    schema:numberOfPages "12" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/69396661>, <https://pid.uba.uva.nl/ark:/88238/b1990008605020205131> .
+
+<http://zotero.org/groups/2707622/items/TKUG2MJM>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "LXV D 209"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Venman" ;
+        schema:givenName "J.H.C."
+    ] ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "De Koppermaandag, blijspel met zang, in één bedrijf, met een naspel" ;
+    schema:numberOfPages "32" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "Van Paddenburg & Comp"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/C3BACA2717D9567B939B3911C0734953> .
+
+<http://zotero.org/groups/2707622/items/TN6AGLV2>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "1-12" ;
+    schema:datePublished "1862" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "344" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=efAvWQsPhJYC> ;
+    schema:volumeNumber "5" .
+
+<http://zotero.org/groups/2707622/items/TQ8LE67N>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/leiden1854>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1011/2"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1865" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestzangen bij gelegenheid der elfde jaarlijksche feestviering van de typographische vereeniging: \"Laurens Jansz. Coster\". ..., 9 Januarij 1865." ;
+    schema:numberOfPages "15" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "Boekdrukkerij Sijthoff"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/942874364>, <https://hdl.handle.net/10622/86E21B0D-7BFE-41B7-A5DD-457FA98C2C0B> .
+
+<http://zotero.org/groups/2707622/items/TR9YG9HF>
+    a bib:BookSection ;
+    schema:additionalType "bookSection" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Dongelmans" ;
+        schema:givenName "Berry"
+    ] ;
+    schema:datePublished "2009" ;
+    schema:inLanguage "nl" ;
+    schema:isPartOf [
+        a bib:Book ;
+        schema:identifier "ISBN 978-90-73279-28-5" ;
+        schema:name "Eenentwintigste Jaarboek der sociale en economische geschiedenis van Leiden en omstreken"
+    ] ;
+    schema:name "Uitzuigers, onderkruipers en teringlijders. Arbeidsomstandigheden in Leidse drukkerijen, 1850-1925" ;
+    schema:pagination "87-108" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "Dirk van Eck-Stichting"
+    ] .
+
+<http://zotero.org/groups/2707622/items/TWCWAJTN>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/sneek1860>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "93 B 2"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "[1860]" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Reglement voor de typographische vereeniging: Lourens Coster te Sneek opgerigt 1 september 1860" ;
+    schema:numberOfPages "12" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Van Druten en Bleeker"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/3338CA96DA98470B8C4A0C6CDE7D44BF> .
+
+<http://zotero.org/groups/2707622/items/TX4EZ9CG>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, "notulen", "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "toegang 01707, invnrs. 7-8"
+    ] ;
+    schema:additionalType "files", "manuscript" ;
+    schema:datePublished "1875-1916" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Typografische Vereeniging \"De Nederlandsche Drukpers\"" .
+
+<http://zotero.org/groups/2707622/items/TY6NLEVL>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 17"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1862" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestbundel ter gelegenheid der voorstelling, gegeven door het Het Werkende gezelschap der Typographische Vereeniging De Nederlandsche Drukpers: op 13 Julij 1862 in het Locaal Vliedzorg." ;
+    schema:numberOfPages "13" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/1005699669>, <http://www.worldcat.org/oclc/1046082354>, <http://www.worldcat.org/oclc/69221031>, <https://books.google.nl/books?id=2ShnAAAAcAAJ>, <https://hdl.handle.net/21.12102/86D65A13DC474793903C1EAA3B6747DB>, <https://pid.uba.uva.nl/ark:/88238/b1990009734250205131> .
+
+<http://zotero.org/groups/2707622/items/TYATGYQB>
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 24"
+    ] ;
+    schema:additionalType "document" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Belinfante" ;
+        schema:givenName "J.C."
+    ] ;
+    schema:datePublished "1861" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Typographisch volkslied : te zingen door een vierstemmig mannenkoor uit leden van Amstels Typographenkoor, tevens leden van De Nederlandsche Drukpers, bij gelegenheid der typographische reünie, te Haarlem, op zondag, 21 julij 1861" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/0FFB2CC421DF40DC86C2253013D001BA> .
+
+<http://zotero.org/groups/2707622/items/U45LQDZH>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:672a"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1864" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Programma en feestzangen bij gelegenheid van het vijftiende Kopperfeest van de Typographische Vereeniging, onder de zinspreuk: Boekdrukkunst, de grondzuil der Verlichting te Arnhem: Koppermaandag, 11 januarij 1864." ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Arnhem"
+        ] ;
+        schema:name "Josué Witz"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/66285724>, <https://pid.uba.uva.nl/ark:/88238/b1990008550090205131> .
+
+<http://zotero.org/groups/2707622/items/U94YR8CM>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1008/2"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Zangstukjes, bij de viering van het tiende kopperfeest der Typografische Vereeniging: Boekdrukkunst, de Grondzuil der Verlichting te Arnhem, 10 Januarij 1859." ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Arnhem"
+        ] ;
+        schema:name "Thieme"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/84867221>, <https://hdl.handle.net/10622/8F9CC5BB-4D3C-4437-961F-861E7FDC4FA6> .
+
+<http://zotero.org/groups/2707622/items/UB99RJWV>
+    a schema:SoftwareApplication ;
+    schema:additionalType "computerProgram" ;
+    schema:name "Recogito" ;
+    schema:sameAs <https://recogito.pelagios.org> .
+
+<http://zotero.org/groups/2707622/items/UJE5VQ3Q>
+    a schema:Article ;
+    schema:additionalType "journalArticle" ;
+    schema:alternateName "The Return of the Guilds" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Lucassen" ;
+        schema:givenName "Jan"
+    ], [
+        a schema:Person ;
+        schema:familyName "Moor" ;
+        schema:givenName "Tine De"
+    ], [
+        a schema:Person ;
+        schema:familyName "Zanden" ;
+        schema:givenName "Jan Luiten van"
+    ] ;
+    schema:datePublished "2008/12" ;
+    schema:description "Publisher: Cambridge University Press" ;
+    schema:inLanguage "en" ;
+    schema:includedInDataCatalog "Cambridge University Press" ;
+    schema:isPartOf <urn:issn:1469-512X,%200020-8590> ;
+    schema:name "The Return of the Guilds: Towards a Global History of the Guilds in Pre-industrial Times*" ;
+    schema:pagination "5-18" ;
+    schema:sameAs <https://www.cambridge.org/core/journals/international-review-of-social-history/article/return-of-the-guilds-towards-a-global-history-of-the-guilds-in-preindustrial-times/59C25DE6DF72C4CEC5F44D10E83FFFDF> .
+
+<http://zotero.org/groups/2707622/items/UQU49EHJ>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "LIX E 40"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1853-1912 (muv 1857 en 1865)" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "Feestzangen der Typographische vereeniging: Nut en genoegen te Utrecht" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ]
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/DE9C164B74065F6F8C5EF18AD4664749> .
+
+<http://zotero.org/groups/2707622/items/US6ZMVZG>
+    a schema:Article ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: Obr. 004 421"
+    ] ;
+    schema:additionalType "journalArticle" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:isPartOf [
+        a schema:Periodical
+    ] ;
+    schema:name "Feestliederen bij gelegenheid der .. jaarlijksche feestviering van de Typographische Vereeniging: Voorzorg en Genoegen ..." ;
+    schema:sameAs <http://www.worldcat.org/oclc/73519903>, <https://pid.uba.uva.nl/ark:/88238/b1990016389480205131> .
+
+<http://zotero.org/groups/2707622/items/UTJPBK93>
+    a schema:Article ;
+    schema:about <http://costerskinderen.nl/vereniging/breda1837> ;
+    schema:additionalType "journalArticle" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Lepper, de" ;
+        schema:givenName "J.L.M."
+    ] ;
+    schema:datePublished "1970" ;
+    schema:isPartOf [
+        a schema:Periodical ;
+        schema:name "Jaarboek De Oranjeboom" ;
+        schema:volumeNumber "23"
+    ] ;
+    schema:name "De Bredase Typografenvereniging 'Door Eendracht 'tZaam Verbonden'" ;
+    schema:pagination "130-153" .
+
+<http://zotero.org/groups/2707622/items/UXR8HWSE>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/leiden1854> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1904" ;
+    schema:description "https://hdl.handle.net/2027/hvd.32044080237829" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Harvard> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestbundel voor de vijftigste jaarlijksche feestviering ... 11 Januari 1904." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "Sijthoff"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/79150224> .
+
+<http://zotero.org/groups/2707622/items/UXZKXIWX>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/rotterdam1849> ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Aarse" ;
+        schema:givenName "A. P. J"
+    ] ;
+    schema:datePublished "1899" ;
+    schema:description "OCLC: 83992280" ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Gedenkboek uitgegeven ter gelegenheid van het vijftigjarig bestaan der typografische vereeniging onder de zinspreuk: \"Door Coster's fakkel voorgelicht, is deze vriendenkring gesticht\": 2 Sept. 1849-2 Sept. 1899" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Rotterdam"
+        ] ;
+        schema:name "publisher not identified"
+    ] .
+
+<http://zotero.org/groups/2707622/items/V2AVIYS7>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 33"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1859" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestboekje voor de tweede jaarlijksche feestviering der typografische vereeniging \"De Nederlandsche drukpers\" gevestigd te Amsterdam op ... 9 Januari 1859 ..." ;
+    schema:numberOfPages "24" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Drukkerij van Es"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/152771841>, <http://www.worldcat.org/oclc/83772505>, <https://hdl.handle.net/10622/D1A76F61-6C90-45EE-8E99-6D398284E4FA>, <https://hdl.handle.net/10622/FBFF6EA7-E875-4E1B-9751-399A5510C947>, <https://hdl.handle.net/21.12102/FDB73FCFD5644C638ECD42D8028449CF> .
+
+<http://zotero.org/groups/2707622/items/V2KMAMBL>
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851>, [
+        a dcterms:LCC ;
+        rdf:value "KW Bakh A 2 H [3]"
+    ] ;
+    schema:additionalType "document" ;
+    schema:datePublished "1851" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:name "Draagteken van de Typographische Vereeniging ter Haarlem, bij de Feesten gedragen" ;
+    schema:sameAs <http://www.worldcat.org/oclc/1155091540> .
+
+<http://zotero.org/groups/2707622/items/VBBG28L7>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/nijmegen1862> ;
+    schema:additionalType "file", "manuscript" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-NmRAN> ;
+    schema:name "Programma's uit de periode 1869 - 1912 met onder andere feestzangen bij gelegenheid van de jaarfeesten van typografische vereniging \"Broederhulp\" te Nijmegen" ;
+    schema:sameAs <https://hdl.handle.net/21.12122/2127158978> .
+
+<http://zotero.org/groups/2707622/items/VFALSG32>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1898" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/!!kwijt!!> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestboekje ter gelegenheid van het een-en-veertig-jarig bestaan der typografische vereeniging \"De Nederlandsche drukpers\" te Amsterdam op ... 8 Januari 1898 ..." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Typ. Elderman & Berg"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/82213402> .
+
+<http://zotero.org/groups/2707622/items/VG3F5TBP>
+    a schema:Manuscript ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "KW Bakh A 2 [E : 29]"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:datePublished "1856" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-0100030000> ;
+    schema:inLanguage "nl" ;
+    schema:name "Map met stukken betreffende de onthulling van het standbeeld van Laurens Janszoon Coster" ;
+    schema:sameAs <http://www.worldcat.org/oclc/1155090416>, <https://kb.on.worldcat.org/oclc/1155090416> .
+
+<http://zotero.org/groups/2707622/items/VH9HZILU>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 27"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1860" ;
+    schema:description "tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen bij gelegenheid der buitengewone algemeene vergadering der typographische vereeniging De Nederlandsche drukpers, ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster op 16 Julij 1856 te Haarlem." ;
+    schema:sameAs <https://hdl.handle.net/21.12102/1F3600FB79BA4D9DBA7FF0DEC3897B6A> .
+
+<http://zotero.org/groups/2707622/items/VKDJW35J>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Met vereende kracht risico's verzacht" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Genabeek" ;
+        schema:givenName "Joost Antonius Gerardus Maria van"
+    ] ;
+    schema:datePublished "1999" ;
+    schema:description "OCLC: 742376724" ;
+    schema:identifier "ISBN 978-90-6861-172-4" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Met vereende kracht risico's verzacht: de plaats van onderlinge hulp binnen de negentiende-eeuwse particuliere regelingen van sociale zekerheid" .
+
+<http://zotero.org/groups/2707622/items/VL4IRLV2>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "112 A 19"
+    ] ;
+    schema:additionalType "book" ;
+    schema:description "in tropy" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Reglement en liederen voor de vereeniging: Kosters vriendenkring" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/95147229866642848890F0795E69091E> .
+
+<http://zotero.org/groups/2707622/items/VUCVKILB>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "95 F 36"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Noordziek" ;
+        schema:givenName "J.J.F"
+    ] ;
+    schema:datePublished "1858" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Gedenkboek der Costers-feesten van 15, 16 en 17 Julij 1856" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Haarlem"
+        ] ;
+        schema:name "Boekhandelaars-Vereeniging Lourens Janszoon Coster"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/905427817>, <https://hdl.handle.net/21.12102/97C1678355AC42C7AFAD1627BA898EE1> .
+
+<http://zotero.org/groups/2707622/items/VZTI7MT9>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/denhaag1843>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1010/2"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Gillissen" ;
+        schema:givenName "M.J."
+    ] ;
+    schema:datePublished "1868" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Levensgeschiedenis van de piependeraphische vereeniging onder den naam van \"Door eendragt t'zaam verbonden\", geboren te 's-Gravenhage in Januarija van het jaar 1843. [...]. Uitgeschreeuwd ter eere van het 25 jarig jubillium, op Koppertjes-dronke-drukkers Maandag, 13 Januarij 1868." ;
+    schema:numberOfPages "16" ;
+    schema:sameAs <https://hdl.handle.net/10622/B81D36A7-8A67-47D4-9691-3094C596DA7F> .
+
+<http://zotero.org/groups/2707622/items/W2R997LC>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "333 D 46"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1861" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdRM> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen, bij de twaalfde jaarlijksche feestviering van de Amsterdamsche typographische vereeniging: Voorzorg en Genoegen, in de zaal Frascati: Koppermaandag, 7 januarij  1861." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/799286383> .
+
+<http://zotero.org/groups/2707622/items/W85VC4QC>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Breeman" ;
+        schema:givenName "J."
+    ] ;
+    schema:datePublished "1857" ;
+    schema:description "Google-Books-ID: vAtiAAAAcAAJ" ;
+    schema:inLanguage "nl" ;
+    schema:includedInDataCatalog "Google Books" ;
+    schema:name "Oudejaarsavond, 1857" ;
+    schema:numberOfPages "6" ;
+    schema:sameAs <https://books.google.nl/books?id=vAtiAAAAcAAJ> .
+
+<http://zotero.org/groups/2707622/items/WK63RPFK>
+    schema:about <http://costerskinderen.nl/vereniging/haarlem1851> ;
+    schema:abstract "Mannenkop met muts (Coster) omgeven door krans van olijftak en eikentak. Omschrift: HAARLEM / 1851 ; Gevleugelde letter A. Omschrift: TYPGRAPHISCHE VEREENIGING / * TOT NUT EN GEZELLIG VERKEER *" ;
+    schema:additionalType "document" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Penning Typographische Vereeniging, Haarlem" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/2F88D03F69C84E049735B2FCD86FDFB2> .
+
+<http://zotero.org/groups/2707622/items/WL3ZXCUY>
+    a schema:Book ;
+    schema:about "costerfeesten1856", [
+        a dcterms:LCC ;
+        rdf:value "95 F 35"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "[1856]" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:name "Catalogus van voorwerpen, ingezonden ter algemeene typographische tentoonstelling gehouden te Haarlem, bij gelegenheid der plegtige onthulling van het metalen standbeeld van Lourens Janszoon Coster" ;
+    schema:sameAs <https://hdl.handle.net/21.12102/9B2899DA70324E68A57606B0B86FC615> .
+
+<http://zotero.org/groups/2707622/items/WQDWWJGB>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "11" ;
+    schema:datePublished "1860" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "82" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=DbqFkFmTb1IC> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/WS2Q7G4Q>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/denhaag1843> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1899" ;
+    schema:description "OCLC: 80495513" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Verslag der feestviering bij gelegenheid van het gouden jubilé der typografische vereeniging. \"Door Eendragt t' Zaam Verbonden\", op ... 7, 8, 9 Januari 1899 ... te 's-Gravenhage." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Z.pl. en j"
+        ]
+    ] .
+
+<http://zotero.org/groups/2707622/items/WX2PYDB5>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Robijns" ;
+        schema:givenName "Martinus Johannes Franciscus"
+    ] ;
+    schema:datePublished "1967" ;
+    schema:description "OCLC: 878224722" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Radicalen in Nederland (1840-1851)" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "Universitaire Pers"
+    ] .
+
+<http://zotero.org/groups/2707622/items/X36YDLAJ>
+    a schema:Article ;
+    schema:abstract "An equation has often been made, especially but not exclusively by Marxists,between radicalism and the rational understanding of objective interests. I argue that, on the contrary, commitments to traditional cultural values and immediate communal relations are crucial to many radical movements, (a)because these commitments provide populations with the extent of internal social organization necessary to concerted, radical collective action, and (b) because the largely defensive goals of these movements must be radically incompatible with the introduction of modern capitalist-dominated social formations. Reformism is the characteristic stance of the modern working class, for both social and cultural reasons." ;
+    schema:additionalType "journalArticle" ;
+    schema:alternateName "The Radicalism of Tradition" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Calhoun" ;
+        schema:givenName "Craig Jackson"
+    ] ;
+    schema:datePublished "1983" ;
+    schema:description "Publisher: University of Chicago Press" ;
+    schema:includedInDataCatalog "JSTOR" ;
+    schema:isPartOf <urn:issn:0002-9602> ;
+    schema:name "The Radicalism of Tradition: Community Strength or Venerable Disguise and Borrowed Language?" ;
+    schema:pagination "886-914" ;
+    schema:sameAs <http://www.jstor.org/stable/2779444> .
+
+<http://zotero.org/groups/2707622/items/XI34G7TT>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1009/8"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1863" ;
+    schema:description "ook bij isil:NL-AsdSAA" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Liederen, verspreid bij den triomftocht, op ... 16 November 1863, ter gelegenheid der viering van het vijftigste jaar van Neêrlands onafhankelijkheid, door de beide typographische vereenigingen \"De Nederlandsche drukpers\" en \"Voorzorg en genoegen.\"" ;
+    schema:numberOfPages "20" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Smidt"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/122359686>, <https://hdl.handle.net/10622/50C45EA0-A77B-44A2-AA93-CB95DC7E0B7D> .
+
+<http://zotero.org/groups/2707622/items/XILDBCTU>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:bookEdition "10" ;
+    schema:datePublished "1860" ;
+    schema:description "Google-Books-ID: CLAASljn1j4C" ;
+    schema:inLanguage "nl" ;
+    schema:name "Laurens Coster: tijdschrift voor beoefenaren en voorstanders der boekdrukkunst" ;
+    schema:numberOfPages "36" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "Algemeene Nederlandsche Typographische Hoofdvereeniging"
+    ] ;
+    schema:sameAs <https://books.google.nl/books?id=CLAASljn1j4C> ;
+    schema:volumeNumber "3" .
+
+<http://zotero.org/groups/2707622/items/XMHDF3XV>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Calhoun" ;
+        schema:givenName "Craig J"
+    ] ;
+    schema:datePublished "2013" ;
+    schema:description "OCLC: 1120500800" ;
+    schema:identifier "ISBN 978-0-226-09084-9" ;
+    schema:inLanguage "English" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "The Roots of radicalism tradition, the public sphere, and early nineteenth-century social movements" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Chicago; London"
+        ] ;
+        schema:name "University of Chicago Press"
+    ] .
+
+<http://zotero.org/groups/2707622/items/XRJVN2IU>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "IWO-depot UBM: KVB Tet.br. 1:2513"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1862" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestliederen bij gelegenheid der twaalfde jaarlijksche feestviering van de Amsterdamsche Typographische Vereeniging: Voorzorg en genoegen in de zaal Frascati" ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ]
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65833680>, <https://pid.uba.uva.nl/ark:/88238/b1990007208430205131> .
+
+<http://zotero.org/groups/2707622/items/XU3J6YFL>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/leiden1854> ;
+    schema:additionalType "book" ;
+    schema:datePublished "1879" ;
+    schema:description "OCLC: 65832264;https://books.google.nl/books?id=v8pmAAAAcAAJ" ;
+    schema:inLanguage "Dutch" ;
+    schema:includedInDataCatalog "Open WorldCat" ;
+    schema:name "Ter gedachtenis aan het zilveren feest der Typographische Vereeniging \"Lourens Jansz. Coster\" te Leiden." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Leiden"
+        ] ;
+        schema:name "De Breuk & Smits"
+    ] .
+
+<http://zotero.org/groups/2707622/items/XVP8G4AM>
+    a schema:Manuscript ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "Allard Pierson Depot OTM: hs. P 83-84"
+    ] ;
+    schema:additionalType "file", "manuscript" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Grevenstuk" ;
+        schema:givenName "Antonie"
+    ] ;
+    schema:datePublished "1860" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "[Twee] brieven van Antonie Grevenstuk aan de Typographische Vereeniging De Nederlandsche Drukpers te Amsterdam" ;
+    schema:sameAs <http://www.worldcat.org/oclc/846506111>, <https://pid.uba.uva.nl/ark:/88238/b1990029067670205131> .
+
+<http://zotero.org/groups/2707622/items/XXWYX27Z>
+    a schema:Book ;
+    schema:additionalType "book" ;
+    schema:alternateName "Koppermaandagprenten" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Zoete" ;
+        schema:givenName "Johan de"
+    ] ;
+    schema:contributor [
+        a schema:Person ;
+        schema:familyName "Versteeg" ;
+        schema:givenName "Martien"
+    ], [
+        a schema:Person ;
+        schema:familyName "Simoni" ;
+        schema:givenName "Anna EC"
+    ], [
+        a schema:Person ;
+        schema:familyName "Schriks" ;
+        schema:givenName "Chris"
+    ], [
+        a schema:Person ;
+        schema:familyName "Gordon" ;
+        schema:givenName "Chris"
+    ] ;
+    schema:datePublished "1991" ;
+    schema:identifier "ISBN 978-90-6179-138-6" ;
+    schema:inLanguage "dut;eng" ;
+    schema:includedInDataCatalog "lib.uva.nl" ;
+    schema:name "Koppermaandagprenten: verkenning van een Nederlandse grafische traditie : observations on a Dutch printing tradition = Copper Monday prints" ;
+    schema:numberOfPages "255" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Den Haag"
+        ] ;
+        schema:name "Schwartz-SDU"
+    ] .
+
+<http://zotero.org/groups/2707622/items/Y3E43UBG>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/tiel1852>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 324"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1899" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Reglement Typografische Vereeniging \"Onderling Hulpbetoon\", Tiel." .
+
+<http://zotero.org/groups/2707622/items/Y3ENGVDL>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1008/4"
+    ] ;
+    schema:abstract "Later met aanteekeningen verm. door J. Th. Scheepers." ;
+    schema:additionalType "book" ;
+    schema:datePublished "1868" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Coupletten, gezongen op het negentiende kopperfeest van de typographische vereeniging: \"Boekdrukkunst\", de grondzuil der verlichting, te Arnhem, 13 Januari 1868." ;
+    schema:numberOfPages "12" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Boekdrukkers-vereeniging Regenboog"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/943060405>, <https://hdl.handle.net/10622/1A7F1C26-18A8-45AF-BC1A-40306D33042E> .
+
+<http://zotero.org/groups/2707622/items/Y5GFR4A8>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-2>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1009/10"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1894" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Feestboekje ter herdenking van het 37 1/2-jarig bestaan der typografische tooneelvereeniging \"Coster\", op ... 9 September 1894 ..." ;
+    schema:numberOfPages "10" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Z.pl."
+        ] ;
+        schema:name "Druk du Mée"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/86127942>, <https://hdl.handle.net/10622/6657B3F4-390D-4F6C-84B4-09E3016A127E> .
+
+<http://zotero.org/groups/2707622/items/YWSJMJNN>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "112 A 31"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Werthweijn" ;
+        schema:givenName "P"
+    ] ;
+    schema:datePublished "1860" ;
+    schema:description "OCLC: 66287651" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-HlmNHA> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Hulde aan den uitvinder der boekdrukkunst: theatrale feestviering : te geven bij gelegenheid der buitengewone algemeene vergadering [van de Typographische Vereeniging De Nederlandsche Drukpers], gehouden ter herinnering aan de onthulling van het standbeeld van Lourens Jansz. Coster, op 14 julij 1860" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "P.D. van Es"
+    ] ;
+    schema:sameAs <https://hdl.handle.net/21.12102/30160128B62744908480418FD81A9368> .
+
+<http://zotero.org/groups/2707622/items/YWUMJAT6>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1849>, [
+        a dcterms:LCC ;
+        rdf:value "toegang 00343, invnr. 322"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1875" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:name "Wetten Typografische Vereeniging \"Voorzorg en genoegen\", Amsterdam." .
+
+<http://zotero.org/groups/2707622/items/YXP3TXV7>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, "reglementen", [
+        a dcterms:LCC ;
+        rdf:value "VV 18 (1851 002)"
+    ] ;
+    schema:abstract """Aldus vastgesteld [...] den 27 Januarij 1851, ondertekend C. Mommaas (Pres.) e.a. - Bevat:
+Bewijs van lidmaatschap, met in hss. 'No. 21, H.J. Leijten, 33 jaren, Boekdrukker'. - (Muller: 6474)""" ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Mommaas" ;
+        schema:givenName "C."
+    ] ;
+    schema:datePublished "1851" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "Reglement der Typographische Vereeniging Nut en Genoegen, te Utrecht; onder het motto: \"Aan Laurens Koster's Kunst - de wieg van 's werelds licht - Paart nut en vreugde zich in d'hoofdstad van het Sticht\" : opgerigt den 1sten Februarij 1851" ;
+    schema:numberOfPages "16" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:name "W.C.J. Bollaan"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/2D914567F8E05AF4BA01679196C42181> .
+
+<http://zotero.org/groups/2707622/items/Z33PRYZU>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/amsterdam1857-1>, [
+        a dcterms:LCC ;
+        rdf:value "UNASSIGNED location UBM: KVB Tet.br. 1:672g"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1859-1866" ;
+    schema:description "(ook: Oude Boekerij NL-HlmNA)" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdUvA> ;
+    schema:inLanguage "nl" ;
+    schema:name "Feestboekje voor de ... jaarlijksche feestviering der Typographische Vereeniging De Nederlandsche Drukpers, gevestigd te Amsterdam." ;
+    schema:sameAs <http://www.worldcat.org/oclc/73131055>, <https://pid.uba.uva.nl/ark:/88238/b1990008553820205131> .
+
+<http://zotero.org/groups/2707622/items/ZI48CT6R>
+    a schema:Book ;
+    schema:about [
+        a dcterms:LCC ;
+        rdf:value "MAD/477.15"
+    ] ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Detilleux" ;
+        schema:givenName "Léon"
+    ], [
+        a schema:Person ;
+        schema:familyName "Van den Bosch" ;
+        schema:givenName "Louis"
+    ] ;
+    schema:datePublished "1912" ;
+    schema:description "OCLC: 66262164" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/IZ-GentAMSAB> ;
+    schema:inLanguage "French" ;
+    schema:name "Historique de la Société typographique de secours mutuels de Bruxelles, 1820-1910" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Bruxelles"
+        ] ;
+        schema:name "E. Guyot"
+    ] ;
+    schema:sameAs <http://hdl.handle.net/10796/B7F043BB-23E4-44EE-9992-1C1627A6901F> .
+
+<http://zotero.org/groups/2707622/items/ZKI9FVA5>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "IISG Bro N 1008/6"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1874" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-AsdIISG> ;
+    schema:inLanguage "nl" ;
+    schema:name "Ter herinnering aan de viering van het vijf en twintigste kopperfeest der typographische vereeniging: \"Boekdrukkunst, de grondzuil der verlichting\", Arnhem op ... 12 Januari 1874 ..." ;
+    schema:numberOfPages "32" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Arnhem"
+        ] ;
+        schema:name "Drukkerij Coers"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/84082570>, <https://hdl.handle.net/10622/12DD621C-9E23-4150-B156-3C9BAD6E3F4A> .
+
+<http://zotero.org/groups/2707622/items/ZQGK6MD3>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/utrecht1851>, [
+        a dcterms:LCC ;
+        rdf:value "LXV D 209"
+    ] ;
+    schema:abstract "Blijspel opgevoerd door het toneelgezelschap Lourens Coster, samengesteld uit leden van de typografische vereeniging Nut en Genoegen." ;
+    schema:additionalType "book" ;
+    schema:author [
+        a schema:Person ;
+        schema:familyName "Venman" ;
+        schema:givenName "J.H.C."
+    ] ;
+    schema:datePublished "1859" ;
+    schema:holdingArchive <http://costerskinderen.nl/isil/NL-UtHUA> ;
+    schema:name "De laatste oude koppermaandag, of de driedubbele verrassing, blijspel met zang, in één bedrijf" ;
+    schema:numberOfPages "48" ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Utrecht"
+        ] ;
+        schema:name "W.C.J. Bollaan (Firma: Van der Monde & Comp.)"
+    ] ;
+    schema:sameAs <https://hetutrechtsarchief.nl/collectie/F325F368CC3153F29C28057BB765C2B5> .
+
+<http://zotero.org/groups/2707622/items/ZRRPY8S5>
+    a schema:Book ;
+    schema:about <http://costerskinderen.nl/vereniging/arnhem1849>, [
+        a dcterms:LCC ;
+        rdf:value "LM 38 JO"
+    ] ;
+    schema:additionalType "book" ;
+    schema:datePublished "1868" ;
+    schema:description "http://leesmuseum.rozet.nl/LM03870" ;
+    schema:holdingArchive <file:///home/ivo/Documents/git/ivozandhuis/typografische-verenigingen/data/Bibliotheek\u0020Rozet\u0020Arnhem> ;
+    schema:inLanguage "Dutch" ;
+    schema:name "Coupletten, gezongen op het negentiende Kopperfeest van de Typographische Vereeniging: \"Boekdrukkunst, de grondzuil der Verlichting\" te Arnhem: Koppermaandag, 13 januarij 1868." ;
+    schema:publisher [
+        a schema:Organization ;
+        schema:address [
+            a schema:Place ;
+            schema:name "Amsterdam"
+        ] ;
+        schema:name "Boekdrukkers-Vereeniging Firma H. Regenboog"
+    ] ;
+    schema:sameAs <http://www.worldcat.org/oclc/65948254> .
+
+<urn:issn:0002-9602>
+    a schema:Periodical ;
+    schema:identifier "ISSN 0002-9602" ;
+    schema:issueNumber "5" ;
+    schema:name "American Journal of Sociology" ;
+    schema:volumeNumber "88" .
+
+<urn:issn:0048-8003>
+    a schema:Periodical ;
+    schema:identifier "ISSN 0048-8003" ;
+    schema:issueNumber "1" ;
+    schema:name "Revue d'histoire moderne et contemporaine (1954-)" ;
+    schema:volumeNumber "54" .
+
+<urn:issn:1469-512X,%200020-8590>
+    a schema:Periodical ;
+    schema:identifier "DOI 10.1017/S0020859008003581", "ISSN 1469-512X, 0020-8590" ;
+    schema:issueNumber "S16" ;
+    schema:name "International Review of Social History" ;
+    schema:volumeNumber "53" .
+
+<urn:issn:2213-297X>
+    a schema:Periodical ;
+    schema:alternateName "Journal of Co-operative Organization and Management" ;
+    schema:identifier "DOI 10.1016/j.jcom.2016.09.003", "ISSN 2213-297X" ;
+    schema:issueNumber "2" ;
+    schema:name "Journal of Co-operative Organization and Management" ;
+    schema:volumeNumber "4" .
+

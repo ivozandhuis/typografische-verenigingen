@@ -3,6 +3,7 @@
 # Zotero
 # Reserialize the Zotero export in RDF/XML into ntriples
 rapper -o ntriples ../data/zotero-export.rdf.xml > intermediate/zotero-export.nt
+rapper -o turtle ../data/zotero-export.rdf.xml > intermediate/zotero-export.ttl
 
 # Tropy
 # Reserialize the Tropy export in JSONLD into ntriples via nquads

@@ -73,6 +73,21 @@
     civ:eventLocation "'s-Gravenhage" ;
     civ:registrationID "hga_21A58A9A-ED24-497B-A83D-0E6FC088378B" .
 
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Huwelijk> a civ:Marriage ;
+    civ:bride <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522662> ;
+    civ:eventDate "1837-05-10"^^xsd:date ;
+    civ:eventLocation "'s-Gravenhage" ;
+    civ:fatherBride <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522670> ;
+    civ:fatherGroom <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522671> ;
+    civ:groom <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522663> ;
+    civ:motherBride <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522668> ;
+    civ:motherGroom <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522669> ;
+    civ:participant <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522664>,
+        <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522665>,
+        <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522666>,
+        <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522667> ;
+    civ:registrationID "hga_36A1F310-04E8-431A-8193-3F946A5F4E40" .
+
 <https://www.openarch.nl/hga:F037247C-F765-4A1A-81BD-BB2BEF36F5A6#Geboorte> a civ:Birth ;
     civ:eventDate "1818-02-06"^^xsd:date ;
     civ:eventLocation "'s-Gravenhage" ;
@@ -348,6 +363,75 @@
     schema:givenName "jan hendrik" ;
     schema:hasOccupation "conciërge" ;
     civ:personID "Person2166959551" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522662> a schema:Person ;
+    schema:familyName "maanen" ;
+    schema:gender "f" ;
+    schema:givenName "gerritje" ;
+    schema:hasOccupation "dienstbode" ;
+    civ:personID "Person1969522662" ;
+    civ:prefixFamilyName "van" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522663> a schema:Person ;
+    schema:familyName "regenboog" ;
+    schema:gender "m" ;
+    schema:givenName "gristiaan" ;
+    schema:hasOccupation "letterzetter" ;
+    civ:personID "Person1969522663" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522664> a schema:Person ;
+    schema:familyName "adams" ;
+    schema:givenName "mattheus willem" ;
+    schema:hasOccupation "graveur" ;
+    civ:personID "Person1969522664" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522665> a schema:Person ;
+    schema:familyName "broek" ;
+    schema:givenName "kornelis johannes" ;
+    schema:hasOccupation "schoenmaker" ;
+    civ:personID "Person1969522665" ;
+    civ:prefixFamilyName "van den" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522666> a schema:Person ;
+    schema:familyName "burgh" ;
+    schema:givenName "hermanus johannes" ;
+    schema:hasOccupation "schoenmaker" ;
+    civ:personID "Person1969522666" ;
+    civ:prefixFamilyName "van der" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522667> a schema:Person ;
+    schema:familyName "leeuwen" ;
+    schema:givenName "johannes karel" ;
+    schema:hasOccupation "boekbinder" ;
+    civ:personID "Person1969522667" ;
+    civ:prefixFamilyName "van" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522668> a schema:Person ;
+    schema:familyName "willigenburg" ;
+    schema:gender "f" ;
+    schema:givenName "grietje" ;
+    civ:personID "Person1969522668" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522669> a schema:Person ;
+    schema:familyName "giebert" ;
+    schema:gender "f" ;
+    schema:givenName "pieternella jakomina" ;
+    civ:personID "Person1969522669" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522670> a schema:Person ;
+    schema:familyName "maanen" ;
+    schema:gender "m" ;
+    schema:givenName "harmen bransen" ;
+    schema:hasOccupation "arbeider" ;
+    civ:personID "Person1969522670" ;
+    civ:prefixFamilyName "van" .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522671> a schema:Person ;
+    schema:familyName "regenboog" ;
+    schema:gender "m" ;
+    schema:givenName "jonas" ;
+    schema:hasOccupation "kantoorbediende" ;
+    civ:personID "Person1969522671" .
 
 <https://www.openarch.nl/hga:F037247C-F765-4A1A-81BD-BB2BEF36F5A6#Person2053123967> a schema:Person ;
     schema:familyName "regenboog" ;

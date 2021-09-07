@@ -5,6 +5,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 @prefix schema: <https://schema.org/> .
 @prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix civ: <https://iisg.amsterdam/id/civ/> .
 
 <https://zotero.org/groups/2707622/items/P5HRJ669>
     a schema:Book ;
@@ -12,7 +13,8 @@
     schema:sameAs <https://books.google.nl/books?id=YTY5AAAAMAAJ> ;
     schema:sameAs <https://pid.uba.uva.nl/ark:/88238/b1990003572120205131> ;
     schema:sameAs <https://recogito.pelagios.org/document/caizoqfhkxtigf> ;
-    schema:about <https://costerskinderen.nl/vereniging/id/denhaag1843> .
+    schema:about <https://costerskinderen.nl/vereniging/id/denhaag1843> ;
+    schema:about <https://costerskinderen.nl/vereniging/id/amsterdam1849> .
 
 <https://books.google.nl/books?id=YTY5AAAAMAAJ> 
     a schema:Book ;
@@ -26,6 +28,29 @@
     a schema:Book ;
     rdfs:label "Jaarboekje Recogito" .
 
+<http://zotero.org/groups/2707622/items/I664294A>
+    a schema:Book ;
+    rdfs:label "Album van feestliederen en gezangen, te zingen door de typographische vereenigingen, die deel zullen nemen aan de onthullingsfeesten op den 16den Julij 1856 te Haarlem" ; 
+    schema:about <https://costerskinderen.nl/vereniging/id/denhaag1843> ;
+    schema:about <https://costerskinderen.nl/vereniging/id/amsterdam1849> .
+
+<https://costerskinderen.nl/lied/id/album1856-05>
+    a schema:CreativeWork ;
+    rdfs:label "Costers eer gehandhaafd" ;
+    schema:isPartOf <http://zotero.org/groups/2707622/items/I664294A> ;
+    schema:author <https://costerskinderen.nl/persoon/id/123456> .
+
+<https://costerskinderen.nl/lied/id/album1856-29>
+    a schema:CreativeWork ;
+    rdfs:label "Costers standbeeld" ;
+    schema:isPartOf <http://zotero.org/groups/2707622/items/I664294A> ;
+    schema:author <https://costerskinderen.nl/persoon/id/654321> .
+
+<https://costerskinderen.nl/vereniging/id/amsterdam1849> 
+    a schema:Organization ;
+    rdfs:label "Voorzorg en Genoegen" ;
+    schema:location "Amsterdam" .
+
 <https://costerskinderen.nl/vereniging/id/denhaag1843> 
     a schema:Organization ;
     rdfs:label "Door Eendracht t' Zaam Verbonden" ;
@@ -37,9 +62,10 @@
     schema:memberOf <https://costerskinderen.nl/vereniging/id/denhaag1843> ;
     schema:sibling <https://costerskinderen.nl/persoon/id/654321> .
 
-<https://costerskinderen.nl/persoon/id/654321> 
+<https://costerskinderen.nl/persoon/id/654321>
     a schema:Person ;
     rdfs:label "Christiaan Regenboog" ;
+    schema:memberOf <https://costerskinderen.nl/vereniging/id/amsterdam1849> ;
     schema:sibling <https://costerskinderen.nl/persoon/id/123456> .
 
 <https://recogito.pelagios.org/annotation/51e9cac0-a07a-472d-9e9b-eef16f95995f>
@@ -48,3 +74,24 @@
     schema:sameAs <https://costerskinderen.nl/persoon/id/123456> ;
     oa:hasTarget  <https://recogito.pelagios.org/document/caizoqfhkxtigf> .
 
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Huwelijk> 
+    a civ:Marriage ;
+    rdfs:label "Marriage Certificate Christiaan Regenboog" ;
+    civ:groom <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522663> .
+
+<https://www.openarch.nl/hga:F6619DCA-BE62-4A37-B09D-960CB8900393#Huwelijk> 
+    a civ:Marriage ;
+    rdfs:label "Marriage Certificate Jan Hendrik Regenboog" ;
+    civ:groom <https://www.openarch.nl/hga:F6619DCA-BE62-4A37-B09D-960CB8900393#Person1969863544> .
+
+<https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522663> 
+    a oa:Annotation ;
+    rdfs:label "Groom: Christiaan Regenboog" ;
+    schema:sameAs <https://costerskinderen.nl/persoon/id/123456> ;
+    schema:hasOccupation <https://iisg.amsterdam/resource/hsn/occupation/letterzetter> .
+
+<https://www.openarch.nl/hga:F6619DCA-BE62-4A37-B09D-960CB8900393#Person1969863544> 
+    a oa:Annotation ;
+    rdfs:label "Groom: Jan Hendrik Regenboog" ;
+    schema:sameAs <https://costerskinderen.nl/persoon/id/654321> ;
+    schema:hasOccupation <https://iisg.amsterdam/resource/hsn/occupation/boekbinder> .
