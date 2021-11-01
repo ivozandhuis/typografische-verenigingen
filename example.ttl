@@ -87,11 +87,11 @@
 <https://www.openarch.nl/hga:36A1F310-04E8-431A-8193-3F946A5F4E40#Person1969522663> 
     a oa:Annotation ;
     rdfs:label "Groom: Christiaan Regenboog" ;
-    schema:sameAs <https://costerskinderen.nl/persoon/id/123456> ;
+    schema:sameAs <https://costerskinderen.nl/persoon/id/654321> ;
     schema:hasOccupation <https://iisg.amsterdam/resource/hsn/occupation/letterzetter> .
 
 <https://www.openarch.nl/hga:F6619DCA-BE62-4A37-B09D-960CB8900393#Person1969863544> 
     a oa:Annotation ;
     rdfs:label "Groom: Jan Hendrik Regenboog" ;
-    schema:sameAs <https://costerskinderen.nl/persoon/id/654321> ;
+    schema:sameAs <https://costerskinderen.nl/persoon/id/123456> ;
     schema:hasOccupation <https://iisg.amsterdam/resource/hsn/occupation/boekbinder> .
