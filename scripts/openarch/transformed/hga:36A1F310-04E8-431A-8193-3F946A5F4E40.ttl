@@ -1,0 +1,59 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554570> a ns1:Person ;
+    rdfs:label "Gerritje van Maanen" ;
+    ns1:familyName "Maanen" ;
+    ns1:givenName "Gerritje" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554571> a ns1:Person ;
+    rdfs:label "Christiaan Regenboog" ;
+    ns1:familyName "Regenboog" ;
+    ns1:givenName "Christiaan" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554572> a ns1:Person ;
+    rdfs:label "Mattheus Willem Adams" ;
+    ns1:familyName "Adams" ;
+    ns1:givenName "Mattheus Willem" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554573> a ns1:Person ;
+    rdfs:label "Cornelis Johannes van den Broek" ;
+    ns1:familyName "Broek" ;
+    ns1:givenName "Cornelis Johannes" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554574> a ns1:Person ;
+    rdfs:label "Hermanus Johannes van der Burgh" ;
+    ns1:familyName "Burgh" ;
+    ns1:givenName "Hermanus Johannes" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554575> a ns1:Person ;
+    rdfs:label "Johannes Carel van Leeuwen" ;
+    ns1:familyName "Leeuwen" ;
+    ns1:givenName "Johannes Carel" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554576> a ns1:Person ;
+    rdfs:label "Grietje Willigenburg" ;
+    ns1:familyName "Willigenburg" ;
+    ns1:givenName "Grietje" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554577> a ns1:Person ;
+    rdfs:label "Pieternella Jacomina Giebert" ;
+    ns1:familyName "Giebert" ;
+    ns1:givenName "Pieternella Jacomina" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554578> a ns1:Person ;
+    rdfs:label "Harmen Bransen van Maanen" ;
+    ns1:familyName "Maanen" ;
+    ns1:givenName "Harmen Bransen" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554579> a ns1:Person ;
+    rdfs:label "Jonas Regenboog" ;
+    ns1:familyName "Regenboog" ;
+    ns1:givenName "Jonas" .
+
+<https://www.openarch.nl/id/record_hga_36A1F310-04E8-431A-8193-3F946A5F4E40> a <https://iisg.amsterdam/id/civ/Marriage> ;
+    rdfs:label "Huwelijk op 10 mei 1837 te 's-Gravenhage" .
+

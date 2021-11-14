@@ -1,0 +1,153 @@
+@prefix a2a: <https://www.openarch.nl/def/a2a#> .
+@prefix oa: <https://www.openarch.nl/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oa:record_rhl_776b614c-7530-6fda-eced-452f1775742f a a2a:Record ;
+    rdfs:label "Huwelijk op 12 mei 1920 te Vaals" ;
+    a2a:hasEvent oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:hasPerson oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1,
+        oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2,
+        oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3,
+        oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4,
+        oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5,
+        oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6 ;
+    a2a:hasRelationEP oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_0,
+        oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_1,
+        oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_2,
+        oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_3,
+        oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_4,
+        oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_5 ;
+    a2a:hasSource oa:source_rhl_776b614c-7530-6fda-eced-452f1775742f .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1 a a2a:Person ;
+    rdfs:label "Egidius Jozef Bröcheler" ;
+    a2a:Age [ rdfs:label "34" ;
+            a2a:PersonAgeYears "34" ] ;
+    a2a:BirthDate [ rdfs:label "1885-09-26"^^xsd:date ;
+            a2a:Day "26" ;
+            a2a:Month "9" ;
+            a2a:Year "1885" ] ;
+    a2a:BirthPlace [ rdfs:label "Vaals" ;
+            a2a:Place "Vaals" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Egidius Jozef Bröcheler" ;
+            a2a:PersonNameFirstName "Egidius Jozef" ;
+            a2a:PersonNameLastName "Bröcheler" ] ;
+    a2a:Profession "drukker" .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2 a a2a:Person ;
+    rdfs:label "Adolphina Hubertina Hamers" ;
+    a2a:Age [ rdfs:label "30" ;
+            a2a:PersonAgeYears "30" ] ;
+    a2a:BirthDate [ rdfs:label "1889-11-09"^^xsd:date ;
+            a2a:Day "9" ;
+            a2a:Month "11" ;
+            a2a:Year "1889" ] ;
+    a2a:BirthPlace [ rdfs:label "Vaals" ;
+            a2a:Place "Vaals" ] ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Adolphina Hubertina Hamers" ;
+            a2a:PersonNameFirstName "Adolphina Hubertina" ;
+            a2a:PersonNameLastName "Hamers" ] ;
+    a2a:Profession "zonder beroep" .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3 a a2a:Person ;
+    rdfs:label "Jan Jozef Hubert Bröcheler" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Jan Jozef Hubert Bröcheler" ;
+            a2a:PersonNameFirstName "Jan Jozef Hubert" ;
+            a2a:PersonNameLastName "Bröcheler" ] .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4 a a2a:Person ;
+    rdfs:label "Maria Philomena Scheins" ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Maria Philomena Scheins" ;
+            a2a:PersonNameFirstName "Maria Philomena" ;
+            a2a:PersonNameLastName "Scheins" ] .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5 a a2a:Person ;
+    rdfs:label "Pieter August Hamers" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Pieter August Hamers" ;
+            a2a:PersonNameFirstName "Pieter August" ;
+            a2a:PersonNameLastName "Hamers" ] ;
+    a2a:Profession "zonder beroep" .
+
+oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6 a a2a:Person ;
+    rdfs:label "Maria Veronica Jongh" ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Maria Veronica Jongh" ;
+            a2a:PersonNameFirstName "Maria Veronica" ;
+            a2a:PersonNameLastName "Jongh" ] ;
+    a2a:Profession "zonder beroep" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_1 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_2 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_3 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_rhl_776b614c-7530-6fda-eced-452f1775742f_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 ;
+    a2a:PersonKeyRef oa:person_rhl_776b614c-7530-6fda-eced-452f1775742f_ ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:source_rhl_776b614c-7530-6fda-eced-452f1775742f a a2a:Source ;
+    rdfs:label "Regionaal Historisch Centrum Limburg, BS Huwelijk" ;
+    a2a:RecordGUID "{776b614c-7530-6fda-eced-452f1775742f}" ;
+    a2a:SourceDate [ rdfs:label "1920-05-12"^^xsd:date ;
+            a2a:Day "12" ;
+            a2a:Month "5" ;
+            a2a:Year "1920" ] ;
+    a2a:SourceLastChangeDate "2017-07-06"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "1796-01-01 - 1935-12-31",
+                "Vaals" ;
+            a2a:Place "Vaals" ] ;
+    a2a:SourceReference [ rdfs:label "Regionaal Historisch Centrum Limburg, Burgerlijke Stand in Limburg, 30, 35" ;
+            a2a:Collection "Burgerlijke Stand in Limburg" ;
+            a2a:DocumentNumber "30" ;
+            a2a:InstitutionName "Regionaal Historisch Centrum Limburg" ;
+            a2a:RegistryNumber "35" ] ;
+    a2a:SourceRemarklink_EAD "http://www.archieven.nl/mi/1540/?mivast=1540&amp;mizig=210&amp;miadt=38&amp;miaet=1&amp;micode=12.117&amp;miview=inv2" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1796-01-01"^^xsd:date ;
+            a2a:SourceIndexDateTo "1935-12-31"^^xsd:date ] .
+
+oa:event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1 a a2a:Event ;
+    rdfs:label "Huwelijk" ;
+    a2a:EventDate [ rdfs:label "1920-05-12"^^xsd:date ;
+            a2a:Day "12" ;
+            a2a:Month "5" ;
+            a2a:Year "1920" ] ;
+    a2a:EventPlace [ rdfs:label "Vaals" ;
+            a2a:Place "Vaals" ] ;
+    a2a:EventType "Huwelijk" .
+

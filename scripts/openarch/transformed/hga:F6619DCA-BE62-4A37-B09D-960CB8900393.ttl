@@ -1,0 +1,59 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644057> a ns1:Person ;
+    rdfs:label "Alijda van Veen" ;
+    ns1:familyName "Veen" ;
+    ns1:givenName "Alijda" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644058> a ns1:Person ;
+    rdfs:label "Jan Hendrik Regenboog" ;
+    ns1:familyName "Regenboog" ;
+    ns1:givenName "Jan Hendrik" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644059> a ns1:Person ;
+    rdfs:label "Jan Hendrik van Ingen" ;
+    ns1:familyName "Ingen" ;
+    ns1:givenName "Jan Hendrik" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644060> a ns1:Person ;
+    rdfs:label "Wilhelmus Ratering" ;
+    ns1:familyName "Ratering" ;
+    ns1:givenName "Wilhelmus" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644061> a ns1:Person ;
+    rdfs:label "Gerrit Reppel" ;
+    ns1:familyName "Reppel" ;
+    ns1:givenName "Gerrit" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644062> a ns1:Person ;
+    rdfs:label "Adrianus Hermanus Ritter" ;
+    ns1:familyName "Ritter" ;
+    ns1:givenName "Adrianus Hermanus" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644063> a ns1:Person ;
+    rdfs:label "Johanna Staal" ;
+    ns1:familyName "Staal" ;
+    ns1:givenName "Johanna" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644064> a ns1:Person ;
+    rdfs:label "Petronella Jacomina Giebert" ;
+    ns1:familyName "Giebert" ;
+    ns1:givenName "Petronella Jacomina" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644065> a ns1:Person ;
+    rdfs:label "Cornelis van Veen" ;
+    ns1:familyName "Veen" ;
+    ns1:givenName "Cornelis" .
+
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644066> a ns1:Person ;
+    rdfs:label "Jonas Regenboog" ;
+    ns1:familyName "Regenboog" ;
+    ns1:givenName "Jonas" .
+
+<https://www.openarch.nl/id/record_hga_F6619DCA-BE62-4A37-B09D-960CB8900393> a <https://iisg.amsterdam/id/civ/Marriage> ;
+    rdfs:label "Huwelijk op 6 mei 1846 te 's-Gravenhage" .
+

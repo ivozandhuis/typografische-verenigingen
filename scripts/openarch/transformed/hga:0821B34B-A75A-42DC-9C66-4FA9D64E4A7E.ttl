@@ -1,0 +1,59 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> a ns1:Person ;
+    rdfs:label "Petronella van As" ;
+    ns1:familyName "As" ;
+    ns1:givenName "Petronella" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> a ns1:Person ;
+    rdfs:label "Dirk van Toledo" ;
+    ns1:familyName "Toledo" ;
+    ns1:givenName "Dirk" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> a ns1:Person ;
+    rdfs:label "Gerardus Uitenhout" ;
+    ns1:familyName "Uitenhout" ;
+    ns1:givenName "Gerardus" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> a ns1:Person ;
+    rdfs:label "Adriana van Toledo" ;
+    ns1:familyName "Toledo" ;
+    ns1:givenName "Adriana" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> a ns1:Person ;
+    rdfs:label "Willelmus Jacobus Uitenhout" ;
+    ns1:familyName "Uitenhout" ;
+    ns1:givenName "Willelmus Jacobus" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> a ns1:Person ;
+    rdfs:label "Louis Annokkee" ;
+    ns1:familyName "Annokkee" ;
+    ns1:givenName "Louis" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> a ns1:Person ;
+    rdfs:label "Cornelis Giunta d'Albani" ;
+    ns1:familyName "Giunta d'Albani" ;
+    ns1:givenName "Cornelis" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> a ns1:Person ;
+    rdfs:label "Willem Liezen" ;
+    ns1:familyName "Liezen" ;
+    ns1:givenName "Willem" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> a ns1:Person ;
+    rdfs:label "Jacob Slauderof" ;
+    ns1:familyName "Slauderof" ;
+    ns1:givenName "Jacob" .
+
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> a ns1:Person ;
+    rdfs:label "Arendje van der Voorden" ;
+    ns1:familyName "Voorden" ;
+    ns1:givenName "Arendje" .
+
+<https://www.openarch.nl/id/record_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E> a <https://iisg.amsterdam/id/civ/Marriage> ;
+    rdfs:label "Huwelijk op 11 maart 1818 te 's-Gravenhage" .
+

@@ -1,0 +1,215 @@
+@prefix a2a: <https://www.openarch.nl/def/a2a#> .
+@prefix oa: <https://www.openarch.nl/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oa:record_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC a a2a:Record ;
+    rdfs:label "Huwelijk op 7 december 1831 te 's-Gravenhage" ;
+    a2a:hasEvent oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:hasPerson oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278,
+        oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279 ;
+    a2a:hasRelationEP oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_0,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_1,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_2,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_3,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_4,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_5,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_6,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_7,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_8,
+        oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_9 ;
+    a2a:hasSource oa:source_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270 a a2a:Person ;
+    rdfs:label "Hendrika Johanna Vreeswijk" ;
+    a2a:Age [ rdfs:label "22 jaar" ;
+            a2a:PersonAgeLiteral "22 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Hendrika Johanna Vreeswijk" ;
+            a2a:PersonNameFirstName "Hendrika Johanna" ;
+            a2a:PersonNameLastName "Vreeswijk" ] ;
+    a2a:Profession "dienstbode" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271 a a2a:Person ;
+    rdfs:label "Andreas Doesburg" ;
+    a2a:Age [ rdfs:label "25 jaar" ;
+            a2a:PersonAgeLiteral "25 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Andreas Doesburg" ;
+            a2a:PersonNameFirstName "Andreas" ;
+            a2a:PersonNameLastName "Doesburg" ] ;
+    a2a:Profession "schuitenjager" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272 a a2a:Person ;
+    rdfs:label "Andries Bloklander" ;
+    a2a:Age [ rdfs:label "34 jaar" ;
+            a2a:PersonAgeLiteral "34 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Andries Bloklander" ;
+            a2a:PersonNameFirstName "Andries" ;
+            a2a:PersonNameLastName "Bloklander" ] ;
+    a2a:Profession "sjouwer" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273 a a2a:Person ;
+    rdfs:label "Hendrik Eskens" ;
+    a2a:Age [ rdfs:label "31 jaar" ;
+            a2a:PersonAgeLiteral "31 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Hendrik Eskens" ;
+            a2a:PersonNameFirstName "Hendrik" ;
+            a2a:PersonNameLastName "Eskens" ] ;
+    a2a:Profession "schipper" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274 a a2a:Person ;
+    rdfs:label "Henricus Doesburg" ;
+    a2a:PersonName [ rdfs:label "Henricus Doesburg" ;
+            a2a:PersonNameFirstName "Henricus" ;
+            a2a:PersonNameLastName "Doesburg" ] .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275 a a2a:Person ;
+    rdfs:label "Coenraad Nicolaas" ;
+    a2a:Age [ rdfs:label "62 jaar" ;
+            a2a:PersonAgeLiteral "62 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Coenraad Nicolaas" ;
+            a2a:PersonNameFirstName "Coenraad" ;
+            a2a:PersonNameLastName "Nicolaas" ] ;
+    a2a:Profession "baardscheerder" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276 a a2a:Person ;
+    rdfs:label "Johanna Bergmans" ;
+    a2a:PersonName [ rdfs:label "Johanna Bergmans" ;
+            a2a:PersonNameFirstName "Johanna" ;
+            a2a:PersonNameLastName "Bergmans" ] .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277 a a2a:Person ;
+    rdfs:label "Francisca Garnier" ;
+    a2a:PersonName [ rdfs:label "Francisca Garnier" ;
+            a2a:PersonNameFirstName "Francisca" ;
+            a2a:PersonNameLastName "Garnier" ] ;
+    a2a:Profession "zonder beroep" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278 a a2a:Person ;
+    rdfs:label "Bastiaan Vreeswijk" ;
+    a2a:PersonName [ rdfs:label "Bastiaan Vreeswijk" ;
+            a2a:PersonNameFirstName "Bastiaan" ;
+            a2a:PersonNameLastName "Vreeswijk" ] ;
+    a2a:Profession "drukker" .
+
+oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279 a a2a:Person ;
+    rdfs:label "Hermanus Hellendoorn" ;
+    a2a:Age [ rdfs:label "48 jaar" ;
+            a2a:PersonAgeLiteral "48 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Hermanus Hellendoorn" ;
+            a2a:PersonNameFirstName "Hermanus" ;
+            a2a:PersonNameLastName "Hellendoorn" ] ;
+    a2a:Profession "kleermaker" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_1 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_2 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_3 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_6 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_7 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_8 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_9 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_ ;
+    a2a:RelationType "Getuige" .
+
+oa:source_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC a a2a:Source ;
+    rdfs:label "Haags Gemeentearchief, BS Huwelijk" ;
+    a2a:RecordGUID "{160DF8B5-FCD6-45CD-9EC9-DD5F749077FC}" ;
+    a2a:RecordIdentifier "2389499269" ;
+    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
+            a2a:OrderSequenceNumber "1" ;
+            a2a:Uri "https://proxy.archieven.nl/download/59/EB456B92BF6A47A491C53124D6404274" ;
+            a2a:UriPreview "https://proxy.archieven.nl/thumb/59/EB456B92BF6A47A491C53124D6404274" ;
+            a2a:UriViewer "https://proxy.archieven.nl/embed/59/EB456B92BF6A47A491C53124D6404274" ] ;
+    a2a:SourceDate [ rdfs:label "07-12-1831" ;
+            a2a:Day "07" ;
+            a2a:LiteralDate "07-12-1831" ;
+            a2a:Month "12" ;
+            a2a:Year "1831" ] ;
+    a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/160DF8B5FCD645CD9EC9DD5F749077FC" ;
+    a2a:SourceLastChangeDate "2021-10-28"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
+                "1831-12-07 - 1831-12-07" ;
+            a2a:Country "Nederland" ;
+            a2a:Place "'s-Gravenhage" ] ;
+    a2a:SourceReference [ rdfs:label "Haags Gemeentearchief, Den Haag, Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, Huwelijksakten Den Haag, 268, 580" ;
+            a2a:Book "Huwelijksakten Den Haag" ;
+            a2a:Collection "Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage" ;
+            a2a:DocumentNumber "268" ;
+            a2a:InstitutionName "Haags Gemeentearchief" ;
+            a2a:Place "Den Haag" ;
+            a2a:RegistryNumber "580" ] ;
+    a2a:SourceRemarkProvenance "A2Acollection NL-HaHGA_0335-01580_54_A2A.xml van HGA" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1831-12-07"^^xsd:date ;
+            a2a:SourceIndexDateTo "1831-12-07"^^xsd:date ] .
+
+oa:event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1 a a2a:Event ;
+    rdfs:label "Huwelijk" ;
+    a2a:EventDate [ rdfs:label "1831-12-07"^^xsd:date ;
+            a2a:Day "07" ;
+            a2a:LiteralDate "07-12-1831" ;
+            a2a:Month "12" ;
+            a2a:Year "1831" ] ;
+    a2a:EventPlace [ rdfs:label "'s-Gravenhage" ;
+            a2a:Place "'s-Gravenhage" ] ;
+    a2a:EventType "Huwelijk" .
+

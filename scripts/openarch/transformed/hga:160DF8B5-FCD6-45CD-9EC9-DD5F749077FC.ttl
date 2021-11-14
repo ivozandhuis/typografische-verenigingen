@@ -1,0 +1,59 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> a ns1:Person ;
+    rdfs:label "Hendrika Johanna Vreeswijk" ;
+    ns1:familyName "Vreeswijk" ;
+    ns1:givenName "Hendrika Johanna" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> a ns1:Person ;
+    rdfs:label "Andreas Doesburg" ;
+    ns1:familyName "Doesburg" ;
+    ns1:givenName "Andreas" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> a ns1:Person ;
+    rdfs:label "Andries Bloklander" ;
+    ns1:familyName "Bloklander" ;
+    ns1:givenName "Andries" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> a ns1:Person ;
+    rdfs:label "Hendrik Eskens" ;
+    ns1:familyName "Eskens" ;
+    ns1:givenName "Hendrik" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> a ns1:Person ;
+    rdfs:label "Henricus Doesburg" ;
+    ns1:familyName "Doesburg" ;
+    ns1:givenName "Henricus" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> a ns1:Person ;
+    rdfs:label "Coenraad Nicolaas" ;
+    ns1:familyName "Nicolaas" ;
+    ns1:givenName "Coenraad" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> a ns1:Person ;
+    rdfs:label "Johanna Bergmans" ;
+    ns1:familyName "Bergmans" ;
+    ns1:givenName "Johanna" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> a ns1:Person ;
+    rdfs:label "Francisca Garnier" ;
+    ns1:familyName "Garnier" ;
+    ns1:givenName "Francisca" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> a ns1:Person ;
+    rdfs:label "Bastiaan Vreeswijk" ;
+    ns1:familyName "Vreeswijk" ;
+    ns1:givenName "Bastiaan" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> a ns1:Person ;
+    rdfs:label "Hermanus Hellendoorn" ;
+    ns1:familyName "Hellendoorn" ;
+    ns1:givenName "Hermanus" .
+
+<https://www.openarch.nl/id/record_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC> a <https://iisg.amsterdam/id/civ/Marriage> ;
+    rdfs:label "Huwelijk op 7 december 1831 te 's-Gravenhage" .
+

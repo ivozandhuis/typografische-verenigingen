@@ -1,0 +1,257 @@
+@prefix a2a: <https://www.openarch.nl/def/a2a#> .
+@prefix oa: <https://www.openarch.nl/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oa:record_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce a a2a:Record ;
+    rdfs:label "Huwelijk op 21 oktober 1891 te Merchtem (België)" ;
+    a2a:hasEvent oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:hasPerson oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242,
+        oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252 ;
+    a2a:hasRelationEP oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_0,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_1,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_2,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_3,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_4,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_5,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_6,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_7,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_8,
+        oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_9 ;
+    a2a:hasSource oa:source_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942 a a2a:Person ;
+    rdfs:label "Philomena Rosalia De Block" ;
+    a2a:BirthDate [ rdfs:label "1854-03-31"^^xsd:date ;
+            a2a:Day "31" ;
+            a2a:Month "3" ;
+            a2a:Year "1854" ] ;
+    a2a:BirthPlace [ rdfs:label "België, Merchtem" ;
+            a2a:Country "België" ;
+            a2a:Place "Merchtem" ] ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Philomena Rosalia De Block" ;
+            a2a:PersonNameFirstName "Philomena Rosalia" ;
+            a2a:PersonNameLastName "De Block" ] ;
+    a2a:Profession "landbouwster" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492 a a2a:Person ;
+    rdfs:label "Cornelius Van den Meersch" ;
+    a2a:Age [ rdfs:label "61" ;
+            a2a:PersonAgeYears "61" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Cornelius Van den Meersch" ;
+            a2a:PersonNameFirstName "Cornelius" ;
+            a2a:PersonNameLastName "Van den Meersch" ] ;
+    a2a:Profession "koopman in boter" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992 a a2a:Person ;
+    rdfs:label "Joanna Maria Verbelen" ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Joanna Maria Verbelen" ;
+            a2a:PersonNameFirstName "Joanna Maria" ;
+            a2a:PersonNameLastName "Verbelen" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492 a a2a:Person ;
+    rdfs:label "Cornelius De Block" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Cornelius De Block" ;
+            a2a:PersonNameFirstName "Cornelius" ;
+            a2a:PersonNameLastName "De Block" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992 a a2a:Person ;
+    rdfs:label "Joanna Cornelia Heyvaert" ;
+    a2a:Age [ rdfs:label "80" ;
+            a2a:PersonAgeYears "80" ] ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Joanna Cornelia Heyvaert" ;
+            a2a:PersonNameFirstName "Joanna Cornelia" ;
+            a2a:PersonNameLastName "Heyvaert" ] ;
+    a2a:Profession "landbouwster" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442 a a2a:Person ;
+    rdfs:label "Egidius Ludovicus Van den Meersch" ;
+    a2a:BirthDate [ rdfs:label "1857-11-14"^^xsd:date ;
+            a2a:Day "14" ;
+            a2a:Month "11" ;
+            a2a:Year "1857" ] ;
+    a2a:BirthPlace [ rdfs:label "België, Merchtem" ;
+            a2a:Country "België" ;
+            a2a:Place "Merchtem" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Egidius Ludovicus Van den Meersch" ;
+            a2a:PersonNameFirstName "Egidius Ludovicus" ;
+            a2a:PersonNameLastName "Van den Meersch" ] ;
+    a2a:Profession "landbouwer" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222 a a2a:Person ;
+    rdfs:label "Petrus Benediktus Mertens" ;
+    a2a:Age [ rdfs:label "52" ;
+            a2a:PersonAgeYears "52" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Petrus Benediktus Mertens" ;
+            a2a:PersonNameFirstName "Petrus Benediktus" ;
+            a2a:PersonNameLastName "Mertens" ] ;
+    a2a:Profession "beenhouwer" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232 a a2a:Person ;
+    rdfs:label "Josephus De Donder" ;
+    a2a:Age [ rdfs:label "26" ;
+            a2a:PersonAgeYears "26" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Josephus De Donder" ;
+            a2a:PersonNameFirstName "Josephus" ;
+            a2a:PersonNameLastName "De Donder" ] ;
+    a2a:Profession "landbouwer" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242 a a2a:Person ;
+    rdfs:label "Achille Dieudonné" ;
+    a2a:Age [ rdfs:label "29" ;
+            a2a:PersonAgeYears "29" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Achille Dieudonné" ;
+            a2a:PersonNameFirstName "Achille" ;
+            a2a:PersonNameLastName "Dieudonné" ] ;
+    a2a:Profession "drukker" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252 a a2a:Person ;
+    rdfs:label "Florent Goossens" ;
+    a2a:Age [ rdfs:label "26" ;
+            a2a:PersonAgeYears "26" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Florent Goossens" ;
+            a2a:PersonNameFirstName "Florent" ;
+            a2a:PersonNameLastName "Goossens" ] ;
+    a2a:Profession "wagenmaker" ;
+    a2a:Residence [ rdfs:label "Merchtem" ;
+            a2a:Place "Merchtem" ] .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_1 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_2 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_3 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_6 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_7 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_8 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_9 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
+    a2a:RelationType "Getuige" .
+
+oa:source_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce a a2a:Source ;
+    rdfs:label "Rijksarchief België (Leuven), BS Huwelijk" ;
+    a2a:RecordGUID "{dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce}" ;
+    a2a:RecordIdentifier "HUBRA_00214498_0" ;
+    a2a:SourceDate [ rdfs:label "1891-10-21"^^xsd:date ;
+            a2a:Day "21" ;
+            a2a:Month "10" ;
+            a2a:Year "1891" ] ;
+    a2a:SourceDigitalOriginal "https://search.arch.be/nl/zoeken-naar-personen/zoekresultaat/weergave/akte/id/HUBRA_00214498_0" ;
+    a2a:SourceLastChangeDate "2021-03-15"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "1792-01-01 - 1919-12-31",
+                "Leuven, België" ;
+            a2a:Country "België" ;
+            a2a:Place "Leuven" ] ;
+    a2a:SourceReference [ rdfs:label "Rijksarchief België (Leuven), Leuven, Burgerlijke stand Provincie Vlaams Brabant, 34, 40248 / 0_0605" ;
+            a2a:Collection "Burgerlijke stand Provincie Vlaams Brabant" ;
+            a2a:DocumentNumber "34" ;
+            a2a:InstitutionName "Rijksarchief België (Leuven)" ;
+            a2a:Place "Leuven" ;
+            a2a:RegistryNumber "40248 / 0_0605" ] ;
+    a2a:SourceRemarkOpmerking "Huwelijkscontract bij notaris Emile Lamal te Merchtem op 18/10/1891" ;
+    a2a:SourceRemarkProvenance "DemogenVlaamsBrabant19b.mdb > mdb-export > abl/demogen/csv2a2a.pl" ;
+    a2a:SourceRemarkVrijwilliger "Demogen Vlaams-Brabant en Brussel (project huvlb19b)" ;
+    a2a:SourceRemarklink_NT "https://search.arch.be/nl/zoeken-naar-archieven/zoekresultaat/inventaris/inleiding/eadid/BE-A0518_112302_110913_DUT/inventarisnr/IRS0002946040248/level/file" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1792-01-01"^^xsd:date ;
+            a2a:SourceIndexDateTo "1919-12-31"^^xsd:date ] .
+
+oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 a a2a:Event ;
+    rdfs:label "Huwelijk" ;
+    a2a:EventDate [ rdfs:label "1891-10-21"^^xsd:date ;
+            a2a:Day "21" ;
+            a2a:Month "10" ;
+            a2a:Year "1891" ] ;
+    a2a:EventPlace [ rdfs:label "België, Merchtem" ;
+            a2a:Country "België" ;
+            a2a:Place "Merchtem" ] ;
+    a2a:EventType "Huwelijk" .
+
+[] a2a:PersonRemarkdeat_date "27-08-1866" ;
+    a2a:PersonRemarkdeat_plac "Merchtem" .
+
+[] a2a:PersonRemarkdeat_date "16-03-1867" ;
+    a2a:PersonRemarkdeat_plac "Merchtem" .
+

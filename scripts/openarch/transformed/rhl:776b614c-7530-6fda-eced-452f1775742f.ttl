@@ -1,0 +1,39 @@
+@prefix ns1: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> a ns1:Person ;
+    rdfs:label "Egidius Jozef Bröcheler" ;
+    ns1:familyName "Bröcheler" ;
+    ns1:givenName "Egidius Jozef" .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> a ns1:Person ;
+    rdfs:label "Adolphina Hubertina Hamers" ;
+    ns1:familyName "Hamers" ;
+    ns1:givenName "Adolphina Hubertina" .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> a ns1:Person ;
+    rdfs:label "Jan Jozef Hubert Bröcheler" ;
+    ns1:familyName "Bröcheler" ;
+    ns1:givenName "Jan Jozef Hubert" .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> a ns1:Person ;
+    rdfs:label "Maria Philomena Scheins" ;
+    ns1:familyName "Scheins" ;
+    ns1:givenName "Maria Philomena" .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> a ns1:Person ;
+    rdfs:label "Pieter August Hamers" ;
+    ns1:familyName "Hamers" ;
+    ns1:givenName "Pieter August" .
+
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> a ns1:Person ;
+    rdfs:label "Maria Veronica Jongh" ;
+    ns1:familyName "Jongh" ;
+    ns1:givenName "Maria Veronica" .
+
+<https://www.openarch.nl/id/record_rhl_776b614c-7530-6fda-eced-452f1775742f> a <https://iisg.amsterdam/id/civ/Marriage> ;
+    rdfs:label "Huwelijk op 12 mei 1920 te Vaals" .
+

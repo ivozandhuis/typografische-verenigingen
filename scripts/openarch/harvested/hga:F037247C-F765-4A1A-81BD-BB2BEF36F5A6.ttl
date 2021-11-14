@@ -1,0 +1,102 @@
+@prefix a2a: <https://www.openarch.nl/def/a2a#> .
+@prefix oa: <https://www.openarch.nl/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oa:record_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6 a a2a:Record ;
+    rdfs:label "Geboorte op 6 februari 1818 te 's-Gravenhage" ;
+    a2a:hasEvent oa:event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1 ;
+    a2a:hasPerson oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967,
+        oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968,
+        oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969 ;
+    a2a:hasRelationEP oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_0,
+        oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_1,
+        oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_2 ;
+    a2a:hasSource oa:source_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6 .
+
+oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967 a a2a:Person ;
+    rdfs:label "Jan Hendrik Regenboog" ;
+    a2a:PersonName [ rdfs:label "Jan Hendrik Regenboog" ;
+            a2a:PersonNameFirstName "Jan Hendrik" ;
+            a2a:PersonNameLastName "Regenboog" ] .
+
+oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968 a a2a:Person ;
+    rdfs:label "Jonas Regenboog" ;
+    a2a:Age [ rdfs:label "29" ;
+            a2a:PersonAgeLiteral "29" ] ;
+    a2a:PersonName [ rdfs:label "Jonas Regenboog" ;
+            a2a:PersonNameFirstName "Jonas" ;
+            a2a:PersonNameLastName "Regenboog" ] ;
+    a2a:Profession "zilversmid" .
+
+oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969 a a2a:Person ;
+    rdfs:label "Petronella Jacomina Giebert" ;
+    a2a:Age [ rdfs:label "27" ;
+            a2a:PersonAgeLiteral "27" ] ;
+    a2a:PersonName [ rdfs:label "Petronella Jacomina Giebert" ;
+            a2a:PersonNameFirstName "Petronella Jacomina" ;
+            a2a:PersonNameLastName "Giebert" ] .
+
+oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_0 a a2a:RelationEP ;
+    rdfs:label "Kind" ;
+    a2a:EventKeyRef oa:event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_ ;
+    a2a:RelationType "Kind" .
+
+oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_1 a a2a:RelationEP ;
+    rdfs:label "Vader" ;
+    a2a:EventKeyRef oa:event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_ ;
+    a2a:RelationType "Vader" .
+
+oa:relationep_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_2 a a2a:RelationEP ;
+    rdfs:label "Moeder" ;
+    a2a:EventKeyRef oa:event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_ ;
+    a2a:RelationType "Moeder" .
+
+oa:source_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6 a a2a:Source ;
+    rdfs:label "Haags Gemeentearchief, BS Geboorte" ;
+    a2a:RecordGUID "{F037247C-F765-4A1A-81BD-BB2BEF36F5A6}" ;
+    a2a:RecordIdentifier "2053123966" ;
+    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
+            a2a:OrderSequenceNumber "1" ;
+            a2a:Uri "https://proxy.archieven.nl/download/59/E257B14B23E349BE84EC5E68564DBB78" ;
+            a2a:UriPreview "https://proxy.archieven.nl/thumb/59/E257B14B23E349BE84EC5E68564DBB78" ;
+            a2a:UriViewer "https://proxy.archieven.nl/embed/59/E257B14B23E349BE84EC5E68564DBB78" ] ;
+    a2a:SourceDate [ rdfs:label "09-02-1818" ;
+            a2a:Day "09" ;
+            a2a:LiteralDate "09-02-1818" ;
+            a2a:Month "02" ;
+            a2a:Year "1818" ] ;
+    a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/F037247CF7654A1A81BDBB2BEF36F5A6" ;
+    a2a:SourceLastChangeDate "2021-02-11"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
+                "1818-02-09 - 1818-02-09" ;
+            a2a:Country "Nederland" ;
+            a2a:Place "'s-Gravenhage" ] ;
+    a2a:SourceReference [ rdfs:label "Haags Gemeentearchief, Den Haag, Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, Geboorteakten Den Haag, 181, 209" ;
+            a2a:Book "Geboorteakten Den Haag" ;
+            a2a:Collection "Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage" ;
+            a2a:DocumentNumber "181" ;
+            a2a:InstitutionName "Haags Gemeentearchief" ;
+            a2a:Place "Den Haag" ;
+            a2a:RegistryNumber "209" ] ;
+    a2a:SourceRemarkProvenance "A2Acollection NL-HaHGA_0335-01209_54_A2A.xml van HGA" ;
+    a2a:SourceType "BS Geboorte" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1818-02-09"^^xsd:date ;
+            a2a:SourceIndexDateTo "1818-02-09"^^xsd:date ] .
+
+oa:event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1 a a2a:Event ;
+    rdfs:label "Geboorte" ;
+    a2a:EventDate [ rdfs:label "1818-02-06"^^xsd:date ;
+            a2a:Day "06" ;
+            a2a:LiteralDate "06-02-1818" ;
+            a2a:Month "02" ;
+            a2a:Year "1818" ] ;
+    a2a:EventPlace [ rdfs:label "'s-Gravenhage" ;
+            a2a:Place "'s-Gravenhage" ] ;
+    a2a:EventType "Geboorte" .
+

@@ -1,0 +1,172 @@
+@prefix a2a: <https://www.openarch.nl/def/a2a#> .
+@prefix oa: <https://www.openarch.nl/id/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oa:record_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Record ;
+    rdfs:label "Huwelijk (huwelijksakte) op 18 september 1940 te Leeuwarden" ;
+    a2a:hasEvent oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:hasPerson <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835>,
+        <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
+    a2a:hasRelationEP oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_0,
+        oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_1,
+        oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_2,
+        oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_3,
+        oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_4,
+        oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_5 ;
+    a2a:hasSource oa:source_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> a a2a:Person ;
+    rdfs:label "Johannes Wilhelmus Bertrums" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Johannes Wilhelmus Bertrums" ;
+            a2a:PersonNameFirstName "Johannes Wilhelmus" ;
+            a2a:PersonNameLastName "Bertrums" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> a a2a:Person ;
+    rdfs:label "Roelof Lettinga" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Roelof Lettinga" ;
+            a2a:PersonNameFirstName "Roelof" ;
+            a2a:PersonNameLastName "Lettinga" ] ;
+    a2a:Profession "chauffeur" ;
+    a2a:Residence [ rdfs:label "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> a a2a:Person ;
+    rdfs:label "Hendrika Eysenbrandt" ;
+    a2a:Age [ rdfs:label "32 jaar" ;
+            a2a:PersonAgeLiteral "32 jaar" ] ;
+    a2a:BirthPlace [ rdfs:label "Helvoirt" ;
+            a2a:Place "Helvoirt" ] ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Hendrika Eysenbrandt" ;
+            a2a:PersonNameFirstName "Hendrika" ;
+            a2a:PersonNameLastName "Eysenbrandt" ] ;
+    a2a:Residence [ rdfs:label "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> a a2a:Person ;
+    rdfs:label "Jantje Posthumus" ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Jantje Posthumus" ;
+            a2a:PersonNameFirstName "Jantje" ;
+            a2a:PersonNameLastName "Posthumus" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> a a2a:Person ;
+    rdfs:label "Maria Roosen" ;
+    a2a:Gender "Vrouw" ;
+    a2a:PersonName [ rdfs:label "Maria Roosen" ;
+            a2a:PersonNameFirstName "Maria" ;
+            a2a:PersonNameLastName "Roosen" ] ;
+    a2a:Residence [ rdfs:label "Vught" ;
+            a2a:Place "Vught" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> a a2a:Person ;
+    rdfs:label "Cornelis Eysenbrandt" ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Cornelis Eysenbrandt" ;
+            a2a:PersonNameFirstName "Cornelis" ;
+            a2a:PersonNameLastName "Eysenbrandt" ] .
+
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> a a2a:Person ;
+    rdfs:label "Haebele Lettinga" ;
+    a2a:Age [ rdfs:label "32 jaar" ;
+            a2a:PersonAgeLiteral "32 jaar" ] ;
+    a2a:BirthPlace [ rdfs:label "Rinsumageest" ;
+            a2a:Place "Rinsumageest" ] ;
+    a2a:Gender "Man" ;
+    a2a:PersonName [ rdfs:label "Haebele Lettinga" ;
+            a2a:PersonNameFirstName "Haebele" ;
+            a2a:PersonNameLastName "Lettinga" ] ;
+    a2a:Profession "drukker" ;
+    a2a:Residence [ rdfs:label "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_1 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_2 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_3 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:source_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Source ;
+    rdfs:label "AlleFriezen, BS Huwelijk" ;
+    a2a:RecordGUID "{8047b633-e017-ff25-3d95-8fb0d8f9322e}" ;
+    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
+            a2a:OrderSequenceNumber "1" ;
+            a2a:Uri "https://tresoar-images.memorix.nl/frl/thumb/640x480/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
+            a2a:UriPreview "https://tresoar-images.memorix.nl/frl/thumb/250x250/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
+            a2a:UriViewer "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ] ;
+    a2a:SourceDate [ rdfs:label "1940-09-18"^^xsd:date ;
+            a2a:Day "18" ;
+            a2a:Month "9" ;
+            a2a:Year "1940" ] ;
+    a2a:SourceDigitalOriginal "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ;
+    a2a:SourceLastChangeDate "2020-09-30"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "1940-09-18 - 1940-09-18",
+                "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] ;
+    a2a:SourceReference [ rdfs:label "AlleFriezen, Leeuwarden, Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..., Huwelijksregister 1940, 0353, 3665" ;
+            a2a:Book "Huwelijksregister 1940" ;
+            a2a:Collection "Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..." ;
+            a2a:DocumentNumber "0353" ;
+            a2a:InstitutionName "AlleFriezen" ;
+            a2a:Place "Leeuwarden" ;
+            a2a:RegistryNumber "3665" ] ;
+    a2a:SourceRemarkAkteSoort "Huwelijksakte" ;
+    a2a:SourceRemarkProvenance "A2Acollection oai-pmh_20210901_28652_00028652.xml van FRL" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1940-09-18"^^xsd:date ;
+            a2a:SourceIndexDateTo "1940-09-18"^^xsd:date ] .
+
+oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 a a2a:Event ;
+    rdfs:label "Huwelijk" ;
+    a2a:EventDate [ rdfs:label "1940-09-18"^^xsd:date ;
+            a2a:Day "18" ;
+            a2a:Month "9" ;
+            a2a:Year "1940" ] ;
+    a2a:EventPlace [ rdfs:label "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] ;
+    a2a:EventType "Huwelijk" .
+
+[] a2a:PersonRemarkdiversen "overleden" .
+
+[] a2a:PersonRemarkdiversen "overleden" .
+
