@@ -30,6 +30,98 @@ oa:record_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E a a2a:Record ;
         oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_9 ;
     a2a:hasSource oa:source_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E .
 
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141 ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_1 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139 ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_2 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137 ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_3 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140 ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138 ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146 ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_6 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_7 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_8 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_9 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
+    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145 ;
+    a2a:RelationType "Getuige" .
+
+oa:source_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E a a2a:Source ;
+    rdfs:label "Haags Gemeentearchief, BS Huwelijk" ;
+    a2a:RecordGUID "{0821B34B-A75A-42DC-9C66-4FA9D64E4A7E}" ;
+    a2a:RecordIdentifier "2389390136" ;
+    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
+            a2a:OrderSequenceNumber "1" ;
+            a2a:Uri "https://proxy.archieven.nl/download/59/8A34D73018DC49738AD2EC99B8F9A805" ;
+            a2a:UriPreview "https://proxy.archieven.nl/thumb/59/8A34D73018DC49738AD2EC99B8F9A805" ;
+            a2a:UriViewer "https://proxy.archieven.nl/embed/59/8A34D73018DC49738AD2EC99B8F9A805" ] ;
+    a2a:SourceDate [ rdfs:label "11-03-1818" ;
+            a2a:Day "11" ;
+            a2a:LiteralDate "11-03-1818" ;
+            a2a:Month "03" ;
+            a2a:Year "1818" ] ;
+    a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/0821B34BA75A42DC9C664FA9D64E4A7E" ;
+    a2a:SourceLastChangeDate "2021-10-28"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
+                "1818-03-11 - 1818-03-11" ;
+            a2a:Country "Nederland" ;
+            a2a:Place "'s-Gravenhage" ] ;
+    a2a:SourceReference [ rdfs:label "Haags Gemeentearchief, Den Haag, Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, Huwelijksakten Den Haag, 34, 567" ;
+            a2a:Book "Huwelijksakten Den Haag" ;
+            a2a:Collection "Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage" ;
+            a2a:DocumentNumber "34" ;
+            a2a:InstitutionName "Haags Gemeentearchief" ;
+            a2a:Place "Den Haag" ;
+            a2a:RegistryNumber "567" ] ;
+    a2a:SourceRemarkProvenance "A2Acollection NL-HaHGA_0335-01567_54_A2A.xml van HGA" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1818-03-11"^^xsd:date ;
+            a2a:SourceIndexDateTo "1818-03-11"^^xsd:date ] .
+
 oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137 a a2a:Person ;
     rdfs:label "Petronella van As" ;
     a2a:PersonName [ rdfs:label "Petronella van As" ;
@@ -111,98 +203,6 @@ oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146 a a2a:Person
             a2a:PersonNameFirstName "Arendje" ;
             a2a:PersonNameLastName "Voorden" ;
             a2a:PersonNamePrefixLastName "van der" ] .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_0 a a2a:RelationEP ;
-    rdfs:label "Bruidegom" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Bruidegom" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_1 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruidegom" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Vader van de bruidegom" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_2 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruidegom" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Moeder van de bruidegom" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_3 a a2a:RelationEP ;
-    rdfs:label "Bruid" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Bruid" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_4 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruid" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Vader van de bruid" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_5 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruid" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Moeder van de bruid" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_6 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_7 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_8 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_9 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_ ;
-    a2a:RelationType "Getuige" .
-
-oa:source_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E a a2a:Source ;
-    rdfs:label "Haags Gemeentearchief, BS Huwelijk" ;
-    a2a:RecordGUID "{0821B34B-A75A-42DC-9C66-4FA9D64E4A7E}" ;
-    a2a:RecordIdentifier "2389390136" ;
-    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
-            a2a:OrderSequenceNumber "1" ;
-            a2a:Uri "https://proxy.archieven.nl/download/59/8A34D73018DC49738AD2EC99B8F9A805" ;
-            a2a:UriPreview "https://proxy.archieven.nl/thumb/59/8A34D73018DC49738AD2EC99B8F9A805" ;
-            a2a:UriViewer "https://proxy.archieven.nl/embed/59/8A34D73018DC49738AD2EC99B8F9A805" ] ;
-    a2a:SourceDate [ rdfs:label "11-03-1818" ;
-            a2a:Day "11" ;
-            a2a:LiteralDate "11-03-1818" ;
-            a2a:Month "03" ;
-            a2a:Year "1818" ] ;
-    a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/0821B34BA75A42DC9C664FA9D64E4A7E" ;
-    a2a:SourceLastChangeDate "2021-10-28"^^xsd:date ;
-    a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
-                "1818-03-11 - 1818-03-11" ;
-            a2a:Country "Nederland" ;
-            a2a:Place "'s-Gravenhage" ] ;
-    a2a:SourceReference [ rdfs:label "Haags Gemeentearchief, Den Haag, Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, Huwelijksakten Den Haag, 34, 567" ;
-            a2a:Book "Huwelijksakten Den Haag" ;
-            a2a:Collection "Ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage" ;
-            a2a:DocumentNumber "34" ;
-            a2a:InstitutionName "Haags Gemeentearchief" ;
-            a2a:Place "Den Haag" ;
-            a2a:RegistryNumber "567" ] ;
-    a2a:SourceRemarkProvenance "A2Acollection NL-HaHGA_0335-01567_54_A2A.xml van HGA" ;
-    a2a:SourceType "BS Huwelijk" ;
-    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1818-03-11"^^xsd:date ;
-            a2a:SourceIndexDateTo "1818-03-11"^^xsd:date ] .
 
 oa:event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1 a a2a:Event ;
     rdfs:label "Huwelijk" ;

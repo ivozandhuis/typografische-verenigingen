@@ -40,9 +40,3 @@ def harvestOpenarch(filename):
 
 harvestOpenarch("aktes")
 
-
-
-
-
-
-

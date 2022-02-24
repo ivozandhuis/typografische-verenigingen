@@ -8,29 +8,20 @@
 oa:record_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B a a2a:Record ;
     rdfs:label "Overlijden op 18 januari 1878 te 's-Gravenhage" ;
     a2a:hasEvent oa:event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1 ;
-    a2a:hasPerson oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2166959551 ;
+    a2a:hasPerson oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614 ;
     a2a:hasRelationEP oa:relationep_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_0 ;
     a2a:hasSource oa:source_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B .
-
-oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2166959551 a a2a:Person ;
-    rdfs:label "Jan Hendrik Regenboog" ;
-    a2a:Age [ rdfs:label "59 jaar" ;
-            a2a:PersonAgeLiteral "59 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Jan Hendrik Regenboog" ;
-            a2a:PersonNameFirstName "Jan Hendrik" ;
-            a2a:PersonNameLastName "Regenboog" ] ;
-    a2a:Profession "conciërge" .
 
 oa:relationep_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_0 a a2a:RelationEP ;
     rdfs:label "Overledene" ;
     a2a:EventKeyRef oa:event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_ ;
+    a2a:PersonKeyRef oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614 ;
     a2a:RelationType "Overledene" .
 
 oa:source_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B a a2a:Source ;
     rdfs:label "Haags Gemeentearchief, BS Overlijden" ;
     a2a:RecordGUID "{21A58A9A-ED24-497B-A83D-0E6FC088378B}" ;
-    a2a:RecordIdentifier "2166959550" ;
+    a2a:RecordIdentifier "2528129613" ;
     a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
             a2a:OrderSequenceNumber "1" ;
             a2a:Uri "https://proxy.archieven.nl/download/59/2A9696D00B794F7EA5A510B7A47D555B" ;
@@ -42,7 +33,7 @@ oa:source_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B a a2a:Source ;
             a2a:Month "01" ;
             a2a:Year "1878" ] ;
     a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/21A58A9AED24497BA83D0E6FC088378B" ;
-    a2a:SourceLastChangeDate "2021-10-04"^^xsd:date ;
+    a2a:SourceLastChangeDate "2022-02-19"^^xsd:date ;
     a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
                 "1878-01-18 - 1878-01-18" ;
             a2a:Country "Nederland" ;
@@ -69,4 +60,13 @@ oa:event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1 a a2a:Event ;
     a2a:EventPlace [ rdfs:label "'s-Gravenhage" ;
             a2a:Place "'s-Gravenhage" ] ;
     a2a:EventType "Overlijden" .
+
+oa:person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614 a a2a:Person ;
+    rdfs:label "Jan Hendrik Regenboog" ;
+    a2a:Age [ rdfs:label "59 jaar" ;
+            a2a:PersonAgeLiteral "59 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Jan Hendrik Regenboog" ;
+            a2a:PersonNameFirstName "Jan Hendrik" ;
+            a2a:PersonNameLastName "Regenboog" ] ;
+    a2a:Profession "conciërge" .
 

@@ -30,6 +30,94 @@ oa:record_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce a a2a:Record ;
         oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_9 ;
     a2a:hasSource oa:source_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce .
 
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442 ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_1 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942 ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_2 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492 ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_3 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992 ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492 ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992 ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_6 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_7 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_8 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242 ;
+    a2a:RelationType "Getuige" .
+
+oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_9 a a2a:RelationEP ;
+    rdfs:label "Getuige" ;
+    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
+    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252 ;
+    a2a:RelationType "Getuige" .
+
+oa:source_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce a a2a:Source ;
+    rdfs:label "Rijksarchief België (Leuven), BS Huwelijk" ;
+    a2a:RecordGUID "{dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce}" ;
+    a2a:RecordIdentifier "HUBRA_00214498_0" ;
+    a2a:SourceDate [ rdfs:label "1891-10-21"^^xsd:date ;
+            a2a:Day "21" ;
+            a2a:Month "10" ;
+            a2a:Year "1891" ] ;
+    a2a:SourceDigitalOriginal "https://search.arch.be/nl/zoeken-naar-personen/zoekresultaat/weergave/akte/id/HUBRA_00214498_0" ;
+    a2a:SourceLastChangeDate "2021-03-15"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "1792-01-01 - 1919-12-31",
+                "Leuven, België" ;
+            a2a:Country "België" ;
+            a2a:Place "Leuven" ] ;
+    a2a:SourceReference [ rdfs:label "Rijksarchief België (Leuven), Leuven, Burgerlijke stand Provincie Vlaams Brabant, 34, 40248 / 0_0605" ;
+            a2a:Collection "Burgerlijke stand Provincie Vlaams Brabant" ;
+            a2a:DocumentNumber "34" ;
+            a2a:InstitutionName "Rijksarchief België (Leuven)" ;
+            a2a:Place "Leuven" ;
+            a2a:RegistryNumber "40248 / 0_0605" ] ;
+    a2a:SourceRemarkOpmerking "Huwelijkscontract bij notaris Emile Lamal te Merchtem op 18/10/1891" ;
+    a2a:SourceRemarkProvenance "DemogenVlaamsBrabant19b.mdb > mdb-export > abl/demogen/csv2a2a.pl" ;
+    a2a:SourceRemarkVrijwilliger "Demogen Vlaams-Brabant en Brussel (project huvlb19b)" ;
+    a2a:SourceRemarklink_NT "https://search.arch.be/nl/zoeken-naar-archieven/zoekresultaat/inventaris/inleiding/eadid/BE-A0518_112302_110913_DUT/inventarisnr/IRS0002946040248/level/file" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1792-01-01"^^xsd:date ;
+            a2a:SourceIndexDateTo "1919-12-31"^^xsd:date ] .
+
 oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942 a a2a:Person ;
     rdfs:label "Philomena Rosalia De Block" ;
     a2a:BirthDate [ rdfs:label "1854-03-31"^^xsd:date ;
@@ -149,94 +237,6 @@ oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252 a a2a:Person ;
     a2a:Profession "wagenmaker" ;
     a2a:Residence [ rdfs:label "Merchtem" ;
             a2a:Place "Merchtem" ] .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_0 a a2a:RelationEP ;
-    rdfs:label "Bruidegom" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Bruidegom" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_1 a a2a:RelationEP ;
-    rdfs:label "Bruid" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Bruid" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_2 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruidegom" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Vader van de bruidegom" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_3 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruidegom" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Moeder van de bruidegom" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_4 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruid" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Vader van de bruid" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_5 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruid" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Moeder van de bruid" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_6 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_7 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_8 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Getuige" .
-
-oa:relationep_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_9 a a2a:RelationEP ;
-    rdfs:label "Getuige" ;
-    a2a:EventKeyRef oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 ;
-    a2a:PersonKeyRef oa:person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_ ;
-    a2a:RelationType "Getuige" .
-
-oa:source_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce a a2a:Source ;
-    rdfs:label "Rijksarchief België (Leuven), BS Huwelijk" ;
-    a2a:RecordGUID "{dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce}" ;
-    a2a:RecordIdentifier "HUBRA_00214498_0" ;
-    a2a:SourceDate [ rdfs:label "1891-10-21"^^xsd:date ;
-            a2a:Day "21" ;
-            a2a:Month "10" ;
-            a2a:Year "1891" ] ;
-    a2a:SourceDigitalOriginal "https://search.arch.be/nl/zoeken-naar-personen/zoekresultaat/weergave/akte/id/HUBRA_00214498_0" ;
-    a2a:SourceLastChangeDate "2021-03-15"^^xsd:date ;
-    a2a:SourcePlace [ rdfs:label "1792-01-01 - 1919-12-31",
-                "Leuven, België" ;
-            a2a:Country "België" ;
-            a2a:Place "Leuven" ] ;
-    a2a:SourceReference [ rdfs:label "Rijksarchief België (Leuven), Leuven, Burgerlijke stand Provincie Vlaams Brabant, 34, 40248 / 0_0605" ;
-            a2a:Collection "Burgerlijke stand Provincie Vlaams Brabant" ;
-            a2a:DocumentNumber "34" ;
-            a2a:InstitutionName "Rijksarchief België (Leuven)" ;
-            a2a:Place "Leuven" ;
-            a2a:RegistryNumber "40248 / 0_0605" ] ;
-    a2a:SourceRemarkOpmerking "Huwelijkscontract bij notaris Emile Lamal te Merchtem op 18/10/1891" ;
-    a2a:SourceRemarkProvenance "DemogenVlaamsBrabant19b.mdb > mdb-export > abl/demogen/csv2a2a.pl" ;
-    a2a:SourceRemarkVrijwilliger "Demogen Vlaams-Brabant en Brussel (project huvlb19b)" ;
-    a2a:SourceRemarklink_NT "https://search.arch.be/nl/zoeken-naar-archieven/zoekresultaat/inventaris/inleiding/eadid/BE-A0518_112302_110913_DUT/inventarisnr/IRS0002946040248/level/file" ;
-    a2a:SourceType "BS Huwelijk" ;
-    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1792-01-01"^^xsd:date ;
-            a2a:SourceIndexDateTo "1919-12-31"^^xsd:date ] .
 
 oa:event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1 a a2a:Event ;
     rdfs:label "Huwelijk" ;

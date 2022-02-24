@@ -8,16 +8,16 @@
 oa:record_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 a a2a:Record ;
     rdfs:label "Huwelijk op 6 mei 1846 te 's-Gravenhage" ;
     a2a:hasEvent oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:hasPerson oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644057,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644058,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644059,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644060,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644061,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644062,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644063,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644064,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644065,
-        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644066 ;
+    a2a:hasPerson oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248,
+        oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249 ;
     a2a:hasRelationEP oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_0,
         oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_1,
         oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_2,
@@ -30,152 +30,70 @@ oa:record_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 a a2a:Record ;
         oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_9 ;
     a2a:hasSource oa:source_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 .
 
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644057 a a2a:Person ;
-    rdfs:label "Alijda van Veen" ;
-    a2a:Age [ rdfs:label "36 jaar" ;
-            a2a:PersonAgeLiteral "36 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Alijda van Veen" ;
-            a2a:PersonNameFirstName "Alijda" ;
-            a2a:PersonNameLastName "Veen" ;
-            a2a:PersonNamePrefixLastName "van" ] ;
-    a2a:Profession "dienstbode" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644058 a a2a:Person ;
-    rdfs:label "Jan Hendrik Regenboog" ;
-    a2a:Age [ rdfs:label "28 jaar" ;
-            a2a:PersonAgeLiteral "28 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Jan Hendrik Regenboog" ;
-            a2a:PersonNameFirstName "Jan Hendrik" ;
-            a2a:PersonNameLastName "Regenboog" ] ;
-    a2a:Profession "boekbinder" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644059 a a2a:Person ;
-    rdfs:label "Jan Hendrik van Ingen" ;
-    a2a:Age [ rdfs:label "52 jaar" ;
-            a2a:PersonAgeLiteral "52 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Jan Hendrik van Ingen" ;
-            a2a:PersonNameFirstName "Jan Hendrik" ;
-            a2a:PersonNameLastName "Ingen" ;
-            a2a:PersonNamePrefixLastName "van" ] ;
-    a2a:Profession "conciërge" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644060 a a2a:Person ;
-    rdfs:label "Wilhelmus Ratering" ;
-    a2a:Age [ rdfs:label "33 jaar" ;
-            a2a:PersonAgeLiteral "33 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Wilhelmus Ratering" ;
-            a2a:PersonNameFirstName "Wilhelmus" ;
-            a2a:PersonNameLastName "Ratering" ] ;
-    a2a:Profession "boekbinder" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644061 a a2a:Person ;
-    rdfs:label "Gerrit Reppel" ;
-    a2a:Age [ rdfs:label "36 jaar" ;
-            a2a:PersonAgeLiteral "36 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Gerrit Reppel" ;
-            a2a:PersonNameFirstName "Gerrit" ;
-            a2a:PersonNameLastName "Reppel" ] ;
-    a2a:Profession "kleermaker" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644062 a a2a:Person ;
-    rdfs:label "Adrianus Hermanus Ritter" ;
-    a2a:Age [ rdfs:label "24 jaar" ;
-            a2a:PersonAgeLiteral "24 jaar" ] ;
-    a2a:PersonName [ rdfs:label "Adrianus Hermanus Ritter" ;
-            a2a:PersonNameFirstName "Adrianus Hermanus" ;
-            a2a:PersonNameLastName "Ritter" ] ;
-    a2a:Profession "boekbinder" .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644063 a a2a:Person ;
-    rdfs:label "Johanna Staal" ;
-    a2a:PersonName [ rdfs:label "Johanna Staal" ;
-            a2a:PersonNameFirstName "Johanna" ;
-            a2a:PersonNameLastName "Staal" ] .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644064 a a2a:Person ;
-    rdfs:label "Petronella Jacomina Giebert" ;
-    a2a:PersonName [ rdfs:label "Petronella Jacomina Giebert" ;
-            a2a:PersonNameFirstName "Petronella Jacomina" ;
-            a2a:PersonNameLastName "Giebert" ] .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644065 a a2a:Person ;
-    rdfs:label "Cornelis van Veen" ;
-    a2a:PersonName [ rdfs:label "Cornelis van Veen" ;
-            a2a:PersonNameFirstName "Cornelis" ;
-            a2a:PersonNameLastName "Veen" ;
-            a2a:PersonNamePrefixLastName "van" ] .
-
-oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2389644066 a a2a:Person ;
-    rdfs:label "Jonas Regenboog" ;
-    a2a:PersonName [ rdfs:label "Jonas Regenboog" ;
-            a2a:PersonNameFirstName "Jonas" ;
-            a2a:PersonNameLastName "Regenboog" ] ;
-    a2a:Profession "zilversmid" .
-
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_0 a a2a:RelationEP ;
     rdfs:label "Bruidegom" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241 ;
     a2a:RelationType "Bruidegom" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_1 a a2a:RelationEP ;
     rdfs:label "Vader van de bruidegom" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249 ;
     a2a:RelationType "Vader van de bruidegom" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_2 a a2a:RelationEP ;
     rdfs:label "Moeder van de bruidegom" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247 ;
     a2a:RelationType "Moeder van de bruidegom" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_3 a a2a:RelationEP ;
     rdfs:label "Bruid" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240 ;
     a2a:RelationType "Bruid" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_4 a a2a:RelationEP ;
     rdfs:label "Vader van de bruid" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248 ;
     a2a:RelationType "Vader van de bruid" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_5 a a2a:RelationEP ;
     rdfs:label "Moeder van de bruid" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246 ;
     a2a:RelationType "Moeder van de bruid" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_6 a a2a:RelationEP ;
     rdfs:label "Getuige" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242 ;
     a2a:RelationType "Getuige" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_7 a a2a:RelationEP ;
     rdfs:label "Getuige" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243 ;
     a2a:RelationType "Getuige" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_8 a a2a:RelationEP ;
     rdfs:label "Getuige" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244 ;
     a2a:RelationType "Getuige" .
 
 oa:relationep_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_9 a a2a:RelationEP ;
     rdfs:label "Getuige" ;
     a2a:EventKeyRef oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 ;
-    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_ ;
+    a2a:PersonKeyRef oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245 ;
     a2a:RelationType "Getuige" .
 
 oa:source_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 a a2a:Source ;
     rdfs:label "Haags Gemeentearchief, BS Huwelijk" ;
     a2a:RecordGUID "{F6619DCA-BE62-4A37-B09D-960CB8900393}" ;
-    a2a:RecordIdentifier "2389644056" ;
+    a2a:RecordIdentifier "2433959239" ;
     a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
             a2a:OrderSequenceNumber "1" ;
             a2a:Uri "https://proxy.archieven.nl/download/59/FD1FACB61E2F4A43B2A4F8A416100AA9" ;
@@ -187,7 +105,7 @@ oa:source_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 a a2a:Source ;
             a2a:Month "05" ;
             a2a:Year "1846" ] ;
     a2a:SourceDigitalOriginal "https://hdl.handle.net/21.12124/F6619DCABE624A37B09D960CB8900393" ;
-    a2a:SourceLastChangeDate "2021-10-28"^^xsd:date ;
+    a2a:SourceLastChangeDate "2021-11-27"^^xsd:date ;
     a2a:SourcePlace [ rdfs:label "'s-Gravenhage, Nederland",
                 "1846-05-06 - 1846-05-06" ;
             a2a:Country "Nederland" ;
@@ -203,6 +121,88 @@ oa:source_hga_F6619DCA-BE62-4A37-B09D-960CB8900393 a a2a:Source ;
     a2a:SourceType "BS Huwelijk" ;
     a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1846-05-06"^^xsd:date ;
             a2a:SourceIndexDateTo "1846-05-06"^^xsd:date ] .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240 a a2a:Person ;
+    rdfs:label "Alijda van Veen" ;
+    a2a:Age [ rdfs:label "36 jaar" ;
+            a2a:PersonAgeLiteral "36 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Alijda van Veen" ;
+            a2a:PersonNameFirstName "Alijda" ;
+            a2a:PersonNameLastName "Veen" ;
+            a2a:PersonNamePrefixLastName "van" ] ;
+    a2a:Profession "dienstbode" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241 a a2a:Person ;
+    rdfs:label "Jan Hendrik Regenboog" ;
+    a2a:Age [ rdfs:label "28 jaar" ;
+            a2a:PersonAgeLiteral "28 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Jan Hendrik Regenboog" ;
+            a2a:PersonNameFirstName "Jan Hendrik" ;
+            a2a:PersonNameLastName "Regenboog" ] ;
+    a2a:Profession "boekbinder" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242 a a2a:Person ;
+    rdfs:label "Jan Hendrik van Ingen" ;
+    a2a:Age [ rdfs:label "52 jaar" ;
+            a2a:PersonAgeLiteral "52 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Jan Hendrik van Ingen" ;
+            a2a:PersonNameFirstName "Jan Hendrik" ;
+            a2a:PersonNameLastName "Ingen" ;
+            a2a:PersonNamePrefixLastName "van" ] ;
+    a2a:Profession "conciërge" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243 a a2a:Person ;
+    rdfs:label "Wilhelmus Ratering" ;
+    a2a:Age [ rdfs:label "33 jaar" ;
+            a2a:PersonAgeLiteral "33 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Wilhelmus Ratering" ;
+            a2a:PersonNameFirstName "Wilhelmus" ;
+            a2a:PersonNameLastName "Ratering" ] ;
+    a2a:Profession "boekbinder" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244 a a2a:Person ;
+    rdfs:label "Gerrit Reppel" ;
+    a2a:Age [ rdfs:label "36 jaar" ;
+            a2a:PersonAgeLiteral "36 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Gerrit Reppel" ;
+            a2a:PersonNameFirstName "Gerrit" ;
+            a2a:PersonNameLastName "Reppel" ] ;
+    a2a:Profession "kleermaker" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245 a a2a:Person ;
+    rdfs:label "Adrianus Hermanus Ritter" ;
+    a2a:Age [ rdfs:label "24 jaar" ;
+            a2a:PersonAgeLiteral "24 jaar" ] ;
+    a2a:PersonName [ rdfs:label "Adrianus Hermanus Ritter" ;
+            a2a:PersonNameFirstName "Adrianus Hermanus" ;
+            a2a:PersonNameLastName "Ritter" ] ;
+    a2a:Profession "boekbinder" .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246 a a2a:Person ;
+    rdfs:label "Johanna Staal" ;
+    a2a:PersonName [ rdfs:label "Johanna Staal" ;
+            a2a:PersonNameFirstName "Johanna" ;
+            a2a:PersonNameLastName "Staal" ] .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247 a a2a:Person ;
+    rdfs:label "Petronella Jacomina Giebert" ;
+    a2a:PersonName [ rdfs:label "Petronella Jacomina Giebert" ;
+            a2a:PersonNameFirstName "Petronella Jacomina" ;
+            a2a:PersonNameLastName "Giebert" ] .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248 a a2a:Person ;
+    rdfs:label "Cornelis van Veen" ;
+    a2a:PersonName [ rdfs:label "Cornelis van Veen" ;
+            a2a:PersonNameFirstName "Cornelis" ;
+            a2a:PersonNameLastName "Veen" ;
+            a2a:PersonNamePrefixLastName "van" ] .
+
+oa:person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249 a a2a:Person ;
+    rdfs:label "Jonas Regenboog" ;
+    a2a:PersonName [ rdfs:label "Jonas Regenboog" ;
+            a2a:PersonNameFirstName "Jonas" ;
+            a2a:PersonNameLastName "Regenboog" ] ;
+    a2a:Profession "zilversmid" .
 
 oa:event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1 a a2a:Event ;
     rdfs:label "Huwelijk" ;

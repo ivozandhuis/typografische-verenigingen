@@ -1,5 +1,6 @@
 #! /usr/bin/env python3
 # Analyzing data/liedjes
+# With thanks to Karsdorp, Kestemont and Riddell 2021
 
 import os
 import nltk
@@ -28,7 +29,8 @@ def read_data(csvfile):
 
 
 def texts2list(rootdir):
-	# Result: A list where every item is the TXT of a file in directory and subdirectories of _rootdir_
+	# Result: A list where every item is the TXT of a file in directory and subdirectories of _rootdir_ ...
+	# ... lexicographically ordered on path-name.
 	texts = []
 	files_all = []
 	for subdir, dirs, files in os.walk(rootdir):
@@ -65,7 +67,7 @@ def preprocess_text(string):
 	return tokens
 
 def extract_vocabulary(tokenized_corpus, min_count=1, max_count=float('inf')):
-	# Result: list of words derived from a list of lists of strings
+	# Result: list of unique words derived from a list of lists of strings
 	vocabulary = collections.Counter()
 	for document in tokenized_corpus:
 		vocabulary.update(document)
@@ -78,7 +80,7 @@ def extract_vocabulary(tokenized_corpus, min_count=1, max_count=float('inf')):
 
 def corpus2dtm(tokenized_corpus, vocabulary):
 	# Result: Document Term Matrix: 
-	# rows being documents, columns being the words, 
+	# rows being documents in tokenized_corpus, columns being the words in vocabulary, 
 	# values being the count of the word in the document
 	document_term_matrix = []
 	for document in tokenized_corpus:
@@ -91,13 +93,21 @@ def corpus2dtm(tokenized_corpus, vocabulary):
 ##########
 
 liedjes_data = np.array(read_data('../../data/liedjes/liedjes.csv'))
-liedjes_data = liedjes_data[liedjes_data[:, 1].argsort()]
+
+# order lexicographically on identifier just like the textlist (so index in textlist is about the same document as row in the data):
+liedjes_data = liedjes_data[liedjes_data[:, 1].argsort()] 
 
 liedjes_textlist = texts2list('../../data/liedjes')
 tokenized_liedjes = [preprocess_text(liedje) for liedje in liedjes_textlist]
 vocabulary_liedjes = extract_vocabulary(tokenized_liedjes, min_count=2)
 dtm_liedjes = np.array(corpus2dtm(tokenized_liedjes, vocabulary_liedjes))
 
-print(len(liedjes_data[:, 1]))
-print(len(liedjes_textlist))
-print(dtm_liedjes.shape)
+n=100
+print(f"Created document-term matrix with {dtm_liedjes.shape[0]} liedjes and {dtm_liedjes.shape[1]} words.")
+print(f"E.g.: liedje {n}:")
+print(liedjes_data[n])
+print(liedjes_textlist[n])
+print(tokenized_liedjes[n])
+print(dtm_liedjes[n])
+
+

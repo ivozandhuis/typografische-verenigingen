@@ -30,6 +30,72 @@ oa:record_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Record ;
             a2a:PersonNameFirstName "Johannes Wilhelmus" ;
             a2a:PersonNameLastName "Bertrums" ] .
 
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_0 a a2a:RelationEP ;
+    rdfs:label "Bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
+    a2a:RelationType "Bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_1 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> ;
+    a2a:RelationType "Vader van de bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_2 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruidegom" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> ;
+    a2a:RelationType "Moeder van de bruidegom" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_3 a a2a:RelationEP ;
+    rdfs:label "Bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> ;
+    a2a:RelationType "Bruid" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_4 a a2a:RelationEP ;
+    rdfs:label "Vader van de bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> ;
+    a2a:RelationType "Vader van de bruid" .
+
+oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_5 a a2a:RelationEP ;
+    rdfs:label "Moeder van de bruid" ;
+    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
+    a2a:PersonKeyRef <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> ;
+    a2a:RelationType "Moeder van de bruid" .
+
+oa:source_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Source ;
+    rdfs:label "AlleFriezen, BS Huwelijk" ;
+    a2a:RecordGUID "{8047b633-e017-ff25-3d95-8fb0d8f9322e}" ;
+    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
+            a2a:OrderSequenceNumber "1" ;
+            a2a:Uri "https://tresoar-images.memorix.nl/frl/thumb/640x480/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
+            a2a:UriPreview "https://tresoar-images.memorix.nl/frl/thumb/250x250/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
+            a2a:UriViewer "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ] ;
+    a2a:SourceDate [ rdfs:label "1940-09-18"^^xsd:date ;
+            a2a:Day "18" ;
+            a2a:Month "9" ;
+            a2a:Year "1940" ] ;
+    a2a:SourceDigitalOriginal "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ;
+    a2a:SourceLastChangeDate "2020-09-30"^^xsd:date ;
+    a2a:SourcePlace [ rdfs:label "1940-09-18 - 1940-09-18",
+                "Leeuwarden" ;
+            a2a:Place "Leeuwarden" ] ;
+    a2a:SourceReference [ rdfs:label "AlleFriezen, Leeuwarden, Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..., Huwelijksregister 1940, 0353, 3665" ;
+            a2a:Book "Huwelijksregister 1940" ;
+            a2a:Collection "Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..." ;
+            a2a:DocumentNumber "0353" ;
+            a2a:InstitutionName "AlleFriezen" ;
+            a2a:Place "Leeuwarden" ;
+            a2a:RegistryNumber "3665" ] ;
+    a2a:SourceRemarkAkteSoort "Huwelijksakte" ;
+    a2a:SourceRemarkProvenance "A2Acollection oai-pmh_20220124_1456_00001456.xml van FRL" ;
+    a2a:SourceType "BS Huwelijk" ;
+    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1940-09-18"^^xsd:date ;
+            a2a:SourceIndexDateTo "1940-09-18"^^xsd:date ] .
+
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> a a2a:Person ;
     rdfs:label "Roelof Lettinga" ;
     a2a:Gender "Man" ;
@@ -89,72 +155,6 @@ oa:record_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Record ;
     a2a:Profession "drukker" ;
     a2a:Residence [ rdfs:label "Leeuwarden" ;
             a2a:Place "Leeuwarden" ] .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_0 a a2a:RelationEP ;
-    rdfs:label "Bruidegom" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Bruidegom" .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_1 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruidegom" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Vader van de bruidegom" .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_2 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruidegom" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Moeder van de bruidegom" .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_3 a a2a:RelationEP ;
-    rdfs:label "Bruid" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Bruid" .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_4 a a2a:RelationEP ;
-    rdfs:label "Vader van de bruid" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Vader van de bruid" .
-
-oa:relationep_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_5 a a2a:RelationEP ;
-    rdfs:label "Moeder van de bruid" ;
-    a2a:EventKeyRef oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 ;
-    a2a:PersonKeyRef oa:person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_ ;
-    a2a:RelationType "Moeder van de bruid" .
-
-oa:source_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e a a2a:Source ;
-    rdfs:label "AlleFriezen, BS Huwelijk" ;
-    a2a:RecordGUID "{8047b633-e017-ff25-3d95-8fb0d8f9322e}" ;
-    a2a:SourceAvailableScans [ a a2a:SourceAvailableScans ;
-            a2a:OrderSequenceNumber "1" ;
-            a2a:Uri "https://tresoar-images.memorix.nl/frl/thumb/640x480/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
-            a2a:UriPreview "https://tresoar-images.memorix.nl/frl/thumb/250x250/d9b89c6a-8700-22a5-0fd4-07ad99de499c.jpg" ;
-            a2a:UriViewer "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ] ;
-    a2a:SourceDate [ rdfs:label "1940-09-18"^^xsd:date ;
-            a2a:Day "18" ;
-            a2a:Month "9" ;
-            a2a:Year "1940" ] ;
-    a2a:SourceDigitalOriginal "http://allefriezen.nl/zoeken/deeds/8047b633-e017-ff25-3d95-8fb0d8f9322e" ;
-    a2a:SourceLastChangeDate "2020-09-30"^^xsd:date ;
-    a2a:SourcePlace [ rdfs:label "1940-09-18 - 1940-09-18",
-                "Leeuwarden" ;
-            a2a:Place "Leeuwarden" ] ;
-    a2a:SourceReference [ rdfs:label "AlleFriezen, Leeuwarden, Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..., Huwelijksregister 1940, 0353, 3665" ;
-            a2a:Book "Huwelijksregister 1940" ;
-            a2a:Collection "Archiefnaam: Gemeentebestuur van Leeuwarden, 1811-1941 - Historisch Centrum Leeuwarden, Bron: boe..." ;
-            a2a:DocumentNumber "0353" ;
-            a2a:InstitutionName "AlleFriezen" ;
-            a2a:Place "Leeuwarden" ;
-            a2a:RegistryNumber "3665" ] ;
-    a2a:SourceRemarkAkteSoort "Huwelijksakte" ;
-    a2a:SourceRemarkProvenance "A2Acollection oai-pmh_20210901_28652_00028652.xml van FRL" ;
-    a2a:SourceType "BS Huwelijk" ;
-    a2a:a2a_SourceIndexDate [ a2a:SourceIndexDateFrom "1940-09-18"^^xsd:date ;
-            a2a:SourceIndexDateTo "1940-09-18"^^xsd:date ] .
 
 oa:event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1 a a2a:Event ;
     rdfs:label "Huwelijk" ;
