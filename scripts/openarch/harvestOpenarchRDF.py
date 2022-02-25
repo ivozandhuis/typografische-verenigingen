@@ -38,5 +38,7 @@ def harvestOpenarch(filename):
             g = resolveURI(uri)
             g.serialize(destination = outfile, format="ttl")
 
-harvestOpenarch("aktes")
+harvestOpenarch("huwelijksaktes")
+harvestOpenarch("overlijdensaktes")
+harvestOpenarch("geboorteaktes")
 

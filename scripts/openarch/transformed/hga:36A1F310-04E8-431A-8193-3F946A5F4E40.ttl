@@ -1,59 +1,84 @@
-@prefix ns1: <http://schema.org/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554570> a ns1:Person ;
-    rdfs:label "Gerritje van Maanen" ;
-    ns1:familyName "Maanen" ;
-    ns1:givenName "Gerritje" .
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> a ns1:Marriage ;
+    rdfs:label "Huwelijk op 10 mei 1837 te 's-Gravenhage" ;
+    ns1:bride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> ;
+    ns1:eventDate "1837-05-10"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> ;
+    ns1:groom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> ;
+    ns1:registrationID "event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554571> a ns1:Person ;
-    rdfs:label "Christiaan Regenboog" ;
-    ns1:familyName "Regenboog" ;
-    ns1:givenName "Christiaan" .
-
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554572> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> a ns2:Person ;
     rdfs:label "Mattheus Willem Adams" ;
-    ns1:familyName "Adams" ;
-    ns1:givenName "Mattheus Willem" .
+    ns2:familyName "Adams" ;
+    ns2:givenName "Mattheus Willem" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554573> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> a ns2:Person ;
     rdfs:label "Cornelis Johannes van den Broek" ;
-    ns1:familyName "Broek" ;
-    ns1:givenName "Cornelis Johannes" .
+    ns2:familyName "Broek" ;
+    ns2:givenName "Cornelis Johannes" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554574> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> a ns2:Person ;
     rdfs:label "Hermanus Johannes van der Burgh" ;
-    ns1:familyName "Burgh" ;
-    ns1:givenName "Hermanus Johannes" .
+    ns2:familyName "Burgh" ;
+    ns2:givenName "Hermanus Johannes" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554575> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> a ns2:Person ;
     rdfs:label "Johannes Carel van Leeuwen" ;
-    ns1:familyName "Leeuwen" ;
-    ns1:givenName "Johannes Carel" .
+    ns2:familyName "Leeuwen" ;
+    ns2:givenName "Johannes Carel" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554576> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> a ns2:Person ;
+    rdfs:label "Gerritje van Maanen" ;
+    ns2:familyName "Maanen" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Gerritje" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> a ns2:Person ;
+    rdfs:label "Christiaan Regenboog" ;
+    ns2:familyName "Regenboog" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Christiaan" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026" .
+
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> a ns2:Person ;
     rdfs:label "Grietje Willigenburg" ;
-    ns1:familyName "Willigenburg" ;
-    ns1:givenName "Grietje" .
+    ns2:familyName "Willigenburg" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Grietje" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554577> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> a ns2:Person ;
     rdfs:label "Pieternella Jacomina Giebert" ;
-    ns1:familyName "Giebert" ;
-    ns1:givenName "Pieternella Jacomina" .
+    ns2:familyName "Giebert" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Pieternella Jacomina" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554578> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> a ns2:Person ;
     rdfs:label "Harmen Bransen van Maanen" ;
-    ns1:familyName "Maanen" ;
-    ns1:givenName "Harmen Bransen" .
+    ns2:familyName "Maanen" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Harmen Bransen" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033" .
 
-<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2389554579> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> a ns2:Person ;
     rdfs:label "Jonas Regenboog" ;
-    ns1:familyName "Regenboog" ;
-    ns1:givenName "Jonas" .
-
-<https://www.openarch.nl/id/record_hga_36A1F310-04E8-431A-8193-3F946A5F4E40> a <https://iisg.amsterdam/id/civ/Marriage> ;
-    rdfs:label "Huwelijk op 10 mei 1837 te 's-Gravenhage" .
+    ns2:familyName "Regenboog" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Jonas" ;
+    ns1:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034" .
 

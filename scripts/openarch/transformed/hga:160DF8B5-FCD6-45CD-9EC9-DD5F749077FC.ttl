@@ -1,59 +1,84 @@
-@prefix ns1: <http://schema.org/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> a ns1:Person ;
-    rdfs:label "Hendrika Johanna Vreeswijk" ;
-    ns1:familyName "Vreeswijk" ;
-    ns1:givenName "Hendrika Johanna" .
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> a ns1:Marriage ;
+    rdfs:label "Huwelijk op 7 december 1831 te 's-Gravenhage" ;
+    ns1:bride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> ;
+    ns1:eventDate "1831-12-07"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> ;
+    ns1:groom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> ;
+    ns1:registrationID "event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1" .
 
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> a ns1:Person ;
-    rdfs:label "Andreas Doesburg" ;
-    ns1:familyName "Doesburg" ;
-    ns1:givenName "Andreas" .
-
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> a ns2:Person ;
     rdfs:label "Andries Bloklander" ;
-    ns1:familyName "Bloklander" ;
-    ns1:givenName "Andries" .
+    ns2:familyName "Bloklander" ;
+    ns2:givenName "Andries" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272" .
 
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> a ns2:Person ;
     rdfs:label "Hendrik Eskens" ;
-    ns1:familyName "Eskens" ;
-    ns1:givenName "Hendrik" .
+    ns2:familyName "Eskens" ;
+    ns2:givenName "Hendrik" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273" .
 
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> a ns1:Person ;
-    rdfs:label "Henricus Doesburg" ;
-    ns1:familyName "Doesburg" ;
-    ns1:givenName "Henricus" .
-
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> a ns2:Person ;
     rdfs:label "Coenraad Nicolaas" ;
-    ns1:familyName "Nicolaas" ;
-    ns1:givenName "Coenraad" .
+    ns2:familyName "Nicolaas" ;
+    ns2:givenName "Coenraad" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275" .
 
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> a ns1:Person ;
-    rdfs:label "Johanna Bergmans" ;
-    ns1:familyName "Bergmans" ;
-    ns1:givenName "Johanna" .
-
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> a ns1:Person ;
-    rdfs:label "Francisca Garnier" ;
-    ns1:familyName "Garnier" ;
-    ns1:givenName "Francisca" .
-
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> a ns1:Person ;
-    rdfs:label "Bastiaan Vreeswijk" ;
-    ns1:familyName "Vreeswijk" ;
-    ns1:givenName "Bastiaan" .
-
-<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> a ns2:Person ;
     rdfs:label "Hermanus Hellendoorn" ;
-    ns1:familyName "Hellendoorn" ;
-    ns1:givenName "Hermanus" .
+    ns2:familyName "Hellendoorn" ;
+    ns2:givenName "Hermanus" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279" .
 
-<https://www.openarch.nl/id/record_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC> a <https://iisg.amsterdam/id/civ/Marriage> ;
-    rdfs:label "Huwelijk op 7 december 1831 te 's-Gravenhage" .
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> a ns2:Person ;
+    rdfs:label "Hendrika Johanna Vreeswijk" ;
+    ns2:familyName "Vreeswijk" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Hendrika Johanna" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> a ns2:Person ;
+    rdfs:label "Andreas Doesburg" ;
+    ns2:familyName "Doesburg" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Andreas" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> a ns2:Person ;
+    rdfs:label "Henricus Doesburg" ;
+    ns2:familyName "Doesburg" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Henricus" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> a ns2:Person ;
+    rdfs:label "Johanna Bergmans" ;
+    ns2:familyName "Bergmans" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Johanna" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> a ns2:Person ;
+    rdfs:label "Francisca Garnier" ;
+    ns2:familyName "Garnier" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Francisca" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277" .
+
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> a ns2:Person ;
+    rdfs:label "Bastiaan Vreeswijk" ;
+    ns2:familyName "Vreeswijk" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Bastiaan" ;
+    ns1:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278" .
 

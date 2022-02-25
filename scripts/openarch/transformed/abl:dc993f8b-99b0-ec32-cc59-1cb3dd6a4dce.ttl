@@ -1,59 +1,84 @@
-@prefix ns1: <http://schema.org/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> a ns1:Person ;
-    rdfs:label "Philomena Rosalia De Block" ;
-    ns1:familyName "De Block" ;
-    ns1:givenName "Philomena Rosalia" .
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> a ns1:Marriage ;
+    rdfs:label "Huwelijk op 21 oktober 1891 te Merchtem (België)" ;
+    ns1:bride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> ;
+    ns1:eventDate "1891-10-21"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> ;
+    ns1:groom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> ;
+    ns1:registrationID "event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1" .
 
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> a ns1:Person ;
-    rdfs:label "Cornelius Van den Meersch" ;
-    ns1:familyName "Van den Meersch" ;
-    ns1:givenName "Cornelius" .
-
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> a ns1:Person ;
-    rdfs:label "Joanna Maria Verbelen" ;
-    ns1:familyName "Verbelen" ;
-    ns1:givenName "Joanna Maria" .
-
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> a ns1:Person ;
-    rdfs:label "Cornelius De Block" ;
-    ns1:familyName "De Block" ;
-    ns1:givenName "Cornelius" .
-
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> a ns1:Person ;
-    rdfs:label "Joanna Cornelia Heyvaert" ;
-    ns1:familyName "Heyvaert" ;
-    ns1:givenName "Joanna Cornelia" .
-
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> a ns1:Person ;
-    rdfs:label "Egidius Ludovicus Van den Meersch" ;
-    ns1:familyName "Van den Meersch" ;
-    ns1:givenName "Egidius Ludovicus" .
-
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> a ns1:Person ;
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> a ns2:Person ;
     rdfs:label "Petrus Benediktus Mertens" ;
-    ns1:familyName "Mertens" ;
-    ns1:givenName "Petrus Benediktus" .
+    ns2:familyName "Mertens" ;
+    ns2:givenName "Petrus Benediktus" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222" .
 
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> a ns1:Person ;
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> a ns2:Person ;
     rdfs:label "Josephus De Donder" ;
-    ns1:familyName "De Donder" ;
-    ns1:givenName "Josephus" .
+    ns2:familyName "De Donder" ;
+    ns2:givenName "Josephus" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232" .
 
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> a ns1:Person ;
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> a ns2:Person ;
     rdfs:label "Achille Dieudonné" ;
-    ns1:familyName "Dieudonné" ;
-    ns1:givenName "Achille" .
+    ns2:familyName "Dieudonné" ;
+    ns2:givenName "Achille" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242" .
 
-<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> a ns1:Person ;
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> a ns2:Person ;
     rdfs:label "Florent Goossens" ;
-    ns1:familyName "Goossens" ;
-    ns1:givenName "Florent" .
+    ns2:familyName "Goossens" ;
+    ns2:givenName "Florent" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252" .
 
-<https://www.openarch.nl/id/record_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce> a <https://iisg.amsterdam/id/civ/Marriage> ;
-    rdfs:label "Huwelijk op 21 oktober 1891 te Merchtem (België)" .
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> a ns2:Person ;
+    rdfs:label "Philomena Rosalia De Block" ;
+    ns2:familyName "De Block" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Philomena Rosalia" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942" .
+
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> a ns2:Person ;
+    rdfs:label "Cornelius Van den Meersch" ;
+    ns2:familyName "Van den Meersch" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Cornelius" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492" .
+
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> a ns2:Person ;
+    rdfs:label "Joanna Maria Verbelen" ;
+    ns2:familyName "Verbelen" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Joanna Maria" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992" .
+
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> a ns2:Person ;
+    rdfs:label "Cornelius De Block" ;
+    ns2:familyName "De Block" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Cornelius" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492" .
+
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> a ns2:Person ;
+    rdfs:label "Joanna Cornelia Heyvaert" ;
+    ns2:familyName "Heyvaert" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Joanna Cornelia" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992" .
+
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> a ns2:Person ;
+    rdfs:label "Egidius Ludovicus Van den Meersch" ;
+    ns2:familyName "Van den Meersch" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Egidius Ludovicus" ;
+    ns1:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442" .
 
