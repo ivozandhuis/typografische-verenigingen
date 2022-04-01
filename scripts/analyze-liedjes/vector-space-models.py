@@ -14,9 +14,9 @@ import csv
 nltk.download('punkt', quiet=True)
 
 def read_data(csvfile):
-	# Result: list of lists, without header
+	# Result: list (= row) of lists, without header.
 	data = []
-	headers=True
+	headers = True
 	with open(csvfile) as stream:
 		reader = csv.reader(stream, delimiter=',')
 		for row in reader:
@@ -31,7 +31,6 @@ def read_data(csvfile):
 def texts2list(rootdir):
 	# Result: A list where every item is the TXT of a file in directory and subdirectories of _rootdir_ ...
 	# ... lexicographically ordered on path-name.
-	texts = []
 	files_all = []
 	for subdir, dirs, files in os.walk(rootdir):
 		for file in files:
@@ -42,6 +41,7 @@ def texts2list(rootdir):
 
 	files_all = sorted(files_all)
 
+	texts = []
 	for file in files_all:
 		with open(file) as stream:
 			text = stream.read()
@@ -58,7 +58,7 @@ def remove_diacritics(string):
 	return unidecode.unidecode(string)
 
 def preprocess_text(string):
-	# Result: list of tokens in a string
+	# Result: list of tokens in a string (= "tokenized corpus")
 	string = string.lower()
 	tokens = nltk.tokenize.word_tokenize(string, language="dutch")
 	tokens = [token for token in tokens if not is_punctuation(token)]
@@ -92,10 +92,8 @@ def corpus2dtm(tokenized_corpus, vocabulary):
 
 ##########
 
-liedjes_data = np.array(read_data('../../data/liedjes/liedjes.csv'))
-
-# order lexicographically on identifier just like the textlist (so index in textlist is about the same document as row in the data):
-liedjes_data = liedjes_data[liedjes_data[:, 1].argsort()] 
+liedjes_data = np.array(read_data('../../data/liedjes/liedjes.csv')) # create np.array to be able to order lexicographically
+liedjes_data = liedjes_data[liedjes_data[:, 1].argsort()] # order lexicographically on identifier just like the textlist
 
 liedjes_textlist = texts2list('../../data/liedjes')
 tokenized_liedjes = [preprocess_text(liedje) for liedje in liedjes_textlist]
