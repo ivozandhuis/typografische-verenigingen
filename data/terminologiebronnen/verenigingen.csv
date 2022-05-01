@@ -1,38 +1,38 @@
-code,naam,plaats,oprichting,KB-datum,KB-nr
-groningen1826,Gruno,Groningen,1826,,
-breda1837,Door Eendracht T'zaam Verbonden,Breda,1837,,
-denhaag1843,Door Eendracht T'zaam Verbonden,Den Haag,1843,,
-middelburg1847,Harmonie en Vriendschap,Middelburg,1847,,
-denhaag1848,Nut en Genoegen,Den Haag,1848,,
-amsterdam1849,Voorzorg en Genoegen,Amsterdam,1849,,
-arnhem1849,"Boekdrukkunst, de Grondzuil der Verlichting",Arnhem,1849,,
-denbosch1849,Door Eendracht T'zaam Verbonden,Den Bosch,1849,,
-leeuwarden1849,,Leeuwarden,1849,,
-rotterdam1849,"Door Koster's Fakkel voorgelicht, is deze vriendenkring gesticht",Rotterdam,1849,,
-haarlem1851,Tot Nut en Gezellig Verkeer,Haarlem,1851,,
-utrecht1851,Nut en Genoegen,Utrecht,1851,1901-06-03,64
-tiel1852,Onderling Hulpbetoon,Tiel,1852,1879-03-06,25
-arnhem1853,De Eendracht,Arnhem,1853,,
-goes1854,Lourens Jansz. Coster,Goes,1854,,
-leiden1854,Lourens Jansz. Coster,Leiden,1854,,
-gorinchem1856,Nut en voorzorg,Gorinchem,1856,,
-amsterdam1857-1,"de Nederlandsche drukpers, ",Amsterdam,1857,1889-04-10,17
-amsterdam1857-2,toneelvereeniging Coster,Amsterdam,1857,1902-05-31,42
-rotterdam1857,Hoe schoon is het broeders vereenigd te zien,Rotterdam,1857,,
-leeuwarden1859,Vriendentrouw,Leeuwarden,1859,,
-sneek1860,Lourens Coster,Sneek,1860,,
-utrecht1860,ANTHV,Utrecht,1860,,
-nijmegen1862,Broederhulp,Nijmegen,1862,1888-08-05,41
-arnhem1869,De Eendracht,Arnhem,1869,,
-denhaag1869,"""Prudentia et Caritate"" (Uit eigen voorzorg en liefde tot elkander)",Den Haag,1869,1891-01-07,4
-haarlem1869,de Phenix,Haarlem,1869,,
-leeuwarden1877,Nut en Genoegen,Leeuwarden,1877,,
-amsterdam1879,Tot bevordering van de belangen der Boekdrukkunst,Amsterdam,1879,1879-11-12,47
-arnhem1891,Door samenwerking een,Arnhem,1891,1896-07-06,34
-amsterdam1894,Draagt elkanders lasten,Amsterdam,1894,1900-01-30,33
-assen1900,Laurens Janszoon Coster,Assen,1900,1903-12-08,50
-zwolle1858,Nut door verbroedering,Zwolle,<1858,,
-groningen1861,Lourens Jansz Coster,Groningen,<1861,,
-groningen1888,Het Noorden,Groningen,<1888,,
-amsterdam1895,Voorwaarts,Amsterdam,<1895,,
-deventer1892,Laurens Coster,Deventer,<1892,,
+code,naam,plaats,oprichting,KB-datum,KB-nr,bron?
+groningen1826,Gruno,Groningen,1826,,,y
+breda1837,Door Eendracht T'zaam Verbonden,Breda,1837,,,y
+denhaag1843,Door Eendracht T'zaam Verbonden,Den Haag,1843,,,y
+middelburg1847,Harmonie en Vriendschap,Middelburg,1847,,,y
+denhaag1848,Nut en Genoegen,Den Haag,1848,,,y
+amsterdam1849,Voorzorg en Genoegen,Amsterdam,1849,,,y
+arnhem1849,"Boekdrukkunst, de Grondzuil der Verlichting",Arnhem,1849,,,y
+denbosch1849,Door Eendracht T'zaam Verbonden,Den Bosch,1849,,,y
+leeuwarden1849,,Leeuwarden,1849,,,y
+rotterdam1849,"Door Koster's Fakkel voorgelicht, is deze vriendenkring gesticht",Rotterdam,1849,,,y
+haarlem1851,Tot Nut en Gezellig Verkeer,Haarlem,1851,,,y
+utrecht1851,Nut en Genoegen,Utrecht,1851,1901-06-03,64,y
+tiel1852,Onderling Hulpbetoon,Tiel,1852,1879-03-06,25,y
+arnhem1853,De Eendracht,Arnhem,1853,,,
+goes1854,Lourens Jansz. Coster,Goes,1854,,,y
+leiden1854,Lourens Jansz. Coster,Leiden,1854,,,y
+gorinchem1856,Nut en voorzorg,Gorinchem,1856,,,y
+amsterdam1857-1,"de Nederlandsche drukpers, ",Amsterdam,1857,1889-04-10,17,y
+amsterdam1857-2,toneelvereeniging Coster,Amsterdam,1857,1902-05-31,42,y
+rotterdam1857,Hoe schoon is het broeders vereenigd te zien,Rotterdam,1857,,,y
+leeuwarden1859,Vriendentrouw,Leeuwarden,1859,,,
+sneek1860,Lourens Coster,Sneek,1860,,,y
+ANTHV,ANTHV,Utrecht,1860,,,y
+nijmegen1862,Broederhulp,Nijmegen,1862,1888-08-05,41,y
+arnhem1869,De Eendracht,Arnhem,1869,,,y
+denhaag1869,"""Prudentia et Caritate"" (Uit eigen voorzorg en liefde tot elkander)",Den Haag,1869,1891-01-07,4,y
+haarlem1869,de Phenix,Haarlem,1869,,,y
+leeuwarden1877,Nut en Genoegen,Leeuwarden,1877,,,y
+amsterdam1879,Tot bevordering van de belangen der Boekdrukkunst,Amsterdam,1879,1879-11-12,47,y
+arnhem1891,Door samenwerking een,Arnhem,1891,1896-07-06,34,y
+amsterdam1894,Draagt elkanders lasten,Amsterdam,1894,1900-01-30,33,y
+assen1900,Laurens Janszoon Coster,Assen,1900,1903-12-08,50,y
+zwolle1858,Nut door verbroedering,Zwolle,<1858,,,
+groningen1861,Lourens Jansz Coster,Groningen,<1861,,,
+groningen1888,Het Noorden,Groningen,<1888,,,
+amsterdam1895,Voorwaarts,Amsterdam,<1895,,,
+deventer1892,Laurens Coster,Deventer,<1892,,,
