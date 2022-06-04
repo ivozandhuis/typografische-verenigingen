@@ -1,13 +1,13 @@
 # Using burgerLinker on data from civil registries from OpenArch
 
 ## Step 1: Get list of relevant certificates
-A CSV-file is constructed (for instance by hand) with URL's of relevant certificates. In the CSV-file there must be a column named 'URL' containing the URL of the relevant certificate on OpenArch. In this example three csv-files are available: geboorteaktes.csv, huwelijksaktes.csv and overlijdensakte.csv.
+A CSV-file is constructed (for instance by hand) with URL's of relevant certificates. In the CSV-file there must be a column named 'URL' containing the URL of the relevant certificate on [Open Archives](https://openarch.nl/). In this example three csv-files are available: geboorteaktes.csv, huwelijksaktes.csv and overlijdensaktes.csv.
 
 ## Step 2: Harvest data from OpenArch, using the URL
-Python3 script ```harvestOpenarchRDF.py``` harvests data from the [Open Archives](https://openarch.nl/). The script reads the CSV-file and resolves the URI with accept-header: text/turtle. The result of the harvest is stored in directory "harvested".
+Python3 script ```harvestOpenarchRDF.py``` harvests data from OpenArch. The script reads the CSV-file and resolves the URI with accept-header: text/turtle. The result of the harvest is stored in directory "harvested".
 
 ## Step 3: Harvested data is transformed into civ-format
-Python3 script ```transformOpenarchRDF.py``` uses a SPARQL CONSTRUCT query to transform the data according to the specification to be used in the [burgerLinker](https://github.com/CLARIAH/burgerLinker). The result of the transformation is stored in directory "transformed". It contains separate files for each URI and a combination of all data in geboorteaktes.ttl, huwelijksaktes.ttl and overlijdensaktes.ttl.
+Python3 script ```transformOpenarchRDF.py``` uses a SPARQL CONSTRUCT query to transform the data according to the specification to be used in the [burgerLinker](https://github.com/CLARIAH/burgerLinker). The result of the transformation is stored in directory "transformed". It contains separate files for each URI and a combination of all data per certificate-type in geboorteaktes.ttl, huwelijksaktes.ttl and overlijdensaktes.ttl.
 
 ## Step 4: Using burgerLinker to create HDT-files
 Put the burgerLinker.jar in the same directory as the *.py files.
