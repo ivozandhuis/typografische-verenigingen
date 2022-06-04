@@ -1,0 +1,2 @@
+id_certificate_newborn,id_certificate_partner,family_line,levenshtein_total_newborn,levenshtein_max_newborn,levenshtein_total_mother,levenshtein_max_mother,levenshtein_total_father,levenshtein_max_father,matched_names_newborn,number_names_newborn,number_names_partner,matched_names_mother,number_names_newbornMother,number_names_partnerMother,matched_names_father,number_names_newbornFather,number_names_partnerFather,year_diff
+event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1,event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1,22,0,0,0,0,0,0,2,2,2,2,2,2,1,1,1,73
