@@ -1,15 +1,94 @@
 #! /usr/bin/env python3
 # Python3 transform OpenArch in RDF
 
+# TBD:
+# * change persID into an integer
+# * replace characters
+
 import requests
 import rdflib
 import csv
 
-def transformRDF(filename, query):
+# -----
+def getIDgraph(graph, idStarter):
+
+    # initialize resultgraph
+    gres  = rdflib.Graph()
+
+    # get Persons to add an id to
+    select = """
+        PREFIX schema: <http://schema.org/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+        SELECT * WHERE  { ?ding a schema:Person ; }
+        """
+    result = graph.query(select)
+
+    # add ids
+    id = idStarter
+    for row in result:
+        id = id + 1
+        s = rdflib.URIRef(row.ding)
+        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/persID")
+        gres.add((s, p, rdflib.Literal(id)))
+
+    # get Marriages to add an id to
+    select = """
+        PREFIX schema: <http://schema.org/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+        PREFIX civ: <https://iisg.amsterdam/id/civ/>
+        SELECT * WHERE  { ?ding a civ:Marriage ; }
+        """
+    result = graph.query(select)
+
+    # add ids
+    id = round (idStarter + (idStarter/10))
+    for row in result:
+        id = id + 1
+        s = rdflib.URIRef(row.ding)
+        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/registrationID")
+        gres.add((s, p, rdflib.Literal(id)))
+
+    # get Births to add an id to
+    select = """
+        PREFIX schema: <http://schema.org/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+        PREFIX civ: <https://iisg.amsterdam/id/civ/>
+        SELECT * WHERE  { ?ding a civ:Birth ; }
+        """
+    result = graph.query(select)
+
+    # add ids
+    id = round (idStarter + (idStarter/10))
+    for row in result:
+        id = id + 1
+        s = rdflib.URIRef(row.ding)
+        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/registrationID")
+        gres.add((s, p, rdflib.Literal(id)))
+
+    # get Deaths to add an id to
+    select = """
+        PREFIX schema: <http://schema.org/>
+        PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+        PREFIX civ: <https://iisg.amsterdam/id/civ/>
+        SELECT * WHERE  { ?ding a civ:Death ; }
+        """
+    result = graph.query(select)
+
+    # add ids
+    id = round (idStarter + (idStarter/10))
+    for row in result:
+        id = id + 1
+        s = rdflib.URIRef(row.ding)
+        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/registrationID")
+        gres.add((s, p, rdflib.Literal(id)))
+
+    return gres
+
+# -----
+def transformRDF(filename, query, id):
 
     CSVfilename = filename + ".csv"
-    TTLfilename = "transformed/" + filename + ".ttl"
-
     total = rdflib.Graph()
 
     with open(CSVfilename, newline='') as infile:
@@ -19,20 +98,29 @@ def transformRDF(filename, query):
             uri = row['URL'].strip()
             identifier = uri.replace("https://www.openarch.nl/","")
             print(identifier) # progress indicator/debugging
-            infile = "harvested/" + identifier + ".ttl"
+
+            # read data
             gin  = rdflib.Graph()
+            infile = "harvested/" + identifier + ".ttl"
             gin.load(infile, format="ttl")
 
-            outfile = "transformed/" + identifier + ".ttl"
+            # transform data
             gout = rdflib.Graph()
             gout = gin.query(query)
-            gout.serialize(destination = outfile, format="ttl")
 
+            # write output
+            outfile = "transformed/" + identifier + ".ttl"
+            gout.serialize(destination = outfile, format="ttl")
             gout2 = rdflib.Graph()
             gout2.load(outfile, format="ttl")
 
             total = total + gout2
 
+    # add personId integers
+    gID = getIDgraph(total, id)
+    total = total + gID
+
+    TTLfilename = "transformed/" + filename + ".ttl"
     total.serialize(destination = TTLfilename, format="ttl")
 
 
@@ -47,13 +135,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 CONSTRUCT {
     ?persoon a schema:Person ;
         rdfs:label ?fullname ;
-        civ:personID ?persid ;
         schema:familyName ?familyname ;
         schema:givenName ?givenname .
 
     ?event a civ:Marriage ;
         rdfs:label ?desc ;
-        civ:registrationID ?regid ;
         civ:eventDate ?date ;
         civ:bride ?bride ;
         civ:groom ?groom ;
@@ -68,7 +154,6 @@ CONSTRUCT {
         ?fatherBride schema:gender schema:Male .
         ?motherGroom schema:gender schema:Female .
         ?fatherGroom schema:gender schema:Male .
-
 }
 WHERE  {
     ?persoon a a2a:Person ;
@@ -109,10 +194,6 @@ WHERE  {
             a2a:PersonKeyRef ?fatherGroom ;
             a2a:RelationType "Vader van de bruidegom" .
         }
-
-    BIND(REPLACE(str(?persoon), "https://www.openarch.nl/id/", "", "i") AS ?persid) .
-    BIND(REPLACE(str(?event), "https://www.openarch.nl/id/", "", "i") AS ?regid) .
-
 }
 """
 
@@ -126,13 +207,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 CONSTRUCT {
     ?persoon a schema:Person ;
         rdfs:label ?fullname ;
-        civ:personID ?persid ;
         schema:familyName ?familyname ;
         schema:givenName ?givenname .
 
     ?event a civ:Birth ;
         rdfs:label ?desc ;
-        civ:registrationID ?regid ;
         civ:eventDate ?date ;
         civ:mother ?mother ;
         civ:father ?father ;
@@ -167,10 +246,6 @@ WHERE  {
     ?rel3 a2a:EventKeyRef ?event ;
         a2a:PersonKeyRef ?child ;
         a2a:RelationType "Kind" .
-
-    BIND(REPLACE(str(?persoon), "https://www.openarch.nl/id/", "", "i") AS ?persid) .
-    BIND(REPLACE(str(?event), "https://www.openarch.nl/id/", "", "i") AS ?regid) .
-
 }
 """
 
@@ -184,13 +259,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 CONSTRUCT {
     ?persoon a schema:Person ;
         rdfs:label ?fullname ;
-        civ:personID ?persid ;
         schema:familyName ?familyname ;
         schema:givenName ?givenname .
 
     ?event a civ:Death ;
         rdfs:label ?desc ;
-        civ:registrationID ?regid ;
         civ:eventDate ?date ;
         civ:mother ?mother ;
         civ:father ?father ;
@@ -234,21 +307,9 @@ WHERE  {
             a2a:PersonKeyRef ?partner ;
             a2a:RelationType "Partner" .
         }
-
-    BIND(REPLACE(str(?persoon), "https://www.openarch.nl/id/", "", "i") AS ?persid) .
-    BIND(REPLACE(str(?event), "https://www.openarch.nl/id/", "", "i") AS ?regid) .
-
 }
 """
 
-
-transformRDF("huwelijksaktes", marQuery)
-transformRDF("geboorteaktes", birQuery)
-transformRDF("overlijdensaktes", dthQuery)
-
-
-
-
-
-
-
+transformRDF("geboorteaktes", birQuery, 10000)
+transformRDF("huwelijksaktes", marQuery, 20000)
+transformRDF("overlijdensaktes", dthQuery, 30000)

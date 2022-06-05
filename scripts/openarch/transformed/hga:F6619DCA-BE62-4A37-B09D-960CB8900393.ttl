@@ -13,72 +13,61 @@
     ns2:fatherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249> ;
     ns2:groom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241> ;
     ns2:motherBride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> ;
-    ns2:registrationID "event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1" .
+    ns2:motherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> a ns1:Person ;
     rdfs:label "Jan Hendrik van Ingen" ;
     ns1:familyName "Ingen" ;
-    ns1:givenName "Jan Hendrik" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242" .
+    ns1:givenName "Jan Hendrik" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> a ns1:Person ;
     rdfs:label "Wilhelmus Ratering" ;
     ns1:familyName "Ratering" ;
-    ns1:givenName "Wilhelmus" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243" .
+    ns1:givenName "Wilhelmus" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> a ns1:Person ;
     rdfs:label "Gerrit Reppel" ;
     ns1:familyName "Reppel" ;
-    ns1:givenName "Gerrit" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244" .
+    ns1:givenName "Gerrit" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> a ns1:Person ;
     rdfs:label "Adrianus Hermanus Ritter" ;
     ns1:familyName "Ritter" ;
-    ns1:givenName "Adrianus Hermanus" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245" .
+    ns1:givenName "Adrianus Hermanus" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> a ns1:Person ;
     rdfs:label "Alijda van Veen" ;
     ns1:familyName "Veen" ;
     ns1:gender ns1:Female ;
-    ns1:givenName "Alijda" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240" .
+    ns1:givenName "Alijda" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241> a ns1:Person ;
     rdfs:label "Jan Hendrik Regenboog" ;
     ns1:familyName "Regenboog" ;
     ns1:gender ns1:Male ;
-    ns1:givenName "Jan Hendrik" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241" .
+    ns1:givenName "Jan Hendrik" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> a ns1:Person ;
     rdfs:label "Johanna Staal" ;
     ns1:familyName "Staal" ;
     ns1:gender ns1:Female ;
-    ns1:givenName "Johanna" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246" .
+    ns1:givenName "Johanna" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> a ns1:Person ;
     rdfs:label "Petronella Jacomina Giebert" ;
     ns1:familyName "Giebert" ;
     ns1:gender ns1:Female ;
-    ns1:givenName "Petronella Jacomina" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247" .
+    ns1:givenName "Petronella Jacomina" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> a ns1:Person ;
     rdfs:label "Cornelis van Veen" ;
     ns1:familyName "Veen" ;
     ns1:gender ns1:Male ;
-    ns1:givenName "Cornelis" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248" .
+    ns1:givenName "Cornelis" .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249> a ns1:Person ;
     rdfs:label "Jonas Regenboog" ;
     ns1:familyName "Regenboog" ;
     ns1:gender ns1:Male ;
-    ns1:givenName "Jonas" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249" .
+    ns1:givenName "Jonas" .
 

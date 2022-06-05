@@ -1,60 +1,53 @@
-@prefix ns1: <http://schema.org/> .
-@prefix ns2: <https://iisg.amsterdam/id/civ/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> a ns1:Marriage ;
     rdfs:label "Huwelijk op 12 mei 1920 te Vaals" ;
-    ns2:bride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> ;
-    ns2:eventDate "1920-05-12"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> ;
-    ns2:groom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> ;
-    ns2:registrationID "event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1" .
+    ns1:bride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> ;
+    ns1:eventDate "1920-05-12"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> ;
+    ns1:groom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> a ns2:Person ;
     rdfs:label "Egidius Jozef Bröcheler" ;
-    ns1:familyName "Bröcheler" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Egidius Jozef" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1" .
+    ns2:familyName "Bröcheler" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Egidius Jozef" .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> a ns2:Person ;
     rdfs:label "Adolphina Hubertina Hamers" ;
-    ns1:familyName "Hamers" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Adolphina Hubertina" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2" .
+    ns2:familyName "Hamers" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Adolphina Hubertina" .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> a ns2:Person ;
     rdfs:label "Jan Jozef Hubert Bröcheler" ;
-    ns1:familyName "Bröcheler" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Jan Jozef Hubert" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3" .
+    ns2:familyName "Bröcheler" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Jan Jozef Hubert" .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> a ns2:Person ;
     rdfs:label "Maria Philomena Scheins" ;
-    ns1:familyName "Scheins" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Maria Philomena" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4" .
+    ns2:familyName "Scheins" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Maria Philomena" .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> a ns2:Person ;
     rdfs:label "Pieter August Hamers" ;
-    ns1:familyName "Hamers" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Pieter August" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5" .
+    ns2:familyName "Hamers" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Pieter August" .
 
-<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> a ns1:Person ;
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> a ns2:Person ;
     rdfs:label "Maria Veronica Jongh" ;
-    ns1:familyName "Jongh" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Maria Veronica" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6" .
+    ns2:familyName "Jongh" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Maria Veronica" .
 

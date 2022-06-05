@@ -1,35 +1,31 @@
-@prefix ns1: <http://schema.org/> .
-@prefix ns2: <https://iisg.amsterdam/id/civ/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> a ns2:Birth ;
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> a ns1:Birth ;
     rdfs:label "Geboorte op 6 februari 1818 te 's-Gravenhage" ;
-    ns2:eventDate "1818-02-06"^^xsd:date ;
-    ns2:father <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> ;
-    ns2:mother <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> ;
-    ns2:newborn <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> ;
-    ns2:registrationID "event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1" .
+    ns1:eventDate "1818-02-06"^^xsd:date ;
+    ns1:father <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> ;
+    ns1:mother <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> ;
+    ns1:newborn <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> .
 
-<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> a ns2:Person ;
     rdfs:label "Jan Hendrik Regenboog" ;
-    ns1:familyName "Regenboog" ;
-    ns1:givenName "Jan Hendrik" ;
-    ns2:personID "person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967" .
+    ns2:familyName "Regenboog" ;
+    ns2:givenName "Jan Hendrik" .
 
-<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> a ns2:Person ;
     rdfs:label "Jonas Regenboog" ;
-    ns1:familyName "Regenboog" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Jonas" ;
-    ns2:personID "person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968" .
+    ns2:familyName "Regenboog" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Jonas" .
 
-<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> a ns2:Person ;
     rdfs:label "Petronella Jacomina Giebert" ;
-    ns1:familyName "Giebert" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Petronella Jacomina" ;
-    ns2:personID "person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969" .
+    ns2:familyName "Giebert" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Petronella Jacomina" .
 

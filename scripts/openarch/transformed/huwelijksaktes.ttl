@@ -1,5 +1,5 @@
-@prefix ns1: <https://iisg.amsterdam/id/civ/> .
-@prefix ns11: <http://schema.org/> .
+@prefix ns1: <http://schema.org/> .
+@prefix ns11: <https://iisg.amsterdam/id/civ/> .
 @prefix ns2: <https://iisg.amsterdam/id/civ/> .
 @prefix ns21: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -7,500 +7,500 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 21 oktober 1891 te Merchtem (België)" ;
-    ns2:bride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> ;
-    ns2:eventDate "1891-10-21"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> ;
-    ns2:groom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> ;
-    ns2:registrationID "event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> ;
+    ns11:eventDate "1891-10-21"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> ;
+    ns11:groom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> ;
+    ns11:registrationID 22004 .
 
-<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk (huwelijksakte) op 18 september 1940 te Leeuwarden" ;
-    ns2:bride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> ;
-    ns2:eventDate "1940-09-18"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> ;
-    ns2:groom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> ;
-    ns2:registrationID "event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> ;
+    ns11:eventDate "1940-09-18"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> ;
+    ns11:groom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> ;
+    ns11:registrationID 22002 .
 
-<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 11 maart 1818 te 's-Gravenhage" ;
-    ns2:bride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> ;
-    ns2:eventDate "1818-03-11"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> ;
-    ns2:groom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> ;
-    ns2:registrationID "event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> ;
+    ns11:eventDate "1818-03-11"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> ;
+    ns11:groom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> ;
+    ns11:registrationID 22001 .
 
-<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 7 december 1831 te 's-Gravenhage" ;
-    ns2:bride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> ;
-    ns2:eventDate "1831-12-07"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> ;
-    ns2:groom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> ;
-    ns2:registrationID "event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> ;
+    ns11:eventDate "1831-12-07"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> ;
+    ns11:groom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> ;
+    ns11:registrationID 22003 .
 
-<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 10 mei 1837 te 's-Gravenhage" ;
-    ns2:bride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> ;
-    ns2:eventDate "1837-05-10"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> ;
-    ns2:groom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> ;
-    ns2:registrationID "event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> ;
+    ns11:eventDate "1837-05-10"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> ;
+    ns11:groom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> ;
+    ns11:registrationID 22006 .
 
-<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 6 mei 1846 te 's-Gravenhage" ;
-    ns2:bride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> ;
-    ns2:eventDate "1846-05-06"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249> ;
-    ns2:groom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> ;
-    ns2:registrationID "event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> ;
+    ns11:eventDate "1846-05-06"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249> ;
+    ns11:groom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> ;
+    ns11:registrationID 22005 .
 
-<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> a ns11:Marriage ;
     rdfs:label "Huwelijk op 12 mei 1920 te Vaals" ;
-    ns2:bride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> ;
-    ns2:eventDate "1920-05-12"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> ;
-    ns2:groom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> ;
-    ns2:registrationID "event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1" .
+    ns11:bride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> ;
+    ns11:eventDate "1920-05-12"^^xsd:date ;
+    ns11:fatherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> ;
+    ns11:fatherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> ;
+    ns11:groom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> ;
+    ns11:motherBride <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> ;
+    ns11:motherGroom <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> ;
+    ns11:registrationID 22007 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> a ns21:Person ;
     rdfs:label "Petrus Benediktus Mertens" ;
     ns21:familyName "Mertens" ;
     ns21:givenName "Petrus Benediktus" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222" .
+    ns11:persID 20008 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> a ns21:Person ;
     rdfs:label "Josephus De Donder" ;
     ns21:familyName "De Donder" ;
     ns21:givenName "Josephus" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232" .
+    ns11:persID 20018 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> a ns21:Person ;
     rdfs:label "Achille Dieudonné" ;
     ns21:familyName "Dieudonné" ;
     ns21:givenName "Achille" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242" .
+    ns11:persID 20050 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> a ns21:Person ;
     rdfs:label "Florent Goossens" ;
     ns21:familyName "Goossens" ;
     ns21:givenName "Florent" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252" .
+    ns11:persID 20017 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> a ns21:Person ;
     rdfs:label "Johannes Wilhelmus Bertrums" ;
     ns21:familyName "Bertrums" ;
     ns21:givenName "Johannes Wilhelmus" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3" .
+    ns11:persID 20030 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> a ns21:Person ;
     rdfs:label "Louis Annokkee" ;
     ns21:familyName "Annokkee" ;
     ns21:givenName "Louis" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142" .
+    ns11:persID 20039 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> a ns21:Person ;
     rdfs:label "Cornelis Giunta d'Albani" ;
     ns21:familyName "Giunta d'Albani" ;
     ns21:givenName "Cornelis" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143" .
+    ns11:persID 20003 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> a ns21:Person ;
     rdfs:label "Willem Liezen" ;
     ns21:familyName "Liezen" ;
     ns21:givenName "Willem" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144" .
+    ns11:persID 20038 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> a ns21:Person ;
     rdfs:label "Jacob Slauderof" ;
     ns21:familyName "Slauderof" ;
     ns21:givenName "Jacob" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145" .
+    ns11:persID 20027 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> a ns21:Person ;
     rdfs:label "Andries Bloklander" ;
     ns21:familyName "Bloklander" ;
     ns21:givenName "Andries" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272" .
+    ns11:persID 20032 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> a ns21:Person ;
     rdfs:label "Hendrik Eskens" ;
     ns21:familyName "Eskens" ;
     ns21:givenName "Hendrik" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273" .
+    ns11:persID 20034 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> a ns21:Person ;
     rdfs:label "Coenraad Nicolaas" ;
     ns21:familyName "Nicolaas" ;
     ns21:givenName "Coenraad" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275" .
+    ns11:persID 20013 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> a ns21:Person ;
     rdfs:label "Hermanus Hellendoorn" ;
     ns21:familyName "Hellendoorn" ;
     ns21:givenName "Hermanus" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279" .
+    ns11:persID 20024 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> a ns21:Person ;
     rdfs:label "Mattheus Willem Adams" ;
     ns21:familyName "Adams" ;
     ns21:givenName "Mattheus Willem" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027" .
+    ns11:persID 20015 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> a ns21:Person ;
     rdfs:label "Cornelis Johannes van den Broek" ;
     ns21:familyName "Broek" ;
     ns21:givenName "Cornelis Johannes" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028" .
+    ns11:persID 20062 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> a ns21:Person ;
     rdfs:label "Hermanus Johannes van der Burgh" ;
     ns21:familyName "Burgh" ;
     ns21:givenName "Hermanus Johannes" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029" .
+    ns11:persID 20025 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> a ns21:Person ;
     rdfs:label "Johannes Carel van Leeuwen" ;
     ns21:familyName "Leeuwen" ;
     ns21:givenName "Johannes Carel" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030" .
+    ns11:persID 20026 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> a ns21:Person ;
     rdfs:label "Jan Hendrik van Ingen" ;
     ns21:familyName "Ingen" ;
     ns21:givenName "Jan Hendrik" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242" .
+    ns11:persID 20006 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> a ns21:Person ;
     rdfs:label "Wilhelmus Ratering" ;
     ns21:familyName "Ratering" ;
     ns21:givenName "Wilhelmus" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243" .
+    ns11:persID 20011 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> a ns21:Person ;
     rdfs:label "Gerrit Reppel" ;
     ns21:familyName "Reppel" ;
     ns21:givenName "Gerrit" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244" .
+    ns11:persID 20048 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> a ns21:Person ;
     rdfs:label "Adrianus Hermanus Ritter" ;
     ns21:familyName "Ritter" ;
     ns21:givenName "Adrianus Hermanus" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245" .
+    ns11:persID 20014 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> a ns21:Person ;
     rdfs:label "Philomena Rosalia De Block" ;
     ns21:familyName "De Block" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Philomena Rosalia" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942" .
+    ns11:persID 20041 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> a ns21:Person ;
     rdfs:label "Cornelius Van den Meersch" ;
     ns21:familyName "Van den Meersch" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Cornelius" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492" .
+    ns11:persID 20057 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> a ns21:Person ;
     rdfs:label "Joanna Maria Verbelen" ;
     ns21:familyName "Verbelen" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Joanna Maria" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992" .
+    ns11:persID 20002 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> a ns21:Person ;
     rdfs:label "Cornelius De Block" ;
     ns21:familyName "De Block" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Cornelius" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492" .
+    ns11:persID 20031 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> a ns21:Person ;
     rdfs:label "Joanna Cornelia Heyvaert" ;
     ns21:familyName "Heyvaert" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Joanna Cornelia" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992" .
+    ns11:persID 20020 .
 
 <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> a ns21:Person ;
     rdfs:label "Egidius Ludovicus Van den Meersch" ;
     ns21:familyName "Van den Meersch" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Egidius Ludovicus" ;
-    ns2:personID "person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442" .
+    ns11:persID 20021 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> a ns21:Person ;
     rdfs:label "Roelof Lettinga" ;
     ns21:familyName "Lettinga" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Roelof" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe" .
+    ns11:persID 20053 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> a ns21:Person ;
     rdfs:label "Hendrika Eysenbrandt" ;
     ns21:familyName "Eysenbrandt" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Hendrika" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413" .
+    ns11:persID 20046 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> a ns21:Person ;
     rdfs:label "Jantje Posthumus" ;
     ns21:familyName "Posthumus" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Jantje" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2" .
+    ns11:persID 20001 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> a ns21:Person ;
     rdfs:label "Maria Roosen" ;
     ns21:familyName "Roosen" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Maria" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc" .
+    ns11:persID 20043 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> a ns21:Person ;
     rdfs:label "Cornelis Eysenbrandt" ;
     ns21:familyName "Eysenbrandt" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Cornelis" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835" .
+    ns11:persID 20061 .
 
 <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> a ns21:Person ;
     rdfs:label "Haebele Lettinga" ;
     ns21:familyName "Lettinga" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Haebele" ;
-    ns2:personID "person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9" .
+    ns11:persID 20052 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> a ns21:Person ;
     rdfs:label "Petronella van As" ;
     ns21:familyName "As" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Petronella" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137" .
+    ns11:persID 20029 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> a ns21:Person ;
     rdfs:label "Dirk van Toledo" ;
     ns21:familyName "Toledo" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Dirk" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138" .
+    ns11:persID 20012 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> a ns21:Person ;
     rdfs:label "Gerardus Uitenhout" ;
     ns21:familyName "Uitenhout" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Gerardus" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139" .
+    ns11:persID 20059 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> a ns21:Person ;
     rdfs:label "Adriana van Toledo" ;
     ns21:familyName "Toledo" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Adriana" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140" .
+    ns11:persID 20055 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> a ns21:Person ;
     rdfs:label "Willelmus Jacobus Uitenhout" ;
     ns21:familyName "Uitenhout" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Willelmus Jacobus" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141" .
+    ns11:persID 20036 .
 
 <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> a ns21:Person ;
     rdfs:label "Arendje van der Voorden" ;
     ns21:familyName "Voorden" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Arendje" ;
-    ns2:personID "person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146" .
+    ns11:persID 20005 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> a ns21:Person ;
     rdfs:label "Hendrika Johanna Vreeswijk" ;
     ns21:familyName "Vreeswijk" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Hendrika Johanna" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270" .
+    ns11:persID 20022 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> a ns21:Person ;
     rdfs:label "Andreas Doesburg" ;
     ns21:familyName "Doesburg" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Andreas" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271" .
+    ns11:persID 20049 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> a ns21:Person ;
     rdfs:label "Henricus Doesburg" ;
     ns21:familyName "Doesburg" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Henricus" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274" .
+    ns11:persID 20040 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> a ns21:Person ;
     rdfs:label "Johanna Bergmans" ;
     ns21:familyName "Bergmans" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Johanna" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276" .
+    ns11:persID 20037 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> a ns21:Person ;
     rdfs:label "Francisca Garnier" ;
     ns21:familyName "Garnier" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Francisca" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277" .
+    ns11:persID 20016 .
 
 <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> a ns21:Person ;
     rdfs:label "Bastiaan Vreeswijk" ;
     ns21:familyName "Vreeswijk" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Bastiaan" ;
-    ns2:personID "person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278" .
+    ns11:persID 20019 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> a ns21:Person ;
     rdfs:label "Gerritje van Maanen" ;
     ns21:familyName "Maanen" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Gerritje" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025" .
+    ns11:persID 20042 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> a ns21:Person ;
     rdfs:label "Christiaan Regenboog" ;
     ns21:familyName "Regenboog" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Christiaan" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026" .
+    ns11:persID 20033 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> a ns21:Person ;
     rdfs:label "Grietje Willigenburg" ;
     ns21:familyName "Willigenburg" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Grietje" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031" .
+    ns11:persID 20035 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> a ns21:Person ;
     rdfs:label "Pieternella Jacomina Giebert" ;
     ns21:familyName "Giebert" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Pieternella Jacomina" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032" .
+    ns11:persID 20010 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> a ns21:Person ;
     rdfs:label "Harmen Bransen van Maanen" ;
     ns21:familyName "Maanen" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Harmen Bransen" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033" .
+    ns11:persID 20056 .
 
 <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> a ns21:Person ;
     rdfs:label "Jonas Regenboog" ;
     ns21:familyName "Regenboog" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Jonas" ;
-    ns2:personID "person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034" .
+    ns11:persID 20051 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> a ns21:Person ;
     rdfs:label "Alijda van Veen" ;
     ns21:familyName "Veen" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Alijda" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240" .
+    ns11:persID 20054 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241> a ns21:Person ;
     rdfs:label "Jan Hendrik Regenboog" ;
     ns21:familyName "Regenboog" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Jan Hendrik" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959241" .
+    ns11:persID 20007 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> a ns21:Person ;
     rdfs:label "Johanna Staal" ;
     ns21:familyName "Staal" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Johanna" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246" .
+    ns11:persID 20060 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247> a ns21:Person ;
     rdfs:label "Petronella Jacomina Giebert" ;
     ns21:familyName "Giebert" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Petronella Jacomina" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959247" .
+    ns11:persID 20047 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> a ns21:Person ;
     rdfs:label "Cornelis van Veen" ;
     ns21:familyName "Veen" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Cornelis" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248" .
+    ns11:persID 20004 .
 
 <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249> a ns21:Person ;
     rdfs:label "Jonas Regenboog" ;
     ns21:familyName "Regenboog" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Jonas" ;
-    ns2:personID "person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959249" .
+    ns11:persID 20028 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> a ns21:Person ;
     rdfs:label "Egidius Jozef Bröcheler" ;
     ns21:familyName "Bröcheler" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Egidius Jozef" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1" .
+    ns11:persID 20044 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> a ns21:Person ;
     rdfs:label "Adolphina Hubertina Hamers" ;
     ns21:familyName "Hamers" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Adolphina Hubertina" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2" .
+    ns11:persID 20009 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> a ns21:Person ;
     rdfs:label "Jan Jozef Hubert Bröcheler" ;
     ns21:familyName "Bröcheler" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Jan Jozef Hubert" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3" .
+    ns11:persID 20045 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> a ns21:Person ;
     rdfs:label "Maria Philomena Scheins" ;
     ns21:familyName "Scheins" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Maria Philomena" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4" .
+    ns11:persID 20058 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> a ns21:Person ;
     rdfs:label "Pieter August Hamers" ;
     ns21:familyName "Hamers" ;
     ns21:gender ns21:Male ;
     ns21:givenName "Pieter August" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5" .
+    ns11:persID 20023 .
 
 <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> a ns21:Person ;
     rdfs:label "Maria Veronica Jongh" ;
     ns21:familyName "Jongh" ;
     ns21:gender ns21:Female ;
     ns21:givenName "Maria Veronica" ;
-    ns2:personID "person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6" .
+    ns11:persID 20063 .
 
