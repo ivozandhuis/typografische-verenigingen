@@ -2,7 +2,6 @@
 # Python3 transform OpenArch in RDF
 
 # TBD:
-# * change persID into an integer
 # * replace characters
 
 import requests

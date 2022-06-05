@@ -24,12 +24,12 @@
     ns2:familyName "Regenboog" ;
     ns2:gender ns2:Male ;
     ns2:givenName "Jonas" ;
-    ns1:persID 10001 .
+    ns1:persID 10003 .
 
 <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> a ns2:Person ;
     rdfs:label "Petronella Jacomina Giebert" ;
     ns2:familyName "Giebert" ;
     ns2:gender ns2:Female ;
     ns2:givenName "Petronella Jacomina" ;
-    ns1:persID 10003 .
+    ns1:persID 10001 .
 
