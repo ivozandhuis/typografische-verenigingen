@@ -28,7 +28,7 @@ def getIDgraph(graph, idStarter):
     for row in result:
         id = id + 1
         s = rdflib.URIRef(row.ding)
-        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/persID")
+        p = rdflib.URIRef("https://iisg.amsterdam/id/civ/personID")
         gres.add((s, p, rdflib.Literal(id)))
 
     # get Marriages to add an id to
@@ -119,8 +119,8 @@ def transformRDF(filename, query, id):
     gID = getIDgraph(total, id)
     total = total + gID
 
-    TTLfilename = "transformed/" + filename + ".ttl"
-    total.serialize(destination = TTLfilename, format="ttl")
+    NTfilename = "transformed/" + filename + ".nt"
+    total.serialize(destination = NTfilename, format="nt")
 
 
 ## Huwelijksakte

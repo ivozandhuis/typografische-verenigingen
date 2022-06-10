@@ -14,9 +14,9 @@ Put the burgerLinker.jar in the same directory as the *.py files.
 
 Make HDT: 
 ```
-java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/huwelijksaktes.ttl --outputDir hdt
-java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/overlijdensaktes.ttl --outputDir hdt
-java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/geboorteaktes.ttl --outputDir hdt
+java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/huwelijksaktes.nt --outputDir hdt
+java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/overlijdensaktes.nt --outputDir hdt
+java -jar burgerLinker.jar --function ConvertToHDT --inputData transformed/geboorteaktes.nt --outputDir hdt
 
 java -jar burgerLinker.jar --function ConvertToHDT --inputData hdt/huwelijksaktes.hdt,hdt/geboorteaktes.hdt,hdt/overlijdensaktes.hdt --outputDir hdt
 ```

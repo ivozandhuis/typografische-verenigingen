@@ -1,0 +1,25 @@
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <http://schema.org/gender> <http://schema.org/Female> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <http://schema.org/familyName> "Regenboog" .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/registrationID> "11001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Birth> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <https://iisg.amsterdam/id/civ/personID> "10003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <http://schema.org/gender> <http://schema.org/Male> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <http://schema.org/givenName> "Jonas" .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/newborn> <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/father> <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> <http://schema.org/givenName> "Jan Hendrik" .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Geboorte op 6 februari 1818 te 's-Gravenhage" .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <https://iisg.amsterdam/id/civ/personID> "10001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hendrik Regenboog" .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> <http://schema.org/familyName> "Regenboog" .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123967> <https://iisg.amsterdam/id/civ/personID> "10002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <http://www.w3.org/2000/01/rdf-schema#label> "Petronella Jacomina Giebert" .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/mother> <https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <http://schema.org/givenName> "Petronella Jacomina" .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123969> <http://schema.org/familyName> "Giebert" .
+<https://www.openarch.nl/id/person_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Person2053123968> <http://www.w3.org/2000/01/rdf-schema#label> "Jonas Regenboog" .
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1818-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+

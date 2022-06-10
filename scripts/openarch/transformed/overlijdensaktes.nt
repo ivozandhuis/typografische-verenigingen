@@ -1,0 +1,11 @@
+<https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> <http://schema.org/familyName> "Regenboog" .
+<https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> <https://iisg.amsterdam/id/civ/personID> "30001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1> <https://iisg.amsterdam/id/civ/deceased> <https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> .
+<https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> <http://schema.org/givenName> "Jan Hendrik" .
+<https://www.openarch.nl/id/event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Overlijden op 18 januari 1878 te 's-Gravenhage" .
+<https://www.openarch.nl/id/person_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Person2528129614> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hendrik Regenboog" .
+<https://www.openarch.nl/id/event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Death> .
+<https://www.openarch.nl/id/event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1> <https://iisg.amsterdam/id/civ/registrationID> "33001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://www.openarch.nl/id/event_hga_21A58A9A-ED24-497B-A83D-0E6FC088378B_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1878-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+

@@ -1,73 +1,73 @@
-@prefix ns1: <http://schema.org/> .
-@prefix ns2: <https://iisg.amsterdam/id/civ/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> a ns1:Marriage ;
     rdfs:label "Huwelijk op 11 maart 1818 te 's-Gravenhage" ;
-    ns2:bride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> ;
-    ns2:eventDate "1818-03-11"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> ;
-    ns2:groom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> .
+    ns1:bride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> ;
+    ns1:eventDate "1818-03-11"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> ;
+    ns1:groom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> a ns2:Person ;
     rdfs:label "Louis Annokkee" ;
-    ns1:familyName "Annokkee" ;
-    ns1:givenName "Louis" .
+    ns2:familyName "Annokkee" ;
+    ns2:givenName "Louis" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> a ns2:Person ;
     rdfs:label "Cornelis Giunta d'Albani" ;
-    ns1:familyName "Giunta d'Albani" ;
-    ns1:givenName "Cornelis" .
+    ns2:familyName "Giunta d'Albani" ;
+    ns2:givenName "Cornelis" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> a ns2:Person ;
     rdfs:label "Willem Liezen" ;
-    ns1:familyName "Liezen" ;
-    ns1:givenName "Willem" .
+    ns2:familyName "Liezen" ;
+    ns2:givenName "Willem" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> a ns2:Person ;
     rdfs:label "Jacob Slauderof" ;
-    ns1:familyName "Slauderof" ;
-    ns1:givenName "Jacob" .
+    ns2:familyName "Slauderof" ;
+    ns2:givenName "Jacob" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> a ns2:Person ;
     rdfs:label "Petronella van As" ;
-    ns1:familyName "As" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Petronella" .
+    ns2:familyName "As" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Petronella" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> a ns2:Person ;
     rdfs:label "Dirk van Toledo" ;
-    ns1:familyName "Toledo" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Dirk" .
+    ns2:familyName "Toledo" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Dirk" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> a ns2:Person ;
     rdfs:label "Gerardus Uitenhout" ;
-    ns1:familyName "Uitenhout" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Gerardus" .
+    ns2:familyName "Uitenhout" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Gerardus" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> a ns2:Person ;
     rdfs:label "Adriana van Toledo" ;
-    ns1:familyName "Toledo" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Adriana" .
+    ns2:familyName "Toledo" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Adriana" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> a ns2:Person ;
     rdfs:label "Willelmus Jacobus Uitenhout" ;
-    ns1:familyName "Uitenhout" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Willelmus Jacobus" .
+    ns2:familyName "Uitenhout" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Willelmus Jacobus" .
 
-<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> a ns1:Person ;
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> a ns2:Person ;
     rdfs:label "Arendje van der Voorden" ;
-    ns1:familyName "Voorden" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Arendje" .
+    ns2:familyName "Voorden" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Arendje" .
 

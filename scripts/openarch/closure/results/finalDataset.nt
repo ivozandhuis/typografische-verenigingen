@@ -1,0 +1,451 @@
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <http://schema.org/familyName> "De Block".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <http://schema.org/givenName> "Philomena Rosalia".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <http://www.w3.org/2000/01/rdf-schema#label> "Philomena Rosalia De Block".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942> <https://iisg.amsterdam/id/civ/personID> "20019"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <http://schema.org/familyName> "Van den Meersch".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <http://schema.org/givenName> "Cornelius".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelius Van den Meersch".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492> <https://iisg.amsterdam/id/civ/personID> "20043"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <http://schema.org/familyName> "Verbelen".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <http://schema.org/givenName> "Joanna Maria".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <http://www.w3.org/2000/01/rdf-schema#label> "Joanna Maria Verbelen".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992> <https://iisg.amsterdam/id/civ/personID> "20021"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <http://schema.org/familyName> "De Block".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <http://schema.org/givenName> "Cornelius".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelius De Block".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492> <https://iisg.amsterdam/id/civ/personID> "20030"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <http://schema.org/familyName> "Heyvaert".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <http://schema.org/givenName> "Joanna Cornelia".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <http://www.w3.org/2000/01/rdf-schema#label> "Joanna Cornelia Heyvaert".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992> <https://iisg.amsterdam/id/civ/personID> "20017"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <http://schema.org/familyName> "Van den Meersch".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <http://schema.org/givenName> "Egidius Ludovicus".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <http://www.w3.org/2000/01/rdf-schema#label> "Egidius Ludovicus Van den Meersch".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442> <https://iisg.amsterdam/id/civ/personID> "20062"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <http://schema.org/familyName> "Lettinga".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <http://schema.org/givenName> "Roelof".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <http://www.w3.org/2000/01/rdf-schema#label> "Roelof Lettinga".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> <https://iisg.amsterdam/id/civ/personID> "20007"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <http://schema.org/familyName> "Eysenbrandt".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <http://schema.org/givenName> "Hendrika".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <http://www.w3.org/2000/01/rdf-schema#label> "Hendrika Eysenbrandt".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> <https://iisg.amsterdam/id/civ/personID> "20054"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <http://schema.org/familyName> "Posthumus".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <http://schema.org/givenName> "Jantje".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <http://www.w3.org/2000/01/rdf-schema#label> "Jantje Posthumus".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> <https://iisg.amsterdam/id/civ/personID> "20049"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <http://schema.org/familyName> "Roosen".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <http://schema.org/givenName> "Maria".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Roosen".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> <https://iisg.amsterdam/id/civ/personID> "20009"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <http://schema.org/familyName> "Eysenbrandt".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <http://schema.org/givenName> "Cornelis".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelis Eysenbrandt".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> <https://iisg.amsterdam/id/civ/personID> "20061"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <http://schema.org/familyName> "Lettinga".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <http://schema.org/givenName> "Haebele".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <http://www.w3.org/2000/01/rdf-schema#label> "Haebele Lettinga".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> <https://iisg.amsterdam/id/civ/personID> "20022"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <http://schema.org/familyName> "As".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <http://schema.org/givenName> "Petronella".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <http://www.w3.org/2000/01/rdf-schema#label> "Petronella van As".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137> <https://iisg.amsterdam/id/civ/personID> "20033"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <http://schema.org/familyName> "Toledo".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <http://schema.org/givenName> "Dirk".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <http://www.w3.org/2000/01/rdf-schema#label> "Dirk van Toledo".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138> <https://iisg.amsterdam/id/civ/personID> "20037"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <http://schema.org/familyName> "Uitenhout".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <http://schema.org/givenName> "Gerardus".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <http://www.w3.org/2000/01/rdf-schema#label> "Gerardus Uitenhout".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139> <https://iisg.amsterdam/id/civ/personID> "20003"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <http://schema.org/familyName> "Toledo".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <http://schema.org/givenName> "Adriana".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <http://www.w3.org/2000/01/rdf-schema#label> "Adriana van Toledo".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140> <https://iisg.amsterdam/id/civ/personID> "20032"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <http://schema.org/familyName> "Uitenhout".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <http://schema.org/givenName> "Willelmus Jacobus".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <http://www.w3.org/2000/01/rdf-schema#label> "Willelmus Jacobus Uitenhout".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141> <https://iisg.amsterdam/id/civ/personID> "20004"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <http://schema.org/familyName> "Voorden".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <http://schema.org/givenName> "Arendje".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <http://www.w3.org/2000/01/rdf-schema#label> "Arendje van der Voorden".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146> <https://iisg.amsterdam/id/civ/personID> "20046"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <http://schema.org/familyName> "Vreeswijk".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <http://schema.org/givenName> "Hendrika Johanna".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <http://www.w3.org/2000/01/rdf-schema#label> "Hendrika Johanna Vreeswijk".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270> <https://iisg.amsterdam/id/civ/personID> "20001"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <http://schema.org/familyName> "Doesburg".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <http://schema.org/givenName> "Andreas".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <http://www.w3.org/2000/01/rdf-schema#label> "Andreas Doesburg".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271> <https://iisg.amsterdam/id/civ/personID> "20047"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <http://schema.org/familyName> "Doesburg".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <http://schema.org/givenName> "Henricus".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <http://www.w3.org/2000/01/rdf-schema#label> "Henricus Doesburg".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274> <https://iisg.amsterdam/id/civ/personID> "20040"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <http://schema.org/familyName> "Bergmans".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <http://schema.org/givenName> "Johanna".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <http://www.w3.org/2000/01/rdf-schema#label> "Johanna Bergmans".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276> <https://iisg.amsterdam/id/civ/personID> "20023"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <http://schema.org/familyName> "Garnier".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <http://schema.org/givenName> "Francisca".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <http://www.w3.org/2000/01/rdf-schema#label> "Francisca Garnier".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277> <https://iisg.amsterdam/id/civ/personID> "20044"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <http://schema.org/familyName> "Vreeswijk".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <http://schema.org/givenName> "Bastiaan".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <http://www.w3.org/2000/01/rdf-schema#label> "Bastiaan Vreeswijk".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278> <https://iisg.amsterdam/id/civ/personID> "20050"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <http://schema.org/familyName> "Maanen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <http://schema.org/givenName> "Gerritje".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <http://www.w3.org/2000/01/rdf-schema#label> "Gerritje van Maanen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025> <https://iisg.amsterdam/id/civ/personID> "20025"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <http://schema.org/familyName> "Regenboog".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <http://schema.org/givenName> "Christiaan".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <http://www.w3.org/2000/01/rdf-schema#label> "Christiaan Regenboog".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026> <https://iisg.amsterdam/id/civ/personID> "20018"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <http://schema.org/familyName> "Willigenburg".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <http://schema.org/givenName> "Grietje".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <http://www.w3.org/2000/01/rdf-schema#label> "Grietje Willigenburg".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031> <https://iisg.amsterdam/id/civ/personID> "20008"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <http://schema.org/familyName> "Giebert".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <http://schema.org/givenName> "Pieternella Jacomina".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <http://www.w3.org/2000/01/rdf-schema#label> "Pieternella Jacomina Giebert".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032> <https://iisg.amsterdam/id/civ/personID> "20035"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <http://schema.org/familyName> "Maanen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <http://schema.org/givenName> "Harmen Bransen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <http://www.w3.org/2000/01/rdf-schema#label> "Harmen Bransen van Maanen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033> <https://iisg.amsterdam/id/civ/personID> "20045"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <http://schema.org/familyName> "Regenboog".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <http://schema.org/givenName> "Jonas".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <http://www.w3.org/2000/01/rdf-schema#label> "Jonas Regenboog".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034> <https://iisg.amsterdam/id/civ/personID> "20010"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-0> <http://schema.org/familyName> "Regenboog".
+<https://iisg.amsterdam/links/person/i-0> <http://schema.org/givenName> "Jan Hendrik".
+<https://iisg.amsterdam/links/person/i-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-0> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hendrik Regenboog".
+<https://iisg.amsterdam/links/person/i-0> <https://iisg.amsterdam/id/civ/personID> "10002"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/familyName> "Regenboog".
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/gender> <http://schema.org/Male>.
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/givenName> "Jonas".
+<https://iisg.amsterdam/links/person/i-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-1> <http://www.w3.org/2000/01/rdf-schema#label> "Jonas Regenboog".
+<https://iisg.amsterdam/links/person/i-1> <https://iisg.amsterdam/id/civ/personID> "10001"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/familyName> "Giebert".
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/gender> <http://schema.org/Female>.
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/givenName> "Petronella Jacomina".
+<https://iisg.amsterdam/links/person/i-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-2> <http://www.w3.org/2000/01/rdf-schema#label> "Petronella Jacomina Giebert".
+<https://iisg.amsterdam/links/person/i-2> <https://iisg.amsterdam/id/civ/personID> "10003"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <http://schema.org/familyName> "Veen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <http://schema.org/givenName> "Alijda".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <http://www.w3.org/2000/01/rdf-schema#label> "Alijda van Veen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240> <https://iisg.amsterdam/id/civ/personID> "20015"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-0> <http://schema.org/familyName> "Regenboog".
+<https://iisg.amsterdam/links/person/i-0> <http://schema.org/gender> <http://schema.org/Male>.
+<https://iisg.amsterdam/links/person/i-0> <http://schema.org/givenName> "Jan Hendrik".
+<https://iisg.amsterdam/links/person/i-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-0> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hendrik Regenboog".
+<https://iisg.amsterdam/links/person/i-0> <https://iisg.amsterdam/id/civ/personID> "20059"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <http://schema.org/familyName> "Staal".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <http://schema.org/givenName> "Johanna".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <http://www.w3.org/2000/01/rdf-schema#label> "Johanna Staal".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246> <https://iisg.amsterdam/id/civ/personID> "20063"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/familyName> "Giebert".
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/gender> <http://schema.org/Female>.
+<https://iisg.amsterdam/links/person/i-2> <http://schema.org/givenName> "Petronella Jacomina".
+<https://iisg.amsterdam/links/person/i-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-2> <http://www.w3.org/2000/01/rdf-schema#label> "Petronella Jacomina Giebert".
+<https://iisg.amsterdam/links/person/i-2> <https://iisg.amsterdam/id/civ/personID> "20029"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <http://schema.org/familyName> "Veen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <http://schema.org/givenName> "Cornelis".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelis van Veen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248> <https://iisg.amsterdam/id/civ/personID> "20011"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/familyName> "Regenboog".
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/gender> <http://schema.org/Male>.
+<https://iisg.amsterdam/links/person/i-1> <http://schema.org/givenName> "Jonas".
+<https://iisg.amsterdam/links/person/i-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://iisg.amsterdam/links/person/i-1> <http://www.w3.org/2000/01/rdf-schema#label> "Jonas Regenboog".
+<https://iisg.amsterdam/links/person/i-1> <https://iisg.amsterdam/id/civ/personID> "20016"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <http://schema.org/familyName> "Bröcheler".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <http://schema.org/givenName> "Egidius Jozef".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <http://www.w3.org/2000/01/rdf-schema#label> "Egidius Jozef Bröcheler".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1> <https://iisg.amsterdam/id/civ/personID> "20060"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <http://schema.org/familyName> "Hamers".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <http://schema.org/givenName> "Adolphina Hubertina".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <http://www.w3.org/2000/01/rdf-schema#label> "Adolphina Hubertina Hamers".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2> <https://iisg.amsterdam/id/civ/personID> "20020"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <http://schema.org/familyName> "Bröcheler".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <http://schema.org/givenName> "Jan Jozef Hubert".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Jozef Hubert Bröcheler".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3> <https://iisg.amsterdam/id/civ/personID> "20042"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <http://schema.org/familyName> "Scheins".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <http://schema.org/givenName> "Maria Philomena".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Philomena Scheins".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4> <https://iisg.amsterdam/id/civ/personID> "20012"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <http://schema.org/familyName> "Hamers".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <http://schema.org/gender> <http://schema.org/Male>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <http://schema.org/givenName> "Pieter August".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <http://www.w3.org/2000/01/rdf-schema#label> "Pieter August Hamers".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5> <https://iisg.amsterdam/id/civ/personID> "20058"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <http://schema.org/familyName> "Jongh".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <http://schema.org/gender> <http://schema.org/Female>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <http://schema.org/givenName> "Maria Veronica".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Veronica Jongh".
+<https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6> <https://iisg.amsterdam/id/civ/personID> "20006"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 21 oktober 1891 te Merchtem (België)".
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person1408942>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1891-10-21"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4051492>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person2274492>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person520442>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person4939992>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person3162992>.
+<https://www.openarch.nl/id/event_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22002"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk (huwelijksakte) op 18 september 1940 te Leeuwarden".
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1940-09-18"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2>.
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22003"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 11 maart 1818 te 's-Gravenhage".
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390140>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1818-03-11"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390138>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390139>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390141>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390146>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390137>.
+<https://www.openarch.nl/id/event_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22004"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 7 december 1831 te 's-Gravenhage".
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499270>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1831-12-07"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499278>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499274>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499271>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499276>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499277>.
+<https://www.openarch.nl/id/event_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22001"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 10 mei 1837 te 's-Gravenhage".
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951025>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1837-05-10"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951033>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951034>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951026>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951031>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951032>.
+<https://www.openarch.nl/id/event_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22006"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Birth>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Geboorte op 6 februari 1818 te 's-Gravenhage".
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1818-02-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/father> <https://iisg.amsterdam/links/person/i-1>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/mother> <https://iisg.amsterdam/links/person/i-2>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/newborn> <https://iisg.amsterdam/links/person/i-0>.
+<https://www.openarch.nl/id/event_hga_F037247C-F765-4A1A-81BD-BB2BEF36F5A6_Event1> <https://iisg.amsterdam/id/civ/registrationID> "11001"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 6 mei 1846 te 's-Gravenhage".
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959240>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1846-05-06"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959248>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://iisg.amsterdam/links/person/i-1>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/groom> <https://iisg.amsterdam/links/person/i-0>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959246>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://iisg.amsterdam/links/person/i-2>.
+<https://www.openarch.nl/id/event_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22007"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://iisg.amsterdam/id/civ/Marriage>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <http://www.w3.org/2000/01/rdf-schema#label> "Huwelijk op 12 mei 1920 te Vaals".
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/bride> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person2>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/eventDate> "1920-05-12"^^<http://www.w3.org/2001/XMLSchema#date>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/fatherBride> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person5>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/fatherGroom> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person3>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/groom> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person1>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/motherBride> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person6>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/motherGroom> <https://www.openarch.nl/id/person_rhl_776b614c-7530-6fda-eced-452f1775742f_Person4>.
+<https://www.openarch.nl/id/event_rhl_776b614c-7530-6fda-eced-452f1775742f_Event1> <https://iisg.amsterdam/id/civ/registrationID> "22005"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> <http://schema.org/familyName> "Mertens".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> <http://schema.org/givenName> "Petrus Benediktus".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> <http://www.w3.org/2000/01/rdf-schema#label> "Petrus Benediktus Mertens".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593222> <https://iisg.amsterdam/id/civ/personID> "20013"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> <http://schema.org/familyName> "De Donder".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> <http://schema.org/givenName> "Josephus".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> <http://www.w3.org/2000/01/rdf-schema#label> "Josephus De Donder".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593232> <https://iisg.amsterdam/id/civ/personID> "20057"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> <http://schema.org/familyName> "Dieudonné".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> <http://schema.org/givenName> "Achille".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> <http://www.w3.org/2000/01/rdf-schema#label> "Achille Dieudonné".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593242> <https://iisg.amsterdam/id/civ/personID> "20031"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> <http://schema.org/familyName> "Goossens".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> <http://schema.org/givenName> "Florent".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> <http://www.w3.org/2000/01/rdf-schema#label> "Florent Goossens".
+<https://www.openarch.nl/id/person_abl_dc993f8b-99b0-ec32-cc59-1cb3dd6a4dce_Person7593252> <https://iisg.amsterdam/id/civ/personID> "20002"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> <http://schema.org/familyName> "Bertrums".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> <http://schema.org/givenName> "Johannes Wilhelmus".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> <http://www.w3.org/2000/01/rdf-schema#label> "Johannes Wilhelmus Bertrums".
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> <https://iisg.amsterdam/id/civ/personID> "20034"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> <http://schema.org/familyName> "Annokkee".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> <http://schema.org/givenName> "Louis".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> <http://www.w3.org/2000/01/rdf-schema#label> "Louis Annokkee".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390142> <https://iisg.amsterdam/id/civ/personID> "20038"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> <http://schema.org/familyName> "Giunta d'Albani".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> <http://schema.org/givenName> "Cornelis".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelis Giunta d'Albani".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390143> <https://iisg.amsterdam/id/civ/personID> "20041"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> <http://schema.org/familyName> "Liezen".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> <http://schema.org/givenName> "Willem".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> <http://www.w3.org/2000/01/rdf-schema#label> "Willem Liezen".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390144> <https://iisg.amsterdam/id/civ/personID> "20024"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> <http://schema.org/familyName> "Slauderof".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> <http://schema.org/givenName> "Jacob".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> <http://www.w3.org/2000/01/rdf-schema#label> "Jacob Slauderof".
+<https://www.openarch.nl/id/person_hga_0821B34B-A75A-42DC-9C66-4FA9D64E4A7E_Person2389390145> <https://iisg.amsterdam/id/civ/personID> "20005"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> <http://schema.org/familyName> "Bloklander".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> <http://schema.org/givenName> "Andries".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> <http://www.w3.org/2000/01/rdf-schema#label> "Andries Bloklander".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499272> <https://iisg.amsterdam/id/civ/personID> "20026"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> <http://schema.org/familyName> "Eskens".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> <http://schema.org/givenName> "Hendrik".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> <http://www.w3.org/2000/01/rdf-schema#label> "Hendrik Eskens".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499273> <https://iisg.amsterdam/id/civ/personID> "20055"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> <http://schema.org/familyName> "Nicolaas".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> <http://schema.org/givenName> "Coenraad".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> <http://www.w3.org/2000/01/rdf-schema#label> "Coenraad Nicolaas".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499275> <https://iisg.amsterdam/id/civ/personID> "20056"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> <http://schema.org/familyName> "Hellendoorn".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> <http://schema.org/givenName> "Hermanus".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> <http://www.w3.org/2000/01/rdf-schema#label> "Hermanus Hellendoorn".
+<https://www.openarch.nl/id/person_hga_160DF8B5-FCD6-45CD-9EC9-DD5F749077FC_Person2389499279> <https://iisg.amsterdam/id/civ/personID> "20014"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> <http://schema.org/familyName> "Adams".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> <http://schema.org/givenName> "Mattheus Willem".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> <http://www.w3.org/2000/01/rdf-schema#label> "Mattheus Willem Adams".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951027> <https://iisg.amsterdam/id/civ/personID> "20027"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> <http://schema.org/familyName> "Broek".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> <http://schema.org/givenName> "Cornelis Johannes".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelis Johannes van den Broek".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951028> <https://iisg.amsterdam/id/civ/personID> "20053"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> <http://schema.org/familyName> "Burgh".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> <http://schema.org/givenName> "Hermanus Johannes".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> <http://www.w3.org/2000/01/rdf-schema#label> "Hermanus Johannes van der Burgh".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951029> <https://iisg.amsterdam/id/civ/personID> "20052"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> <http://schema.org/familyName> "Leeuwen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> <http://schema.org/givenName> "Johannes Carel".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> <http://www.w3.org/2000/01/rdf-schema#label> "Johannes Carel van Leeuwen".
+<https://www.openarch.nl/id/person_hga_36A1F310-04E8-431A-8193-3F946A5F4E40_Person2433951030> <https://iisg.amsterdam/id/civ/personID> "20051"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> <http://schema.org/familyName> "Ingen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> <http://schema.org/givenName> "Jan Hendrik".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> <http://www.w3.org/2000/01/rdf-schema#label> "Jan Hendrik van Ingen".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959242> <https://iisg.amsterdam/id/civ/personID> "20036"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> <http://schema.org/familyName> "Ratering".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> <http://schema.org/givenName> "Wilhelmus".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> <http://www.w3.org/2000/01/rdf-schema#label> "Wilhelmus Ratering".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959243> <https://iisg.amsterdam/id/civ/personID> "20048"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> <http://schema.org/familyName> "Reppel".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> <http://schema.org/givenName> "Gerrit".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> <http://www.w3.org/2000/01/rdf-schema#label> "Gerrit Reppel".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959244> <https://iisg.amsterdam/id/civ/personID> "20039"^^<http://www.w3.org/2001/XMLSchema#integer>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> <http://schema.org/familyName> "Ritter".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> <http://schema.org/givenName> "Adrianus Hermanus".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person>.
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> <http://www.w3.org/2000/01/rdf-schema#label> "Adrianus Hermanus Ritter".
+<https://www.openarch.nl/id/person_hga_F6619DCA-BE62-4A37-B09D-960CB8900393_Person2433959245> <https://iisg.amsterdam/id/civ/personID> "20028"^^<http://www.w3.org/2001/XMLSchema#integer>.

@@ -1,58 +1,58 @@
-@prefix ns1: <http://schema.org/> .
-@prefix ns2: <https://iisg.amsterdam/id/civ/> .
+@prefix ns1: <https://iisg.amsterdam/id/civ/> .
+@prefix ns2: <http://schema.org/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> a ns2:Marriage ;
+<https://www.openarch.nl/id/event_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Event1> a ns1:Marriage ;
     rdfs:label "Huwelijk (huwelijksakte) op 18 september 1940 te Leeuwarden" ;
-    ns2:bride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> ;
-    ns2:eventDate "1940-09-18"^^xsd:date ;
-    ns2:fatherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> ;
-    ns2:fatherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> ;
-    ns2:groom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
-    ns2:motherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> ;
-    ns2:motherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> .
+    ns1:bride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> ;
+    ns1:eventDate "1940-09-18"^^xsd:date ;
+    ns1:fatherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> ;
+    ns1:fatherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> ;
+    ns1:groom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> ;
+    ns1:motherBride <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> ;
+    ns1:motherGroom <https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:172f30f6-4005-21bb-ba91-cef652f3cfd3> a ns2:Person ;
     rdfs:label "Johannes Wilhelmus Bertrums" ;
-    ns1:familyName "Bertrums" ;
-    ns1:givenName "Johannes Wilhelmus" .
+    ns2:familyName "Bertrums" ;
+    ns2:givenName "Johannes Wilhelmus" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:1d791b16-e9ab-c023-694b-3d0db600ddbe> a ns2:Person ;
     rdfs:label "Roelof Lettinga" ;
-    ns1:familyName "Lettinga" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Roelof" .
+    ns2:familyName "Lettinga" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Roelof" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:4387a56f-f6ec-dd60-41b4-0f37bece7413> a ns2:Person ;
     rdfs:label "Hendrika Eysenbrandt" ;
-    ns1:familyName "Eysenbrandt" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Hendrika" .
+    ns2:familyName "Eysenbrandt" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Hendrika" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:556fa033-cc0c-1128-3b66-c7885c8723f2> a ns2:Person ;
     rdfs:label "Jantje Posthumus" ;
-    ns1:familyName "Posthumus" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Jantje" .
+    ns2:familyName "Posthumus" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Jantje" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:6f9029d7-7ddf-ae40-8c1b-caa8f524a7bc> a ns2:Person ;
     rdfs:label "Maria Roosen" ;
-    ns1:familyName "Roosen" ;
-    ns1:gender ns1:Female ;
-    ns1:givenName "Maria" .
+    ns2:familyName "Roosen" ;
+    ns2:gender ns2:Female ;
+    ns2:givenName "Maria" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:759b46b3-b459-1eb9-956b-3cf88b110835> a ns2:Person ;
     rdfs:label "Cornelis Eysenbrandt" ;
-    ns1:familyName "Eysenbrandt" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Cornelis" .
+    ns2:familyName "Eysenbrandt" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Cornelis" .
 
-<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> a ns1:Person ;
+<https://www.openarch.nl/id/person_frl_8047b633-e017-ff25-3d95-8fb0d8f9322e_Person:9263fb31-029d-75c1-6f2e-92efa0cf24e9> a ns2:Person ;
     rdfs:label "Haebele Lettinga" ;
-    ns1:familyName "Lettinga" ;
-    ns1:gender ns1:Male ;
-    ns1:givenName "Haebele" .
+    ns2:familyName "Lettinga" ;
+    ns2:gender ns2:Male ;
+    ns2:givenName "Haebele" .
 
